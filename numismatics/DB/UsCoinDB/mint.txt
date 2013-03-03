@@ -1,0 +1,9 @@
+MINT|SYMBOL|ALWAYS_PRESENT|COMMENTS
+Philadelphia|P|0|
+New Orleans|O|1|
+Dahlonega|D|1|Gold coins only
+Charlotte|C|1|Gold coins only
+San Francisco|S|1|
+Carson City|CC|1|
+Denver|D|1|
+West Point|W|1|

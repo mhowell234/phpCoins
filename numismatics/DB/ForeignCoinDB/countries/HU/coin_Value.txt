@@ -1,0 +1,12 @@
+NAME|VALUE|DESCRIPTION
+
+1 Fillér|1|
+2 Fillér|2|
+10 Fillér|10|
+20 Fillér|20|
+1 Korona|100|
+2 Korona|200|
+5 Korona|500|
+10 Korona|1000|
+20 Korona|2000|
+100 Korona|10000|

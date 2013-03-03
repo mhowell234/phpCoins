@@ -1,0 +1,64 @@
+TITLE|CATEGORY|VALUE|DESCRIPTION
+
+PO-1|PO|1|Identifiable date and type
+FR-2|FR|2|Mostly worn, though some detail is visible
+AG-3|AG|3|Worn rims but most lettering is readable though worn
+G-4|G|4|Slightly worn rims, flat detail, peripheral lettering nearly full
+G-6|G|6|Rims complete with flat detail, peripheral lettering full
+VG-8|VG|8|Design worn with slight detail
+VG-10|VG|10|Design worn with slight detail, slightly clearer
+F-12|F|12|Some deeply recessed areas with detail, all lettering sharp
+F-15|F|15|Slightly more detail in the recessed areas, all lettering sharp
+VF-20|VF|20|Some definition of detail, all lettering full and sharp
+VF-25|VF|25|Slightly more definition in the detail and lettering
+VF-30|VF|30|Almost complete detail with flat areas
+VF-35|VF|35|Detail is complete but worn with high points flat
+EF-40|EF|40|Detail is complete with most high points slightly flat
+EF-45|EF|45|Detail is complete with some high points flat
+EF-45+|EF|45.01|Detail is complete with a few high points flat. Superior eye appeal.
+AU-50|AU|50|Full detail with friction over most of the surface, slight flatness on high points
+AU-50+|AU|50.01|Full detail with friction over most of the surface, very slight flatness on high points. Good eye appeal.
+AU-53|AU|53|Full detail with friction over 1/2 or more of surface, very slight flatness on high points
+AU-53+|AU|53.01|Full detail with friction on only 1/2 of surface, extremely slight flatness on high points. Positive eye appeal.
+AU-55|AU|55|Full detail with friction on less than 1/2 surface, mainly on high points
+AU-55+|AU|55.01|Full detail with slight friction on less than 1/2 of surface, on high points. Eye appeal is good.
+AU-58|AU|58|Full detail with only slight friction on the high points
+AU-58+|AU|58.01|Full detail with the barest trace of friction on the highest points. Superior eye appeal.
+
+MS-60|MS|60|No wear. May have many heavy marks/hairlines, strike may not be full
+MS-61|MS|61|No wear. Multiple heavy marks/hairlines, strike may not be full
+MS-62|MS|62|No wear. Slightly less marks/hairlines, strike may not be full
+MS-62+|MS|62.01|No wear. Still slightly above number of marks/hairlines, strike may not be full. Attractive eye appeal for grade.
+MS-63|MS|63|Moderate number/size marks/hairlines, strike may not be full
+MS-63+|MS|63.01|Average number of marks/hairlines, strike will be close to average. Good eye appeal for grade.
+MS-64|MS|64|Few marks/hairlines or a couple of severe ones, strike should be average or above
+MS-64+|MS|64.01|Very few marks/hairlines or a couple of heavier ones, strike should be average or above. Superior eye appeal.
+MS-65|MS|65|Minor marks/hairlines though none in focal areas, above average strike
+MS-65+|MS|65.01|Very minor marks/hairlines though none in focal areas, above average strike and eye appeal
+MS-66|MS|66|Few minor marks/hairlines not in focal areas, good strike
+MS-66+|MS|66.01|Very few minor marks/hairlines not in focal areas, very good strike with superior eye appeal
+MS-67|MS|67|Virtually as struck with minor imperfections, very well struck
+MS-67+|MS|67.01|Virtually as struck with very minor imperfections, very well struck with attractive eye appeal
+MS-68|MS|68|Virtually as struck with slight imperfections, slightest weakness of strike allowed
+MS-68+|MS|68.01|Virtually as struck with very slight imperfections, the strike must be virtually full. Eye appeal must be very good.
+MS-69|MS|69|Virtually as struck with minuscule imperfections, near full strike necessary
+MS-70|MS|70|As struck, with full strike
+
+PF-60|PF|60|No wear. May have many heavy marks/hairlines, strike may not be full
+PF-61|PF|61|No wear. Multiple heavy marks/hairlines, strike may not be full
+PF-62|PF|62|No wear. Slightly less marks/hairlines, strike may not be full
+PF-62+|PF|62.01|No wear. Still slightly above number of marks/hairlines, strike may not be full. Attractive eye appeal for grade.
+PF-63|PF|63|Moderate number/size marks/hairlines, strike may not be full
+PF-63+|PF|63.01|Average number of marks/hairlines, strike will be close to average. Good eye appeal for grade.
+PF-64|PF|64|Few marks/hairlines or a couple of severe ones, strike should be average or above
+PF-64+|PF|64.01|Very few marks/hairlines or a couple of heavier ones, strike should be average or above. Superior eye appeal.
+PF-65|PF|65|Minor marks/hairlines though none in focal areas, above average strike
+PF-65+|PF|65.01|Very minor marks/hairlines though none in focal areas, above average strike and eye appeal
+PF-66|PF|66|Few minor marks/hairlines not in focal areas, good strike
+PF-66+|PF|66.01|Very few minor marks/hairlines not in focal areas, very good strike with superior eye appeal
+PF-67|PF|67|Virtually as struck with minor imperfections, very well struck
+PF-67+|PF|67.01|Virtually as struck with very minor imperfections, very well struck with attractive eye appeal
+PF-68|PF|68|Virtually as struck with slight imperfections, slightest weakness of strike allowed
+PF-68+|PF|68.01|Virtually as struck with very slight imperfections, the strike must be virtually full. Eye appeal must be very good.
+PF-69|PF|69|Virtually as struck with minuscule imperfections, near full strike necessary
+PF-70|PF|70|As struck, with full strike

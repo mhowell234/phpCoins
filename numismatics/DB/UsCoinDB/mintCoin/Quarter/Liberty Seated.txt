@@ -1,0 +1,121 @@
+YEAR|MINTAGE|G-4|VG-8|F-12|VF-20|EF-40|AU-50|MS-60|MS-63|PF-63|Paren|ADDITIONAL_INFO
+
+1838|466000|10|13|20|36|110|220|625|1750|-1||Variety 1 - No Motto Above Eagle
+1839|491146|10|13|20|35|110|220|625|1750|-1||Variety 1 - No Motto Above Eagle
+1840|188127|9|12|21|32|70|110|400|1500|-1||Variety 1 - No Motto Above Eagle
+1840O|425200|11|15|27|45|125|225|650|2000|-1||Variety 1 - No Motto Above Eagle
+1841|120000|18|30|45|65|110|125|425|850|-1||Variety 1 - No Motto Above Eagle
+1841O|452000|10|12|19|32|80|120|350|750|-1||Variety 1 - No Motto Above Eagle
+1842,:Small:Date:-:Proof:Only|-1|-1|-1|-1|-1|-1|-1|28000|-1|-1||Variety 1 - No Motto Above Eagle
+1842,:Large:Date|88000|30|40|75|130|175|250|750|1500|-1||Variety 1 - No Motto Above Eagle
+1842O,:Small:Date|0|150|250|475|775|1500|3500|-1|-1|-1||Variety 1 - No Motto Above Eagle
+1842O,:Large:Date|769000|10|11|17|31|70|125|650|1800|-1||Variety 1 - No Motto Above Eagle
+1843|645600|9|10|16|22|40|60|225|600|-1||Variety 1 - No Motto Above Eagle
+1843O|968000|10|13|20|45|100|275|900|3750|-1||Variety 1 - No Motto Above Eagle
+1844|421200|9|10|16|22|40|60|225|600|-1||Variety 1 - No Motto Above Eagle
+1844O|740000|10|11|18|32|80|120|550|1400|-1||Variety 1 - No Motto Above Eagle
+1845|922000|9|10|16|22|40|60|225|625|-1||Variety 1 - No Motto Above Eagle
+1846|510000|9|10|16|22|40|60|225|600|-1||Variety 1 - No Motto Above Eagle
+1847|734000|9|10|16|22|40|60|225|600|-1||Variety 1 - No Motto Above Eagle
+1847O|368000|12|17|27|50|110|275|900|3500|-1||Variety 1 - No Motto Above Eagle
+1848|146000|11|17|28|50|80|125|450|1100|-1||Variety 1 - No Motto Above Eagle
+1849|340000|10|12|20|27|70|100|400|700|-1||Variety 1 - No Motto Above Eagle
+1849O|0|175|260|450|950|1600|2500|6000|-1|-1||Variety 1 - No Motto Above Eagle
+1850|190800|13|17|25|35|65|100|400|750|-1||Variety 1 - No Motto Above Eagle
+1850O|412000|13|17|25|35|65|180|550|1100|-1||Variety 1 - No Motto Above Eagle
+1851|160000|15|20|28|50|85|100|400|725|-1||Variety 1 - No Motto Above Eagle
+1851O|88000|65|100|200|300|650|1100|2900|-1|-1||Variety 1 - No Motto Above Eagle
+1852|177060|16|21|30|55|90|110|375|650|-1||Variety 1 - No Motto Above Eagle
+1852O|96000|80|120|175|300|600|1500|3500|12000|-1||Variety 1 - No Motto Above Eagle
+1853,:Recut:Date,:No:Arrows:or:Rays|44200|110|140|175|275|500|750|1300|2000|-1||Variety 1 - No Motto Above Eagle
+
+1853|15210000|9|12|15|20|65|125|450|975|-1||Variety 2 - Arrows at Date, Rays Around Eagle
+1853,:3:Over:4|0|20|35|55|110|160|250|900|2250|-1||Variety 2 - Arrows at Date, Rays Around Eagle
+1853O|1332000|9|12|17|30|115|450|1300|4250|-1||Variety 2 - Arrows at Date, Rays Around Eagle
+
+1854|12380000|9|11|14|18|35|100|250|600|-1||Variety 3 - Arrows at Date, No Rays
+1854O|1484000|9|11|16|20|40|110|325|850|-1||Variety 3 - Arrows at Date, No Rays
+1855|2857000|9|11|14|18|35|100|275|650|-1||Variety 3 - Arrows at Date, No Rays
+1855O|176000|17|25|45|115|160|500|1800|5750|-1||Variety 3 - Arrows at Date, No Rays
+1855S|396400|17|25|35|60|125|325|900|3100|-1||Variety 3 - Arrows at Date, No Rays
+
+1856|7264000|9|11|14|19|27|60|170|300|2800||Variety 1 Resumed, With Weight Standard of Variety 2
+1856O|968000|9|11|14|21|40|100|500|825|-1||Variety 1 Resumed, With Weight Standard of Variety 2
+1856S|286000|15|20|35|80|200|500|1250|4500|-1||Variety 1 Resumed, With Weight Standard of Variety 2
+1857|9644000|9|11|14|19|26|60|150|300|1900||Variety 1 Resumed, With Weight Standard of Variety 2
+1857O|1180000|9|11|14|19|37|110|500|1200|-1||Variety 1 Resumed, With Weight Standard of Variety 2
+1857S|82000|25|40|70|150|250|400|1200|3250|-1||Variety 1 Resumed, With Weight Standard of Variety 2
+1858|7368000|9|11|14|19|26|60|150|300|1000|300|Variety 1 Resumed, With Weight Standard of Variety 2
+1858O|520000|9|11|14|25|50|150|650|1750|-1||Variety 1 Resumed, With Weight Standard of Variety 2
+1858S|121000|19|32|60|125|600|1750|5500|-1|-1||Variety 1 Resumed, With Weight Standard of Variety 2
+1859|1343200|9|11|14|19|26|60|150|425|625|800|Variety 1 Resumed, With Weight Standard of Variety 2
+1859O|260000|9|11|14|25|50|150|500|1600|-1||Variety 1 Resumed, With Weight Standard of Variety 2
+1859S|80000|40|60|95|250|1200|5200|-1|-1|-1||Variety 1 Resumed, With Weight Standard of Variety 2
+1860|804400|9|11|14|19|26|60|175|300|575|1000|Variety 1 Resumed, With Weight Standard of Variety 2
+1860O|388000|9|11|14|20|32|150|450|850|-1||Variety 1 Resumed, With Weight Standard of Variety 2
+1860S|56000|40|60|95|250|1200|5200|1|-1|-1||Variety 1 Resumed, With Weight Standard of Variety 2
+1861|4853600|9|11|14|19|26|60|175|350|575|1000|Variety 1 Resumed, With Weight Standard of Variety 2
+1861S|96000|27|50|100|225|900|3000|-1|-1|-1||Variety 1 Resumed, With Weight Standard of Variety 2
+1862|932000|9|11|14|19|26|60|175|350|575|550|Variety 1 Resumed, With Weight Standard of Variety 2
+1862S|67000|20|32|80|110|250|475|1400|3500|-1||Variety 1 Resumed, With Weight Standard of Variety 2
+1863|191600|14|18|30|45|70|120|300|450|575|460|Variety 1 Resumed, With Weight Standard of Variety 2
+1864|93600|30|35|45|70|110|180|300|600|575|470|Variety 1 Resumed, With Weight Standard of Variety 2
+1864S|20000|125|175|300|425|950|1850|-1|-1|-1||Variety 1 Resumed, With Weight Standard of Variety 2
+1865|58800|25|30|45|70|110|180|300|600|575|500|Variety 1 Resumed, With Weight Standard of Variety 2
+1865S|41000|30|40|60|140|225|450|1250|2000|-1||Variety 1 Resumed, With Weight Standard of Variety 2
+
+1866|16800|150|200|225|350|550|700|850|1200|450|725|Variety 4 - Motto Above Eagle
+1866S|28000|75|110|200|350|500|900|1600|3000|-1||Variety 4 - Motto Above Eagle
+1867|20000|80|100|175|210|260|450|750|1100|450|625|Variety 4 - Motto Above Eagle
+1867S|48000|85|120|170|300|900|2250|6000|-1|-1||Variety 4 - Motto Above Eagle
+1868|29400|40|60|80|100|125|210|425|800|450|600|Variety 4 - Motto Above Eagle
+1868S|96000|30|40|50|90|200|350|1100|2800|-1||Variety 4 - Motto Above Eagle
+1869|16000|90|110|170|200|275|400|600|1100|450|600|Variety 4 - Motto Above Eagle
+1869S|76000|30|45|80|215|235|450|1000|2100|-1||Variety 4 - Motto Above Eagle
+1870|86400|20|25|40|60|90|175|400|750|450|1000|Variety 4 - Motto Above Eagle
+1870CC|8340|3000|4500|6000|8500|13000|22000|-1|-1|-1||Variety 4 - Motto Above Eagle
+1871|118200|11|16|22|40|60|135|225|450|450|960|Variety 4 - Motto Above Eagle
+1871CC|10890|750|1500|2400|6500|10000|17500|-1|-1|-1||Variety 4 - Motto Above Eagle
+1871S|30900|100|150|200|320|500|1200|1800|3000|-1||Variety 4 - Motto Above Eagle
+1872|182000|11|16|22|40|60|100|300|700|450|950|Variety 4 - Motto Above Eagle
+1872CC|22850|250|500|750|1300|2750|4500|17000|-1|-1||Variety 4 - Motto Above Eagle
+1872S|83000|235|450|650|1000|1800|2500|4250|-1|-1||Variety 4 - Motto Above Eagle
+1873|212600|11|16|22|35|50|90|200|425|450|600|Variety 4 - Motto Above Eagle
+1873CC|4000|-1|-1|-1|-1|40000|-1|-1|-1|-1||Variety 4 - Motto Above Eagle
+
+1873|1271160|10|11|16|35|90|175|425|700|800|540|Variety 5 - Arrows at Date
+1873CC|12462|900|1500|4000|6500|9000|12000|25000|40000|-1||Variety 5 - Arrows at Date
+1873S|156000|11|14|23|45|110|200|600|1000|-1||Variety 5 - Arrows at Date
+1874|471200|10|11|16|35|90|175|450|750|800|700|Variety 5 - Arrows at Date
+1874S|392000|11|13|20|45|110|175|450|750|-1||Variety 5 - Arrows at Date
+
+1875|4292800|9|11|14|18|25|60|125|200|400|700|Variety 4 Resumed, With Weight Standard of Variety 5
+1875CC|140000|25|35|65|125|200|300|800|2500|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+1875S|680000|10|16|23|35|70|125|275|500|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+1876|17816000|9|11|14|19|25|60|125|200|400|1150|Variety 4 Resumed, With Weight Standard of Variety 5
+1876CC|4944000|16|24|28|30|40|80|200|400|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+1876S|8596000|9|11|14|18|25|60|125|200|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+1877|10911200|9|11|14|18|25|60|125|200|400|510|Variety 4 Resumed, With Weight Standard of Variety 5
+1877CC|4192000|15|22|24|30|40|80|200|350|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+1877S|8996000|9|11|14|19|25|60|125|200|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+
+1877S,:S:Over:Horizontal:S|0|12|16|35|50|90|125|300|650|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+1878|2260000|9|11|14|19|25|60|125|200|400|800|Variety 4 Resumed, With Weight Standard of Variety 5
+1878CC|996000|11|16|20|30|55|95|250|400|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+1878S|140000|50|100|125|175|300|450|800|1900|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+1879|13600|40|50|75|80|100|135|200|375|400|1100|Variety 4 Resumed, With Weight Standard of Variety 5
+1880|13600|40|50|75|80|100|135|200|375|400|1355|Variety 4 Resumed, With Weight Standard of Variety 5
+1881|12000|50|65|85|100|120|190|225|400|450|975|Variety 4 Resumed, With Weight Standard of Variety 5
+1882|15200|45|50|80|100|110|150|275|375|400|1100|Variety 4 Resumed, With Weight Standard of Variety 5
+1883|14400|45|50|80|100|110|150|275|375|400|1039|Variety 4 Resumed, With Weight Standard of Variety 5
+1884|8000|90|100|120|125|150|200|350|450|400|875|Variety 4 Resumed, With Weight Standard of Variety 5
+1885|13600|40|50|75|100|110|200|300|400|400|930|Variety 4 Resumed, With Weight Standard of Variety 5
+1886|5000|95|110|150|175|275|375|475|500|450|886|Variety 4 Resumed, With Weight Standard of Variety 5
+1887|10000|80|90|100|125|175|200|300|400|400|710|Variety 4 Resumed, With Weight Standard of Variety 5
+1888|10001|70|80|90|135|200|225|300|375|400|832|Variety 4 Resumed, With Weight Standard of Variety 5
+1888S|1216000|9|11|14|18|25|65|150|275|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+1889|12000|50|60|90|110|120|200|300|400|400|711|Variety 4 Resumed, With Weight Standard of Variety 5
+1890|80000|20|25|35|50|80|125|275|375|400|590|Variety 4 Resumed, With Weight Standard of Variety 5
+1891|3920000|9|11|13|15|22|65|150|250|400|600|Variety 4 Resumed, With Weight Standard of Variety 5
+1891O|68000|50|65|110|325|475|600|1600|2500|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+1891S|2216000|9|11|14|18|25|65|150|250|-1||Variety 4 Resumed, With Weight Standard of Variety 5

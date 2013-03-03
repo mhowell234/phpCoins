@@ -1,0 +1,71 @@
+YEAR|NAME|RATING_CATEGORY|RATING_VALUE|RATING_AGENCY|IS_SILVER|IS_GOLD|IS_PROOF|DENOMINATION|NOTES|PRICE_PAID|IS_WRAPPED|ORIGIN|ORIGIN_DATE|COIN_TYPE|YEAR_TYPE
+
+1843|Liberty Seated||||Y|N|0|HALF DOLLAR||79.75||ebay|2012-07-28|Variety 1 - No Motto Above Eagle|
+1851|Liberty Head|AU|58|NGC|N|Y|0|GOLD DOLLAR||227.67||ebay|2012-07-28||
+1852|Silver - Trime||||Y|N|0|THREE-CENT PIECE||42.23||ebay|2012-12-07||
+1853|Liberty Head|AU|55|NGC|N|Y|0|GOLD DOLLAR||225.45||ebay|2012-07-28||
+1857|Liberty Seated||||Y|N|0|HALF DIME|Variety 2 Resumed, with Weight Standard of 1853|23.75||ebay|2012-07-28|Variety 2 Resumed, with Weight Standard of 1853|
+1861|Silver - Trime||||Y|N|0|THREE-CENT PIECE||85.20|Y|ebay|2012-12-07||
+1875|Liberty Seated||||Y|N|0|QUARTER||18.35||ebay|2012-07-28|Variety 4 Resumed, With Weight Standard of Variety 5|
+1875S|Liberty Seated||||Y|N|0|QUARTER||18.35||ebay|2012-07-28|Variety 4 Resumed, With Weight Standard of Variety 5|
+1881|Morgan||||Y|N|0|SILVER AND RELATED DOLLAR||43.99||ebay|2012-07-28||
+1882|Morgan||||Y|N|0|SILVER AND RELATED DOLLAR||35.45||ebay|2012-07-28||
+1884|Morgan||||Y|N|0|SILVER AND RELATED DOLLAR||50.50||ebay|2012-07-28||
+1885|Morgan||||Y|N|0|SILVER AND RELATED DOLLAR||37.01|Y|ebay|2012-07-28||
+1885|Morgan||||Y|N|0|SILVER AND RELATED DOLLAR||43.30||ebay|2012-07-28||
+1885O|Morgan||||Y|N|0|SILVER AND RELATED DOLLAR||39.80||ebay|2012-07-28||
+1886|Morgan||||Y|N|0|SILVER AND RELATED DOLLAR||43.00||ebay|2012-07-28||
+1887|Morgan||||Y|N|0|SILVER AND RELATED DOLLAR||46.99||ebay|2012-07-28||
+1887O|Morgan||||Y|N|0|SILVER AND RELATED DOLLAR||41.45||ebay|2012-07-28||
+1891O|Morgan||||Y|N|0|SILVER AND RELATED DOLLAR||0||Grandma Betty|2012-07-01||
+1898|Barber or Liberty Head||||Y|N|0|QUARTER||0|Y|Raymond and Jane Howell|2012-11-22||
+1898|Barber or Liberty Head||||Y|N|0|QUARTER||12.51||ebay|2012-07-28||
+1900|Barber or Liberty Head||||Y|N|0|HALF DOLLAR||12.7975|Y|ebay|2012-07-28||
+1902|Morgan||||Y|N|0|SILVER AND RELATED DOLLAR||31.11||ebay|2012-07-28||
+1907O|Barber or Liberty Head||||Y|N|0|HALF DOLLAR||12.7975|Y|ebay|2012-07-28||
+1907S|Barber or Liberty Head||||Y|N|0|DIME||0.00|Y|Grandma Betty|2012-07-01||
+1909|Barber or Liberty Head||||Y|N|0|HALF DOLLAR||12.7975|Y|ebay|2012-07-28||
+1909|Indian Head||||N|Y|0|Quarter Eagle||283.95||ebay|2012-07-28||
+1912|Liberty Head||||N|N|0|NICKEL||0|Y|Raymond and Jane Howell|2012-11-22||
+1915|Barber or Liberty Head||||Y|N|0|HALF DOLLAR||235.50||ebay|2012-07-28||
+1915|Barber or Liberty Head||||Y|N|0|QUARTER||8.30||ebay|2012-07-28||
+1915S|Barber or Liberty Head||||Y|N|0|HALF DOLLAR||45.24||ebay|2012-07-28||
+1915S|Barber or Liberty Head||||Y|N|0|HALF DOLLAR||17.70||ebay|2012-07-28||
+1915S|Barber or Liberty Head||||Y|N|0|HALF DOLLAR||12.7975|Y|ebay|2012-07-28||
+1916|Barber or Liberty Head||||Y|N|0|DIME||17.49||ebay|2012-07-28||
+1921|Morgan||||Y|N|0|SILVER AND RELATED DOLLAR||0||Grandma Betty|2012-07-01||
+1921D|Morgan||||Y|N|0|SILVER AND RELATED DOLLAR||0||Grandma Betty|2012-07-01||
+1922|Peace||||Y|N|0|SILVER AND RELATED DOLLAR||32.37||ebay|2012-07-28||
+1922|Peace||||Y|N|0|SILVER AND RELATED DOLLAR||0||Grandma Betty|2012-07-01||
+1922S|Peace||||Y|N|0|SILVER AND RELATED DOLLAR||30.35||ebay|2012-07-28||
+1924|Winged Liberty Head or Mercury||||Y|N|0|DIME||0.00|Y|Grandma Betty|2012-07-01||
+1935|Indian Head or Buffalo||||Y|N|0|NICKEL||0||Grandma Betty|2012-07-01|Variety 2 - FIVE CENTS in Recess|
+1936|Indian Head or Buffalo||||Y|N|0|NICKEL||0||Grandma Betty|2012-07-01|Variety 2 - FIVE CENTS in Recess|
+1939S|Liberty Walking|AU|53|PCGS|Y|N|0|HALF DOLLAR||51.00||ebay|2012-07-28||
+1940|Liberty Walking||||Y|N|0|HALF DOLLAR||16.27||ebay|2012-07-28||
+1941D|Liberty Walking||||Y|N|0|HALF DOLLAR||20.54||ebay|2012-07-28||
+1942D|Winged Liberty Head or Mercury||||Y|N|0|DIME||0.00|Y|Grandma Betty|2012-07-01||
+1943|Liberty Walking||||Y|N|0|HALF DOLLAR||21.30||ebay|2012-07-28||
+1943S|Liberty Walking||||Y|N|0|HALF DOLLAR||0|Y|Raymond and Jane Howell|2012-11-22||
+1944|Washington||||Y|N|0|QUARTER||0||Grandma Betty|2012-07-01|Silver Coinage|
+1944D|Liberty Walking||||Y|N|0|HALF DOLLAR||16.85||ebay|2012-07-28||
+1952|Franklin||||Y|N|0|HALF DOLLAR||0|Y|Grandma Betty|2012-07-01||
+1964|Kennedy||||Y|N|1|HALF DOLLAR||19.99|Y|ebay|2012-10-31|Silver Coinage|
+1964|Kennedy||||Y|N|0|HALF DOLLAR|1|0.00|Y|Grandma Betty|2012-07-01|Silver Coinage|
+1964|Kennedy||||Y|N|0|HALF DOLLAR|2|0.00|Y|Grandma Betty|2012-07-01|Silver Coinage|
+1964|Kennedy||||Y|N|0|HALF DOLLAR|3|0.00|Y|Grandma Betty|2012-07-01|Silver Coinage|
+1965|Kennedy||||Y|N|0|HALF DOLLAR||0.00|Y|Grandma Betty|2012-07-01|Silver Clad Coinage|
+1966|Kennedy||||Y|N|0|HALF DOLLAR||0.00|Y|Grandma Betty|2012-07-01|Silver Clad Coinage|
+1967|Kennedy||||Y|N|0|HALF DOLLAR||0.00|Y|Grandma Betty|2012-07-01|Silver Clad Coinage|
+1968D|Kennedy||||Y|N|0|HALF DOLLAR|1|0.00|Y|Grandma Betty|2012-07-01|Silver Clad Coinage|
+1968D|Kennedy||||Y|N|0|HALF DOLLAR|2|0.00|Y|Grandma Betty|2012-07-01|Silver Clad Coinage|
+1969D|Kennedy||||Y|N|0|HALF DOLLAR|1|0.00|Y|Grandma Betty|2012-07-01|Silver Clad Coinage|
+1969D|Kennedy||||Y|N|0|HALF DOLLAR|2|0.00|Y|Grandma Betty|2012-07-01|Silver Clad Coinage|
+1972|Eisenhower||||N|N|0|SILVER AND RELATED DOLLAR||0.00|Y|Grandma Betty|2012-07-01|Eagle Reverse|Copper-Nickel Clad
+1972D|Kennedy||||N|N|0|HALF DOLLAR||0.00|Y|Grandma Betty|2012-07-01|Clad Coinage and Silver Proofs|
+1976|Eisenhower||||N|N|0|SILVER AND RELATED DOLLAR|1|0.00|Y|Grandma Betty|2012-07-01|Bicentennial|Copper-Nickel Clad - Variety 2
+1976|Eisenhower||||N|N|0|SILVER AND RELATED DOLLAR|2|0.00|Y|Grandma Betty|2012-07-01|Bicentennial|Copper-Nickel Clad - Variety 2
+1978|Washington||||N|N|0|QUARTER||0||Grandma Betty|2012-07-01|Eagle Reverse Resumed|
+1982D|Kennedy||||N|N|0|HALF DOLLAR||0.00|Y|Grandma Betty|2012-07-01|Eagle Reverse Resumed|
+1994P|Kennedy||||N|N|0|HALF DOLLAR||0.00|Y|Grandma Betty|2012-07-01|Eagle Reverse Resumed|
+

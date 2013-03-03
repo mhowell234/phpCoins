@@ -1,0 +1,18 @@
+YEAR|MINTAGE|AG-3|G-4|VG-8|F-12|VF-20|EF-40|AU-50|ADDITIONAL_INFO
+
+1793|35334|900|1650|2800|4200|7200|13250|19000|Variety 1 - Head Facing Left
+
+1794|81600|120|265|350|600|1200|2800|5500|Variety 2 - Head Facing Right
+1795,:All:Kinds|139690|-1|-1|-1|-1|-1|-1|-1|Variety 2 - Head Facing Right
+1795,:Lettered:Edge:-:With:Pole|-1|100|200|310|525|1200|2600|4500|Variety 2 - Head Facing Right
+1795,:Lettered:Edge:-:Punctuated:Date|-1|100|200|310|525|1200|2600|4500|Variety 2 - Head Facing Right
+1795,:Plain:Edge:-:Punctuated:Date|-1|90|160|260|425|1000|2400|3750|Variety 2 - Head Facing Right
+1795,:Plain:Edge:-:No:Pole|-1|90|160|260|425|1000|2400|3750|Variety 2 - Head Facing Right
+1796,:With:Pole|1390|3700|7000|11000|16000|24000|31000|-1|Variety 2 - Head Facing Right
+1796,:No:Pole|-1|7250|16000|22000|35000|70000|85000|-1|Variety 2 - Head Facing Right
+
+1797,:All:Kinds|127840|-1|-1|-1|-1|-1|-1|-1|Variety 2 - Head Facing Right
+1797,:1:Above:1:-:Plain:Edge|-1|100|210|300|450|900|2000|3500|Variety 2 - Head Facing Right
+1797,:Plain:Edge|-1|120|220|300|600|1000|2200|3750|Variety 2 - Head Facing Right
+1797,:Lettered:Edge|-1|210|700|1100|2750|6500|15000|32000|Variety 2 - Head Facing Right
+1797,:Gripped:Edge|-1|3500|13000|27000|35000|-1|-1|-1|Variety 2 - Head Facing Right

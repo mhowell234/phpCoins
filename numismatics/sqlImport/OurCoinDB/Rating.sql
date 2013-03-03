@@ -1,0 +1,11 @@
+-- Start of using OurCoinDB
+USE OurCoinDB;
+
+USE OurCoinDB;
+
+INSERT INTO Rating VALUES(NULL, 2, 1, 23, "2012-07-28 00:00:00");
+
+INSERT INTO Rating VALUES(NULL, 4, 1, 21, "2012-07-28 00:00:00");
+
+INSERT INTO Rating VALUES(NULL, 42, 2, 19, "2012-07-28 00:00:00");
+

@@ -1,0 +1,3 @@
+MINT|START_YEAR|END_YEAR
+
+Copenhagen|1771|0

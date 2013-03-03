@@ -1,0 +1,11 @@
+GRADE|DESCRIPTION
+
+G-4|LIBERTY on shield obliterated. Letters and date legible.
+VG-8|One or two letters in LIBERTY barely visible. Other details bold.
+F-12|Some letters of LIBERTY possibly visible.
+VF-20|LIBERTY readable, but partly weak.
+EF-40|LIBERTY mostly sharp. Only slight wear on high points of coin.
+AU-50|Slight trace of wear on breast, head, and knees.
+MS-60|No trace of ear. Light blemishes.
+MS-63|Some distracting blemishes in prime focal areas. Some impairment of luster possible.
+PF-63|Reflective surfaces with only a few blemishes in secondary focal places. No major flaws.

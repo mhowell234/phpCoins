@@ -1,0 +1,29 @@
+YEAR|MINTAGE|G-4|VG-8|F-12|VF-20|EF-40|AU-50|MS-60|MS-63|ADDITIONAL_INFO
+
+1809|51065|55|85|150|275|600|900|2000|3250|Variety 1 - Wide Border
+1811,:11:Over:09|65180|40|60|125|225|500|800|1700|3000|Variety 1 - Wide Border
+1814|421500|14|17|28|70|230|325|700|1500|Variety 1 - Wide Border
+1820|942587|14|17|25|60|200|275|600|1200|Variety 1 - Wide Border
+1821|1186512|14|17|25|60|200|275|600|1200|Variety 1 - Wide Border
+1822|100000|185|400|700|950|1600|3750|5000|9500|Variety 1 - Wide Border
+1823,:3:Over:2:-:Small:E's|-1|14|17|25|60|200|275|600|1200|Variety 1 - Wide Border
+1823,:3:Over:2:-:Large:E's|-1|14|17|25|60|200|275|600|1200|Variety 1 - Wide Border
+1824,:4:Over:2|51000|15|20|40|140|300|600|1000|1800|Variety 1 - Wide Border
+1825|-1|14|17|20|50|175|275|500|1200|Variety 1 - Wide Border
+1827|1215000|14|17|20|50|175|275|500|1200|Variety 1 - Wide Border
+1828,:Large:Date:-:Curl:Base:2|125000|17|30|50|140|300|600|1100|2400|Variety 1 - Wide Border
+
+1828,:Small:Date:-:Square:Base:2|-1|14|18|30|65|200|325|650|1200|Variety 2 - Modified Design
+1829,:Small:10c|770000|13|15|18|35|120|200|425|800|Variety 2 - Modified Design
+1829,:Medium:10c|-1|13|15|18|35|120|200|375|700|Variety 2 - Modified Design
+1829,:Large:10c|-1|13|16|22|50|135|200|425|725|Variety 2 - Modified Design
+1830,:30:Over:29|510000|14|25|45|90|250|275|570|1200|Variety 2 - Modified Design
+1830,:Large:10c|-1|13|15|18|35|120|180|375|725|Variety 2 - Modified Design
+1830,:Small:10c|-1|13|15|18|35|120|180|375|725|Variety 2 - Modified Design
+1831|771350|13|15|18|35|120|180|375|725|Variety 2 - Modified Design
+1832|522500|13|15|18|35|120|180|375|725|Variety 2 - Modified Design
+1833|485000|13|15|18|35|120|180|375|725|Variety 2 - Modified Design
+1834|635000|13|15|18|35|120|180|375|725|Variety 2 - Modified Design
+1835|1410000|13|15|18|35|120|180|375|725|Variety 2 - Modified Design
+1836|1190000|13|15|18|35|120|180|375|725|Variety 2 - Modified Design
+1837|359500|13|15|18|35|120|180|375|725|Variety 2 - Modified Design

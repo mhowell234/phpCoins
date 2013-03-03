@@ -1,0 +1,7345 @@
+-- Start of using UsCoinDB
+USE UsCoinDB;
+
+USE UsCoinDB;
+
+INSERT INTO MintCoinAttribute VALUES(1, 988, 6.74);
+
+INSERT INTO MintCoinAttribute VALUES(2, 989, 6.74);
+
+INSERT INTO MintCoinAttribute VALUES(3, 990, 6.74);
+
+INSERT INTO MintCoinAttribute VALUES(4, 991, 6.74);
+
+INSERT INTO MintCoinAttribute VALUES(5, 992, 6.74);
+
+INSERT INTO MintCoinAttribute VALUES(6, 993, 6.74);
+
+INSERT INTO MintCoinAttribute VALUES(7, 994, 6.74);
+
+INSERT INTO MintCoinAttribute VALUES(8, 995, 6.74);
+
+INSERT INTO MintCoinAttribute VALUES(9, 996, 6.74);
+
+INSERT INTO MintCoinAttribute VALUES(10, 997, 6.74);
+
+INSERT INTO MintCoinAttribute VALUES(11, 998, 6.74);
+
+INSERT INTO MintCoinAttribute VALUES(12, 999, 6.74);
+
+INSERT INTO MintCoinAttribute VALUES(13, 1000, 6.74);
+
+INSERT INTO MintCoinAttribute VALUES(14, 1001, 6.74);
+
+INSERT INTO MintCoinAttribute VALUES(15, 968, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(16, 969, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(17, 970, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(18, 971, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(19, 972, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(20, 973, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(21, 974, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(22, 975, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(23, 976, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(24, 977, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(25, 978, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(26, 979, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(27, 980, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(28, 981, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(29, 982, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(30, 983, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(31, 984, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(32, 987, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(33, 954, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(34, 955, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(35, 956, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(36, 957, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(37, 958, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(38, 959, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(39, 960, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(40, 961, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(41, 962, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(42, 963, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(43, 964, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(44, 965, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(45, 966, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(46, 967, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(47, 925, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(48, 926, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(49, 927, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(50, 928, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(51, 929, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(52, 930, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(53, 931, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(54, 932, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(55, 933, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(56, 934, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(57, 935, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(58, 936, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(59, 937, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(60, 938, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(61, 939, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(62, 940, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(63, 941, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(64, 942, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(65, 943, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(66, 944, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(67, 945, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(68, 946, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(69, 947, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(70, 948, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(71, 949, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(72, 950, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(73, 951, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(74, 952, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(75, 953, 5.44);
+
+INSERT INTO MintCoinAttribute VALUES(76, 1964, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(77, 1965, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(78, 1966, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(79, 1967, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(80, 1968, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(81, 1969, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(82, 1970, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(83, 1971, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(84, 1972, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(85, 1973, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(86, 1974, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(87, 1975, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(88, 1976, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(89, 1977, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(90, 1978, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(91, 1924, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(92, 1925, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(93, 1926, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(94, 1927, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(95, 1928, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(96, 1929, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(97, 1931, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(98, 1932, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(99, 1933, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(100, 1934, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(101, 1935, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(102, 1936, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(103, 1937, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(104, 1938, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(105, 1939, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(106, 1940, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(107, 1941, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(108, 1942, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(109, 1943, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(110, 1944, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(111, 1945, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(112, 1946, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(113, 1947, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(114, 1948, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(115, 1949, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(116, 1950, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(117, 1951, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(118, 1952, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(119, 1953, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(120, 1954, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(121, 1955, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(122, 1956, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(123, 1957, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(124, 1958, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(125, 1959, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(126, 1960, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(127, 1961, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(128, 1962, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(129, 1963, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(130, 1913, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(131, 1914, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(132, 1915, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(133, 1916, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(134, 1917, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(135, 1918, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(136, 1919, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(137, 1920, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(138, 1921, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(139, 1922, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(140, 1923, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(141, 1979, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(142, 1980, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(143, 1981, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(144, 1982, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(145, 1983, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(146, 1984, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(147, 1985, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(148, 1986, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(149, 1987, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(150, 1988, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(151, 1989, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(152, 1990, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(153, 1991, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(154, 1992, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(155, 1993, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(156, 1994, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(157, 1995, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(158, 1996, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(159, 1997, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(160, 1998, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(161, 1999, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(162, 2000, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(163, 2001, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(164, 2002, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(165, 2003, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(166, 2004, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(167, 2005, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(168, 2006, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(169, 2007, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(170, 2008, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(171, 2009, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(172, 2010, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(173, 2011, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(174, 2012, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(175, 2013, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(176, 2014, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(177, 2015, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(178, 2016, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(179, 2017, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(180, 2018, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(181, 2019, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(182, 2020, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(183, 2021, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(184, 2022, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(185, 2023, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(186, 2024, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(187, 2025, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(188, 2026, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(189, 2027, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(190, 2028, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(191, 2029, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(192, 2030, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(193, 2031, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(194, 2032, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(195, 2033, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(196, 2034, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(197, 2035, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(198, 2036, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(199, 2037, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(200, 2038, 10.89);
+
+INSERT INTO MintCoinAttribute VALUES(201, 3660, 4.67);
+
+INSERT INTO MintCoinAttribute VALUES(202, 3661, 4.67);
+
+INSERT INTO MintCoinAttribute VALUES(203, 3662, 4.67);
+
+INSERT INTO MintCoinAttribute VALUES(204, 3663, 4.67);
+
+INSERT INTO MintCoinAttribute VALUES(205, 3664, 4.67);
+
+INSERT INTO MintCoinAttribute VALUES(206, 3665, 4.67);
+
+INSERT INTO MintCoinAttribute VALUES(207, 3666, 4.67);
+
+INSERT INTO MintCoinAttribute VALUES(208, 3667, 4.67);
+
+INSERT INTO MintCoinAttribute VALUES(209, 3668, 4.67);
+
+INSERT INTO MintCoinAttribute VALUES(210, 3669, 4.67);
+
+INSERT INTO MintCoinAttribute VALUES(211, 3670, 4.67);
+
+INSERT INTO MintCoinAttribute VALUES(212, 3671, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(213, 3672, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(214, 3673, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(215, 3674, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(216, 3675, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(217, 3676, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(218, 3677, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(219, 3678, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(220, 3679, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(221, 3680, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(222, 3681, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(223, 3682, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(224, 3683, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(225, 3684, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(226, 3685, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(227, 3686, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(228, 3687, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(229, 3688, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(230, 3689, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(231, 3690, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(232, 3691, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(233, 3692, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(234, 3693, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(235, 3694, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(236, 3695, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(237, 3696, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(238, 3697, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(239, 3698, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(240, 3699, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(241, 3700, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(242, 3701, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(243, 3702, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(244, 3703, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(245, 3704, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(246, 3705, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(247, 3706, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(248, 3707, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(249, 3708, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(250, 3709, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(251, 3710, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(252, 3711, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(253, 3712, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(254, 3713, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(255, 3714, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(256, 3715, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(257, 3716, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(258, 3717, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(259, 3718, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(260, 3719, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(261, 3720, 3.11);
+
+INSERT INTO MintCoinAttribute VALUES(262, 3888, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(263, 3889, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(264, 3890, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(265, 3891, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(266, 3892, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(267, 3893, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(268, 3894, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(269, 3895, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(270, 3896, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(271, 3897, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(272, 3898, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(273, 3812, 0.8);
+
+INSERT INTO MintCoinAttribute VALUES(274, 3813, 0.8);
+
+INSERT INTO MintCoinAttribute VALUES(275, 3814, 0.8);
+
+INSERT INTO MintCoinAttribute VALUES(276, 3815, 0.8);
+
+INSERT INTO MintCoinAttribute VALUES(277, 3816, 0.75);
+
+INSERT INTO MintCoinAttribute VALUES(278, 3817, 0.75);
+
+INSERT INTO MintCoinAttribute VALUES(279, 3818, 0.75);
+
+INSERT INTO MintCoinAttribute VALUES(280, 3819, 0.75);
+
+INSERT INTO MintCoinAttribute VALUES(281, 3820, 0.75);
+
+INSERT INTO MintCoinAttribute VALUES(282, 3821, 0.75);
+
+INSERT INTO MintCoinAttribute VALUES(283, 3822, 0.75);
+
+INSERT INTO MintCoinAttribute VALUES(284, 3823, 0.75);
+
+INSERT INTO MintCoinAttribute VALUES(285, 3825, 0.75);
+
+INSERT INTO MintCoinAttribute VALUES(286, 3824, 0.75);
+
+INSERT INTO MintCoinAttribute VALUES(287, 3826, 0.75);
+
+INSERT INTO MintCoinAttribute VALUES(288, 3827, 0.75);
+
+INSERT INTO MintCoinAttribute VALUES(289, 3828, 0.75);
+
+INSERT INTO MintCoinAttribute VALUES(290, 3829, 0.75);
+
+INSERT INTO MintCoinAttribute VALUES(291, 3830, 0.75);
+
+INSERT INTO MintCoinAttribute VALUES(292, 3831, 0.75);
+
+INSERT INTO MintCoinAttribute VALUES(293, 3832, 0.75);
+
+INSERT INTO MintCoinAttribute VALUES(294, 3833, 0.75);
+
+INSERT INTO MintCoinAttribute VALUES(295, 3834, 0.75);
+
+INSERT INTO MintCoinAttribute VALUES(296, 3835, 0.75);
+
+INSERT INTO MintCoinAttribute VALUES(297, 3836, 0.75);
+
+INSERT INTO MintCoinAttribute VALUES(298, 3786, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(299, 3787, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(300, 3788, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(301, 3789, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(302, 3790, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(303, 3791, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(304, 3792, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(305, 3793, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(306, 3794, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(307, 3795, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(308, 3796, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(309, 3797, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(310, 3798, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(311, 3799, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(312, 3800, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(313, 3801, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(314, 3802, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(315, 3803, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(316, 3804, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(317, 3805, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(318, 3806, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(319, 3807, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(320, 3808, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(321, 3809, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(322, 3810, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(323, 3811, 1.94);
+
+INSERT INTO MintCoinAttribute VALUES(324, 2359, 5);
+
+INSERT INTO MintCoinAttribute VALUES(325, 2360, 5);
+
+INSERT INTO MintCoinAttribute VALUES(326, 2361, 5);
+
+INSERT INTO MintCoinAttribute VALUES(327, 2362, 5);
+
+INSERT INTO MintCoinAttribute VALUES(328, 2363, 5);
+
+INSERT INTO MintCoinAttribute VALUES(329, 2364, 5);
+
+INSERT INTO MintCoinAttribute VALUES(330, 2365, 5);
+
+INSERT INTO MintCoinAttribute VALUES(331, 2366, 5);
+
+INSERT INTO MintCoinAttribute VALUES(332, 2368, 5);
+
+INSERT INTO MintCoinAttribute VALUES(333, 2367, 5);
+
+INSERT INTO MintCoinAttribute VALUES(334, 2369, 5);
+
+INSERT INTO MintCoinAttribute VALUES(335, 2370, 5);
+
+INSERT INTO MintCoinAttribute VALUES(336, 2371, 5);
+
+INSERT INTO MintCoinAttribute VALUES(337, 2372, 5);
+
+INSERT INTO MintCoinAttribute VALUES(338, 2373, 5);
+
+INSERT INTO MintCoinAttribute VALUES(339, 2374, 5);
+
+INSERT INTO MintCoinAttribute VALUES(340, 2375, 5);
+
+INSERT INTO MintCoinAttribute VALUES(341, 2376, 5);
+
+INSERT INTO MintCoinAttribute VALUES(342, 2377, 5);
+
+INSERT INTO MintCoinAttribute VALUES(343, 2378, 5);
+
+INSERT INTO MintCoinAttribute VALUES(344, 2379, 5);
+
+INSERT INTO MintCoinAttribute VALUES(345, 2325, 5);
+
+INSERT INTO MintCoinAttribute VALUES(346, 2326, 5);
+
+INSERT INTO MintCoinAttribute VALUES(347, 2327, 5);
+
+INSERT INTO MintCoinAttribute VALUES(348, 2328, 5);
+
+INSERT INTO MintCoinAttribute VALUES(349, 2329, 5);
+
+INSERT INTO MintCoinAttribute VALUES(350, 2330, 5);
+
+INSERT INTO MintCoinAttribute VALUES(351, 2331, 5);
+
+INSERT INTO MintCoinAttribute VALUES(352, 2332, 5);
+
+INSERT INTO MintCoinAttribute VALUES(353, 2333, 5);
+
+INSERT INTO MintCoinAttribute VALUES(354, 2334, 5);
+
+INSERT INTO MintCoinAttribute VALUES(355, 2335, 5);
+
+INSERT INTO MintCoinAttribute VALUES(356, 2336, 5);
+
+INSERT INTO MintCoinAttribute VALUES(357, 2337, 5);
+
+INSERT INTO MintCoinAttribute VALUES(358, 2338, 5);
+
+INSERT INTO MintCoinAttribute VALUES(359, 2339, 5);
+
+INSERT INTO MintCoinAttribute VALUES(360, 2340, 5);
+
+INSERT INTO MintCoinAttribute VALUES(361, 2341, 5);
+
+INSERT INTO MintCoinAttribute VALUES(362, 2342, 5);
+
+INSERT INTO MintCoinAttribute VALUES(363, 2343, 5);
+
+INSERT INTO MintCoinAttribute VALUES(364, 2344, 5);
+
+INSERT INTO MintCoinAttribute VALUES(365, 2345, 5);
+
+INSERT INTO MintCoinAttribute VALUES(366, 2346, 5);
+
+INSERT INTO MintCoinAttribute VALUES(367, 2347, 5);
+
+INSERT INTO MintCoinAttribute VALUES(368, 2348, 5);
+
+INSERT INTO MintCoinAttribute VALUES(369, 2349, 5);
+
+INSERT INTO MintCoinAttribute VALUES(370, 2350, 5);
+
+INSERT INTO MintCoinAttribute VALUES(371, 2351, 5);
+
+INSERT INTO MintCoinAttribute VALUES(372, 2352, 5);
+
+INSERT INTO MintCoinAttribute VALUES(373, 2353, 5);
+
+INSERT INTO MintCoinAttribute VALUES(374, 2354, 5);
+
+INSERT INTO MintCoinAttribute VALUES(375, 2355, 5);
+
+INSERT INTO MintCoinAttribute VALUES(376, 2357, 5);
+
+INSERT INTO MintCoinAttribute VALUES(377, 2356, 5);
+
+INSERT INTO MintCoinAttribute VALUES(378, 2358, 5);
+
+INSERT INTO MintCoinAttribute VALUES(379, 2039, 5);
+
+INSERT INTO MintCoinAttribute VALUES(380, 2041, 5);
+
+INSERT INTO MintCoinAttribute VALUES(381, 2040, 5);
+
+INSERT INTO MintCoinAttribute VALUES(382, 2042, 5);
+
+INSERT INTO MintCoinAttribute VALUES(383, 2044, 5);
+
+INSERT INTO MintCoinAttribute VALUES(384, 2043, 5);
+
+INSERT INTO MintCoinAttribute VALUES(385, 2045, 5);
+
+INSERT INTO MintCoinAttribute VALUES(386, 2047, 5);
+
+INSERT INTO MintCoinAttribute VALUES(387, 2046, 5);
+
+INSERT INTO MintCoinAttribute VALUES(388, 2048, 5);
+
+INSERT INTO MintCoinAttribute VALUES(389, 2050, 5);
+
+INSERT INTO MintCoinAttribute VALUES(390, 2049, 5);
+
+INSERT INTO MintCoinAttribute VALUES(391, 2051, 5);
+
+INSERT INTO MintCoinAttribute VALUES(392, 2054, 5);
+
+INSERT INTO MintCoinAttribute VALUES(393, 2053, 5);
+
+INSERT INTO MintCoinAttribute VALUES(394, 2052, 5);
+
+INSERT INTO MintCoinAttribute VALUES(395, 2055, 5);
+
+INSERT INTO MintCoinAttribute VALUES(396, 2057, 5);
+
+INSERT INTO MintCoinAttribute VALUES(397, 2056, 5);
+
+INSERT INTO MintCoinAttribute VALUES(398, 2058, 5);
+
+INSERT INTO MintCoinAttribute VALUES(399, 2061, 5);
+
+INSERT INTO MintCoinAttribute VALUES(400, 2060, 5);
+
+INSERT INTO MintCoinAttribute VALUES(401, 2059, 5);
+
+INSERT INTO MintCoinAttribute VALUES(402, 2062, 5);
+
+INSERT INTO MintCoinAttribute VALUES(403, 2064, 5);
+
+INSERT INTO MintCoinAttribute VALUES(404, 2063, 5);
+
+INSERT INTO MintCoinAttribute VALUES(405, 2065, 5);
+
+INSERT INTO MintCoinAttribute VALUES(406, 2067, 5);
+
+INSERT INTO MintCoinAttribute VALUES(407, 2066, 5);
+
+INSERT INTO MintCoinAttribute VALUES(408, 2068, 5);
+
+INSERT INTO MintCoinAttribute VALUES(409, 2069, 5);
+
+INSERT INTO MintCoinAttribute VALUES(410, 2070, 5);
+
+INSERT INTO MintCoinAttribute VALUES(411, 2071, 5);
+
+INSERT INTO MintCoinAttribute VALUES(412, 2072, 5);
+
+INSERT INTO MintCoinAttribute VALUES(413, 2074, 5);
+
+INSERT INTO MintCoinAttribute VALUES(414, 2073, 5);
+
+INSERT INTO MintCoinAttribute VALUES(415, 2075, 5);
+
+INSERT INTO MintCoinAttribute VALUES(416, 2077, 5);
+
+INSERT INTO MintCoinAttribute VALUES(417, 2076, 5);
+
+INSERT INTO MintCoinAttribute VALUES(418, 2078, 5);
+
+INSERT INTO MintCoinAttribute VALUES(419, 2080, 5);
+
+INSERT INTO MintCoinAttribute VALUES(420, 2079, 5);
+
+INSERT INTO MintCoinAttribute VALUES(421, 2081, 5);
+
+INSERT INTO MintCoinAttribute VALUES(422, 2083, 5);
+
+INSERT INTO MintCoinAttribute VALUES(423, 2082, 5);
+
+INSERT INTO MintCoinAttribute VALUES(424, 2084, 5);
+
+INSERT INTO MintCoinAttribute VALUES(425, 2086, 5);
+
+INSERT INTO MintCoinAttribute VALUES(426, 2085, 5);
+
+INSERT INTO MintCoinAttribute VALUES(427, 2087, 5);
+
+INSERT INTO MintCoinAttribute VALUES(428, 2089, 5);
+
+INSERT INTO MintCoinAttribute VALUES(429, 2088, 5);
+
+INSERT INTO MintCoinAttribute VALUES(430, 2090, 5);
+
+INSERT INTO MintCoinAttribute VALUES(431, 2091, 5);
+
+INSERT INTO MintCoinAttribute VALUES(432, 2092, 5);
+
+INSERT INTO MintCoinAttribute VALUES(433, 2093, 5);
+
+INSERT INTO MintCoinAttribute VALUES(434, 2094, 5);
+
+INSERT INTO MintCoinAttribute VALUES(435, 2095, 5);
+
+INSERT INTO MintCoinAttribute VALUES(436, 2097, 5);
+
+INSERT INTO MintCoinAttribute VALUES(437, 2096, 5);
+
+INSERT INTO MintCoinAttribute VALUES(438, 2098, 5);
+
+INSERT INTO MintCoinAttribute VALUES(439, 2100, 5);
+
+INSERT INTO MintCoinAttribute VALUES(440, 2099, 5);
+
+INSERT INTO MintCoinAttribute VALUES(441, 2101, 5);
+
+INSERT INTO MintCoinAttribute VALUES(442, 2104, 5);
+
+INSERT INTO MintCoinAttribute VALUES(443, 2102, 5);
+
+INSERT INTO MintCoinAttribute VALUES(444, 2103, 5);
+
+INSERT INTO MintCoinAttribute VALUES(445, 2105, 5);
+
+INSERT INTO MintCoinAttribute VALUES(446, 2106, 5);
+
+INSERT INTO MintCoinAttribute VALUES(447, 2107, 5);
+
+INSERT INTO MintCoinAttribute VALUES(448, 2109, 5);
+
+INSERT INTO MintCoinAttribute VALUES(449, 2108, 5);
+
+INSERT INTO MintCoinAttribute VALUES(450, 2110, 5);
+
+INSERT INTO MintCoinAttribute VALUES(451, 2112, 5);
+
+INSERT INTO MintCoinAttribute VALUES(452, 2111, 5);
+
+INSERT INTO MintCoinAttribute VALUES(453, 2113, 5);
+
+INSERT INTO MintCoinAttribute VALUES(454, 2115, 5);
+
+INSERT INTO MintCoinAttribute VALUES(455, 2114, 5);
+
+INSERT INTO MintCoinAttribute VALUES(456, 2116, 5);
+
+INSERT INTO MintCoinAttribute VALUES(457, 2118, 5);
+
+INSERT INTO MintCoinAttribute VALUES(458, 2117, 5);
+
+INSERT INTO MintCoinAttribute VALUES(459, 2119, 5);
+
+INSERT INTO MintCoinAttribute VALUES(460, 2120, 5);
+
+INSERT INTO MintCoinAttribute VALUES(461, 2121, 5);
+
+INSERT INTO MintCoinAttribute VALUES(462, 2122, 5);
+
+INSERT INTO MintCoinAttribute VALUES(463, 2124, 5);
+
+INSERT INTO MintCoinAttribute VALUES(464, 2126, 5);
+
+INSERT INTO MintCoinAttribute VALUES(465, 2125, 5);
+
+INSERT INTO MintCoinAttribute VALUES(466, 2127, 5);
+
+INSERT INTO MintCoinAttribute VALUES(467, 2129, 5);
+
+INSERT INTO MintCoinAttribute VALUES(468, 2128, 5);
+
+INSERT INTO MintCoinAttribute VALUES(469, 2130, 5);
+
+INSERT INTO MintCoinAttribute VALUES(470, 2132, 5);
+
+INSERT INTO MintCoinAttribute VALUES(471, 2131, 5);
+
+INSERT INTO MintCoinAttribute VALUES(472, 2133, 5);
+
+INSERT INTO MintCoinAttribute VALUES(473, 2135, 5);
+
+INSERT INTO MintCoinAttribute VALUES(474, 2134, 5);
+
+INSERT INTO MintCoinAttribute VALUES(475, 2136, 5);
+
+INSERT INTO MintCoinAttribute VALUES(476, 2138, 5);
+
+INSERT INTO MintCoinAttribute VALUES(477, 2137, 5);
+
+INSERT INTO MintCoinAttribute VALUES(478, 2139, 5);
+
+INSERT INTO MintCoinAttribute VALUES(479, 2141, 5);
+
+INSERT INTO MintCoinAttribute VALUES(480, 2140, 5);
+
+INSERT INTO MintCoinAttribute VALUES(481, 2142, 5);
+
+INSERT INTO MintCoinAttribute VALUES(482, 2145, 5);
+
+INSERT INTO MintCoinAttribute VALUES(483, 2143, 5);
+
+INSERT INTO MintCoinAttribute VALUES(484, 2144, 5);
+
+INSERT INTO MintCoinAttribute VALUES(485, 2146, 5);
+
+INSERT INTO MintCoinAttribute VALUES(486, 2147, 5);
+
+INSERT INTO MintCoinAttribute VALUES(487, 2148, 5);
+
+INSERT INTO MintCoinAttribute VALUES(488, 2150, 5);
+
+INSERT INTO MintCoinAttribute VALUES(489, 2149, 5);
+
+INSERT INTO MintCoinAttribute VALUES(490, 2151, 5);
+
+INSERT INTO MintCoinAttribute VALUES(491, 2153, 5);
+
+INSERT INTO MintCoinAttribute VALUES(492, 2152, 5);
+
+INSERT INTO MintCoinAttribute VALUES(493, 2154, 5);
+
+INSERT INTO MintCoinAttribute VALUES(494, 2156, 5);
+
+INSERT INTO MintCoinAttribute VALUES(495, 2155, 5);
+
+INSERT INTO MintCoinAttribute VALUES(496, 2157, 5);
+
+INSERT INTO MintCoinAttribute VALUES(497, 2159, 5);
+
+INSERT INTO MintCoinAttribute VALUES(498, 2158, 5);
+
+INSERT INTO MintCoinAttribute VALUES(499, 2160, 5);
+
+INSERT INTO MintCoinAttribute VALUES(500, 2161, 5);
+
+INSERT INTO MintCoinAttribute VALUES(501, 2162, 5);
+
+INSERT INTO MintCoinAttribute VALUES(502, 2163, 5);
+
+INSERT INTO MintCoinAttribute VALUES(503, 2164, 5);
+
+INSERT INTO MintCoinAttribute VALUES(504, 2165, 5);
+
+INSERT INTO MintCoinAttribute VALUES(505, 2166, 5);
+
+INSERT INTO MintCoinAttribute VALUES(506, 2167, 5);
+
+INSERT INTO MintCoinAttribute VALUES(507, 2168, 5);
+
+INSERT INTO MintCoinAttribute VALUES(508, 2169, 5);
+
+INSERT INTO MintCoinAttribute VALUES(509, 2170, 5);
+
+INSERT INTO MintCoinAttribute VALUES(510, 2171, 5);
+
+INSERT INTO MintCoinAttribute VALUES(511, 2172, 5);
+
+INSERT INTO MintCoinAttribute VALUES(512, 2173, 5);
+
+INSERT INTO MintCoinAttribute VALUES(513, 2174, 5);
+
+INSERT INTO MintCoinAttribute VALUES(514, 2175, 5);
+
+INSERT INTO MintCoinAttribute VALUES(515, 2176, 5);
+
+INSERT INTO MintCoinAttribute VALUES(516, 2177, 5);
+
+INSERT INTO MintCoinAttribute VALUES(517, 2178, 5);
+
+INSERT INTO MintCoinAttribute VALUES(518, 2179, 5);
+
+INSERT INTO MintCoinAttribute VALUES(519, 2180, 5);
+
+INSERT INTO MintCoinAttribute VALUES(520, 2181, 5);
+
+INSERT INTO MintCoinAttribute VALUES(521, 2182, 5);
+
+INSERT INTO MintCoinAttribute VALUES(522, 2183, 5);
+
+INSERT INTO MintCoinAttribute VALUES(523, 2184, 5);
+
+INSERT INTO MintCoinAttribute VALUES(524, 2186, 5);
+
+INSERT INTO MintCoinAttribute VALUES(525, 2185, 5);
+
+INSERT INTO MintCoinAttribute VALUES(526, 2188, 5);
+
+INSERT INTO MintCoinAttribute VALUES(527, 2187, 5);
+
+INSERT INTO MintCoinAttribute VALUES(528, 2190, 5);
+
+INSERT INTO MintCoinAttribute VALUES(529, 2189, 5);
+
+INSERT INTO MintCoinAttribute VALUES(530, 2191, 5);
+
+INSERT INTO MintCoinAttribute VALUES(531, 2193, 5);
+
+INSERT INTO MintCoinAttribute VALUES(532, 2192, 5);
+
+INSERT INTO MintCoinAttribute VALUES(533, 2194, 5);
+
+INSERT INTO MintCoinAttribute VALUES(534, 2196, 5);
+
+INSERT INTO MintCoinAttribute VALUES(535, 2195, 5);
+
+INSERT INTO MintCoinAttribute VALUES(536, 2197, 5);
+
+INSERT INTO MintCoinAttribute VALUES(537, 2199, 5);
+
+INSERT INTO MintCoinAttribute VALUES(538, 2198, 5);
+
+INSERT INTO MintCoinAttribute VALUES(539, 2200, 5);
+
+INSERT INTO MintCoinAttribute VALUES(540, 2202, 5);
+
+INSERT INTO MintCoinAttribute VALUES(541, 2201, 5);
+
+INSERT INTO MintCoinAttribute VALUES(542, 2203, 5);
+
+INSERT INTO MintCoinAttribute VALUES(543, 2205, 5);
+
+INSERT INTO MintCoinAttribute VALUES(544, 2204, 5);
+
+INSERT INTO MintCoinAttribute VALUES(545, 2206, 5);
+
+INSERT INTO MintCoinAttribute VALUES(546, 2208, 5);
+
+INSERT INTO MintCoinAttribute VALUES(547, 2207, 5);
+
+INSERT INTO MintCoinAttribute VALUES(548, 2209, 5);
+
+INSERT INTO MintCoinAttribute VALUES(549, 2211, 5);
+
+INSERT INTO MintCoinAttribute VALUES(550, 2210, 5);
+
+INSERT INTO MintCoinAttribute VALUES(551, 2212, 5);
+
+INSERT INTO MintCoinAttribute VALUES(552, 2214, 5);
+
+INSERT INTO MintCoinAttribute VALUES(553, 2213, 5);
+
+INSERT INTO MintCoinAttribute VALUES(554, 2215, 5);
+
+INSERT INTO MintCoinAttribute VALUES(555, 2216, 5);
+
+INSERT INTO MintCoinAttribute VALUES(556, 2217, 5);
+
+INSERT INTO MintCoinAttribute VALUES(557, 2218, 5);
+
+INSERT INTO MintCoinAttribute VALUES(558, 2219, 5);
+
+INSERT INTO MintCoinAttribute VALUES(559, 2221, 5);
+
+INSERT INTO MintCoinAttribute VALUES(560, 2220, 5);
+
+INSERT INTO MintCoinAttribute VALUES(561, 2222, 5);
+
+INSERT INTO MintCoinAttribute VALUES(562, 2223, 5);
+
+INSERT INTO MintCoinAttribute VALUES(563, 2224, 5);
+
+INSERT INTO MintCoinAttribute VALUES(564, 2225, 5);
+
+INSERT INTO MintCoinAttribute VALUES(565, 2226, 5);
+
+INSERT INTO MintCoinAttribute VALUES(566, 2228, 5);
+
+INSERT INTO MintCoinAttribute VALUES(567, 2227, 5);
+
+INSERT INTO MintCoinAttribute VALUES(568, 2229, 5);
+
+INSERT INTO MintCoinAttribute VALUES(569, 2231, 5);
+
+INSERT INTO MintCoinAttribute VALUES(570, 2230, 5);
+
+INSERT INTO MintCoinAttribute VALUES(571, 2232, 5);
+
+INSERT INTO MintCoinAttribute VALUES(572, 2234, 5);
+
+INSERT INTO MintCoinAttribute VALUES(573, 2233, 5);
+
+INSERT INTO MintCoinAttribute VALUES(574, 2235, 5);
+
+INSERT INTO MintCoinAttribute VALUES(575, 2237, 5);
+
+INSERT INTO MintCoinAttribute VALUES(576, 2236, 5);
+
+INSERT INTO MintCoinAttribute VALUES(577, 2238, 5);
+
+INSERT INTO MintCoinAttribute VALUES(578, 2240, 5);
+
+INSERT INTO MintCoinAttribute VALUES(579, 2239, 5);
+
+INSERT INTO MintCoinAttribute VALUES(580, 2241, 5);
+
+INSERT INTO MintCoinAttribute VALUES(581, 2243, 5);
+
+INSERT INTO MintCoinAttribute VALUES(582, 2242, 5);
+
+INSERT INTO MintCoinAttribute VALUES(583, 2244, 5);
+
+INSERT INTO MintCoinAttribute VALUES(584, 2246, 5);
+
+INSERT INTO MintCoinAttribute VALUES(585, 2245, 5);
+
+INSERT INTO MintCoinAttribute VALUES(586, 2247, 5);
+
+INSERT INTO MintCoinAttribute VALUES(587, 2249, 5);
+
+INSERT INTO MintCoinAttribute VALUES(588, 2248, 5);
+
+INSERT INTO MintCoinAttribute VALUES(589, 2250, 5);
+
+INSERT INTO MintCoinAttribute VALUES(590, 2252, 5);
+
+INSERT INTO MintCoinAttribute VALUES(591, 2251, 5);
+
+INSERT INTO MintCoinAttribute VALUES(592, 2253, 5);
+
+INSERT INTO MintCoinAttribute VALUES(593, 2255, 5);
+
+INSERT INTO MintCoinAttribute VALUES(594, 2254, 5);
+
+INSERT INTO MintCoinAttribute VALUES(595, 2256, 5);
+
+INSERT INTO MintCoinAttribute VALUES(596, 2258, 5);
+
+INSERT INTO MintCoinAttribute VALUES(597, 2257, 5);
+
+INSERT INTO MintCoinAttribute VALUES(598, 2259, 5);
+
+INSERT INTO MintCoinAttribute VALUES(599, 2261, 5);
+
+INSERT INTO MintCoinAttribute VALUES(600, 2260, 5);
+
+INSERT INTO MintCoinAttribute VALUES(601, 2262, 5);
+
+INSERT INTO MintCoinAttribute VALUES(602, 2264, 5);
+
+INSERT INTO MintCoinAttribute VALUES(603, 2263, 5);
+
+INSERT INTO MintCoinAttribute VALUES(604, 2265, 5);
+
+INSERT INTO MintCoinAttribute VALUES(605, 2267, 5);
+
+INSERT INTO MintCoinAttribute VALUES(606, 2266, 5);
+
+INSERT INTO MintCoinAttribute VALUES(607, 2268, 5);
+
+INSERT INTO MintCoinAttribute VALUES(608, 2270, 5);
+
+INSERT INTO MintCoinAttribute VALUES(609, 2269, 5);
+
+INSERT INTO MintCoinAttribute VALUES(610, 2271, 5);
+
+INSERT INTO MintCoinAttribute VALUES(611, 2273, 5);
+
+INSERT INTO MintCoinAttribute VALUES(612, 2272, 5);
+
+INSERT INTO MintCoinAttribute VALUES(613, 2274, 5);
+
+INSERT INTO MintCoinAttribute VALUES(614, 2276, 5);
+
+INSERT INTO MintCoinAttribute VALUES(615, 2275, 5);
+
+INSERT INTO MintCoinAttribute VALUES(616, 2277, 5);
+
+INSERT INTO MintCoinAttribute VALUES(617, 2279, 5);
+
+INSERT INTO MintCoinAttribute VALUES(618, 2278, 5);
+
+INSERT INTO MintCoinAttribute VALUES(619, 2280, 5);
+
+INSERT INTO MintCoinAttribute VALUES(620, 2282, 5);
+
+INSERT INTO MintCoinAttribute VALUES(621, 2281, 5);
+
+INSERT INTO MintCoinAttribute VALUES(622, 2283, 5);
+
+INSERT INTO MintCoinAttribute VALUES(623, 2285, 5);
+
+INSERT INTO MintCoinAttribute VALUES(624, 2284, 5);
+
+INSERT INTO MintCoinAttribute VALUES(625, 2286, 5);
+
+INSERT INTO MintCoinAttribute VALUES(626, 2288, 5);
+
+INSERT INTO MintCoinAttribute VALUES(627, 2287, 5);
+
+INSERT INTO MintCoinAttribute VALUES(628, 2289, 5);
+
+INSERT INTO MintCoinAttribute VALUES(629, 2291, 5);
+
+INSERT INTO MintCoinAttribute VALUES(630, 2290, 5);
+
+INSERT INTO MintCoinAttribute VALUES(631, 2292, 5);
+
+INSERT INTO MintCoinAttribute VALUES(632, 2294, 5);
+
+INSERT INTO MintCoinAttribute VALUES(633, 2293, 5);
+
+INSERT INTO MintCoinAttribute VALUES(634, 2295, 5);
+
+INSERT INTO MintCoinAttribute VALUES(635, 2297, 5);
+
+INSERT INTO MintCoinAttribute VALUES(636, 2296, 5);
+
+INSERT INTO MintCoinAttribute VALUES(637, 2298, 5);
+
+INSERT INTO MintCoinAttribute VALUES(638, 2300, 5);
+
+INSERT INTO MintCoinAttribute VALUES(639, 2299, 5);
+
+INSERT INTO MintCoinAttribute VALUES(640, 2301, 5);
+
+INSERT INTO MintCoinAttribute VALUES(641, 2303, 5);
+
+INSERT INTO MintCoinAttribute VALUES(642, 2302, 5);
+
+INSERT INTO MintCoinAttribute VALUES(643, 2304, 5);
+
+INSERT INTO MintCoinAttribute VALUES(644, 2306, 5);
+
+INSERT INTO MintCoinAttribute VALUES(645, 2305, 5);
+
+INSERT INTO MintCoinAttribute VALUES(646, 2307, 5);
+
+INSERT INTO MintCoinAttribute VALUES(647, 2309, 5);
+
+INSERT INTO MintCoinAttribute VALUES(648, 2308, 5);
+
+INSERT INTO MintCoinAttribute VALUES(649, 2310, 5);
+
+INSERT INTO MintCoinAttribute VALUES(650, 2312, 5);
+
+INSERT INTO MintCoinAttribute VALUES(651, 2311, 5);
+
+INSERT INTO MintCoinAttribute VALUES(652, 2313, 5);
+
+INSERT INTO MintCoinAttribute VALUES(653, 2315, 5);
+
+INSERT INTO MintCoinAttribute VALUES(654, 2314, 5);
+
+INSERT INTO MintCoinAttribute VALUES(655, 2316, 5);
+
+INSERT INTO MintCoinAttribute VALUES(656, 2318, 5);
+
+INSERT INTO MintCoinAttribute VALUES(657, 2317, 5);
+
+INSERT INTO MintCoinAttribute VALUES(658, 2319, 5);
+
+INSERT INTO MintCoinAttribute VALUES(659, 2321, 5);
+
+INSERT INTO MintCoinAttribute VALUES(660, 2320, 5);
+
+INSERT INTO MintCoinAttribute VALUES(661, 2322, 5);
+
+INSERT INTO MintCoinAttribute VALUES(662, 2324, 5);
+
+INSERT INTO MintCoinAttribute VALUES(663, 2323, 5);
+
+INSERT INTO MintCoinAttribute VALUES(664, 1024, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(665, 1025, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(666, 1012, 1.35);
+
+INSERT INTO MintCoinAttribute VALUES(667, 1013, 1.35);
+
+INSERT INTO MintCoinAttribute VALUES(668, 1014, 1.35);
+
+INSERT INTO MintCoinAttribute VALUES(669, 1015, 1.35);
+
+INSERT INTO MintCoinAttribute VALUES(670, 1016, 1.35);
+
+INSERT INTO MintCoinAttribute VALUES(671, 1017, 1.35);
+
+INSERT INTO MintCoinAttribute VALUES(672, 1018, 1.35);
+
+INSERT INTO MintCoinAttribute VALUES(673, 1020, 1.35);
+
+INSERT INTO MintCoinAttribute VALUES(674, 1021, 1.35);
+
+INSERT INTO MintCoinAttribute VALUES(675, 1022, 1.35);
+
+INSERT INTO MintCoinAttribute VALUES(676, 1023, 1.35);
+
+INSERT INTO MintCoinAttribute VALUES(677, 1002, 1.35);
+
+INSERT INTO MintCoinAttribute VALUES(678, 1003, 1.35);
+
+INSERT INTO MintCoinAttribute VALUES(679, 1004, 1.35);
+
+INSERT INTO MintCoinAttribute VALUES(680, 1005, 1.35);
+
+INSERT INTO MintCoinAttribute VALUES(681, 1006, 1.35);
+
+INSERT INTO MintCoinAttribute VALUES(682, 1007, 1.35);
+
+INSERT INTO MintCoinAttribute VALUES(683, 1008, 1.35);
+
+INSERT INTO MintCoinAttribute VALUES(684, 1009, 1.35);
+
+INSERT INTO MintCoinAttribute VALUES(685, 1010, 1.35);
+
+INSERT INTO MintCoinAttribute VALUES(686, 1011, 1.35);
+
+INSERT INTO MintCoinAttribute VALUES(687, 1026, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(688, 1027, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(689, 1028, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(690, 1029, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(691, 1030, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(692, 1031, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(693, 1032, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(694, 1033, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(695, 1034, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(696, 1035, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(697, 1036, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(698, 1037, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(699, 1038, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(700, 1039, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(701, 1040, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(702, 1041, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(703, 1042, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(704, 1043, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(705, 1044, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(706, 1045, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(707, 1046, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(708, 1047, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(709, 1048, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(710, 1049, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(711, 1050, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(712, 1051, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(713, 1052, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(714, 1053, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(715, 1054, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(716, 1055, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(717, 1056, 1.34);
+
+INSERT INTO MintCoinAttribute VALUES(718, 1057, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(719, 1058, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(720, 1059, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(721, 1060, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(722, 1061, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(723, 1062, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(724, 1072, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(725, 1073, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(726, 1074, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(727, 1075, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(728, 1076, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(729, 1077, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(730, 1078, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(731, 1079, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(732, 1080, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(733, 1081, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(734, 1082, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(735, 1083, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(736, 1084, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(737, 1085, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(738, 1086, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(739, 1087, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(740, 1088, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(741, 1089, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(742, 1090, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(743, 1091, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(744, 1092, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(745, 1093, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(746, 1094, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(747, 1095, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(748, 1096, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(749, 1097, 1.24);
+
+INSERT INTO MintCoinAttribute VALUES(750, 111, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(751, 112, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(752, 113, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(753, 114, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(754, 118, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(755, 115, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(756, 116, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(757, 117, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(758, 119, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(759, 120, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(760, 121, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(761, 122, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(762, 123, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(763, 124, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(764, 125, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(765, 85, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(766, 86, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(767, 87, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(768, 88, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(769, 89, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(770, 90, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(771, 91, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(772, 92, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(773, 93, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(774, 94, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(775, 95, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(776, 96, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(777, 97, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(778, 98, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(779, 99, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(780, 100, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(781, 101, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(782, 102, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(783, 103, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(784, 104, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(785, 105, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(786, 106, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(787, 107, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(788, 108, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(789, 109, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(790, 110, 2.7);
+
+INSERT INTO MintCoinAttribute VALUES(791, 126, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(792, 127, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(793, 128, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(794, 129, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(795, 130, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(796, 131, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(797, 132, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(798, 133, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(799, 134, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(800, 135, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(801, 136, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(802, 137, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(803, 138, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(804, 139, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(805, 140, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(806, 141, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(807, 142, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(808, 143, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(809, 144, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(810, 145, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(811, 146, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(812, 147, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(813, 148, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(814, 149, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(815, 150, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(816, 151, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(817, 152, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(818, 153, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(819, 154, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(820, 155, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(821, 156, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(822, 157, 2.67);
+
+INSERT INTO MintCoinAttribute VALUES(823, 158, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(824, 159, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(825, 160, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(826, 161, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(827, 162, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(828, 163, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(829, 164, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(830, 165, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(831, 168, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(832, 169, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(833, 170, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(834, 172, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(835, 171, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(836, 173, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(837, 175, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(838, 174, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(839, 176, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(840, 177, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(841, 178, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(842, 179, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(843, 180, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(844, 181, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(845, 182, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(846, 183, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(847, 184, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(848, 185, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(849, 186, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(850, 187, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(851, 188, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(852, 189, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(853, 190, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(854, 191, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(855, 192, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(856, 193, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(857, 194, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(858, 195, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(859, 196, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(860, 197, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(861, 198, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(862, 200, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(863, 199, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(864, 201, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(865, 203, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(866, 202, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(867, 204, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(868, 207, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(869, 205, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(870, 206, 2.49);
+
+INSERT INTO MintCoinAttribute VALUES(871, 209, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(872, 208, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(873, 210, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(874, 212, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(875, 211, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(876, 213, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(877, 215, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(878, 214, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(879, 216, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(880, 218, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(881, 217, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(882, 219, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(883, 221, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(884, 220, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(885, 222, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(886, 224, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(887, 223, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(888, 225, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(889, 226, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(890, 227, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(891, 228, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(892, 229, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(893, 230, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(894, 231, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(895, 232, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(896, 233, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(897, 234, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(898, 235, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(899, 236, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(900, 237, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(901, 238, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(902, 239, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(903, 240, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(904, 241, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(905, 242, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(906, 243, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(907, 244, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(908, 246, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(909, 245, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(910, 9, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(911, 11, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(912, 10, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(913, 13, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(914, 15, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(915, 14, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(916, 12, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(917, 16, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(918, 18, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(919, 17, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(920, 19, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(921, 21, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(922, 20, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(923, 22, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(924, 24, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(925, 23, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(926, 25, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(927, 27, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(928, 26, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(929, 28, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(930, 30, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(931, 29, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(932, 31, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(933, 33, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(934, 32, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(935, 34, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(936, 36, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(937, 35, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(938, 37, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(939, 39, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(940, 38, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(941, 40, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(942, 42, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(943, 41, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(944, 43, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(945, 45, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(946, 44, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(947, 46, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(948, 47, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(949, 48, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(950, 50, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(951, 49, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(952, 51, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(953, 54, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(954, 52, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(955, 53, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(956, 55, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(957, 58, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(958, 56, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(959, 57, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(960, 59, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(961, 62, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(962, 60, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(963, 61, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(964, 63, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(965, 66, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(966, 64, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(967, 65, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(968, 67, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(969, 69, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(970, 68, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(971, 70, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(972, 72, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(973, 71, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(974, 73, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(975, 75, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(976, 74, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(977, 76, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(978, 77, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(979, 78, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(980, 80, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(981, 79, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(982, 81, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(983, 82, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(984, 83, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(985, 84, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(986, 458, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(987, 460, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(988, 459, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(989, 461, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(990, 463, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(991, 462, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(992, 464, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(993, 466, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(994, 465, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(995, 467, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(996, 469, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(997, 468, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(998, 470, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(999, 472, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1000, 471, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1001, 473, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1002, 474, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1003, 475, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1004, 476, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1005, 477, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1006, 479, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1007, 478, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1008, 480, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1009, 482, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1010, 481, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1011, 483, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1012, 485, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1013, 484, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1014, 486, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1015, 488, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1016, 487, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1017, 489, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1018, 491, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1019, 490, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1020, 492, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1021, 494, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1022, 493, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1023, 495, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1024, 496, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1025, 497, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1026, 499, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1027, 498, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1028, 500, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1029, 501, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1030, 502, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1031, 504, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1032, 503, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1033, 505, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1034, 507, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1035, 506, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1036, 508, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1037, 510, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1038, 509, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1039, 511, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1040, 513, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1041, 512, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1042, 514, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1043, 516, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1044, 515, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1045, 517, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1046, 519, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1047, 518, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1048, 520, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1049, 522, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1050, 521, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1051, 524, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1052, 527, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1053, 526, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1054, 523, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1055, 525, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1056, 528, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1057, 530, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1058, 529, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1059, 531, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1060, 533, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1061, 532, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1062, 534, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1063, 536, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1064, 535, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1065, 537, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1066, 247, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1067, 249, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1068, 248, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1069, 250, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1070, 252, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1071, 251, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1072, 253, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1073, 255, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1074, 254, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1075, 256, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1076, 258, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1077, 257, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1078, 259, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1079, 261, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1080, 260, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1081, 262, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1082, 264, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1083, 263, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1084, 265, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1085, 267, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1086, 266, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1087, 268, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1088, 270, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1089, 269, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1090, 271, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1091, 273, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1092, 272, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1093, 274, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1094, 276, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1095, 275, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1096, 277, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1097, 278, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1098, 279, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1099, 280, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1100, 281, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1101, 282, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1102, 283, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1103, 284, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1104, 285, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1105, 286, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1106, 287, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1107, 288, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1108, 289, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1109, 290, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1110, 291, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1111, 292, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1112, 293, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1113, 294, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1114, 295, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1115, 296, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1116, 297, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1117, 298, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1118, 300, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1119, 299, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1120, 301, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1121, 303, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1122, 302, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1123, 304, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1124, 306, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1125, 305, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1126, 307, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1127, 309, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1128, 308, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1129, 310, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1130, 312, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1131, 311, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1132, 313, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1133, 315, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1134, 314, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1135, 316, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1136, 318, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1137, 317, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1138, 319, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1139, 321, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1140, 320, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1141, 322, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1142, 324, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1143, 323, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1144, 325, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1145, 327, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1146, 326, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1147, 328, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1148, 330, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1149, 329, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1150, 331, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1151, 332, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1152, 333, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1153, 334, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1154, 335, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1155, 337, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1156, 336, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1157, 338, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1158, 339, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1159, 340, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1160, 341, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1161, 342, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1162, 343, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1163, 345, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1164, 344, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1165, 346, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1166, 348, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1167, 347, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1168, 349, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1169, 351, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1170, 350, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1171, 352, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1172, 354, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1173, 353, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1174, 355, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1175, 357, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1176, 356, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1177, 358, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1178, 360, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1179, 359, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1180, 361, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1181, 363, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1182, 362, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1183, 364, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1184, 366, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1185, 365, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1186, 367, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1187, 369, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1188, 368, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1189, 370, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1190, 372, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1191, 371, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1192, 373, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1193, 375, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1194, 374, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1195, 376, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1196, 377, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1197, 379, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1198, 378, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1199, 380, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1200, 381, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1201, 383, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1202, 382, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1203, 384, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1204, 385, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1205, 387, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1206, 386, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1207, 388, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1208, 389, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1209, 392, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1210, 390, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1211, 391, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1212, 393, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1213, 394, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1214, 396, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1215, 395, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1216, 397, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1217, 398, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1218, 400, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1219, 399, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1220, 401, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1221, 402, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1222, 404, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1223, 403, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1224, 405, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1225, 406, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1226, 408, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1227, 407, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1228, 409, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1229, 410, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1230, 412, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1231, 411, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1232, 413, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1233, 414, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1234, 416, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1235, 415, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1236, 417, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1237, 418, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1238, 420, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1239, 419, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1240, 421, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1241, 422, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1242, 424, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1243, 423, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1244, 425, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1245, 426, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1246, 428, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1247, 427, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1248, 429, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1249, 430, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1250, 432, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1251, 431, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1252, 433, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1253, 434, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1254, 436, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1255, 435, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1256, 437, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1257, 438, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1258, 440, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1259, 439, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1260, 441, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1261, 442, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1262, 444, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1263, 443, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1264, 445, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1265, 446, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1266, 448, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1267, 447, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1268, 449, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1269, 450, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1270, 452, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1271, 451, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1272, 453, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1273, 454, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1274, 456, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1275, 455, 2.27);
+
+INSERT INTO MintCoinAttribute VALUES(1276, 457, 2.5);
+
+INSERT INTO MintCoinAttribute VALUES(1277, 3882, 5);
+
+INSERT INTO MintCoinAttribute VALUES(1278, 3881, 5);
+
+INSERT INTO MintCoinAttribute VALUES(1279, 3883, 5);
+
+INSERT INTO MintCoinAttribute VALUES(1280, 3885, 5);
+
+INSERT INTO MintCoinAttribute VALUES(1281, 3884, 5);
+
+INSERT INTO MintCoinAttribute VALUES(1282, 3886, 5);
+
+INSERT INTO MintCoinAttribute VALUES(1283, 3887, 5);
+
+INSERT INTO MintCoinAttribute VALUES(1284, 2477, 6.74);
+
+INSERT INTO MintCoinAttribute VALUES(1285, 2478, 6.74);
+
+INSERT INTO MintCoinAttribute VALUES(1286, 2479, 6.74);
+
+INSERT INTO MintCoinAttribute VALUES(1287, 2481, 6.74);
+
+INSERT INTO MintCoinAttribute VALUES(1288, 2480, 6.74);
+
+INSERT INTO MintCoinAttribute VALUES(1289, 2482, 6.74);
+
+INSERT INTO MintCoinAttribute VALUES(1290, 2454, 7.74);
+
+INSERT INTO MintCoinAttribute VALUES(1291, 2455, 7.74);
+
+INSERT INTO MintCoinAttribute VALUES(1292, 2456, 7.74);
+
+INSERT INTO MintCoinAttribute VALUES(1293, 2457, 7.74);
+
+INSERT INTO MintCoinAttribute VALUES(1294, 2458, 7.74);
+
+INSERT INTO MintCoinAttribute VALUES(1295, 2459, 7.74);
+
+INSERT INTO MintCoinAttribute VALUES(1296, 2460, 7.74);
+
+INSERT INTO MintCoinAttribute VALUES(1297, 2461, 7.74);
+
+INSERT INTO MintCoinAttribute VALUES(1298, 2462, 7.74);
+
+INSERT INTO MintCoinAttribute VALUES(1299, 2463, 7.74);
+
+INSERT INTO MintCoinAttribute VALUES(1300, 2464, 7.74);
+
+INSERT INTO MintCoinAttribute VALUES(1301, 2465, 7.74);
+
+INSERT INTO MintCoinAttribute VALUES(1302, 2466, 7.74);
+
+INSERT INTO MintCoinAttribute VALUES(1303, 2467, 7.74);
+
+INSERT INTO MintCoinAttribute VALUES(1304, 2468, 7.74);
+
+INSERT INTO MintCoinAttribute VALUES(1305, 2469, 7.74);
+
+INSERT INTO MintCoinAttribute VALUES(1306, 2470, 7.74);
+
+INSERT INTO MintCoinAttribute VALUES(1307, 2471, 7.74);
+
+INSERT INTO MintCoinAttribute VALUES(1308, 2472, 7.74);
+
+INSERT INTO MintCoinAttribute VALUES(1309, 2473, 7.74);
+
+INSERT INTO MintCoinAttribute VALUES(1310, 2474, 7.74);
+
+INSERT INTO MintCoinAttribute VALUES(1311, 2475, 7.74);
+
+INSERT INTO MintCoinAttribute VALUES(1312, 2476, 7.74);
+
+INSERT INTO MintCoinAttribute VALUES(1313, 2483, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1314, 2484, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1315, 2485, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1316, 2486, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1317, 2487, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1318, 2488, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1319, 2491, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1320, 2490, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1321, 2492, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1322, 2493, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1323, 2494, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1324, 2495, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1325, 2496, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1326, 2497, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1327, 2498, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1328, 2499, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1329, 2500, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1330, 2501, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1331, 2502, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1332, 2503, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1333, 2504, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1334, 2505, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1335, 2506, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1336, 2507, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1337, 2508, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1338, 2509, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1339, 2511, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1340, 2513, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1341, 2512, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1342, 2514, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1343, 2515, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1344, 2516, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1345, 2518, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1346, 2517, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1347, 2519, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1348, 2521, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1349, 2520, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1350, 2522, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1351, 2524, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1352, 2523, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1353, 2525, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1354, 2527, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1355, 2526, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1356, 2528, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1357, 2530, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1358, 2529, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1359, 2531, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1360, 2533, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1361, 2532, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1362, 2534, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1363, 2535, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1364, 2536, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1365, 2537, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1366, 2538, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1367, 2539, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1368, 2540, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1369, 2541, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1370, 2542, 6.68);
+
+INSERT INTO MintCoinAttribute VALUES(1371, 2543, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1372, 2544, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1373, 2545, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1374, 2546, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1375, 2547, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1376, 2548, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1377, 2549, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1378, 2550, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1379, 2552, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1380, 2551, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1381, 2554, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1382, 2553, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1383, 2555, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1384, 2557, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1385, 2556, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1386, 2558, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1387, 2560, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1388, 2559, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1389, 2562, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1390, 2561, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1391, 2563, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1392, 2564, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1393, 2565, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1394, 2567, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1395, 2566, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1396, 2568, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1397, 2570, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1398, 2569, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1399, 2571, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1400, 2573, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1401, 2572, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1402, 2574, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1403, 2575, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1404, 2577, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1405, 2576, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1406, 2578, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1407, 2579, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1408, 2580, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1409, 2581, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1410, 2582, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1411, 2583, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1412, 2584, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1413, 2585, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1414, 2586, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1415, 2587, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1416, 2588, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1417, 2589, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1418, 2590, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1419, 2591, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1420, 2592, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1421, 2594, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1422, 2593, 6.22);
+
+INSERT INTO MintCoinAttribute VALUES(1423, 2380, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1424, 2382, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1425, 2381, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1426, 2383, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1427, 2385, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1428, 2384, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1429, 2386, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1430, 2388, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1431, 2387, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1432, 2389, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1433, 2391, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1434, 2390, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1435, 2392, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1436, 2394, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1437, 2393, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1438, 2395, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1439, 2397, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1440, 2396, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1441, 2398, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1442, 2400, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1443, 2399, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1444, 2401, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1445, 2403, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1446, 2402, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1447, 2404, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1448, 2406, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1449, 2405, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1450, 2407, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1451, 2409, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1452, 2408, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1453, 2410, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1454, 2412, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1455, 2411, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1456, 2413, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1457, 2415, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1458, 2414, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1459, 2416, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1460, 2417, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1461, 2418, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1462, 2420, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1463, 2419, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1464, 2421, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1465, 2422, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1466, 2423, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1467, 2424, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1468, 2427, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1469, 2425, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1470, 2426, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1471, 2428, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1472, 2431, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1473, 2429, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1474, 2430, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1475, 2432, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1476, 2435, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1477, 2433, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1478, 2434, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1479, 2436, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1480, 2437, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1481, 2438, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1482, 2440, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1483, 2439, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1484, 2441, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1485, 2442, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1486, 2443, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1487, 2445, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1488, 2444, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1489, 2446, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1490, 2448, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1491, 2447, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1492, 2449, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1493, 2451, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1494, 2450, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1495, 2452, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1496, 2453, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1497, 2595, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1498, 2596, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1499, 2598, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1500, 2597, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1501, 2602, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1502, 2603, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1503, 2604, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1504, 2605, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1505, 2606, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1506, 2608, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1507, 2607, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1508, 2609, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1509, 2611, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1510, 2610, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1511, 2612, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1512, 2613, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1513, 2614, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1514, 2615, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1515, 2617, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1516, 2616, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1517, 2618, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1518, 2619, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1519, 2621, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1520, 2620, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1521, 2622, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1522, 2624, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1523, 2623, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1524, 2625, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1525, 2627, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1526, 2626, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1527, 2628, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1528, 2630, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1529, 2629, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1530, 2631, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1531, 2632, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1532, 2633, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1533, 2635, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1534, 2634, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1535, 2636, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1536, 2637, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1537, 2638, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1538, 2640, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1539, 2639, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1540, 2641, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1541, 2643, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1542, 2642, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1543, 2644, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1544, 2646, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1545, 2645, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1546, 2647, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1547, 2648, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1548, 2649, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1549, 2651, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1550, 2650, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1551, 2652, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1552, 2654, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1553, 2653, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1554, 2655, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1555, 2657, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1556, 2656, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1557, 2658, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1558, 2660, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1559, 2659, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1560, 2661, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1561, 2663, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1562, 2662, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1563, 2664, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1564, 2666, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1565, 2665, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1566, 2667, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1567, 2669, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1568, 2668, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1569, 2670, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1570, 2672, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1571, 2671, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1572, 2673, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1573, 2675, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1574, 2674, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1575, 2676, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1576, 2678, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1577, 2677, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1578, 2679, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1579, 2680, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1580, 2681, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1581, 2684, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1582, 2682, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1583, 2683, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1584, 2685, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1585, 2686, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1586, 2688, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1587, 2687, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1588, 2689, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1589, 2691, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1590, 2690, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1591, 2692, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1592, 2694, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1593, 2693, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1594, 2695, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1595, 2697, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1596, 2696, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1597, 2698, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1598, 2699, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1599, 2700, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1600, 2701, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1601, 2702, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1602, 2703, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1603, 2704, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1604, 2705, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1605, 2706, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1606, 2707, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1607, 2708, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1608, 2709, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1609, 2710, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1610, 2711, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1611, 2712, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1612, 2713, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1613, 2714, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1614, 2715, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1615, 2716, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1616, 2717, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1617, 2718, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1618, 2719, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1619, 2720, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1620, 2721, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1621, 2723, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1622, 2722, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1623, 2724, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1624, 2726, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1625, 2725, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1626, 2727, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1627, 2729, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1628, 2728, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1629, 2730, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1630, 2732, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1631, 2731, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1632, 2733, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1633, 2735, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1634, 2734, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1635, 2736, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1636, 2738, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1637, 2737, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1638, 2739, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1639, 2741, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1640, 2740, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1641, 2742, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1642, 2744, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1643, 2743, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1644, 2745, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1645, 2746, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1646, 2748, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1647, 2747, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1648, 2749, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1649, 2751, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1650, 2750, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1651, 2752, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1652, 2753, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1653, 2754, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1654, 2755, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1655, 2756, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1656, 2758, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1657, 2757, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1658, 2759, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1659, 2760, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1660, 2761, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1661, 2762, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1662, 2763, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1663, 2765, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1664, 2764, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1665, 2766, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1666, 2768, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1667, 2767, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1668, 2769, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1669, 2771, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1670, 2770, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1671, 2772, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1672, 2774, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1673, 2773, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1674, 2775, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1675, 2777, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1676, 2776, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1677, 2778, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1678, 2780, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1679, 2779, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1680, 2781, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1681, 2783, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1682, 2782, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1683, 2784, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1684, 2786, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1685, 2785, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1686, 2787, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1687, 2789, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1688, 2788, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1689, 2790, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1690, 2792, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1691, 2791, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1692, 2793, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1693, 2795, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1694, 2794, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1695, 2796, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1696, 2797, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1697, 2799, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1698, 2798, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1699, 2800, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1700, 2801, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1701, 2803, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1702, 2802, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1703, 2804, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1704, 2805, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1705, 2807, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1706, 2806, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1707, 2808, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1708, 2809, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1709, 2811, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1710, 2810, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1711, 2812, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1712, 2813, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1713, 2815, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1714, 2814, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1715, 2816, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1716, 2817, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1717, 2819, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1718, 2818, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1719, 2820, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1720, 2821, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1721, 2823, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1722, 2822, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1723, 2824, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1724, 2825, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1725, 2827, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1726, 2826, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1727, 2828, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1728, 2829, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1729, 2831, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1730, 2830, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1731, 2832, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1732, 2833, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1733, 2835, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1734, 2834, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1735, 2836, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1736, 2837, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1737, 2839, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1738, 2838, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1739, 2840, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1740, 2841, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1741, 2843, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1742, 2842, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1743, 2844, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1744, 2845, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1745, 2847, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1746, 2846, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1747, 2848, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1748, 2849, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1749, 2851, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1750, 2850, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1751, 2852, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1752, 2853, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1753, 2855, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1754, 2854, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1755, 2856, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1756, 2857, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1757, 2859, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1758, 2858, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1759, 2860, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1760, 2861, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1761, 2863, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1762, 2862, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1763, 2864, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1764, 2865, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1765, 2867, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1766, 2866, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1767, 2868, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1768, 2869, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1769, 2871, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1770, 2870, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1771, 2872, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1772, 2873, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1773, 2875, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1774, 2874, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1775, 2876, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1776, 2877, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1777, 2879, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1778, 2878, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1779, 2880, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1780, 2881, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1781, 2883, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1782, 2882, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1783, 2884, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1784, 2885, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1785, 2887, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1786, 2886, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1787, 2888, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1788, 2889, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1789, 2891, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1790, 2890, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1791, 2892, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1792, 2893, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1793, 2895, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1794, 2894, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1795, 2896, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1796, 2897, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1797, 2899, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1798, 2898, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1799, 2900, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1800, 2901, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1801, 2903, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1802, 2902, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1803, 2904, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1804, 2905, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1805, 2907, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1806, 2906, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1807, 2908, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1808, 2909, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1809, 2911, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1810, 2910, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1811, 2912, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1812, 2913, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1813, 2915, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1814, 2914, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1815, 2916, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1816, 2917, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1817, 2919, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1818, 2918, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1819, 2920, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1820, 2921, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1821, 2923, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1822, 2922, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1823, 2924, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1824, 2925, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1825, 2927, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1826, 2926, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1827, 2928, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1828, 2929, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1829, 2931, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1830, 2930, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1831, 2932, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1832, 2933, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1833, 2935, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1834, 2934, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1835, 2936, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1836, 2937, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1837, 2939, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1838, 2938, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1839, 2940, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1840, 2941, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1841, 2943, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1842, 2942, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1843, 2944, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1844, 2945, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1845, 2947, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1846, 2946, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1847, 2948, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1848, 2949, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1849, 2951, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1850, 2950, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1851, 2952, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1852, 2953, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1853, 2955, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1854, 2954, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1855, 2956, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1856, 2957, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1857, 2959, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1858, 2958, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1859, 2960, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1860, 2961, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1861, 2963, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1862, 2962, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1863, 2964, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1864, 2965, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1865, 2967, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1866, 2966, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1867, 2968, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1868, 2969, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1869, 2971, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1870, 2970, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1871, 2972, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1872, 2973, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1873, 2975, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1874, 2974, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1875, 2976, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1876, 2977, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1877, 2979, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1878, 2978, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1879, 2980, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1880, 2981, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1881, 2983, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1882, 2982, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1883, 2984, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1884, 2985, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1885, 2987, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1886, 2986, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1887, 2988, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1888, 2989, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1889, 2991, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1890, 2990, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1891, 2992, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1892, 2993, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1893, 2995, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1894, 2994, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1895, 2996, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1896, 2997, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1897, 2999, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1898, 2998, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1899, 3000, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1900, 3001, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1901, 3003, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1902, 3002, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1903, 3004, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1904, 3005, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1905, 3007, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1906, 3006, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1907, 3008, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1908, 3009, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1909, 3011, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1910, 3010, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1911, 3012, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1912, 3013, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1913, 3015, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1914, 3014, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1915, 3016, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1916, 3017, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1917, 3019, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1918, 3018, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1919, 3020, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1920, 3021, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1921, 3023, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1922, 3022, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1923, 3024, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1924, 3025, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1925, 3027, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1926, 3026, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1927, 3028, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1928, 3029, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1929, 3031, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1930, 3030, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1931, 3032, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1932, 3033, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1933, 3035, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1934, 3034, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1935, 3036, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1936, 3037, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1937, 3039, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1938, 3038, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1939, 3040, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1940, 3041, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1941, 3043, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1942, 3042, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1943, 3044, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1944, 3045, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1945, 3047, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1946, 3046, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1947, 3048, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1948, 3049, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1949, 3051, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1950, 3050, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1951, 3052, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1952, 3053, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1953, 3055, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1954, 3054, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1955, 3056, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1956, 3057, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1957, 3059, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1958, 3058, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1959, 3060, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1960, 3061, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1961, 3063, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1962, 3062, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1963, 3064, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1964, 3065, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1965, 3067, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1966, 3066, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1967, 3068, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1968, 3069, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1969, 3071, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1970, 3070, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1971, 3072, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1972, 3073, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1973, 3075, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1974, 3074, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1975, 3076, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1976, 3077, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1977, 3079, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1978, 3078, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1979, 3080, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1980, 3081, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1981, 3083, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1982, 3082, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1983, 3084, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1984, 3085, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1985, 3087, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1986, 3086, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1987, 3088, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1988, 3089, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1989, 3091, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1990, 3090, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1991, 3092, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1992, 3093, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1993, 3095, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1994, 3094, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1995, 3096, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(1996, 3097, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1997, 3099, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1998, 3098, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(1999, 3100, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(2000, 3101, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(2001, 3103, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(2002, 3102, 5.67);
+
+INSERT INTO MintCoinAttribute VALUES(2003, 3104, 6.25);
+
+INSERT INTO MintCoinAttribute VALUES(2004, 1244, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2005, 1245, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2006, 1246, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2007, 1247, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2008, 1229, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2009, 1230, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2010, 1231, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2011, 1232, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2012, 1233, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2013, 1234, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2014, 1235, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2015, 1236, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2016, 1237, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2017, 1238, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2018, 1239, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2019, 1240, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2020, 1241, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2021, 1242, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2022, 1243, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2023, 1171, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2024, 1173, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2025, 1172, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2026, 1174, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2027, 1175, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2028, 1176, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2029, 1179, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2030, 1177, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2031, 1178, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2032, 1180, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2033, 1181, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2034, 1184, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2035, 1182, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2036, 1183, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2037, 1185, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2038, 1190, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2039, 1186, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2040, 1187, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2041, 1188, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2042, 1189, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2043, 1192, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2044, 1191, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2045, 1194, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2046, 1193, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2047, 1196, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2048, 1195, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2049, 1197, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2050, 1198, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2051, 1199, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2052, 1203, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2053, 1200, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2054, 1201, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2055, 1202, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2056, 1204, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2057, 1205, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2058, 1208, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2059, 1206, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2060, 1207, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2061, 1209, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2062, 1210, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2063, 1211, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2064, 1212, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2065, 1214, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2066, 1213, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2067, 1215, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2068, 1216, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2069, 1217, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2070, 1218, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2071, 1219, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2072, 1220, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2073, 1221, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2074, 1222, 13.48);
+
+INSERT INTO MintCoinAttribute VALUES(2075, 1223, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2076, 1224, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2077, 1225, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2078, 1226, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2079, 1227, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2080, 1228, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2081, 1443, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2082, 1444, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2083, 1445, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2084, 1446, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2085, 1447, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2086, 1448, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2087, 1449, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2088, 1451, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2089, 1450, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2090, 1452, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2091, 1453, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2092, 1454, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2093, 1455, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2094, 1456, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2095, 1457, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2096, 1458, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2097, 1459, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2098, 1461, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2099, 1460, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2100, 1462, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2101, 1463, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2102, 1464, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2103, 1465, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2104, 1466, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2105, 1467, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2106, 1468, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2107, 1469, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2108, 1470, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2109, 1471, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2110, 1472, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2111, 1473, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2112, 1474, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2113, 1475, 12.44);
+
+INSERT INTO MintCoinAttribute VALUES(2114, 1476, 12.44);
+
+INSERT INTO MintCoinAttribute VALUES(2115, 1477, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2116, 1478, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2117, 1479, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2118, 1480, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2119, 1482, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2120, 1481, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2121, 1483, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2122, 1485, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2123, 1484, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2124, 1486, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2125, 1488, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2126, 1487, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2127, 1489, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2128, 1491, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2129, 1490, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2130, 1492, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2131, 1494, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2132, 1493, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2133, 1495, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2134, 1497, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2135, 1496, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2136, 1498, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2137, 1500, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2138, 1499, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2139, 1501, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2140, 1502, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2141, 1503, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2142, 1504, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2143, 1505, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2144, 1506, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2145, 1507, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2146, 1508, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2147, 1509, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2148, 1510, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2149, 1511, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2150, 1512, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2151, 1513, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2152, 1514, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2153, 1515, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2154, 1516, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2155, 1517, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2156, 1519, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2157, 1518, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2158, 1520, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2159, 1522, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2160, 1521, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2161, 1523, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2162, 1525, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2163, 1524, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2164, 1526, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2165, 1528, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2166, 1527, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2167, 1530, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2168, 1529, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2169, 1531, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2170, 1533, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2171, 1532, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2172, 1534, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2173, 1536, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2174, 1535, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2175, 1537, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2176, 1539, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2177, 1538, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2178, 1540, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2179, 1542, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2180, 1541, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2181, 1543, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2182, 1545, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2183, 1544, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2184, 1546, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2185, 1547, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2186, 1548, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2187, 1549, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2188, 1550, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2189, 1551, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2190, 1552, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2191, 1553, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2192, 1554, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2193, 1555, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2194, 1556, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2195, 1557, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2196, 1558, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2197, 1559, 13.36);
+
+INSERT INTO MintCoinAttribute VALUES(2198, 1098, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2199, 1100, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2200, 1099, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2201, 1101, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2202, 1103, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2203, 1102, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2204, 1104, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2205, 1106, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2206, 1105, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2207, 1107, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2208, 1109, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2209, 1108, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2210, 1110, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2211, 1112, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2212, 1111, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2213, 1113, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2214, 1115, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2215, 1114, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2216, 1116, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2217, 1118, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2218, 1117, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2219, 1119, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2220, 1121, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2221, 1120, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2222, 1122, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2223, 1124, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2224, 1123, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2225, 1125, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2226, 1127, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2227, 1126, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2228, 1128, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2229, 1130, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2230, 1129, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2231, 1131, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2232, 1133, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2233, 1132, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2234, 1134, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2235, 1136, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2236, 1135, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2237, 1137, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2238, 1139, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2239, 1138, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2240, 1140, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2241, 1143, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2242, 1141, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2243, 1142, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2244, 1144, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2245, 1147, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2246, 1145, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2247, 1146, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2248, 1148, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2249, 1151, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2250, 1149, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2251, 1150, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2252, 1152, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2253, 1154, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2254, 1153, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2255, 1155, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2256, 1156, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2257, 1157, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2258, 1159, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2259, 1158, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2260, 1160, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2261, 1162, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2262, 1161, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2263, 1163, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2264, 1165, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2265, 1164, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2266, 1166, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2267, 1167, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2268, 1168, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2269, 1170, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2270, 1169, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2271, 1560, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2272, 1562, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2273, 1561, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2274, 1563, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2275, 1566, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2276, 1564, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2277, 1567, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2278, 1565, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2279, 1568, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2280, 1570, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2281, 1569, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2282, 1571, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2283, 1573, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2284, 1572, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2285, 1574, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2286, 1576, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2287, 1575, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2288, 1577, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2289, 1579, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2290, 1578, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2291, 1580, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2292, 1581, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2293, 1582, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2294, 1584, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2295, 1583, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2296, 1585, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2297, 1586, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2298, 1588, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2299, 1587, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2300, 1589, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2301, 1591, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2302, 1590, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2303, 1592, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2304, 1594, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2305, 1593, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2306, 1595, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2307, 1597, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2308, 1596, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2309, 1598, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2310, 1599, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2311, 1600, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2312, 1602, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2313, 1601, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2314, 1603, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2315, 1604, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2316, 1605, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2317, 1607, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2318, 1606, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2319, 1608, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2320, 1610, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2321, 1609, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2322, 1611, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2323, 1613, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2324, 1612, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2325, 1614, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2326, 1616, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2327, 1615, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2328, 1617, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2329, 1619, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2330, 1618, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2331, 1620, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2332, 1622, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2333, 1621, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2334, 1623, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2335, 1624, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2336, 1248, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2337, 1249, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2338, 1250, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2339, 1252, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2340, 1251, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2341, 1253, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2342, 1254, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2343, 1255, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2344, 1257, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2345, 1256, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2346, 1258, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2347, 1260, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2348, 1259, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2349, 1261, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2350, 1263, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2351, 1262, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2352, 1264, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2353, 1266, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2354, 1265, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2355, 1267, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2356, 1268, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2357, 1269, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2358, 1270, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2359, 1271, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2360, 1272, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2361, 1273, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2362, 1274, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2363, 1275, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2364, 1276, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2365, 1277, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2366, 1278, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2367, 1279, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2368, 1280, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2369, 1281, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2370, 1282, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2371, 1283, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2372, 1284, 12.5);
+
+INSERT INTO MintCoinAttribute VALUES(2373, 1285, 11.5);
+
+INSERT INTO MintCoinAttribute VALUES(2374, 1287, 11.5);
+
+INSERT INTO MintCoinAttribute VALUES(2375, 1289, 11.5);
+
+INSERT INTO MintCoinAttribute VALUES(2376, 1288, 11.5);
+
+INSERT INTO MintCoinAttribute VALUES(2377, 1291, 11.5);
+
+INSERT INTO MintCoinAttribute VALUES(2378, 1290, 11.5);
+
+INSERT INTO MintCoinAttribute VALUES(2379, 1293, 11.5);
+
+INSERT INTO MintCoinAttribute VALUES(2380, 1292, 11.5);
+
+INSERT INTO MintCoinAttribute VALUES(2381, 1294, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2382, 1296, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2383, 1295, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2384, 1297, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2385, 1299, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2386, 1298, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2387, 1300, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2388, 1302, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2389, 1301, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2390, 1303, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2391, 1305, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2392, 1304, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2393, 1306, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2394, 1308, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2395, 1307, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2396, 1311, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2397, 1313, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2398, 1312, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2399, 1314, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2400, 1316, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2401, 1315, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2402, 1317, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2403, 1318, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2404, 1319, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2405, 1320, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2406, 1321, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2407, 1323, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2408, 1322, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2409, 1324, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2410, 1325, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2411, 1326, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2412, 1327, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2413, 1328, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2414, 1330, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2415, 1329, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2416, 1331, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2417, 1333, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2418, 1332, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2419, 1334, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2420, 1336, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2421, 1335, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2422, 1337, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2423, 1339, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2424, 1338, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2425, 1340, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2426, 1342, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2427, 1341, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2428, 1343, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2429, 1345, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2430, 1344, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2431, 1346, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2432, 1348, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2433, 1347, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2434, 1349, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2435, 1351, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2436, 1350, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2437, 1352, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2438, 1354, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2439, 1353, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2440, 1355, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2441, 1357, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2442, 1356, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2443, 1358, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2444, 1360, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2445, 1359, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2446, 1362, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2447, 1364, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2448, 1363, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2449, 1366, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2450, 1368, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2451, 1367, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2452, 1370, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2453, 1372, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2454, 1371, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2455, 1374, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2456, 1376, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2457, 1375, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2458, 1378, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2459, 1380, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2460, 1379, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2461, 1382, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2462, 1384, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2463, 1383, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2464, 1387, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2465, 1389, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2466, 1388, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2467, 1391, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2468, 1393, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2469, 1392, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2470, 1395, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2471, 1397, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2472, 1396, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2473, 1399, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2474, 1401, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2475, 1400, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2476, 1403, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2477, 1405, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2478, 1404, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2479, 1407, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2480, 1409, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2481, 1408, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2482, 1411, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2483, 1413, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2484, 1412, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2485, 1415, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2486, 1417, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2487, 1416, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2488, 1419, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2489, 1421, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2490, 1420, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2491, 1423, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2492, 1425, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2493, 1424, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2494, 1427, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2495, 1429, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2496, 1428, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2497, 1431, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2498, 1433, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2499, 1432, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2500, 1435, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2501, 1437, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2502, 1436, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2503, 1439, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2504, 1441, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2505, 1440, 11.34);
+
+INSERT INTO MintCoinAttribute VALUES(2506, 3333, 26.96);
+
+INSERT INTO MintCoinAttribute VALUES(2507, 3334, 26.96);
+
+INSERT INTO MintCoinAttribute VALUES(2508, 3293, 26.96);
+
+INSERT INTO MintCoinAttribute VALUES(2509, 3294, 26.96);
+
+INSERT INTO MintCoinAttribute VALUES(2510, 3295, 26.96);
+
+INSERT INTO MintCoinAttribute VALUES(2511, 3296, 26.96);
+
+INSERT INTO MintCoinAttribute VALUES(2512, 3297, 26.96);
+
+INSERT INTO MintCoinAttribute VALUES(2513, 3298, 26.96);
+
+INSERT INTO MintCoinAttribute VALUES(2514, 3299, 26.96);
+
+INSERT INTO MintCoinAttribute VALUES(2515, 3300, 26.96);
+
+INSERT INTO MintCoinAttribute VALUES(2516, 3301, 26.96);
+
+INSERT INTO MintCoinAttribute VALUES(2517, 3302, 26.96);
+
+INSERT INTO MintCoinAttribute VALUES(2518, 3303, 26.96);
+
+INSERT INTO MintCoinAttribute VALUES(2519, 3304, 26.96);
+
+INSERT INTO MintCoinAttribute VALUES(2520, 3335, 26.8);
+
+INSERT INTO MintCoinAttribute VALUES(2521, 3336, 26.8);
+
+INSERT INTO MintCoinAttribute VALUES(2522, 3337, 26.8);
+
+INSERT INTO MintCoinAttribute VALUES(2523, 3338, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2524, 3339, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2525, 3340, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2526, 3341, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2527, 3342, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2528, 3343, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2529, 3344, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2530, 3345, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2531, 3346, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2532, 3347, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2533, 3348, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2534, 3349, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2535, 3350, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2536, 3351, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2537, 3352, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2538, 3353, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2539, 3354, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2540, 3355, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2541, 3356, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2542, 3357, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2543, 3358, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2544, 3359, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2545, 3361, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2546, 3360, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2547, 3362, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2548, 3363, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2549, 3364, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2550, 3365, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2551, 3366, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2552, 3367, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2553, 3368, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2554, 3369, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2555, 3370, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2556, 3371, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2557, 3372, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2558, 3374, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2559, 3373, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2560, 3375, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2561, 3377, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2562, 3376, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2563, 3379, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2564, 3378, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2565, 3380, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2566, 3382, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2567, 3381, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2568, 3635, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2569, 3634, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2570, 3636, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2571, 3638, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2572, 3637, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2573, 3639, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2574, 3641, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2575, 3640, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2576, 3642, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2577, 3643, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2578, 3645, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2579, 3644, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2580, 3646, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2581, 3648, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2582, 3647, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2583, 3649, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2584, 3651, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2585, 3650, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2586, 3652, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2587, 3653, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2588, 3654, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2589, 3655, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2590, 3656, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2591, 3657, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2592, 3658, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2593, 3659, 27.22);
+
+INSERT INTO MintCoinAttribute VALUES(2594, 3386, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2595, 3387, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2596, 3383, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2597, 3384, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2598, 3385, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2599, 3388, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2600, 3391, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2601, 3390, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2602, 3389, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2603, 3393, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2604, 3392, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2605, 3395, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2606, 3394, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2607, 3397, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2608, 3396, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2609, 3399, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2610, 3398, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2611, 3401, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2612, 3400, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2613, 3403, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2614, 3402, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2615, 3405, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2616, 3404, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2617, 3407, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2618, 3406, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2619, 3409, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2620, 3408, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2621, 3411, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2622, 3410, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2623, 3413, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2624, 3412, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2625, 3415, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2626, 3414, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2627, 3416, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2628, 3418, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2629, 3417, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2630, 3419, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2631, 3421, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2632, 3420, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2633, 3422, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2634, 3424, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2635, 3423, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2636, 3426, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2637, 3425, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2638, 3428, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2639, 3427, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2640, 3430, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2641, 3429, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2642, 3432, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2643, 3431, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2644, 3434, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2645, 3433, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2646, 3436, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2647, 3435, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2648, 3438, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2649, 3437, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2650, 3440, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2651, 3439, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2652, 3442, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2653, 3441, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2654, 3444, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2655, 3443, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2656, 3445, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2657, 3447, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2658, 3446, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2659, 3448, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2660, 3450, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2661, 3449, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2662, 3451, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2663, 3453, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2664, 3452, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2665, 3454, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2666, 3456, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2667, 3455, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2668, 3457, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2669, 3459, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2670, 3458, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2671, 3460, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2672, 3462, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2673, 3461, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2674, 3463, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2675, 3465, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2676, 3464, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2677, 3466, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2678, 3468, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2679, 3467, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2680, 3469, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2681, 3471, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2682, 3470, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2683, 3472, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2684, 3474, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2685, 3473, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2686, 3475, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2687, 3477, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2688, 3476, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2689, 3478, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2690, 3480, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2691, 3479, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2692, 3481, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2693, 3482, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2694, 3484, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2695, 3483, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2696, 3485, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2697, 3487, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2698, 3486, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2699, 3488, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2700, 3489, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2701, 3490, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2702, 3491, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2703, 3492, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2704, 3494, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2705, 3493, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2706, 3495, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2707, 3497, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2708, 3496, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2709, 3498, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2710, 3499, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2711, 3500, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2712, 3502, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2713, 3501, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2714, 3503, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2715, 3504, 26.73);
+
+INSERT INTO MintCoinAttribute VALUES(2716, 3305, 22.68);
+
+INSERT INTO MintCoinAttribute VALUES(2717, 3306, 22.68);
+
+INSERT INTO MintCoinAttribute VALUES(2718, 3307, 24.59);
+
+INSERT INTO MintCoinAttribute VALUES(2719, 3308, 22.68);
+
+INSERT INTO MintCoinAttribute VALUES(2720, 3309, 22.68);
+
+INSERT INTO MintCoinAttribute VALUES(2721, 3310, 24.59);
+
+INSERT INTO MintCoinAttribute VALUES(2722, 3311, 22.68);
+
+INSERT INTO MintCoinAttribute VALUES(2723, 3313, 22.68);
+
+INSERT INTO MintCoinAttribute VALUES(2724, 3312, 22.68);
+
+INSERT INTO MintCoinAttribute VALUES(2725, 3314, 24.59);
+
+INSERT INTO MintCoinAttribute VALUES(2726, 3315, 22.68);
+
+INSERT INTO MintCoinAttribute VALUES(2727, 3317, 22.68);
+
+INSERT INTO MintCoinAttribute VALUES(2728, 3316, 22.68);
+
+INSERT INTO MintCoinAttribute VALUES(2729, 3318, 24.59);
+
+INSERT INTO MintCoinAttribute VALUES(2730, 3319, 22.68);
+
+INSERT INTO MintCoinAttribute VALUES(2731, 3323, 22.68);
+
+INSERT INTO MintCoinAttribute VALUES(2732, 3321, 22.68);
+
+INSERT INTO MintCoinAttribute VALUES(2733, 3320, 22.68);
+
+INSERT INTO MintCoinAttribute VALUES(2734, 3324, 22.68);
+
+INSERT INTO MintCoinAttribute VALUES(2735, 3322, 22.68);
+
+INSERT INTO MintCoinAttribute VALUES(2736, 3325, 24.59);
+
+INSERT INTO MintCoinAttribute VALUES(2737, 3326, 24.59);
+
+INSERT INTO MintCoinAttribute VALUES(2738, 3327, 22.68);
+
+INSERT INTO MintCoinAttribute VALUES(2739, 3329, 22.68);
+
+INSERT INTO MintCoinAttribute VALUES(2740, 3328, 22.68);
+
+INSERT INTO MintCoinAttribute VALUES(2741, 3330, 22.68);
+
+INSERT INTO MintCoinAttribute VALUES(2742, 3332, 22.68);
+
+INSERT INTO MintCoinAttribute VALUES(2743, 3331, 22.68);
+
+INSERT INTO MintCoinAttribute VALUES(2744, 3619, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2745, 3618, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2746, 3616, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2747, 3617, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2748, 3620, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2749, 3621, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2750, 3622, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2751, 3624, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2752, 3623, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2753, 3625, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2754, 3626, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2755, 3628, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2756, 3627, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2757, 3629, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2758, 3630, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2759, 3631, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2760, 3633, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2761, 3632, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2762, 3577, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2763, 3579, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2764, 3578, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2765, 3580, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2766, 3582, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2767, 3581, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2768, 3583, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2769, 3585, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2770, 3584, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2771, 3586, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2772, 3588, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2773, 3587, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2774, 3589, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2775, 3591, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2776, 3590, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2777, 3592, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2778, 3594, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2779, 3593, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2780, 3595, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2781, 3597, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2782, 3596, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2783, 3598, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2784, 3600, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2785, 3599, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2786, 3601, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2787, 3603, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2788, 3602, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2789, 3604, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2790, 3606, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2791, 3605, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2792, 3607, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2793, 3609, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2794, 3608, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2795, 3610, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2796, 3612, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2797, 3611, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2798, 3613, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2799, 3615, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2800, 3614, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2801, 3505, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2802, 3507, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2803, 3506, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2804, 3508, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2805, 3510, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2806, 3509, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2807, 3511, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2808, 3513, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2809, 3512, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2810, 3514, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2811, 3516, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2812, 3515, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2813, 3517, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2814, 3519, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2815, 3518, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2816, 3520, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2817, 3522, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2818, 3521, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2819, 3523, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2820, 3525, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2821, 3524, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2822, 3526, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2823, 3528, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2824, 3527, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2825, 3529, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2826, 3531, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2827, 3530, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2828, 3532, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2829, 3534, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2830, 3533, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2831, 3535, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2832, 3537, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2833, 3536, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2834, 3538, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2835, 3540, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2836, 3539, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2837, 3541, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2838, 3543, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2839, 3542, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2840, 3544, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2841, 3546, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2842, 3545, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2843, 3547, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2844, 3549, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2845, 3548, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2846, 3550, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2847, 3552, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2848, 3551, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2849, 3553, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2850, 3555, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2851, 3554, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2852, 3556, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2853, 3558, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2854, 3557, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2855, 3559, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2856, 3561, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2857, 3560, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2858, 3562, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2859, 3564, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2860, 3563, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2861, 3565, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2862, 3567, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2863, 3566, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2864, 3568, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2865, 3570, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2866, 3569, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2867, 3571, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2868, 3573, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2869, 3572, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2870, 3574, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2871, 3576, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2872, 3575, 8.1);
+
+INSERT INTO MintCoinAttribute VALUES(2873, 903, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2874, 904, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2875, 905, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2876, 906, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2877, 907, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2878, 908, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2879, 909, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2880, 910, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2881, 911, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2882, 912, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2883, 913, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2884, 914, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2885, 915, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2886, 916, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2887, 917, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2888, 918, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2889, 919, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2890, 920, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2891, 921, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2892, 922, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2893, 924, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2894, 923, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2895, 895, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2896, 896, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2897, 897, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2898, 898, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2899, 899, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2900, 900, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2901, 847, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2902, 848, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2903, 849, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2904, 850, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2905, 852, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2906, 851, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2907, 853, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2908, 855, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2909, 854, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2910, 856, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2911, 857, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2912, 859, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2913, 858, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2914, 860, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2915, 862, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2916, 861, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2917, 863, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2918, 864, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2919, 865, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2920, 866, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2921, 867, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2922, 868, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2923, 869, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2924, 870, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2925, 871, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2926, 872, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2927, 873, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2928, 874, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2929, 875, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2930, 876, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2931, 877, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2932, 878, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2933, 879, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2934, 880, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2935, 881, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2936, 882, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2937, 883, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2938, 884, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2939, 885, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2940, 886, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2941, 887, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2942, 888, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2943, 889, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2944, 890, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2945, 891, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2946, 892, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2947, 893, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2948, 894, 1.672);
+
+INSERT INTO MintCoinAttribute VALUES(2949, 3118, 4.37);
+
+INSERT INTO MintCoinAttribute VALUES(2950, 3119, 4.37);
+
+INSERT INTO MintCoinAttribute VALUES(2951, 3120, 4.37);
+
+INSERT INTO MintCoinAttribute VALUES(2952, 3121, 4.37);
+
+INSERT INTO MintCoinAttribute VALUES(2953, 3122, 4.37);
+
+INSERT INTO MintCoinAttribute VALUES(2954, 3123, 4.37);
+
+INSERT INTO MintCoinAttribute VALUES(2955, 3124, 4.37);
+
+INSERT INTO MintCoinAttribute VALUES(2956, 3125, 4.37);
+
+INSERT INTO MintCoinAttribute VALUES(2957, 3126, 4.37);
+
+INSERT INTO MintCoinAttribute VALUES(2958, 3127, 4.37);
+
+INSERT INTO MintCoinAttribute VALUES(2959, 3128, 4.37);
+
+INSERT INTO MintCoinAttribute VALUES(2960, 3106, 4.37);
+
+INSERT INTO MintCoinAttribute VALUES(2961, 3107, 4.37);
+
+INSERT INTO MintCoinAttribute VALUES(2962, 3108, 4.37);
+
+INSERT INTO MintCoinAttribute VALUES(2963, 3109, 4.37);
+
+INSERT INTO MintCoinAttribute VALUES(2964, 3110, 4.37);
+
+INSERT INTO MintCoinAttribute VALUES(2965, 3111, 4.37);
+
+INSERT INTO MintCoinAttribute VALUES(2966, 3112, 4.37);
+
+INSERT INTO MintCoinAttribute VALUES(2967, 3113, 4.37);
+
+INSERT INTO MintCoinAttribute VALUES(2968, 3114, 4.37);
+
+INSERT INTO MintCoinAttribute VALUES(2969, 3115, 4.37);
+
+INSERT INTO MintCoinAttribute VALUES(2970, 3116, 4.37);
+
+INSERT INTO MintCoinAttribute VALUES(2971, 3117, 4.37);
+
+INSERT INTO MintCoinAttribute VALUES(2972, 3129, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2973, 3130, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2974, 3131, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2975, 3132, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2976, 3133, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2977, 3134, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2978, 3135, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2979, 3136, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2980, 3137, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2981, 3138, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2982, 3154, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2983, 3155, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2984, 3156, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2985, 3157, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2986, 3158, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2987, 3159, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2988, 3160, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2989, 3161, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2990, 3162, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2991, 3163, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2992, 3164, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2993, 3165, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2994, 3166, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2995, 3167, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2996, 3168, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2997, 3169, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2998, 3170, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(2999, 3171, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3000, 3172, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3001, 3173, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3002, 3174, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3003, 3175, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3004, 3176, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3005, 3177, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3006, 3178, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3007, 3179, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3008, 3180, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3009, 3181, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3010, 3182, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3011, 3183, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3012, 3184, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3013, 3185, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3014, 3186, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3015, 3187, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3016, 3188, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3017, 3189, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3018, 3190, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3019, 3191, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3020, 3192, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3021, 3193, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3022, 3194, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3023, 3195, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3024, 3196, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3025, 3197, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3026, 3198, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3027, 3199, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3028, 3200, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3029, 3201, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3030, 3202, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3031, 3203, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3032, 3204, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3033, 3207, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3034, 3205, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3035, 3206, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3036, 3208, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3037, 3209, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3038, 3210, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3039, 3211, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3040, 3212, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3041, 3215, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3042, 3213, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3043, 3214, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3044, 3216, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3045, 3219, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3046, 3217, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3047, 3218, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3048, 3220, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3049, 3221, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3050, 3222, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3051, 3224, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3052, 3223, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3053, 3225, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3054, 3226, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3055, 3227, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3056, 3228, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3057, 3229, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3058, 3231, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3059, 3232, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3060, 3230, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3061, 3233, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3062, 3234, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3063, 3235, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3064, 3236, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3065, 3237, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3066, 3238, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3067, 3239, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3068, 3240, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3069, 3241, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3070, 3242, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3071, 3243, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3072, 3244, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3073, 3245, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3074, 3246, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3075, 3247, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3076, 3248, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3077, 3249, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3078, 3250, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3079, 3251, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3080, 3252, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3081, 3253, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3082, 3254, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3083, 3255, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3084, 3256, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3085, 3257, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3086, 3258, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3087, 3259, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3088, 3260, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3089, 3261, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3090, 3262, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3091, 3263, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3092, 3264, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3093, 3265, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3094, 3266, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3095, 3267, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3096, 3268, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3097, 3269, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3098, 3270, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3099, 3271, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3100, 3272, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3101, 3273, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3102, 3274, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3103, 3275, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3104, 3276, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3105, 3277, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3106, 3278, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3107, 3279, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3108, 3280, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3109, 3281, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3110, 3282, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3111, 3283, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3112, 3284, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3113, 3285, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3114, 3286, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3115, 3287, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3116, 3288, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3117, 3289, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3118, 3290, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3119, 3291, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3120, 3292, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3121, 3105, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3122, 3139, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3123, 3140, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3124, 3141, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3125, 3142, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3126, 3143, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3127, 3144, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3128, 3145, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3129, 3146, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3130, 3147, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3131, 3148, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3132, 3149, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3133, 3150, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3134, 3151, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3135, 3152, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3136, 3153, 4.18);
+
+INSERT INTO MintCoinAttribute VALUES(3137, 3837, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3138, 3838, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3139, 3839, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3140, 3840, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3141, 3841, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3142, 3842, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3143, 3843, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3144, 3844, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3145, 3845, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3146, 3846, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3147, 3847, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3148, 3848, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3149, 3849, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3150, 3850, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3151, 3851, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3152, 3852, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3153, 3853, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3154, 3854, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3155, 3855, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3156, 3856, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3157, 3857, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3158, 3858, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3159, 3859, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3160, 3860, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3161, 3861, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3162, 3862, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3163, 3863, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3164, 3864, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3165, 3865, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3166, 3866, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3167, 3867, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3168, 3868, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3169, 3869, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3170, 3870, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3171, 3871, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3172, 3872, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3173, 3873, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3174, 3874, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3175, 3875, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3176, 3876, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3177, 3877, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3178, 3878, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3179, 3879, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3180, 3880, 5.015);
+
+INSERT INTO MintCoinAttribute VALUES(3181, 843, 7);
+
+INSERT INTO MintCoinAttribute VALUES(3182, 844, 7);
+
+INSERT INTO MintCoinAttribute VALUES(3183, 845, 7);
+
+INSERT INTO MintCoinAttribute VALUES(3184, 846, 7);
+
+INSERT INTO MintCoinAttribute VALUES(3185, 1633, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3186, 1634, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3187, 1635, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3188, 1636, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3189, 1637, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3190, 1638, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3191, 1639, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3192, 1640, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3193, 1641, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3194, 1642, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3195, 1643, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3196, 1644, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3197, 1645, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3198, 1646, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3199, 1647, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3200, 1648, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3201, 1649, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3202, 1625, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3203, 1626, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3204, 1627, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3205, 1628, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3206, 1629, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3207, 1630, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3208, 1631, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3209, 1632, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3210, 1650, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3211, 1651, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3212, 1652, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3213, 1653, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3214, 1654, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3215, 1655, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3216, 1656, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3217, 1657, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3218, 1658, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3219, 1659, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3220, 1660, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3221, 1661, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3222, 1662, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3223, 1663, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3224, 1664, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3225, 1665, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3226, 1666, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3227, 1667, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3228, 1668, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3229, 1669, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3230, 1670, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3231, 1671, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3232, 1672, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3233, 1673, 8.75);
+
+INSERT INTO MintCoinAttribute VALUES(3234, 1674, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3235, 1675, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3236, 1676, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3237, 1677, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3238, 1678, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3239, 1679, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3240, 1680, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3241, 1705, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3242, 1706, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3243, 1707, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3244, 1708, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3245, 1709, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3246, 1710, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3247, 1711, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3248, 1712, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3249, 1713, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3250, 1714, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3251, 1721, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3252, 1715, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3253, 1716, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3254, 1717, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3255, 1719, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3256, 1718, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3257, 1720, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3258, 1722, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3259, 1723, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3260, 1724, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3261, 1725, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3262, 1726, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3263, 1727, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3264, 1728, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3265, 1729, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3266, 1730, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3267, 1731, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3268, 1732, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3269, 1733, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3270, 1736, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3271, 1737, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3272, 1738, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3273, 1734, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3274, 1735, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3275, 1739, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3276, 1740, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3277, 1741, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3278, 1742, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3279, 1743, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3280, 1744, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3281, 1745, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3282, 1746, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3283, 1747, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3284, 1748, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3285, 1749, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3286, 1750, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3287, 1751, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3288, 1752, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3289, 1753, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3290, 1754, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3291, 1755, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3292, 1756, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3293, 1757, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3294, 1758, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3295, 1759, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3296, 1760, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3297, 1761, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3298, 1762, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3299, 1763, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3300, 1766, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3301, 1764, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3302, 1765, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3303, 1767, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3304, 1768, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3305, 1771, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3306, 1769, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3307, 1770, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3308, 1772, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3309, 1773, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3310, 1776, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3311, 1774, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3312, 1775, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3313, 1777, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3314, 1778, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3315, 1781, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3316, 1779, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3317, 1780, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3318, 1782, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3319, 1783, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3320, 1785, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3321, 1784, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3322, 1786, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3323, 1787, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3324, 1789, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3325, 1788, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3326, 1790, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3327, 1791, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3328, 1793, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3329, 1792, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3330, 1794, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3331, 1795, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3332, 1797, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3333, 1796, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3334, 1798, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3335, 1799, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3336, 1800, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3337, 1801, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3338, 1802, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3339, 1803, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3340, 1804, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3341, 1805, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3342, 1806, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3343, 1807, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3344, 1809, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3345, 1810, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3346, 1811, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3347, 1812, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3348, 1813, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3349, 1814, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3350, 1816, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3351, 1815, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3352, 1817, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3353, 1819, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3354, 1818, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3355, 1820, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3356, 1822, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3357, 1821, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3358, 1823, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3359, 1825, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3360, 1824, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3361, 1826, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3362, 1828, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3363, 1827, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3364, 1829, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3365, 1831, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3366, 1830, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3367, 1832, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3368, 1834, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3369, 1833, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3370, 1835, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3371, 1837, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3372, 1836, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3373, 1838, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3374, 1840, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3375, 1839, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3376, 1841, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3377, 1843, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3378, 1842, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3379, 1844, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3380, 1846, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3381, 1845, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3382, 1847, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3383, 1849, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3384, 1848, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3385, 1850, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3386, 1852, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3387, 1851, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3388, 1853, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3389, 1855, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3390, 1854, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3391, 1856, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3392, 1858, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3393, 1857, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3394, 1859, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3395, 1860, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3396, 1861, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3397, 1862, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3398, 1863, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3399, 1864, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3400, 1865, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3401, 1866, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3402, 1867, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3403, 1868, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3404, 1870, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3405, 1869, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3406, 1872, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3407, 1871, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3408, 1874, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3409, 1873, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3410, 1876, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3411, 1875, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3412, 1878, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3413, 1877, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3414, 1880, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3415, 1879, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3416, 1881, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3417, 1883, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3418, 1882, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3419, 1884, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3420, 1885, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3421, 1886, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3422, 1887, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3423, 1888, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3424, 1889, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3425, 1890, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3426, 1891, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3427, 1892, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3428, 1893, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3429, 1894, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3430, 1895, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3431, 1896, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3432, 1898, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3433, 1897, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3434, 1899, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3435, 1900, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3436, 1901, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3437, 1902, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3438, 1903, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3439, 1904, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3440, 1905, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3441, 1906, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3442, 1907, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3443, 1909, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3444, 1908, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3445, 1910, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3446, 1911, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3447, 1912, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3448, 1681, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3449, 1683, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3450, 1682, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3451, 1684, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3452, 1687, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3453, 1685, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3454, 1686, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3455, 1688, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3456, 1690, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3457, 1689, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3458, 1691, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3459, 1693, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3460, 1692, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3461, 1694, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3462, 1695, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3463, 1696, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3464, 1697, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3465, 1698, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3466, 1700, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3467, 1699, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3468, 1701, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3469, 1702, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3470, 1703, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3471, 1704, 8.36);
+
+INSERT INTO MintCoinAttribute VALUES(3472, 737, 17.5);
+
+INSERT INTO MintCoinAttribute VALUES(3473, 738, 17.5);
+
+INSERT INTO MintCoinAttribute VALUES(3474, 739, 17.5);
+
+INSERT INTO MintCoinAttribute VALUES(3475, 740, 17.5);
+
+INSERT INTO MintCoinAttribute VALUES(3476, 741, 17.5);
+
+INSERT INTO MintCoinAttribute VALUES(3477, 742, 17.5);
+
+INSERT INTO MintCoinAttribute VALUES(3478, 743, 17.5);
+
+INSERT INTO MintCoinAttribute VALUES(3479, 744, 17.5);
+
+INSERT INTO MintCoinAttribute VALUES(3480, 745, 17.5);
+
+INSERT INTO MintCoinAttribute VALUES(3481, 746, 17.5);
+
+INSERT INTO MintCoinAttribute VALUES(3482, 747, 17.5);
+
+INSERT INTO MintCoinAttribute VALUES(3483, 780, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3484, 781, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3485, 782, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3486, 783, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3487, 784, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3488, 785, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3489, 786, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3490, 787, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3491, 788, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3492, 789, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3493, 790, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3494, 791, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3495, 792, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3496, 793, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3497, 794, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3498, 795, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3499, 796, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3500, 797, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3501, 798, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3502, 799, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3503, 800, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3504, 801, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3505, 802, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3506, 803, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3507, 804, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3508, 805, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3509, 806, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3510, 807, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3511, 808, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3512, 809, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3513, 810, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3514, 811, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3515, 813, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3516, 812, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3517, 814, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3518, 816, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3519, 815, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3520, 817, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3521, 819, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3522, 818, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3523, 820, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3524, 822, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3525, 821, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3526, 823, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3527, 825, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3528, 824, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3529, 826, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3530, 828, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3531, 827, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3532, 829, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3533, 831, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3534, 830, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3535, 832, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3536, 833, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3537, 834, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3538, 835, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3539, 836, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3540, 837, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3541, 838, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3542, 839, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3543, 840, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3544, 841, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3545, 842, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3546, 748, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3547, 749, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3548, 750, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3549, 751, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3550, 752, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3551, 753, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3552, 755, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3553, 754, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3554, 756, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3555, 758, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3556, 757, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3557, 759, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3558, 761, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3559, 760, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3560, 762, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3561, 764, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3562, 763, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3563, 765, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3564, 766, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3565, 767, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3566, 768, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3567, 769, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3568, 771, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3569, 770, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3570, 772, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3571, 773, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3572, 774, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3573, 775, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3574, 776, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3575, 777, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3576, 778, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3577, 779, 16.72);
+
+INSERT INTO MintCoinAttribute VALUES(3578, 538, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3579, 539, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3580, 540, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3581, 541, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3582, 542, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3583, 543, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3584, 544, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3585, 545, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3586, 546, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3587, 548, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3588, 547, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3589, 549, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3590, 551, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3591, 550, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3592, 552, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3593, 554, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3594, 553, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3595, 555, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3596, 557, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3597, 556, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3598, 558, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3599, 560, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3600, 559, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3601, 561, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3602, 563, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3603, 562, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3604, 564, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3605, 566, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3606, 565, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3607, 567, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3608, 569, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3609, 568, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3610, 570, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3611, 571, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3612, 572, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3613, 573, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3614, 574, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3615, 575, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3616, 576, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3617, 577, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3618, 578, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3619, 685, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3620, 686, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3621, 687, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3622, 688, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3623, 690, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3624, 689, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3625, 692, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3626, 694, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3627, 693, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3628, 691, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3629, 695, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3630, 697, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3631, 696, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3632, 698, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3633, 700, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3634, 699, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3635, 701, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3636, 702, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3637, 704, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3638, 703, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3639, 705, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3640, 707, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3641, 706, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3642, 708, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3643, 709, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3644, 710, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3645, 711, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3646, 712, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3647, 713, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3648, 714, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3649, 715, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3650, 716, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3651, 717, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3652, 718, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3653, 720, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3654, 719, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3655, 721, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3656, 723, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3657, 722, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3658, 724, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3659, 726, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3660, 725, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3661, 727, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3662, 729, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3663, 728, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3664, 730, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3665, 731, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3666, 732, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3667, 733, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3668, 734, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3669, 735, 33.44);
+
+INSERT INTO MintCoinAttribute VALUES(3670, 736, 33.44);
+

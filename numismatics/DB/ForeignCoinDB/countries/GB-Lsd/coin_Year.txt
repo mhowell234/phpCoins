@@ -1,0 +1,20 @@
+COIN|DENOMINATION|YEAR|ADDITIONAL_INFO|KM_NUMBER|IS_GOLD|IS_SILVER
+
+George VI|Half Crown|1937|Variety 1|856|0|1
+George VI|Half Crown|1938|Variety 1|856|0|1
+George VI|Half Crown|1939|Variety 1|856|0|1
+George VI|Half Crown|1940|Variety 1|856|0|1
+George VI|Half Crown|1941|Variety 1|856|0|1
+George VI|Half Crown|1942|Variety 1|856|0|1
+George VI|Half Crown|1943|Variety 1|856|0|1
+George VI|Half Crown|1944|Variety 1|856|0|1
+George VI|Half Crown|1945|Variety 1|856|0|1
+George VI|Half Crown|1946|Variety 1|856|0|1
+
+George VI|Half Crown|1947|Variety 2 - Cupro-Nickel|866|0|0
+George VI|Half Crown|1948|Variety 2 - Cupro-Nickel|866|0|0
+
+George VI|Half Crown|1949|Variety 3 - No IND:IMP on Reverse|879|0|0
+George VI|Half Crown|1950|Variety 3 - No IND:IMP on Reverse|879|0|0
+George VI|Half Crown|1951|Variety 3 - No IND:IMP on Reverse|879|0|0
+George VI|Half Crown|1952|Variety 3 - No IND:IMP on Reverse|879|0|0

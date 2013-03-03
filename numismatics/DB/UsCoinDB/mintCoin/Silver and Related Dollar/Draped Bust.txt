@@ -1,0 +1,15 @@
+YEAR|MINTAGE|AG-3|G-4|VG-8|F-12|VF-20|EF-40|AU-50|MS-60|PF-60|Paren|ADDITIONAL_INFO
+
+1795,:Bust:Type|42738|375|650|900|1500|2600|5500|8000|22000|-1||Small Eagle Reverse
+1796|79920|375|650|900|1500|2600|5500|7500|23000|-1||Small Eagle Reverse
+1797|7776|375|650|900|1500|2600|5500|7000|24000|-1||Small Eagle Reverse
+1798|327536|375|650|900|1500|2600|5500|9000|25000|-1||Small Eagle Reverse
+
+1798,:Heraldic:Eagle|0|-1|450|550|725|1200|2200|4500|10000|-1||Heraldic Eagle Reverse
+1799|423515|-1|450|550|725|1200|2200|4500|10000|-1||Heraldic Eagle Reverse
+1800|220920|-1|450|550|725|1200|2200|4500|10000|-1||Heraldic Eagle Reverse
+1801|54454|-1|450|550|725|1200|2200|4500|10000|-1||Heraldic Eagle Reverse
+1802|41650|-1|450|550|725|1200|2200|4500|10000|-1||Heraldic Eagle Reverse
+1803|85634|-1|450|550|725|1200|2200|4500|10000|-1||Heraldic Eagle Reverse
+1804,:Variety:1:-:0:Above:Cloud|-1|-1|-1|-1|-1|-1|-1|-1|-1|3500000||Heraldic Eagle Reverse
+1804,:Variety:2:-:0:Above:Space:Between:Clouds|-1|-1|-1|-1|-1|-1|-1|-1|-1|2500000||Heraldic Eagle Reverse

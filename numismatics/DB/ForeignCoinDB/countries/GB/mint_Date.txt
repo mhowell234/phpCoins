@@ -1,0 +1,4 @@
+MINT|START_YEAR|END_YEAR
+
+
+Royal Mint|886|0

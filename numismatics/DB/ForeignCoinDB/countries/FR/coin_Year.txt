@@ -1,0 +1,34 @@
+COIN|DENOMINATION|YEAR|ADDITIONAL_INFO|KM_NUMBER|IS_GOLD|IS_SILVER
+
+Sower|5 Francs|1970||926a.1|0|0
+Sower|5 Francs|1971||926a.1|0|0
+Sower|5 Francs|1972||926a.1|0|0
+Sower|5 Francs|1973||926a.1|0|0
+Sower|5 Francs|1974||926a.1|0|0
+Sower|5 Francs|1975||926a.1|0|0
+Sower|5 Francs|1976||926a.1|0|0
+Sower|5 Francs|1977||926a.1|0|0
+Sower|5 Francs|1978||926a.1|0|0
+Sower|5 Francs|1979||926a.1|0|0
+Sower|5 Francs|1980||926a.1|0|0
+Sower|5 Francs|1981||926a.1|0|0
+Sower|5 Francs|1982||926a.1|0|0
+Sower|5 Francs|1983||926a.1|0|0
+Sower|5 Francs|1984||926a.1|0|0
+Sower|5 Francs|1985||926a.1|0|0
+Sower|5 Francs|1986||926a.1|0|0
+Sower|5 Francs|1987||926a.1|0|0
+Sower|5 Francs|1988||926a.1|0|0
+Sower|5 Francs|1989||926a.1|0|0
+Sower|5 Francs|1990||926a.1|0|0
+Sower|5 Francs|1991||926a.1|0|0
+Sower|5 Francs|1992||926a.1|0|0
+Sower|5 Francs|1993||926a.1|0|0
+Sower|5 Francs|1994||926a.1|0|0
+Sower|5 Francs|1995||926a.1|0|0
+Sower|5 Francs|1996||926a.1|0|0
+Sower|5 Francs|1997||926a.1|0|0
+Sower|5 Francs|1998||926a.1|0|0
+Sower|5 Francs|1999||926a.1|0|0
+Sower|5 Francs|2000||926a.1|0|0
+Sower|5 Francs|2001||926a.1|0|0

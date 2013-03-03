@@ -1,0 +1,26 @@
+YEAR|MINTAGE|AG-3|G-4|VG-8|F-12|VF-20|EF-40|AU-50|MS-60|MS-63|ADDITIONAL_INFO
+
+1815|89235|20|45|55|75|200|600|800|1400|2500|Variety 1 - Large Diameter
+1818,:8:Over:5|-1|18|42|50|70|180|525|775|1500|2500|Variety 1 - Large Diameter
+1818,:Normal:Date|361174|18|42|50|70|180|525|775|1300|2300|Variety 1 - Large Diameter
+1819|144000|18|42|50|70|180|525|775|1300|2300|Variety 1 - Large Diameter
+1820|127444|18|42|50|70|180|525|775|1300|2300|Variety 1 - Large Diameter
+1821|216851|18|42|50|70|180|525|775|1300|2400|Variety 1 - Large Diameter
+1822|64080|18|42|50|80|200|600|800|1450|3100|Variety 1 - Large Diameter
+1822,:25:Over:50c|-1|300|700|1400|2400|3250|5500|10000|17500|-1|Variety 1 - Large Diameter
+1823,:3:Over:2|17800|7000|15000|18000|22000|25000|35000|60000|-1|-1|Variety 1 - Large Diameter
+1824,:4:Over:2|-1|25|45|75|375|750|1000|2500|7000|-1|Variety 1 - Large Diameter
+1825|168000|18|42|50|70|180|500|750|1300|2300|Variety 1 - Large Diameter
+1827,:Original:-:Curl:Base:2:in:25c|4000|-1|-1|-1|-1|-1|-1|-1|-1|85000|Variety 1 - Large Diameter
+1827,:Restrike:-:Square:Base:2:in:25c|-1|-1|-1|-1|-1|-1|-1|-1|-1|30000|Variety 1 - Large Diameter
+1828|102000|18|42|50|65|175|450|700|1300|2750|Variety 1 - Large Diameter
+1828,:25:Over:50c|-1|35|65|115|250|500|950|1750|4500|9000|Variety 1 - Large Diameter
+
+1831|398000|-1|32|40|45|65|170|290|500|1800|Variety 2 - Reduced Diameter - Motto Removed
+1832|320000|-1|32|40|45|65|170|290|500|1800|Variety 2 - Reduced Diameter - Motto Removed
+1833|156000|-1|32|40|50|70|200|320|650|2100|Variety 2 - Reduced Diameter - Motto Removed
+1834|286000|-1|32|40|45|65|170|290|500|1800|Variety 2 - Reduced Diameter - Motto Removed
+1835|1952000|-1|32|40|45|65|170|290|500|1800|Variety 2 - Reduced Diameter - Motto Removed
+1836|472000|-1|32|40|45|65|170|290|500|1800|Variety 2 - Reduced Diameter - Motto Removed
+1837|252400|-1|32|40|45|65|170|290|500|1800|Variety 2 - Reduced Diameter - Motto Removed
+1838|366000|-1|32|40|45|65|170|290|500|1800|Variety 2 - Reduced Diameter - Motto Removed

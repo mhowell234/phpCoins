@@ -1,0 +1,59 @@
+YEAR|MINTAGE|G-4|VG-8|F-12|VF-20|EF-40|AU-50|MS-60|MS-63|ADDITIONAL_INFO
+
+1807|750500|40|60|100|200|550|1200|2500|4000|First Style
+1808,:8:Over:7|0|30|40|60|90|200|600|1200|3400|First Style
+1808|1368600|26|33|40|55|125|255|825|165|First Style
+
+1809|1405810|25|29|37|50|100|250|700|1600|Remodeled Portrait and Eagle
+1810|1276276|25|29|37|50|100|225|675|1500|Remodeled Portrait and Eagle
+1811|1203644|25|29|35|42|85|185|600|1100|Remodeled Portrait and Eagle
+
+1812,:All:Kinds|1628059|-1|-1|-1|-1|-1|-1|-1|-1|Remodeled Portrait and Eagle
+1812,:2:Over:1|-1|25|32|40|65|150|250|1000|2200|Remodeled Portrait and Eagle
+1812|-1|25|30|37|55|100|200|500|1000|Remodeled Portrait and Eagle
+1813|1241903|25|30|37|55|100|185|500|1000|Remodeled Portrait and Eagle
+1813,:50:C.:Over:UNI|0|25|30|42|70|140|300|700|2100|Remodeled Portrait and Eagle
+1814,:All:Kinds|1039075|-1|-1|-1|-1|-1|-1|-1|-1|Remodeled Portrait and Eagle
+1814,:4:Over:3|-1|25|30|45|80|150|350|800|2100|Remodeled Portrait and Eagle
+1814|-1|25|30|40|55|100|185|500|1100|Remodeled Portrait and Eagle
+
+1815,:5:Over:2|47150|500|750|900|1200|2200|3000|5500|15000|Remodeled Portrait and Eagle
+1817,:All:Kinds|1215567|-1|-1|-1|-1|-1|-1|-1|-1|Remodeled Portrait and Eagle
+1817,:7:Over:3|1215567|30|45|100|200|350|650|1500|4500|Remodeled Portrait and Eagle
+1817,:7:Over:4|8|-1|-1|80000|110000|150000|-1|-1|-1|Remodeled Portrait and Eagle
+1817,:Dated:181.7|1215567|25|30|39|50|85|175|475|1000|Remodeled Portrait and Eagle
+1817|1215567|20|30|39|45|65|150|450|1000|Remodeled Portrait and Eagle
+
+1818,:2nd:8:Over:7|0|25|30|35|42|65|175|500|1100|Remodeled Portrait and Eagle
+1818|1960322|25|30|35|42|65|150|450|925|Remodeled Portrait and Eagle
+1819,:9:Over:8|0|25|30|35|42|65|150|450|925|Remodeled Portrait and Eagle
+1819|2208000|23|30|35|42|65|150|450|925|Remodeled Portrait and Eagle
+1820,:20:Over:19|0|25|35|40|55|120|300|750|1200|Remodeled Portrait and Eagle
+1820|751122|23|30|35|42|65|150|475|950|Remodeled Portrait and Eagle
+1821|1305797|23|30|35|42|65|150|450|950|Remodeled Portrait and Eagle
+1822|1559573|23|30|35|42|65|150|475|950|Remodeled Portrait and Eagle
+1823|1694200|23|30|35|42|65|150|400|900|Remodeled Portrait and Eagle
+
+1824,:All:Kinds|3504954|-1|-1|-1|-1|-1|-1|-1|-1|Remodeled Portrait and Eagle
+1824,:4:Over:Various:Dates|-1|23|28|34|42|65|150|475|900|Remodeled Portrait and Eagle
+1824,:4:Over:1|-1|23|28|34|42|65|150|475|900|Remodeled Portrait and Eagle
+1824|-1|23|28|34|42|65|150|425|825|Remodeled Portrait and Eagle
+1825|2943166|23|28|34|42|65|150|425|825|Remodeled Portrait and Eagle
+1826|4004180|23|28|34|42|65|150|400|825|Remodeled Portrait and Eagle
+1827,:All:Kinds|5493400|-1|-1|-1|-1|-1|-1|-1|-1|Remodeled Portrait and Eagle
+1827,:7:Over:6|-1|25|34|40|50|75|150|525|900|Remodeled Portrait and Eagle
+1827|-1|23|28|35|45|65|150|425|825|Remodeled Portrait and Eagle
+1828,:All:Kinds|3075200|-1|-1|-1|-1|-1|-1|-1|-1|Remodeled Portrait and Eagle
+1828,:Curl:Base:No:Knob:2|-1|23|28|35|45|65|150|425|825|Remodeled Portrait and Eagle
+1828,:Curl:Base:Knob:2|-1|25|29|35|45|65|150|425|825|Remodeled Portrait and Eagle
+1828,:Square:Base:2|-1|23|28|35|45|65|150|425|825|Remodeled Portrait and Eagle
+1829,:9:Over:7|0|23|30|38|50|75|190|500|1250|Remodeled Portrait and Eagle
+1829|3712156|23|28|34|42|65|150|400|850|Remodeled Portrait and Eagle
+1830|4764800|23|28|34|42|65|150|400|850|Remodeled Portrait and Eagle
+1831|5873660|23|28|34|42|65|150|400|850|Remodeled Portrait and Eagle
+1832|4797000|23|28|34|42|65|150|400|850|Remodeled Portrait and Eagle
+1833|5206000|23|28|34|42|65|150|400|850|Remodeled Portrait and Eagle
+1834|6412004|23|28|34|42|65|150|400|850|Remodeled Portrait and Eagle
+1835|5352006|23|28|34|42|65|150|400|850|Remodeled Portrait and Eagle
+1836|6545000|23|28|34|42|65|150|400|850|Remodeled Portrait and Eagle
+1836,:50:Over:00|0|30|40|50|70|130|300|800|1800|Remodeled Portrait and Eagle

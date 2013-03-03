@@ -1,0 +1,19 @@
+VALUE|NAME|SHORT_NAME|TITLE|DESCRPTION|SPECIAL_ORDER
+3|About Good|AG|AG-3|Very heavily worn with portions of lettering, date, and legend worn smooth. The date may be barely readable.|1
+4|Good|G|G-4|Heavily worn, with design visible but faint in areas. Many details are flat.|1
+8|Very Good|VG|VG-8|Well worn with main features clear and bold, although rather flat.|1
+12|Fine|F|F-12|Moderate to considerable even wear. Entire design is bold with overall pleasing appearence.|1
+20|Very Fine|VF|VF-20|Moderate wear on high points of design. All major details are clear.|1
+30|Choice Very Fine|VF|VF-30|Light, even wear on the surface and highest parts of the design. All lettering and major features are sharp.|1
+40|Extremely Fine|EF|EF-40|Light wear on design throughout, but all features sharp and well defined. Traces of luster may show.|1
+45|Choice Extremely Fine|EF|EF-45|Light overall wear on highest points. All design details are very sharp. Some of the mint luster is evident|1
+50|About Uncirculated|AU|AU-50|Traces of light wear on many of the high points. At least half of the mint luster is still present.|1
+55|Choice About Uncirculated|AU|AU-55|Evidence of friction on high points of design. Most of the mint luster remains.|1
+60|Uncirculated|MS|MS-60|Has no trace of wear but may show a number of contact marks, and surface may be spotted or lack some luster.|1
+63|Choice Uncirculated|MS|MS-63|Has some distracting contact marks or blemishes in prime focal areas. Luster may be impaired.|1
+64|Uncirculated|MS|MS-64|A few scattered contact marks visible. Good eye appeal and attractive luster.|1
+65|Gem Uncirculated|MS|MS-65|An above average Uncirculated coin that may be brilliant or lightly toned and that has very few contact marks on the surface or rim. MS-67 through MS-62 indicate slightly higher or lower grades of preservation.|1
+70|Perfect Uncirculated|MS|MS-70|Perfect new condition, showing no trace of war. The finest quality possible, with no evidence of scratches, handling, or contact with other coins. Very few circulation-issue coins are ever found in this condition.|1
+60|Proof|PF|PF-60|Surface may have several contact marks, hairlines, or light rubs. Luster may be dull and eye appeal lacking.|2
+63|Choice Proof|PF|PF-63|Reflective surfaces with only a few blemishes in secondary focal places. No major flaws.|2
+65|Gem Proof|PF|PF-65|Brilliant surfaces with no noticeable blemishes or flaws. A few scattered, barely noticeable marks or hairlines.|2

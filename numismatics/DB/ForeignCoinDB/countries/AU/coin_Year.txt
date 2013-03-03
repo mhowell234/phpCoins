@@ -1,0 +1,49 @@
+COIN|DENOMINATION|YEAR|ADDITIONAL_INFO|KM_NUMBER|IS_GOLD|IS_SILVER
+
+George V|Florin|1911|Variety 1 - Arms on Reverse|27|0|0
+George V|Florin|1912|Variety 1 - Arms on Reverse|27|0|0
+George V|Florin|1913|Variety 1 - Arms on Reverse|27|0|0
+George V|Florin|1914|Variety 1 - Arms on Reverse|27|0|0
+George V|Florin|1915|Variety 1 - Arms on Reverse|27|0|0
+George V|Florin|1916|Variety 1 - Arms on Reverse|27|0|0
+George V|Florin|1917|Variety 1 - Arms on Reverse|27|0|0
+George V|Florin|1918|Variety 1 - Arms on Reverse|27|0|0
+George V|Florin|1919|Variety 1 - Arms on Reverse|27|0|0
+George V|Florin|1920|Variety 1 - Arms on Reverse|27|0|0
+George V|Florin|1921|Variety 1 - Arms on Reverse|27|0|0
+George V|Florin|1922|Variety 1 - Arms on Reverse|27|0|0
+George V|Florin|1923|Variety 1 - Arms on Reverse|27|0|0
+George V|Florin|1924|Variety 1 - Arms on Reverse|27|0|0
+George V|Florin|1925|Variety 1 - Arms on Reverse|27|0|0
+George V|Florin|1926|Variety 1 - Arms on Reverse|27|0|0
+George V|Florin|1927|Variety 1 - Arms on Reverse|27|0|0
+George V|Florin|1928|Variety 1 - Arms on Reverse|27|0|0
+George V|Florin|1931|Variety 1 - Arms on Reverse|27|0|0
+George V|Florin|1932|Variety 1 - Arms on Reverse|27|0|0
+George V|Florin|1933|Variety 1 - Arms on Reverse|27|0|0
+George V|Florin|1934|Variety 1 - Arms on Reverse|27|0|0
+George V|Florin|1935|Variety 1 - Arms on Reverse|27|0|0
+George V|Florin|1936|Variety 1 - Arms on Reverse|27|0|0
+
+George V|Florin|1927|Variety 2 - Opening of Parliament House, Canberra on Reverse|31|0|0
+
+George V|Florin|1934|Variety 3 - Centennial of Victoria and Melbourne|33|0|0
+
+George VI|Florin|1938|Variety 1 - Arms on Reverse, Reeded Edge|40|0|0
+George VI|Florin|1939|Variety 1 - Arms on Reverse, Reeded Edge|40|0|0
+George VI|Florin|1940|Variety 1 - Arms on Reverse, Reeded Edge|40|0|0
+George VI|Florin|1941|Variety 1 - Arms on Reverse, Reeded Edge|40|0|0
+George VI|Florin|1942|Variety 1 - Arms on Reverse, Reeded Edge|40|0|0
+George VI|Florin|1943|Variety 1 - Arms on Reverse, Reeded Edge|40|0|0
+George VI|Florin|1944|Variety 1 - Arms on Reverse, Reeded Edge|40|0|0
+George VI|Florin|1945|Variety 1 - Arms on Reverse, Reeded Edge|40|0|0
+
+George VI|Florin|1946|Variety 2 - Arms on Reverse|40a|0|0
+George VI|Florin|1947|Variety 2 - Arms on Reverse|40a|0|0
+
+George VI|Florin|1951|Variety 3 - Crowned crossed specter and sword on Reverse|47|0|0
+
+George VI|Florin|1951|Variety 4 - Crowned crossed specter and sword on Reverse, Reeded Edge|47a|0|0
+
+George VI|Florin|1951|Variety 5 - Without :IND: IMP. dropped|48|0|0
+George VI|Florin|1952|Variety 5 - Without :IND: IMP. dropped|48|0|0

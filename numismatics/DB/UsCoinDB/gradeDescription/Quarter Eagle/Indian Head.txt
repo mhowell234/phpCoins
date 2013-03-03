@@ -1,0 +1,9 @@
+GRADE|DESCRIPTION
+
+VF-20|Hair-cord knot distinct. Feathers at top of head clear. Cheekbone worn.
+EF-40|Cheekbone, war bonnet, and headband feathers slightly worn.
+AU-50|Trace of wear on cheekbone and headdress.
+MS-60|No trace of wear. Light blemishes.
+MS-63|Some distracting contact marks or blemishes in prime focal areas. Impaired luster possible.
+MS-64|A few scattered contact marks visible. Good eye appeal and attractive luster.
+PF-63|Few blemishes in secondary focal areas. No major flaws. Matte surfaces.

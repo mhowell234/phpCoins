@@ -1,0 +1,4 @@
+NAME|FULL_NAME
+NGC|Numismatic Guaranty Corporation
+PCGS|Professional Coin Grading Service
+Blue Book 2013|Handbook of United States Coins 2013

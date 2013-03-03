@@ -1,0 +1,52 @@
+NAME|ATTRIB_TYPE|VALUE
+
+British New World Issues|1|528
+
+Classic Commemoratives|1|15903
+
+Modern Commemoratives|1|15903
+
+#Double Eagle|1|39467
+Double Eagle|1|39472
+
+#Eagle|1|39467
+Eagle|1|39471
+
+#Half Eagle|1|39467
+Half Eagle|1|39470
+
+#Four-Dollar Gold Piece|1|39467
+Four-Dollar Gold Piece|1|39468
+
+#Three-Dollar Gold Piece|1|39467
+Three-Dollar Gold Piece|1|39468
+
+#Quarter Eagle|1|39467
+Quarter Eagle|1|39469
+
+#Gold Dollar|1|39467
+Gold Dollar|1|149937
+
+Silver and Related Dollar|1|11975
+
+Half Dollar|1|11968
+
+Quarter|1|11962
+
+Twenty-Cent Piece|1|149932
+
+Dime|1|11956
+
+Half Dime|1|149928
+
+Nickel|1|11951
+
+Three-Cent Piece|1|149925
+
+Two-Cent Piece|1|149924
+
+Small Cent|1|11633
+
+Large Cent|1|11945
+
+Half Cent|1|173590

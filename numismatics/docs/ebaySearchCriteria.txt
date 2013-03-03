@@ -1,0 +1,60 @@
+coin value 							(UsCoinDB..CoinValue.cvid) 11
+coin type 							(UsCoinDB..Coin.cid) 30
+year  								(UsCoinDB..CoinYear.cyid) 1878y = 1248  COMBINED with NEXT
+year additional info				(UsCoinDB..CoinYear.additionalInfo)
+mint  								(UsCoinDB..MintCoin.mcid) 3383   COMBINED with NEXT
+mint additional info 				(UsCoinDB..MintCoin.additionalInfo)
+price range 						min/max - float/numeric
+value %/discount percentage  		int (0-100)
+   (% of the coin's current selling price versus it's worth)
+auction time range  (time range)	minutes int (0-43200) - 0-1month
+grade range 						min/max - (CommonDB..SheldonRatingScale.srsid)
+has been authentic rated 			boolean
+seller's rating 					int
+buy it now? 						boolean
+ebay phrase to add 					text
+ebay phrase to remove 				text
+email addresses 
+
+
+
+===========================
+
+EbayDB..EbaySearch
+  esid
+  cvid
+  cid
+  cyid
+  mcid
+  **mid  
+  min_price
+  max_price  
+  discount_percentage
+  auction_end_time
+  
+  min_grade
+  max_grade
+--  is_authenticated
+  seller_rating
+--  is_buy_it_now
+--  phrase_to_add
+--  phrase_to_remove
+  
+
+EbayDB..Emails
+	eid
+	esid
+	address
+
+
+ItemFilterType:
+===================
+FeedbackScoreMax
+FeedbackScoreMin
+MinPrice
+MaxPrice
+TopRatedSellerOnly=true/false
+ListingType=Auction (AuctionWithBIN, All)
+EndTimeTo=GMT
+BestOfferOnly=true/false
+AuthorizedSellerOnly=true/false

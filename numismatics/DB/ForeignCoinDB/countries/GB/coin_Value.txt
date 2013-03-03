@@ -1,0 +1,23 @@
+NAME|VALUE|DESCRIPTION
+
+Half Penny|0.5|
+
+Penny|1|
+
+Two Pence|2|
+
+Five Pence|5|
+
+Ten Pence|10|
+
+Twenty Pence|20|
+
+Twenty-five Pence|25|
+
+Fifty Pence|50|
+
+Pound|100|
+
+Two Pounds|200|
+
+Five Pounds|500|

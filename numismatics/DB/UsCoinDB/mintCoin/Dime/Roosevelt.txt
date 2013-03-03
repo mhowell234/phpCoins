@@ -1,0 +1,219 @@
+YEAR|MINTAGE|VF-20|EF-40|MS-63|MS-65|PF-65|Paren|ADDITIONAL_INFO
+
+1946|225250000|2.5|2.5|2.75|6|-1||Silver Coinage
+1946D|61043500|2.5|2.5|3|7|-1||Silver Coinage
+1946S|27900000|2.5|2.5|4|10|-1||Silver Coinage
+1947|121520000|2.5|2.5|3|6|-1||Silver Coinage
+1947D|46835000|2.5|2.5|3.25|6|-1||Silver Coinage
+1947S|34840000|2.5|2.5|3|6|-1||Silver Coinage
+1948|74950000|2.5|2.5|3|6|-1||Silver Coinage
+1948D|52841000|2.5|2.5|3|6|-1||Silver Coinage
+1948S|35520000|2.5|2.5|2.75|6|-1||Silver Coinage
+1949|30940000|2.5|2.5|12.5|16|-1||Silver Coinage
+1949D|26034000|2.5|2.5|5|9|-1||Silver Coinage
+1949S|13510000|2.5|2.5|20|25|-1||Silver Coinage
+1950|50130114|2.5|2.5|6|7|25|51386|Silver Coinage
+1950D|46803000|2.5|2.5|3|6|-1||Silver Coinage
+1950S|20440000|2.5|2.5|18|22|-1||Silver Coinage
+1951|103880102|2.5|2.5|2.75|5|25|57500|Silver Coinage
+1951D|56529000|2.5|2.5|2.75|5|-1||Silver Coinage
+1951S|31630000|2.5|2.5|6|10|-1||Silver Coinage
+1952|99040093|2.5|2.5|2.75|5|16|81980|Silver Coinage
+1952D|122100000|2.5|2.5|2.75|3.25|-1||Silver Coinage
+1952S|44419500|2.5|2.5|3|6|-1||Silver Coinage
+1953|53490120|2.5|2.5|3|4.5|14|128800|Silver Coinage
+1953D|136433000|2.5|2.5|2.75|4|-1||Silver Coinage
+1953S|39180000|2.5|2.5|2.75|4|-1||Silver Coinage
+1954|114010203|2.5|2.5|2.75|4|10|233300|Silver Coinage
+1954D|106397000|2.5|2.5|2.75|4|-1||Silver Coinage
+1954S|22860000|2.5|2.5|2.75|4|-1||Silver Coinage
+1955|12450181|2.5|2.5|2.75|5|8|378200|Silver Coinage
+1955D|13959000|2.5|2.5|2.75|4|-1||Silver Coinage
+1955S|18510000|2.5|2.5|2.75|4|-1||Silver Coinage
+1956|108640000|2.5|2.5|2.75|4|3.25|669384|Silver Coinage
+1956D|108015100|2.5|2.5|2.75|3.5|-1||Silver Coinage
+1957|160160000|2.5|2.5|2.75|3.5|3|1247952|Silver Coinage
+1957D|113354330|2.5|2.5|2.75|3.25|-1||Silver Coinage
+1958|31910000|2.5|2.5|2.75|4|3|875652|Silver Coinage
+1958D|136564600|2.5|2.5|2.75|4|-1||Silver Coinage
+1959|85780000|2.5|2.5|2.75|3.5|3|1149291|Silver Coinage
+1959D|164919790|2.5|2.5|2.75|3.5|-1||Silver Coinage
+1960|70390000|2.5|2.5|2.75|3.5|3|1691602|Silver Coinage
+1960D|20016040|2.5|2.5|2.75|3|-1||Silver Coinage
+1961|93730000|2.5|2.5|2.75|3|3|3028244|Silver Coinage
+1961D|290146550|2.5|2.5|2.75|3|-1||Silver Coinage
+1962|72450000|2.5|2.5|2.75|3|3|3218019|Silver Coinage
+1962D|334948380|2.5|2.5|2.75|3|-1||Silver Coinage
+1963|123650000|2.5|2.5|2.75|3|3|3075645|Silver Coinage
+1963D|421476530|2.5|2.5|2.75|3|-1||Silver Coinage
+1964|929360000|2.5|2.5|2.75|3|3|3950762|Silver Coinage
+1964D|1357517180|2.5|2.5|2.75|3|-1||Silver Coinage
+
+1965|1652140570|-1|-1|.15|.75|-1||Clad Coinage and Silver Proofs
+1966|1382734540|-1|-1|.15|.65|-1||Clad Coinage and Silver Proofs
+1967|2244007320|-1|-1|.15|.5|-1||Clad Coinage and Silver Proofs
+1968|424470400|-1|-1|.15|.5|-1||Clad Coinage and Silver Proofs
+1968D|480748280|-1|-1|.15|.5|-1||Clad Coinage and Silver Proofs
+1968S|-1|-1|-1|-1|-1|.5|3041506|Clad Coinage and Silver Proofs
+1969|145790000|-1|-1|.25|.9|-1||Clad Coinage and Silver Proofs
+1969D|563323870|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1969S|-1|-1|-1|-1|-1|.5|2394631|Clad Coinage and Silver Proofs
+1970|345570000|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1970D|754942100|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1970S|-1|-1|-1|-1|-1|.5|2632810|Clad Coinage and Silver Proofs
+1971|162690000|-1|-1|.18|.3|-1||Clad Coinage and Silver Proofs
+1971D|377914240|-1|-1|.16|.2|-1||Clad Coinage and Silver Proofs
+1971S|-1|-1|-1|-1|-1|.5|3220733|Clad Coinage and Silver Proofs
+1972|431540000|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1972D|330290000|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1972S|-1|-1|-1|-1|-1|.5|3260996|Clad Coinage and Silver Proofs
+
+1973|315670000|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1973D|455032426|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1973S|-1|-1|-1|-1|-1|.5|2760339|Clad Coinage and Silver Proofs
+1974|470248000|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1974D|571083000|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1974S|-1|-1|-1|-1|-1|.5|2612568|Clad Coinage and Silver Proofs
+1975|585673900|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1975D|313705300|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1975S|-1|-1|-1|-1|-1|.7|2845450|Clad Coinage and Silver Proofs
+1976|568760000|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1976D|695222774|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1976S|-1|-1|-1|-1|-1|.7|4149730|Clad Coinage and Silver Proofs
+1977|796930000|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1977D|376607228|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1977S|-1|-1|-1|-1|-1|.5|3251152|Clad Coinage and Silver Proofs
+1978|663980000|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1978D|282847540|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1978S|-1|-1|-1|-1|-1|.4|3127781|Clad Coinage and Silver Proofs
+
+1979|315440000|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1979D|390921184|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1979S,:Type:1|-1|-1|-1|-1|-1|.5|3677175|Clad Coinage and Silver Proofs
+1979S,:Type:2|-1|-1|-1|-1|-1|1.4||Clad Coinage and Silver Proofs
+1980P|735170000|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1980D|719354321|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1980S|-1|-1|-1|-1|-1|.4|3554806|Clad Coinage and Silver Proofs
+1981P|676650000|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1981D|712284143|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1981S,:Type:1|-1|-1|-1|-1|-1|1|4063083|Clad Coinage and Silver Proofs
+1981S,:Type:2|-1|-1|-1|-1|-1|3||Clad Coinage and Silver Proofs
+1982,:No:Mmk|-1|-1|-1|90|225|-1||Clad Coinage and Silver Proofs
+1982P|519475000|-1|-1|1.5|2.25|-1||Clad Coinage and Silver Proofs
+1982D|542713584|-1|-1|.6|1.1|-1||Clad Coinage and Silver Proofs
+1982S|-1|-1|-1|-1|-1|.7|3857479|Clad Coinage and Silver Proofs
+1983P|647025000|-1|-1|1.25|2.75|-1||Clad Coinage and Silver Proofs
+1983D|730129224|-1|-1|.35|.65|-1||Clad Coinage and Silver Proofs
+1983S|-1|-1|-1|-1|-1|.5|3279126|Clad Coinage and Silver Proofs
+1984P|856669000|-1|-1|.15|.3|-1||Clad Coinage and Silver Proofs
+1984D|704803976|-1|-1|.2|.5|-1||Clad Coinage and Silver Proofs
+1984S|-1|-1|-1|-1|-1|.7|3065110|Clad Coinage and Silver Proofs
+1985P|705200962|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1985D|587979970|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1985S|-1|-1|-1|-1|-1|.5|3362821|Clad Coinage and Silver Proofs
+1986P|682649693|-1|-1|.25|.35|-1||Clad Coinage and Silver Proofs
+1986D|473326970|-1|-1|.25|.35|-1||Clad Coinage and Silver Proofs
+1986S|-1|-1|-1|-1|-1|1.25|3010497|Clad Coinage and Silver Proofs
+1987P|762709481|-1|-1|.15|.35|-1||Clad Coinage and Silver Proofs
+1987D|653203402|-1|-1|.15|.35|-1||Clad Coinage and Silver Proofs
+1987S|-1|-1|-1|-1|-1|1.2|4227728|Clad Coinage and Silver Proofs
+1988P|1030550000|-1|-1|.12|.2|-1||Clad Coinage and Silver Proofs
+1988D|962385489|-1|-1|.12|.2|-1||Clad Coinage and Silver Proofs
+1988S|-1|-1|-1|-1|-1|1|3262948|Clad Coinage and Silver Proofs
+1989P|1298400000|-1|-1|.1|.2|-1||Clad Coinage and Silver Proofs
+1989D|896535597|-1|-1|.1|.2|-1||Clad Coinage and Silver Proofs
+1989S|-1|-1|-1|-1|-1|1.5|3220194|Clad Coinage and Silver Proofs
+1990P|1034340000|-1|-1|.1|.2|-1||Clad Coinage and Silver Proofs
+1990D|839995824|-1|-1|.1|.2|-1||Clad Coinage and Silver Proofs
+1990S|-1|-1|-1|-1|-1|.75|3299559|Clad Coinage and Silver Proofs
+1991P|927220000|-1|-1|.1|.2|-1||Clad Coinage and Silver Proofs
+1991D|601241114|-1|-1|.12|.2|-1||Clad Coinage and Silver Proofs
+1991S|-1|-1|-1|-1|-1|1.2|2867787|Clad Coinage and Silver Proofs
+1992P|593500000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+1992D|616273932|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+1992S|-1|-1|-1|-1|-1|2|2858981|Clad Coinage and Silver Proofs
+1992S,:Silver|-1|-1|-1|-1|-1|3|1317579|Clad Coinage and Silver Proofs
+1993P|766180000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+1993D|750110166|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+1993S|-1|-1|-1|-1|-1|2|2633439|Clad Coinage and Silver Proofs
+1993S,:Silver|-1|-1|-1|-1|-1|3|761353|Clad Coinage and Silver Proofs
+
+1994P|1189000000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+1994D|1303268110|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+1994S|-1|-1|-1|-1|-1|2|2484594|Clad Coinage and Silver Proofs
+1994S,:Silver|-1|-1|-1|-1|-1|3|785329|Clad Coinage and Silver Proofs
+1995P|1125500000|-1|-1|.1|.2|-1||Clad Coinage and Silver Proofs
+1995D|1274890000|-1|-1|.15|.25|-1||Clad Coinage and Silver Proofs
+1995S|-1|-1|-1|-1|-1|6|2117496|Clad Coinage and Silver Proofs
+1995S,:Silver|-1|-1|-1|-1|-1|8|679985|Clad Coinage and Silver Proofs
+1996P|1421163000|-1|-1|.1|.2|-1||Clad Coinage and Silver Proofs
+1996D|1274890000|-1|-1|.1|.2|-1||Clad Coinage and Silver Proofs
+1996W|1457000|-1|-1|6|10|-1||Clad Coinage and Silver Proofs
+1996S|-1|-1|-1|-1|-1|1|1750244|Clad Coinage and Silver Proofs
+1996S,:Silver|-1|-1|-1|-1|-1|3|775021|Clad Coinage and Silver Proofs
+1997P|991640000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+1997D|979810000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+1997S|-1|-1|-1|-1|-1|3.5|2055000|Clad Coinage and Silver Proofs
+1997S,:Silver|-1|-1|-1|-1|-1|9|741678|Clad Coinage and Silver Proofs
+1998P|1163000000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+1998D|1172250000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+1998S|-1|-1|-1|-1|-1|2|2086507|Clad Coinage and Silver Proofs
+1998S,:Silver|-1|-1|-1|-1|-1|3|878792|Clad Coinage and Silver Proofs
+1999P|2164000000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+1999D|1397750000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+1999S|-1|-1|-1|-1|-1|1|2543401|Clad Coinage and Silver Proofs
+1999S,:Silver|-1|-1|-1|-1|-1|3.5|804565|Clad Coinage and Silver Proofs
+2000P|1842500000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+2000D|1818700000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+2000S|-1|-1|-1|-1|-1|1|3082572|Clad Coinage and Silver Proofs
+2000S,:Silver|-1|-1|-1|-1|-1|3|965421|Clad Coinage and Silver Proofs
+2001P|1369590000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+2001D|1412800000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+2001S|-1|-1|-1|-1|-1|.5|2294909|Clad Coinage and Silver Proofs
+2001S,:Silver|-1|-1|-1|-1|-1|3|889697|Clad Coinage and Silver Proofs
+2002P|1187500000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+2002D|1379500000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+2002S|-1|-1|-1|-1|-1|.75|2319766|Clad Coinage and Silver Proofs
+2002S,:Silver|-1|-1|-1|-1|-1|3|892229|Clad Coinage and Silver Proofs
+2003P|1085500000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+2003D|986500000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+2003S|-1|-1|-1|-1|-1|.5|2172684|Clad Coinage and Silver Proofs
+2003S,:Silver|-1|-1|-1|-1|-1|3|1125755|Clad Coinage and Silver Proofs
+2004P|1328000000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+2004D|1159500000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+2004S|-1|-1|-1|-1|-1|.6|1789488|Clad Coinage and Silver Proofs
+2004S,:Silver|-1|-1|-1|-1|-1|3|1175934|Clad Coinage and Silver Proofs
+2005P|1412000000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+2005D|1423500000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+2005S|-1|-1|-1|-1|-1|.6|2275000|Clad Coinage and Silver Proofs
+2005S,:Silver|-1|-1|-1|-1|-1|3|1069679|Clad Coinage and Silver Proofs
+2006P|1381000000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+
+2006D|1447000000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+2006S|-1|-1|-1|-1|-1|.6|2000428|Clad Coinage and Silver Proofs
+2006S,:Silver|-1|-1|-1|-1|-1|3|1054008|Clad Coinage and Silver Proofs
+2007P|1047500000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+2007D|1042000000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+2007S|-1|-1|-1|-1|-1|.5|1702116|Clad Coinage and Silver Proofs
+2007S,:Silver|-1|-1|-1|-1|-1|3|875050|Clad Coinage and Silver Proofs
+2008P|391000000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+2008D|624500000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+2008S|-1|-1|-1|-1|-1|.5|1405674|Clad Coinage and Silver Proofs
+2008S,:Silver|-1|-1|-1|-1|-1|3|763887|Clad Coinage and Silver Proofs
+2009P|96500000|-1|-1|.2|.5|-1||Clad Coinage and Silver Proofs
+2009D|49500000|-1|-1|.2|.5|-1||Clad Coinage and Silver Proofs
+2009S|-1|-1|-1|-1|-1|.5|1482502|Clad Coinage and Silver Proofs
+
+2009S,:Silver|-1|-1|-1|-1|-1|3|697365|Clad Coinage and Silver Proofs
+2010P|557000000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+2010D|562000000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+2010S|-1|-1|-1|-1|-1|.5|1103950|Clad Coinage and Silver Proofs
+2010S,:Silver|-1|-1|-1|-1|-1|3|585414|Clad Coinage and Silver Proofs
+2011P|664000000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+2011D|664000000|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+2011S|-1|-1|-1|-1|-1|.5|952881|Clad Coinage and Silver Proofs
+2011S,:Silver|-1|-1|-1|-1|-1|3|500395|Clad Coinage and Silver Proofs
+2012P|-1|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+2012D|-1|-1|-1|.1|.15|-1||Clad Coinage and Silver Proofs
+2012S|-1|-1|-1|-1|-1|.5||Clad Coinage and Silver Proofs
+2012S,:Silver|-1|-1|-1|-1|-1|3||Clad Coinage and Silver Proofs

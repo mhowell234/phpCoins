@@ -1,0 +1,199 @@
+NAME|TYPE|ATTRIB_TYPE|VALUE
+
+
+#Liberty Head|Double Eagle|1
+
+#Saint-Gaudens|Double Eagle|1
+
+#Capped Bust To Right|Eagle|1
+
+#Liberty Head, No Motto Above Eagle|Eagle|1
+
+#Liberty Head, Motto Above Eagle|Eagle|1
+
+#Indian Head|Eagle|1
+
+
+#Capped Bust To Right|Half Eagle|1
+
+#Capped Bust To Left|Half Eagle|1
+
+#Capped Head To Left|Half Eagle|1
+
+#Classic Head|Half Eagle|1
+
+#Liberty Head|Half Eagle|1
+
+#Indian Head|Half Eagle|1
+
+
+#Stella|Four-Dollar Gold Piece|1
+
+
+#Three-Dollar Gold Piece|Three-Dollar Gold Piece|1
+
+
+#Capped Bust To Right|Quarter Eagle|1
+
+#Capped Bust To Left - Large Size|Quarter Eagle|1
+
+#Capped Bust To Left|Quarter Eagle|1
+
+#Classic Head - No Motto On Reverse|Quarter Eagle|1
+
+#Liberty Head|Quarter Eagle|1
+
+#CAL. Gold Quarter Eagle|Quarter Eagle|1
+
+#Indian Head|Quarter Eagle|1
+
+
+#Liberty Head|Gold Dollar|1|149937
+
+#Indian Princess Head, Small Head|Gold Dollar|1|149937
+
+#Indian Princess Head, Large Head|Gold Dollar|1|149937
+
+
+Flowing Hair|Silver and Related Dollar|1|11876
+
+Draped Bust|Silver and Related Dollar|1|11976
+
+Gobrecht|Silver and Related Dollar|1|176964
+
+Liberty Seated|Silver and Related Dollar|1|11977
+
+Trade Dollars|Silver and Related Dollar|1|11978
+
+Morgan|Silver and Related Dollar|1|39464
+
+Peace|Silver and Related Dollar|1|11980
+
+Eisenhower|Silver and Related Dollar|1|11981
+
+Susan B. Anthony|Silver and Related Dollar|1|11982
+
+Sacagawea|Silver and Related Dollar|1|11983
+
+Presidential|Silver and Related Dollar|1|159713
+
+
+Flowing Hair|Half Dollar|1|11969
+
+Draped Bust|Half Dollar|1|11969
+
+Capped Bust, Lettered Edge|Half Dollar|1|11969
+
+Capped Bust, Reeded Edge|Half Dollar|1|11969
+
+Liberty Seated|Half Dollar|1|11970
+
+Barber or Liberty Head|Half Dollar|1|11973
+
+Liberty Walking|Half Dollar|1|41099
+
+Franklin|Half Dollar|1|11973
+
+Kennedy|Half Dollar|1|41102
+
+
+Draped Bust|Quarter|1|173587
+
+Capped Bust|Quarter|1|11963
+
+Liberty Seated|Quarter|1|11964
+
+Barber or Liberty Head|Quarter|1|11965
+
+Standing Liberty|Quarter|1|11966
+
+Washington|Quarter|1|39461
+Washington|Quarter|1|41093
+Washington|Quarter|1|166676
+Washington|Quarter|1|171526
+
+
+#Liberty Seated|Twenty-Cent Piece|1|149932
+
+
+Draped Bust|Dime|1|173586
+
+Capped Bust|Dime|1|11957
+
+Liberty Seated|Dime|1|11958
+
+Barber or Liberty Head|Dime|1|11959
+
+Winged Liberty Head or Mercury|Dime|1|41090
+
+Roosevelt|Dime|1|39458
+
+
+Flowing Hair|Half Dime|1|173588
+
+Draped Bust|Half Dime|1|173589
+
+Capped Bust|Half Dime|1|149929
+
+Liberty Seated|Half Dime|1|149930
+
+
+Shield|Nickel|1|11952
+
+Liberty Head|Nickel|1|11953
+
+Indian Head or Buffalo|Nickel|1|139806
+
+Jefferson|Nickel|1|41087
+
+
+Silver - Trime|Three-Cent Piece|1|149927
+
+Nickel|Three-Cent Piece|1|149926
+
+
+#Two-Cent Piece|Two-Cent Piece|1|149924
+
+
+Flying Eagle|Small Cent|1|11942
+
+Indian Head|Small Cent|1|41084
+
+Lincoln, Wheat Ears Reverse|Small Cent|1|39455
+
+Lincoln, Memorial Reverse|Small Cent|1|31373
+
+Lincoln, Bicentennial|Small Cent|1|171524
+
+Lincoln, Shield Reverse|Small Cent|1|171525
+
+
+Flowing Hair|Large Cent|1|11946
+
+Liberty Cap|Large Cent|1|11946
+
+Draped Bust|Large Cent|1|11947
+
+Classic Head|Large Cent|1|11948
+
+Liberty Head|Large Cent|1|11949
+Liberty Head|Large Cent|1|11950
+
+
+Liberty Cap|Half Cent|1|173591
+
+Draped Bust|Half Cent|1|173592
+
+Classic Head|Half Cent|1|173593
+
+Braided Hair|Half Cent|1|173594
+
+
+#World's Columbian Exposition Half Dollar|Classic Commemoratives|1
+
+#World's Columbian Exposition - Isabella Quarter Dollar|Classic Commemoratives|1
+
+#Lafayette Dollar|Classic Commemoratives|1
+
+
+#Sommer Islands (Bermuda)|British New World Issues|1

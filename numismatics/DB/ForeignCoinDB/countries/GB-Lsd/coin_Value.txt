@@ -1,0 +1,25 @@
+NAME|VALUE|DESCRIPTION
+
+Farthing|1|
+
+Half Penny|2|
+
+Penny|4|
+
+Threepence|12|
+
+Groat|16|
+
+Sixpence|24|
+
+Shilling|48|
+
+Florin|96|
+
+Half Crown|120|The half crown was a denomination of British money worth half of a crown, equivalent to two and a half shillings (30 pennies), or one-eighth of a pound. The half crown was first issued in 1549, in the reign of Edward VI. No half crowns were issued in the reign of Mary, but from the reign of Elizabeth I half crowns were issued in every reign except Edward VIII, until the coins were discontinued in 1967. The half crown was demonetised (ahead of other pre-decimal coins) on 1 January 1970, the year before the United Kingdom adopted decimal currency on Decimal Day.^^^^During the English Interregnum of 1649-1660, a republican half crown was issued, bearing the arms of the Commonwealth of England, despite monarchist associations of the coin's name. When Oliver Cromwell made himself Lord Protector of England, half crowns were issued bearing his semi-royal portrait.
+
+Crown|240|
+
+Double Crown|480|
+
+Pound|960|

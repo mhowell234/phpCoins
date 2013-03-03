@@ -1,0 +1,42 @@
+YEAR|MINTAGE|G-4|VG-8|F-12|VF-20|EF-40|AU-50|MS-60|MS-63|ADDITIONAL_INFO
+
+1916|52000|1600|2000|3600|4750|5750|6000|7000|9500|Variety 1 - No Stars Below Eagle
+1917|8740000|13|18|26|35|55|100|140|180|Variety 1 - No Stars Below Eagle
+1917D|1509200|15|19|28|40|65|110|150|200|Variety 1 - No Stars Below Eagle
+1917S|1952000|16|22|30|45|80|125|170|250|Variety 1 - No Stars Below Eagle
+
+1917|1388000|11|13|16|18|27|55|100|140|Variety 2 - Stars Below Eagle - Pedestal Date
+1917D|6224400|18|22|32|40|60|85|125|175|Variety 2 - Stars Below Eagle - Pedestal Date
+1917S|5552000|18|22|32|40|65|90|125|175|Variety 2 - Stars Below Eagle - Pedestal Date
+1918|14240000|8|9|15|17|25|50|100|145|Variety 2 - Stars Below Eagle - Pedestal Date
+1918D|7380000|13|16|26|34|50|85|125|200|Variety 2 - Stars Below Eagle - Pedestal Date
+1918S,:Normal:Date|11072000|9|11|17|20|30|50|120|175|Variety 2 - Stars Below Eagle - Pedestal Date
+1918S,:8:Over:7|-1|825|1000|1650|2500|3500|7000|10000|21000|Variety 2 - Stars Below Eagle - Pedestal Date
+1919|11324000|18|22|27|35|40|60|100|125|Variety 2 - Stars Below Eagle - Pedestal Date
+1919D|1944000|50|70|100|150|225|300|375|800|Variety 2 - Stars Below Eagle - Pedestal Date
+1919S|1836000|50|70|100|150|275|325|400|900|Variety 2 - Stars Below Eagle - Pedestal Date
+1920|27860000|8|10|15|20|25|40|100|125|Variety 2 - Stars Below Eagle - Pedestal Date
+1920D|3586400|25|30|40|45|65|100|125|450|Variety 2 - Stars Below Eagle - Pedestal Date
+1920S|6380000|9|12|16|20|30|50|110|400|Variety 2 - Stars Below Eagle - Pedestal Date
+1921|1916000|85|110|160|200|275|425|625|900|Variety 2 - Stars Below Eagle - Pedestal Date
+1923|9716000|8|10|15|17|20|40|100|150|Variety 2 - Stars Below Eagle - Pedestal Date
+1923S|1360000|150|200|240|425|600|800|1000|1700|Variety 2 - Stars Below Eagle - Pedestal Date
+1924|10920000|8|10|12|15|20|50|100|150|Variety 2 - Stars Below Eagle - Pedestal Date
+1924D|3112000|25|35|50|65|100|125|150|175|Variety 2 - Stars Below Eagle - Pedestal Date
+1924S|2860000|12|15|20|25|60|125|150|500|Variety 2 - Stars Below Eagle - Pedestal Date
+
+1925|12280000|6.5|6.75|7|7.5|16|35|70|140|Variety 2 - Stars Below Eagle - Recessed Date
+1926|11316000|6.5|6.75|7|7.5|16|35|70|140|Variety 2 - Stars Below Eagle - Recessed Date
+1926D|1716000|7|8|9|16|27|55|100|170|Variety 2 - Stars Below Eagle - Recessed Date
+1926S|2700000|6.5|6.75|8|11|50|115|200|400|Variety 2 - Stars Below Eagle - Recessed Date
+1927|11912000|6.5|6.75|7|7.5|16|35|60|130|Variety 2 - Stars Below Eagle - Recessed Date
+1927D|976000|7.5|12|20|35|70|95|160|200|Variety 2 - Stars Below Eagle - Recessed Date
+1927S|396000|16|22|50|175|640|1600|2500|4200|Variety 2 - Stars Below Eagle - Recessed Date
+1928|6336000|6.5|6.75|7|7.5|16|35|60|130|Variety 2 - Stars Below Eagle - Recessed Date
+1928D|1627600|6.5|6.75|7|7.5|16|35|60|130|Variety 2 - Stars Below Eagle - Recessed Date
+1928S|2644000|6.5|6.75|7|7.5|16|35|60|130|Variety 2 - Stars Below Eagle - Recessed Date
+1929|11140000|6.5|6.75|7|7.5|16|35|60|130|Variety 2 - Stars Below Eagle - Recessed Date
+1929D|1358000|6.5|6.75|7|7.5|16|35|60|130|Variety 2 - Stars Below Eagle - Recessed Date
+1929S|1764000|6.5|6.75|7|7.5|16|35|60|130|Variety 2 - Stars Below Eagle - Recessed Date
+1930|5632000|6.5|6.75|7|7.5|16|35|60|130|Variety 2 - Stars Below Eagle - Recessed Date
+1930S|1556000|6.5|6.75|7|7.5|16|35|60|130|Variety 2 - Stars Below Eagle - Recessed Date

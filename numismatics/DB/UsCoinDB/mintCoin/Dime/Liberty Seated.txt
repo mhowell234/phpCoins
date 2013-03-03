@@ -1,0 +1,131 @@
+YEAR|MINTAGE|G-4|F-12|VF-20|EF-40|AU-50|MS-60|MS-63|PF-63|Paren|ADDITIONAL_INFO
+
+1837|682500|18|35|125|220|325|600|850|-1||Variety 1 - No Stars on Obverse
+1838O|406034|21|60|160|300|550|1300|3100|-1||Variety 1 - No Stars on Obverse
+
+1838,:All:Kinds|1992500|-1|-1|-1|-1|-1|-1|-1|-1||Variety 2 - Stars on Obverse
+1838,:Small:Stars|-1|9|18|35|70|175|400|600|-1||Variety 2 - Stars on Obverse
+1838,:Large:Stars|-1|8|11|14|40|100|150|350|-1||Variety 2 - Stars on Obverse
+1838,:Partial:Drapery|-1|9|18|35|75|210|425|1000|-1||Variety 2 - Stars on Obverse
+1839|1053115|8|11|14|40|100|150|350|-1||Variety 2 - Stars on Obverse
+1839O|1291600|9|13|16|45|120|175|500|-1||Variety 2 - Stars on Obverse
+1840,:No:Drapery|981500|8|11|14|40|100|150|350|-1||Variety 2 - Stars on Obverse
+1840O,:No:Drapery|1175000|9|13|20|50|120|475|950|-1||Variety 2 - Stars on Obverse
+1840,:Drapery|377500|13|30|55|125|170|425|2200|-1||Variety 2 - Stars on Obverse
+
+1841|1622500|8|11|14|20|50|135|250|-1||Variety 2 - Stars on Obverse
+1841O|2007500|9|13|15|28|90|425|900|-1||Variety 2 - Stars on Obverse
+1842|1887500|8|11|14|20|50|135|250|-1||Variety 2 - Stars on Obverse
+1842O|2020000|9|13|17|100|500|1300|2600|-1||Variety 2 - Stars on Obverse
+1843|1370000|8|11|14|20|50|135|300|-1||Variety 2 - Stars on Obverse
+1843O|150000|17|45|110|375|950|2500|-1|-1||Variety 2 - Stars on Obverse
+1844|72500|100|225|350|600|800|1400|4000|-1||Variety 2 - Stars on Obverse
+1845|1755000|8|11|14|20|50|135|300|-1||Variety 2 - Stars on Obverse
+1845O|230000|9|20|80|185|475|1300|-1|-1||Variety 2 - Stars on Obverse
+1846|31300|32|90|160|475|1000|1900|7500|-1||Variety 2 - Stars on Obverse
+1847|245000|9|16|27|55|120|400|1000|-1||Variety 2 - Stars on Obverse
+1848|451500|8|11|16|35|60|210|400|-1||Variety 2 - Stars on Obverse
+1849|839000|8|11|14|20|50|150|425|-1||Variety 2 - Stars on Obverse
+1849O|300000|8|17|50|110|300|1100|2500|-1||Variety 2 - Stars on Obverse
+1850|1931500|8|11|14|20|50|125|300|-1||Variety 2 - Stars on Obverse
+1850O|510000|9|13|33|65|150|425|975|-1||Variety 2 - Stars on Obverse
+1851|1026500|8|11|14|20|50|160|325|-1||Variety 2 - Stars on Obverse
+1851O|400000|9|17|35|100|175|1000|1600|-1||Variety 2 - Stars on Obverse
+1852|1535500|8|11|14|20|50|150|300|-1||Variety 2 - Stars on Obverse
+1852O|430000|10|20|50|100|175|800|1300|-1||Variety 2 - Stars on Obverse
+1853,:No:Arrows|95000|22|55|90|150|225|375|450|-1||Variety 2 - Stars on Obverse
+
+1853,:With:Arrows|12078010|7|8|12|22|60|150|300|12000||Variety 3 - Arrows at Date
+1853O|1100000|7|8|17|45|120|475|1400|-1||Variety 3 - Arrows at Date
+1854|4470000|7|8|12|22|60|150|300|6000||Variety 3 - Arrows at Date
+1854O|1770000|7|8|13|35|75|285|500|-1||Variety 3 - Arrows at Date
+1855|2075000|7|8|12|22|60|175|400|6000||Variety 3 - Arrows at Date
+
+1856,:All:Kinds|5780000|-1|-1|-1|-1|-1|-1|-1|-1||Variety 2 Resumed, With Weight Standard of Variety 3
+1856,:Large:Date|-1|7|8|11|18|40|140|275|-1||Variety 2 Resumed, With Weight Standard of Variety 3
+1856,:Small:Date|-1|7|8|11|18|40|140|275|1800||Variety 2 Resumed, With Weight Standard of Variety 3
+1856O|1180000|7|8|11|24|90|300|650|-1||Variety 2 Resumed, With Weight Standard of Variety 3
+1856S|70000|40|130|225|425|675|1500|7000|-1||Variety 2 Resumed, With Weight Standard of Variety 3
+
+1857|5580000|7|8|10|18|40|135|275|1800||Variety 2 Resumed, With Weight Standard of Variety 3
+1857O|1540000|7|8|11|18|70|190|275|-1||Variety 2 Resumed, With Weight Standard of Variety 3
+1858|1540000|7|8|10|18|40|135|275|900|300|Variety 2 Resumed, With Weight Standard of Variety 3
+1858O|290000|8|15|35|75|125|300|450|-1||Variety 2 Resumed, With Weight Standard of Variety 3
+1858S|60000|35|90|160|350|675|1500|7000|-1||Variety 2 Resumed, With Weight Standard of Variety 3
+1859|429200|7|8|11|25|50|135|275|700|800|Variety 2 Resumed, With Weight Standard of Variety 3
+1859O|480000|7|9|18|37|100|180|375|-1||Variety 2 Resumed, With Weight Standard of Variety 3
+1859S|60000|35|110|200|500|1750|4500|10000|-1||Variety 2 Resumed, With Weight Standard of Variety 3
+1860S|140000|12|20|50|125|350|950|2000|-1||Variety 2 Resumed, With Weight Standard of Variety 3
+
+1860|606000|7|8|10|18|40|135|250|400|1000|Variety 4 - Legend on Obverse
+1860O|40000|155|350|700|1650|3000|6500|-1|-1||Variety 4 - Legend on Obverse
+1861|1883000|7|8|10|18|40|100|180|400|1000|Variety 4 - Legend on Obverse
+1861S|172500|13|40|80|160|250|675|1900|-1||Variety 4 - Legend on Obverse
+1862|847000|7|8|10|16|25|100|120|350|550|Variety 4 - Legend on Obverse
+1862S|180750|11|21|50|100|125|650|1500|-1||Variety 4 - Legend on Obverse
+1863|14000|100|200|300|350|400|550|600|400|460|Variety 4 - Legend on Obverse
+1863S|157500|11|20|40|70|125|450|1200|-1||Variety 4 - Legend on Obverse
+1864|11000|80|170|210|350|425|550|600|400|470|Variety 4 - Legend on Obverse
+1864S|230000|8|17|32|60|110|500|550|-1||Variety 4 - Legend on Obverse
+1865|10000|75|200|250|310|375|525|600|400|500|Variety 4 - Legend on Obverse
+1865S|175000|8|17|32|100|250|800|1900|-1||Variety 4 - Legend on Obverse
+1866|8000|120|235|375|400|600|700|800|400|725|Variety 4 - Legend on Obverse
+1866S|135000|11|20|40|100|135|550|1100|-1||Variety 4 - Legend on Obverse
+1867|6000|175|275|400|475|550|675|800|450|625|Variety 4 - Legend on Obverse
+1867S|140000|9|20|40|100|220|600|900|-1||Variety 4 - Legend on Obverse
+1868|464000|7|8|16|31|60|175|375|300|600|Variety 4 - Legend on Obverse
+1868S|260000|7|13|30|50|75|185|450|-1||Variety 4 - Legend on Obverse
+1869|256000|7|13|25|40|70|185|400|300|600|Variety 4 - Legend on Obverse
+1869S|450000|7|11|17|35|65|185|375|-1||Variety 4 - Legend on Obverse
+1870|470500|7|8|11|18|40|110|200|300|1000|Variety 4 - Legend on Obverse
+1870S|50000|100|150|200|280|350|800|1100|-1||Variety 4 - Legend on Obverse
+1871|906750|7|8|11|15|65|140|180|300|960|Variety 4 - Legend on Obverse
+1871CC|20100|450|1250|2000|4000|8500|-1|-1|-1||Variety 4 - Legend on Obverse
+1871S|320000|7|8|11|15|65|110|200|-1||Variety 4 - Legend on Obverse
+1872|2395500|7|8|11|13|35|75|110|300|950|Variety 4 - Legend on Obverse
+1872CC|35480|200|600|1400|2800|7000|-1|-1|-1||Variety 4 - Legend on Obverse
+1872S|190000|10|35|50|95|175|500|1000|-1||Variety 4 - Legend on Obverse
+1873,:Close:3|1506900|7|8|11|13|30|100|125|300|1100|Variety 4 - Legend on Obverse
+1873,:Open:3|60000|9|20|30|60|90|195|550|-1||Variety 4 - Legend on Obverse
+1873CC|12400|-1|-1|-1|-1|-1|-1|-1|-1||Variety 4 - Legend on Obverse
+
+1873|2377700|7|11|22|55|120|275|450|700|800|Variety 5 - Arrows at Date
+1873CC|18791|400|1400|3200|7500|14000|-1|-1|-1||Variety 5 - Arrows at Date
+1873S|455000|8|16|28|65|175|450|900|-1||Variety 5 - Arrows at Date
+1874|2939300|7|11|22|55|125|285|450|700|700|Variety 5 - Arrows at Date
+1874CC|10817|1250|3000|7000|11000|21000|-1|-1|-1||Variety 5 - Arrows at Date
+1874S|240000|11|27|45|90|220|400|900|-1||Variety 5 - Arrows at Date
+
+1875|10350000|6|7|9|13|30|75|110|300|700|Variety 4 Resumed, With Weight Standard of Variety 5
+1875CC|4645000|6|7|10|15|32|125|185|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+1875S|9070000|6|7|9|13|30|75|110|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+1876|11450000|6|7|9|13|30|75|110|300|1150|Variety 4 Resumed, With Weight Standard of Variety 5
+1876CC|8720000|6|7|9|15|32|100|175|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+1876S|10420000|6|7|9|13|30|75|110|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+1877|7310000|6|7|9|13|30|75|110|300|510|Variety 4 Resumed, With Weight Standard of Variety 5
+1877CC|7700000|6|7|9|13|30|100|160|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+1877S|2340000|6|7|9|13|30|75|110|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+1878|1677200|6|7|9|13|30|75|110|300|800|Variety 4 Resumed, With Weight Standard of Variety 5
+1878CC|200000|20|50|75|150|200|450|700|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+1879|14000|70|120|180|210|275|325|350|300|1100|Variety 4 Resumed, With Weight Standard of Variety 5
+1880|36000|50|100|125|175|225|275|350|300|1355|Variety 4 Resumed, With Weight Standard of Variety 5
+1881|24000|50|100|125|175|225|300|350|300|975|Variety 4 Resumed, With Weight Standard of Variety 5
+1882|3910000|6|7|9|13|30|75|110|300|1100|Variety 4 Resumed, With Weight Standard of Variety 5
+1883|7674673|6|7|9|13|30|75|110|300|1039|Variety 4 Resumed, With Weight Standard of Variety 5
+1884|3365505|6|7|9|13|30|75|110|300|875|Variety 4 Resumed, With Weight Standard of Variety 5
+1884S|564969|9|13|20|35|110|325|575|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+1885|2532497|6|7|9|13|30|75|110|300|930|Variety 4 Resumed, With Weight Standard of Variety 5
+1885S|43690|150|335|600|1000|2000|2600|4200|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+1886|6376684|6|7|9|13|30|75|110|300|886|Variety 4 Resumed, With Weight Standard of Variety 5
+1886S|206524|10|20|30|50|90|275|500|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+1887|11283229|6|7|9|13|30|75|110|300|710|Variety 4 Resumed, With Weight Standard of Variety 5
+1887S|4454450|6|7|9|13|30|75|110|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+1888|5495655|6|7|9|13|30|75|110|300|832|Variety 4 Resumed, With Weight Standard of Variety 5
+1888S|1720000|6|7|9|15|40|120|300|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+1889|7380000|6|7|9|13|30|75|110|300|711|Variety 4 Resumed, With Weight Standard of Variety 5
+1889S|972678|7|10|20|35|60|200|400|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+1890|9910951|6|7|9|13|30|75|110|300|590|Variety 4 Resumed, With Weight Standard of Variety 5
+1890S|1423076|7|9|17|30|60|135|275|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+1891|15310000|6|7|9|13|30|75|110|300|600|Variety 4 Resumed, With Weight Standard of Variety 5
+1891O|4540000|6|7|9|15|40|110|150|-1||Variety 4 Resumed, With Weight Standard of Variety 5
+1891S|3196116|6|7|9|13|35|100|125|-1||Variety 4 Resumed, With Weight Standard of Variety 5

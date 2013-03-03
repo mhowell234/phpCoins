@@ -1,0 +1,18 @@
+YEAR|MINTAGE|AG-3|G-4|VG-8|F-12|VF-20|EF-40|AU-50|ADDITIONAL_INFO
+
+1796,:All:Kinds|3918|-1|-1|-1|-1|-1|-1|-1|Small Eagle Reverse
+1796,:15:Stars|-1|7500|15000|17000|25000|35000|52500|75000|Small Eagle Reverse
+1796,:16:Stars|-1|8000|16000|18000|27000|37000|55000|85000|Small Eagle Reverse
+1797,:15:Stars|-1|7500|15000|17000|25000|35000|52500|75000|Small Eagle Reverse
+
+1801|30289|300|500|1000|1500|4000|6500|17500|Heraldic Eagle Reverse
+1802|29890|300|500|1000|1500|4000|6500|17500|Heraldic Eagle Reverse
+1803|188234|75|100|175|275|650|2000|5500|Heraldic Eagle Reverse
+1805,:All:Kinds|211722|-1|-1|-1|-1|-1|-1|-1|Heraldic Eagle Reverse
+1805,:5:Over:4|-1|100|150|275|375|1100|3000|12000|Heraldic Eagle Reverse
+1805,:Normal:Date|-1|90|120|150|250|700|2500|5000|Heraldic Eagle Reverse
+1806,:All:Kinds|839576|-1|-1|-1|-1|-1|-1|-1|Heraldic Eagle Reverse
+1806,:Normal:Date|-1|80|100|120|200|485|1300|3000|Heraldic Eagle Reverse
+1806,:6:Over:5|-1|80|100|120|200|500|1500|3500|Heraldic Eagle Reverse
+1806,:6:Over:Inverted:5|-1|90|120|200|500|1200|3000|6000|Heraldic Eagle Reverse
+1807|301076|80|100|120|200|485|1300|3000|Heraldic Eagle Reverse

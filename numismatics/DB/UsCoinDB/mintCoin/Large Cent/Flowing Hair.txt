@@ -1,0 +1,10 @@
+YEAR|MINTAGE|AG-3|G-4|VG-8|F-12|VF-20|EF-40|ADDITIONAL_INFO
+
+1793,:Chain:-:All:Kinds|36103|-1|-1|-1|-1|-1|-1|Chain Reverse
+1793,:AMERI.:in:Legend|-1|1750|4500|9000|15000|25000|45000|Chain Reverse
+1793,:AMERICA|-1|1400|3600|6900|9500|19000|35000|Chain Reverse
+
+1793,:Wreath:-:All:Kinds|63353|-1|-1|-1|-1|-1|-1|Wreath Reverse
+1793,:Vine:and:Bars:Edge|-1|340|1200|1750|2800|4250|8000|Wreath Reverse
+1793,:Lettered:Edge|-1|410|1400|1900|3000|4500|8200|Wreath Reverse
+1793,:Strawberry:Leaf|4|-1|-1|-1|-1|-1|-1|Wreath Reverse

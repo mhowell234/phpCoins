@@ -1,0 +1,9 @@
+NAME|VALUE|DESCRIPTION
+
+50-øre|50|
+1 Kroner|100|
+2 Kroner|200|
+5 Kroner|500|
+10 Kroner|1000|
+20 Kroner|2000|
+	

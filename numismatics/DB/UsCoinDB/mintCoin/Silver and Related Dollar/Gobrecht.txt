@@ -1,0 +1,5 @@
+YEAR|MINTAGE|VF-20|EF-40|AU-50|MS-60|ADDITIONAL_INFO
+
+1836|-1|5000|7500|10000|12500|C. GOBRECHT F. on base. Reverse eagle flying upward amid stars. Plain edge. Although scarce, this is the most common variety and was issued for circulation as regular coinage.
+1838|-1|8750|13500|15000|20000|Similar obverse, designer's name omitted, stars added around border. Reverse eagle flying left in plain field. Reeded edge.
+1839|-1|7000|9000|12500|15000|Obverse as above. Reverse eagle in plain field. Reeded edge. Issued for circulation as regular coinage.
