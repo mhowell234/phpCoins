@@ -1,0 +1,15 @@
+YEAR|MINTAGE|AG-3|G-4|VG-8|F-12|VF-20|EF-40|Paren|ADDITIONAL_INFO
+
+1793P,:AMERI.:in:Legend|-1|1750.00|4500.00|9000.00|15000.00|25000.00|45000.00|-1|Chain Reverse
+
+1793P,:AMERICA|-1|1400.00|3600.00|6900.00|9500.00|19000.00|35000.00|-1|Chain Reverse
+
+1793P,:Wreath:-:All:Kinds|63353|-1|Wreath Reverse
+
+1793P,:Vine:and:Bars:Edge|-1|340.00|1200.00|1750.00|2800.00|4250.00|8000.00|-1|Wreath Reverse
+
+1793P,:Lettered:Edge|-1|410.00|1400.00|1900.00|3000.00|4500.00|8200.00|-1|Wreath Reverse
+
+1793P,:Strawberry:Leaf|4|-1|Wreath Reverse
+
+1793P,:Chain:-:All:Kinds|36103|-1|Chain Reverse

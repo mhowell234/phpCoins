@@ -1,0 +1,7 @@
+MINT|START_YEAR|END_YEAR
+
+Heaton/Birmingham|1850|2003
+
+Kings Norton|1911|1970
+
+Royal Mint|886|0

@@ -1,0 +1,18 @@
+<?php
+
+header('Content-type: application/json');
+
+include_once('../include/init.php');
+include_once("$DOCUMENT_ROOT/include/db/db.php");
+include_once("$DOCUMENT_ROOT/include/utils.php");
+
+$yearId = request('yearId');
+
+mysql_set_charset("UTF-8");
+
+$mints = getUSCoinMintsForYear($yearId);
+
+print json_encode_pretty($mints);
+
+?>
+

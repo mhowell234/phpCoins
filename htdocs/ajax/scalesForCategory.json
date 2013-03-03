@@ -1,0 +1,17 @@
+<?php
+
+header('Content-type: application/json');
+
+include_once('../include/init.php');
+include_once("$DOCUMENT_ROOT/include/db/db.php");
+include_once("$DOCUMENT_ROOT/include/utils.php");
+
+$categoryId = request('categoryId');
+
+mysql_set_charset("UTF-8");
+
+$values = getRatingsForCategory($categoryId);
+
+print json_encode_pretty($values);
+
+?>

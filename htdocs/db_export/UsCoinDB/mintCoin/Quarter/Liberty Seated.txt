@@ -1,0 +1,225 @@
+YEAR|MINTAGE|G-4|VG-8|F-12|VF-20|EF-40|AU-50|MS-60|MS-63|PF-63|Paren|ADDITIONAL_INFO
+
+1838P|466000|10.00|13.00|20.00|36.00|110.00|220.00|625.00|1750.00|-1|Variety 1 - No Motto Above Eagle
+
+1839P|491146|10.00|13.00|20.00|35.00|110.00|220.00|625.00|1750.00|-1|Variety 1 - No Motto Above Eagle
+
+1840O|425200|11.00|15.00|27.00|45.00|125.00|225.00|650.00|2000.00|-1|Variety 1 - No Motto Above Eagle
+
+1840P|188127|9.00|12.00|21.00|32.00|70.00|110.00|400.00|1500.00|-1|Variety 1 - No Motto Above Eagle
+
+1841O|452000|10.00|12.00|19.00|32.00|80.00|120.00|350.00|750.00|-1|Variety 1 - No Motto Above Eagle
+
+1841P|120000|18.00|30.00|45.00|65.00|110.00|125.00|425.00|850.00|-1|Variety 1 - No Motto Above Eagle
+
+1842O,:Small:Date|-1|150.00|250.00|475.00|775.00|1500.00|3500.00|-1|Variety 1 - No Motto Above Eagle
+
+1842O,:Large:Date|769000|10.00|11.00|17.00|31.00|70.00|125.00|650.00|1800.00|-1|Variety 1 - No Motto Above Eagle
+
+1842P,:Large:Date|88000|30.00|40.00|75.00|130.00|175.00|250.00|750.00|1500.00|-1|Variety 1 - No Motto Above Eagle
+
+1842P,:Small:Date:-:Proof:Only|-1|28000.00|-1|Variety 1 - No Motto Above Eagle
+
+1843O|968000|10.00|13.00|20.00|45.00|100.00|275.00|900.00|3750.00|-1|Variety 1 - No Motto Above Eagle
+
+1843P|645600|9.00|10.00|16.00|22.00|40.00|60.00|225.00|600.00|-1|Variety 1 - No Motto Above Eagle
+
+1844O|740000|10.00|11.00|18.00|32.00|80.00|120.00|550.00|1400.00|-1|Variety 1 - No Motto Above Eagle
+
+1844P|421200|9.00|10.00|16.00|22.00|40.00|60.00|225.00|600.00|-1|Variety 1 - No Motto Above Eagle
+
+1845P|922000|9.00|10.00|16.00|22.00|40.00|60.00|225.00|625.00|-1|Variety 1 - No Motto Above Eagle
+
+1846P|510000|9.00|10.00|16.00|22.00|40.00|60.00|225.00|600.00|-1|Variety 1 - No Motto Above Eagle
+
+1847O|368000|12.00|17.00|27.00|50.00|110.00|275.00|900.00|3500.00|-1|Variety 1 - No Motto Above Eagle
+
+1847P|734000|9.00|10.00|16.00|22.00|40.00|60.00|225.00|600.00|-1|Variety 1 - No Motto Above Eagle
+
+1848P|146000|11.00|17.00|28.00|50.00|80.00|125.00|450.00|1100.00|-1|Variety 1 - No Motto Above Eagle
+
+1849O|-1|175.00|260.00|450.00|950.00|1600.00|2500.00|6000.00|-1|Variety 1 - No Motto Above Eagle
+
+1849P|340000|10.00|12.00|20.00|27.00|70.00|100.00|400.00|700.00|-1|Variety 1 - No Motto Above Eagle
+
+1850O|412000|13.00|17.00|25.00|35.00|65.00|180.00|550.00|1100.00|-1|Variety 1 - No Motto Above Eagle
+
+1850P|190800|13.00|17.00|25.00|35.00|65.00|100.00|400.00|750.00|-1|Variety 1 - No Motto Above Eagle
+
+1851O|88000|65.00|100.00|200.00|300.00|650.00|1100.00|2900.00|-1|Variety 1 - No Motto Above Eagle
+
+1851P|160000|15.00|20.00|28.00|50.00|85.00|100.00|400.00|725.00|-1|Variety 1 - No Motto Above Eagle
+
+1852O|96000|80.00|120.00|175.00|300.00|600.00|1500.00|3500.00|12000.00|-1|Variety 1 - No Motto Above Eagle
+
+1852P|177060|16.00|21.00|30.00|55.00|90.00|110.00|375.00|650.00|-1|Variety 1 - No Motto Above Eagle
+
+1853O|1332000|9.00|12.00|17.00|30.00|115.00|450.00|1300.00|4250.00|-1|Variety 2 - Arrows at Date, Rays Around Eagle
+
+1853P,:Recut:Date|44200|110.00|140.00|175.00|275.00|500.00|750.00|1300.00|2000.00|-1|Variety 1 - No Motto Above Eagle
+
+1853P|15210000|9.00|12.00|15.00|20.00|65.00|125.00|450.00|975.00|-1|Variety 2 - Arrows at Date, Rays Around Eagle
+
+1853P,:3:Over:4|-1|20.00|35.00|55.00|110.00|160.00|250.00|900.00|2250.00|-1|Variety 2 - Arrows at Date, Rays Around Eagle
+
+1854O|1484000|9.00|11.00|16.00|20.00|40.00|110.00|325.00|850.00|-1|Variety 3 - Arrows at Date, No Rays
+
+1854P|12380000|9.00|11.00|14.00|18.00|35.00|100.00|250.00|600.00|-1|Variety 3 - Arrows at Date, No Rays
+
+1855O|176000|17.00|25.00|45.00|115.00|160.00|500.00|1800.00|5750.00|-1|Variety 3 - Arrows at Date, No Rays
+
+1855P|2857000|9.00|11.00|14.00|18.00|35.00|100.00|275.00|650.00|-1|Variety 3 - Arrows at Date, No Rays
+
+1855S|396400|17.00|25.00|35.00|60.00|125.00|325.00|900.00|3100.00|-1|Variety 3 - Arrows at Date, No Rays
+
+1856O|968000|9.00|11.00|14.00|21.00|40.00|100.00|500.00|825.00|-1|Variety 1 Resumed, With Weight Standard of Variety 2
+
+1856P|7264000|9.00|11.00|14.00|19.00|27.00|60.00|170.00|300.00|2800.00|-1|Variety 1 Resumed, With Weight Standard of Variety 2
+
+1856S|286000|15.00|20.00|35.00|80.00|200.00|500.00|1250.00|4500.00|-1|Variety 1 Resumed, With Weight Standard of Variety 2
+
+1857O|1180000|9.00|11.00|14.00|19.00|37.00|110.00|500.00|1200.00|-1|Variety 1 Resumed, With Weight Standard of Variety 2
+
+1857P|9644000|9.00|11.00|14.00|19.00|26.00|60.00|150.00|300.00|1900.00|-1|Variety 1 Resumed, With Weight Standard of Variety 2
+
+1857S|82000|25.00|40.00|70.00|150.00|250.00|400.00|1200.00|3250.00|-1|Variety 1 Resumed, With Weight Standard of Variety 2
+
+1858O|520000|9.00|11.00|14.00|25.00|50.00|150.00|650.00|1750.00|-1|Variety 1 Resumed, With Weight Standard of Variety 2
+
+1858P|7368000|9.00|11.00|14.00|19.00|26.00|60.00|150.00|300.00|1000.00|300|Variety 1 Resumed, With Weight Standard of Variety 2
+
+1858S|121000|19.00|32.00|60.00|125.00|600.00|1750.00|5500.00|-1|Variety 1 Resumed, With Weight Standard of Variety 2
+
+1859O|260000|9.00|11.00|14.00|25.00|50.00|150.00|500.00|1600.00|-1|Variety 1 Resumed, With Weight Standard of Variety 2
+
+1859P|1343200|9.00|11.00|14.00|19.00|26.00|60.00|150.00|425.00|625.00|800|Variety 1 Resumed, With Weight Standard of Variety 2
+
+1859S|80000|40.00|60.00|95.00|250.00|1200.00|5200.00|-1|Variety 1 Resumed, With Weight Standard of Variety 2
+
+1860O|388000|9.00|11.00|14.00|20.00|32.00|150.00|450.00|850.00|-1|Variety 1 Resumed, With Weight Standard of Variety 2
+
+1860P|804400|9.00|11.00|14.00|19.00|26.00|60.00|175.00|300.00|575.00|1000|Variety 1 Resumed, With Weight Standard of Variety 2
+
+1860S|56000|40.00|60.00|95.00|250.00|1200.00|5200.00|1.00|-1|Variety 1 Resumed, With Weight Standard of Variety 2
+
+1861P|4853600|9.00|11.00|14.00|19.00|26.00|60.00|175.00|350.00|575.00|1000|Variety 1 Resumed, With Weight Standard of Variety 2
+
+1861S|96000|27.00|50.00|100.00|225.00|900.00|3000.00|-1|Variety 1 Resumed, With Weight Standard of Variety 2
+
+1862P|932000|9.00|11.00|14.00|19.00|26.00|60.00|175.00|350.00|575.00|550|Variety 1 Resumed, With Weight Standard of Variety 2
+
+1862S|67000|20.00|32.00|80.00|110.00|250.00|475.00|1400.00|3500.00|-1|Variety 1 Resumed, With Weight Standard of Variety 2
+
+1863P|191600|14.00|18.00|30.00|45.00|70.00|120.00|300.00|450.00|575.00|460|Variety 1 Resumed, With Weight Standard of Variety 2
+
+1864P|93600|30.00|35.00|45.00|70.00|110.00|180.00|300.00|600.00|575.00|470|Variety 1 Resumed, With Weight Standard of Variety 2
+
+1864S|20000|125.00|175.00|300.00|425.00|950.00|1850.00|-1|Variety 1 Resumed, With Weight Standard of Variety 2
+
+1865P|58800|25.00|30.00|45.00|70.00|110.00|180.00|300.00|600.00|575.00|500|Variety 1 Resumed, With Weight Standard of Variety 2
+
+1865S|41000|30.00|40.00|60.00|140.00|225.00|450.00|1250.00|2000.00|-1|Variety 1 Resumed, With Weight Standard of Variety 2
+
+1866P|16800|150.00|200.00|225.00|350.00|550.00|700.00|850.00|1200.00|450.00|725|Variety 4 - Motto Above Eagle
+
+1866S|28000|75.00|110.00|200.00|350.00|500.00|900.00|1600.00|3000.00|-1|Variety 4 - Motto Above Eagle
+
+1867P|20000|80.00|100.00|175.00|210.00|260.00|450.00|750.00|1100.00|450.00|625|Variety 4 - Motto Above Eagle
+
+1867S|48000|85.00|120.00|170.00|300.00|900.00|2250.00|6000.00|-1|Variety 4 - Motto Above Eagle
+
+1868P|29400|40.00|60.00|80.00|100.00|125.00|210.00|425.00|800.00|450.00|600|Variety 4 - Motto Above Eagle
+
+1868S|96000|30.00|40.00|50.00|90.00|200.00|350.00|1100.00|2800.00|-1|Variety 4 - Motto Above Eagle
+
+1869P|16000|90.00|110.00|170.00|200.00|275.00|400.00|600.00|1100.00|450.00|600|Variety 4 - Motto Above Eagle
+
+1869S|76000|30.00|45.00|80.00|215.00|235.00|450.00|1000.00|2100.00|-1|Variety 4 - Motto Above Eagle
+
+1870CC|8340|3000.00|4500.00|6000.00|8500.00|13000.00|22000.00|-1|Variety 4 - Motto Above Eagle
+
+1870P|86400|20.00|25.00|40.00|60.00|90.00|175.00|400.00|750.00|450.00|1000|Variety 4 - Motto Above Eagle
+
+1871CC|10890|750.00|1500.00|2400.00|6500.00|10000.00|17500.00|-1|Variety 4 - Motto Above Eagle
+
+1871P|118200|11.00|16.00|22.00|40.00|60.00|135.00|225.00|450.00|450.00|960|Variety 4 - Motto Above Eagle
+
+1871S|30900|100.00|150.00|200.00|320.00|500.00|1200.00|1800.00|3000.00|-1|Variety 4 - Motto Above Eagle
+
+1872CC|22850|250.00|500.00|750.00|1300.00|2750.00|4500.00|17000.00|-1|Variety 4 - Motto Above Eagle
+
+1872P|182000|11.00|16.00|22.00|40.00|60.00|100.00|300.00|700.00|450.00|950|Variety 4 - Motto Above Eagle
+
+1872S|83000|235.00|450.00|650.00|1000.00|1800.00|2500.00|4250.00|-1|Variety 4 - Motto Above Eagle
+
+1873CC|4000|40000.00|-1|Variety 4 - Motto Above Eagle
+
+1873CC|12462|900.00|1500.00|4000.00|6500.00|9000.00|12000.00|25000.00|40000.00|-1|Variety 5 - Arrows at Date
+
+1873P|212600|11.00|16.00|22.00|35.00|50.00|90.00|200.00|425.00|450.00|600|Variety 4 - Motto Above Eagle
+
+1873P|1271160|10.00|11.00|16.00|35.00|90.00|175.00|425.00|700.00|800.00|540|Variety 5 - Arrows at Date
+
+1873S|156000|11.00|14.00|23.00|45.00|110.00|200.00|600.00|1000.00|-1|Variety 5 - Arrows at Date
+
+1874P|471200|10.00|11.00|16.00|35.00|90.00|175.00|450.00|750.00|800.00|700|Variety 5 - Arrows at Date
+
+1874S|392000|11.00|13.00|20.00|45.00|110.00|175.00|450.00|750.00|-1|Variety 5 - Arrows at Date
+
+1875CC|140000|25.00|35.00|65.00|125.00|200.00|300.00|800.00|2500.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1875P|4292800|9.00|11.00|14.00|18.00|25.00|60.00|125.00|200.00|400.00|700|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1875S|680000|10.00|16.00|23.00|35.00|70.00|125.00|275.00|500.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1876CC|4944000|16.00|24.00|28.00|30.00|40.00|80.00|200.00|400.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1876P|17816000|9.00|11.00|14.00|19.00|25.00|60.00|125.00|200.00|400.00|1150|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1876S|8596000|9.00|11.00|14.00|18.00|25.00|60.00|125.00|200.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1877CC|4192000|15.00|22.00|24.00|30.00|40.00|80.00|200.00|350.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1877P|10911200|9.00|11.00|14.00|18.00|25.00|60.00|125.00|200.00|400.00|510|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1877S|8996000|9.00|11.00|14.00|19.00|25.00|60.00|125.00|200.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1877S,:S:Over:Horizontal:S|-1|12.00|16.00|35.00|50.00|90.00|125.00|300.00|650.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1878CC|996000|11.00|16.00|20.00|30.00|55.00|95.00|250.00|400.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1878P|2260000|9.00|11.00|14.00|19.00|25.00|60.00|125.00|200.00|400.00|800|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1878S|140000|50.00|100.00|125.00|175.00|300.00|450.00|800.00|1900.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1879P|13600|40.00|50.00|75.00|80.00|100.00|135.00|200.00|375.00|400.00|1100|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1880P|13600|40.00|50.00|75.00|80.00|100.00|135.00|200.00|375.00|400.00|1355|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1881P|12000|50.00|65.00|85.00|100.00|120.00|190.00|225.00|400.00|450.00|975|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1882P|15200|45.00|50.00|80.00|100.00|110.00|150.00|275.00|375.00|400.00|1100|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1883P|14400|45.00|50.00|80.00|100.00|110.00|150.00|275.00|375.00|400.00|1039|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1884P|8000|90.00|100.00|120.00|125.00|150.00|200.00|350.00|450.00|400.00|875|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1885P|13600|40.00|50.00|75.00|100.00|110.00|200.00|300.00|400.00|400.00|930|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1886P|5000|95.00|110.00|150.00|175.00|275.00|375.00|475.00|500.00|450.00|886|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1887P|10000|80.00|90.00|100.00|125.00|175.00|200.00|300.00|400.00|400.00|710|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1888P|10001|70.00|80.00|90.00|135.00|200.00|225.00|300.00|375.00|400.00|832|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1888S|1216000|9.00|11.00|14.00|18.00|25.00|65.00|150.00|275.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1889P|12000|50.00|60.00|90.00|110.00|120.00|200.00|300.00|400.00|400.00|711|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1890P|80000|20.00|25.00|35.00|50.00|80.00|125.00|275.00|375.00|400.00|590|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1891O|68000|50.00|65.00|110.00|325.00|475.00|600.00|1600.00|2500.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1891P|3920000|9.00|11.00|13.00|15.00|22.00|65.00|150.00|250.00|400.00|600|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1891S|2216000|9.00|11.00|14.00|18.00|25.00|65.00|150.00|250.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5

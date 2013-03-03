@@ -1,0 +1,105 @@
+YEAR|MINTAGE|G-4|VG-8|F-12|VF-20|EF-40|AU-50|MS-60|MS-63|Paren|ADDITIONAL_INFO
+
+1807P|750500|40.00|60.00|100.00|200.00|550.00|1200.00|2500.00|4000.00|-1|First Style
+
+1808P|1368600|26.00|33.00|40.00|55.00|125.00|255.00|825.00|165.00|-1|First Style
+
+1808P,:8:Over:7|-1|30.00|40.00|60.00|90.00|200.00|600.00|1200.00|3400.00|-1|First Style
+
+1809P|1405810|25.00|29.00|37.00|50.00|100.00|250.00|700.00|1600.00|-1|Remodeled Portrait and Eagle
+
+1810P|1276276|25.00|29.00|37.00|50.00|100.00|225.00|675.00|1500.00|-1|Remodeled Portrait and Eagle
+
+1811P|1203644|25.00|29.00|35.00|42.00|85.00|185.00|600.00|1100.00|-1|Remodeled Portrait and Eagle
+
+1812P,:All:Kinds|1628059|-1|Remodeled Portrait and Eagle
+
+1812P,:2:Over:1|-1|25.00|32.00|40.00|65.00|150.00|250.00|1000.00|2200.00|-1|Remodeled Portrait and Eagle
+
+1812P|-1|25.00|30.00|37.00|55.00|100.00|200.00|500.00|1000.00|-1|Remodeled Portrait and Eagle
+
+1813P,:50:C.:Over:UNI|-1|25.00|30.00|42.00|70.00|140.00|300.00|700.00|2100.00|-1|Remodeled Portrait and Eagle
+
+1813P|1241903|25.00|30.00|37.00|55.00|100.00|185.00|500.00|1000.00|-1|Remodeled Portrait and Eagle
+
+1814P,:All:Kinds|1039075|-1|Remodeled Portrait and Eagle
+
+1814P,:4:Over:3|-1|25.00|30.00|45.00|80.00|150.00|350.00|800.00|2100.00|-1|Remodeled Portrait and Eagle
+
+1814P|-1|25.00|30.00|40.00|55.00|100.00|185.00|500.00|1100.00|-1|Remodeled Portrait and Eagle
+
+1815P,:5:Over:2|47150|500.00|750.00|900.00|1200.00|2200.00|3000.00|5500.00|15000.00|-1|Remodeled Portrait and Eagle
+
+1817P,:Dated:181.7|1215567|25.00|30.00|39.00|50.00|85.00|175.00|475.00|1000.00|-1|Remodeled Portrait and Eagle
+
+1817P|1215567|20.00|30.00|39.00|45.00|65.00|150.00|450.00|1000.00|-1|Remodeled Portrait and Eagle
+
+1817P,:All:Kinds|1215567|-1|Remodeled Portrait and Eagle
+
+1817P,:7:Over:3|1215567|30.00|45.00|100.00|200.00|350.00|650.00|1500.00|4500.00|-1|Remodeled Portrait and Eagle
+
+1817P,:7:Over:4|8|80000.00|110000.00|150000.00|-1|Remodeled Portrait and Eagle
+
+1818P,:2nd:8:Over:7|-1|25.00|30.00|35.00|42.00|65.00|175.00|500.00|1100.00|-1|Remodeled Portrait and Eagle
+
+1818P|1960322|25.00|30.00|35.00|42.00|65.00|150.00|450.00|925.00|-1|Remodeled Portrait and Eagle
+
+1819P,:9:Over:8|-1|25.00|30.00|35.00|42.00|65.00|150.00|450.00|925.00|-1|Remodeled Portrait and Eagle
+
+1819P|2208000|23.00|30.00|35.00|42.00|65.00|150.00|450.00|925.00|-1|Remodeled Portrait and Eagle
+
+1820P,:20:Over:19|-1|25.00|35.00|40.00|55.00|120.00|300.00|750.00|1200.00|-1|Remodeled Portrait and Eagle
+
+1820P|751122|23.00|30.00|35.00|42.00|65.00|150.00|475.00|950.00|-1|Remodeled Portrait and Eagle
+
+1821P|1305797|23.00|30.00|35.00|42.00|65.00|150.00|450.00|950.00|-1|Remodeled Portrait and Eagle
+
+1822P|1559573|23.00|30.00|35.00|42.00|65.00|150.00|475.00|950.00|-1|Remodeled Portrait and Eagle
+
+1823P|1694200|23.00|30.00|35.00|42.00|65.00|150.00|400.00|900.00|-1|Remodeled Portrait and Eagle
+
+1824P,:All:Kinds|3504954|-1|Remodeled Portrait and Eagle
+
+1824P,:4:Over:Various:Dates|-1|23.00|28.00|34.00|42.00|65.00|150.00|475.00|900.00|-1|Remodeled Portrait and Eagle
+
+1824P,:4:Over:1|-1|23.00|28.00|34.00|42.00|65.00|150.00|475.00|900.00|-1|Remodeled Portrait and Eagle
+
+1824P|-1|23.00|28.00|34.00|42.00|65.00|150.00|425.00|825.00|-1|Remodeled Portrait and Eagle
+
+1825P|2943166|23.00|28.00|34.00|42.00|65.00|150.00|425.00|825.00|-1|Remodeled Portrait and Eagle
+
+1826P|4004180|23.00|28.00|34.00|42.00|65.00|150.00|400.00|825.00|-1|Remodeled Portrait and Eagle
+
+1827P,:All:Kinds|5493400|-1|Remodeled Portrait and Eagle
+
+1827P,:7:Over:6|-1|25.00|34.00|40.00|50.00|75.00|150.00|525.00|900.00|-1|Remodeled Portrait and Eagle
+
+1827P|-1|23.00|28.00|35.00|45.00|65.00|150.00|425.00|825.00|-1|Remodeled Portrait and Eagle
+
+1828P,:All:Kinds|3075200|-1|Remodeled Portrait and Eagle
+
+1828P,:Curl:Base:No:Knob:2|-1|23.00|28.00|35.00|45.00|65.00|150.00|425.00|825.00|-1|Remodeled Portrait and Eagle
+
+1828P,:Curl:Base:Knob:2|-1|25.00|29.00|35.00|45.00|65.00|150.00|425.00|825.00|-1|Remodeled Portrait and Eagle
+
+1828P,:Square:Base:2|-1|23.00|28.00|35.00|45.00|65.00|150.00|425.00|825.00|-1|Remodeled Portrait and Eagle
+
+1829P,:9:Over:7|-1|23.00|30.00|38.00|50.00|75.00|190.00|500.00|1250.00|-1|Remodeled Portrait and Eagle
+
+1829P|3712156|23.00|28.00|34.00|42.00|65.00|150.00|400.00|850.00|-1|Remodeled Portrait and Eagle
+
+1830P|4764800|23.00|28.00|34.00|42.00|65.00|150.00|400.00|850.00|-1|Remodeled Portrait and Eagle
+
+1831P|5873660|23.00|28.00|34.00|42.00|65.00|150.00|400.00|850.00|-1|Remodeled Portrait and Eagle
+
+1832P|4797000|23.00|28.00|34.00|42.00|65.00|150.00|400.00|850.00|-1|Remodeled Portrait and Eagle
+
+1833P|5206000|23.00|28.00|34.00|42.00|65.00|150.00|400.00|850.00|-1|Remodeled Portrait and Eagle
+
+1834P|6412004|23.00|28.00|34.00|42.00|65.00|150.00|400.00|850.00|-1|Remodeled Portrait and Eagle
+
+1835P|5352006|23.00|28.00|34.00|42.00|65.00|150.00|400.00|850.00|-1|Remodeled Portrait and Eagle
+
+1836P|6545000|23.00|28.00|34.00|42.00|65.00|150.00|400.00|850.00|-1|Remodeled Portrait and Eagle
+
+1836P,:50:Over:00|-1|30.00|40.00|50.00|70.00|130.00|300.00|800.00|1800.00|-1|Remodeled Portrait and Eagle

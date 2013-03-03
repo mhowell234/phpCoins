@@ -1,0 +1,20 @@
+<?php
+
+header('Content-type: application/json');
+
+include_once('../include/init.php');
+include_once("$DOCUMENT_ROOT/include/db/db.php");
+include_once("$DOCUMENT_ROOT/include/utils.php");
+
+$typeId = request('typeId');
+
+mysql_set_charset("UTF-8");
+
+$mints = getUsMintsForCoin($typeId);
+
+print json_encode_pretty($mints);
+
+?>
+
+
+

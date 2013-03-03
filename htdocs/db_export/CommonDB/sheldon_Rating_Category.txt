@@ -1,0 +1,25 @@
+CATEGORY|NAME|START_VALUE|END_VALUE|ALT_TYPE
+
+MS|Mint State|60|70|0
+
+AU|About Uncirculated|50|59|0
+
+EF|Extremely Fine|40|49|0
+
+VF|Very Fine|20|39|0
+
+F|Fine|12|19|0
+
+VG|Very Good|8|11|0
+
+G|Good|4|7|0
+
+AG|About Good|3|3|0
+
+FR|Fair|2|2|0
+
+PO|Poor|1|1|0
+
+B|Bad|0|0|0
+
+PF|Proof|60|70|1

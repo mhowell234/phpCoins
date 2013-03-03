@@ -1,0 +1,29 @@
+YEAR|MINTAGE|AG-3|G-4|VG-8|F-12|VF-20|EF-40|AU-50|Paren|ADDITIONAL_INFO
+
+1793P|35334|900.00|1650.00|2800.00|4200.00|7200.00|13250.00|19000.00|-1|Variety 1 - Head Facing Left
+
+1794P|81600|120.00|265.00|350.00|600.00|1200.00|2800.00|5500.00|-1|Variety 2 - Head Facing Right
+
+1795P,:All:Kinds|139690|-1|Variety 2 - Head Facing Right
+
+1795P,:Lettered:Edge:-:With:Pole|-1|100.00|200.00|310.00|525.00|1200.00|2600.00|4500.00|-1|Variety 2 - Head Facing Right
+
+1795P,:Lettered:Edge:-:Punctuated:Date|-1|100.00|200.00|310.00|525.00|1200.00|2600.00|4500.00|-1|Variety 2 - Head Facing Right
+
+1795P,:Plain:Edge:-:Punctuated:Date|-1|90.00|160.00|260.00|425.00|1000.00|2400.00|3750.00|-1|Variety 2 - Head Facing Right
+
+1795P,:Plain:Edge:-:No:Pole|-1|90.00|160.00|260.00|425.00|1000.00|2400.00|3750.00|-1|Variety 2 - Head Facing Right
+
+1796P,:With:Pole|1390|3700.00|7000.00|11000.00|16000.00|24000.00|31000.00|-1|Variety 2 - Head Facing Right
+
+1796P,:No:Pole|-1|7250.00|16000.00|22000.00|35000.00|70000.00|85000.00|-1|Variety 2 - Head Facing Right
+
+1797P,:All:Kinds|127840|-1|Variety 2 - Head Facing Right
+
+1797P,:1:Above:1:-:Plain:Edge|-1|100.00|210.00|300.00|450.00|900.00|2000.00|3500.00|-1|Variety 2 - Head Facing Right
+
+1797P,:Plain:Edge|-1|120.00|220.00|300.00|600.00|1000.00|2200.00|3750.00|-1|Variety 2 - Head Facing Right
+
+1797P,:Lettered:Edge|-1|210.00|700.00|1100.00|2750.00|6500.00|15000.00|32000.00|-1|Variety 2 - Head Facing Right
+
+1797P,:Gripped:Edge|-1|3500.00|13000.00|27000.00|35000.00|-1|Variety 2 - Head Facing Right

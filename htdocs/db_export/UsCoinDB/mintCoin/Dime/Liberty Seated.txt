@@ -1,0 +1,243 @@
+YEAR|MINTAGE|G-4|F-12|VF-20|EF-40|AU-50|MS-60|MS-63|PF-63|Paren|ADDITIONAL_INFO
+
+1837P|682500|18.00|35.00|125.00|220.00|325.00|600.00|850.00|-1|Variety 1 - No Stars on Obverse
+
+1838O|406034|21.00|60.00|160.00|300.00|550.00|1300.00|3100.00|-1|Variety 1 - No Stars on Obverse
+
+1838P,:Large:Stars|-1|8.00|11.00|14.00|40.00|100.00|150.00|350.00|-1|Variety 2 - Stars on Obverse
+
+1838P,:Partial:Drapery|-1|9.00|18.00|35.00|75.00|210.00|425.00|1000.00|-1|Variety 2 - Stars on Obverse
+
+1838P,:All:Kinds|1992500|-1|Variety 2 - Stars on Obverse
+
+1838P,:Small:Stars|-1|9.00|18.00|35.00|70.00|175.00|400.00|600.00|-1|Variety 2 - Stars on Obverse
+
+1839O|1291600|9.00|13.00|16.00|45.00|120.00|175.00|500.00|-1|Variety 2 - Stars on Obverse
+
+1839P|1053115|8.00|11.00|14.00|40.00|100.00|150.00|350.00|-1|Variety 2 - Stars on Obverse
+
+1840O,:No:Drapery|1175000|9.00|13.00|20.00|50.00|120.00|475.00|950.00|-1|Variety 2 - Stars on Obverse
+
+1840P,:No:Drapery|981500|8.00|11.00|14.00|40.00|100.00|150.00|350.00|-1|Variety 2 - Stars on Obverse
+
+1840P,:Drapery|377500|13.00|30.00|55.00|125.00|170.00|425.00|2200.00|-1|Variety 2 - Stars on Obverse
+
+1841O|2007500|9.00|13.00|15.00|28.00|90.00|425.00|900.00|-1|Variety 2 - Stars on Obverse
+
+1841P|1622500|8.00|11.00|14.00|20.00|50.00|135.00|250.00|-1|Variety 2 - Stars on Obverse
+
+1842O|2020000|9.00|13.00|17.00|100.00|500.00|1300.00|2600.00|-1|Variety 2 - Stars on Obverse
+
+1842P|1887500|8.00|11.00|14.00|20.00|50.00|135.00|250.00|-1|Variety 2 - Stars on Obverse
+
+1843O|150000|17.00|45.00|110.00|375.00|950.00|2500.00|-1|Variety 2 - Stars on Obverse
+
+1843P|1370000|8.00|11.00|14.00|20.00|50.00|135.00|300.00|-1|Variety 2 - Stars on Obverse
+
+1844P|72500|100.00|225.00|350.00|600.00|800.00|1400.00|4000.00|-1|Variety 2 - Stars on Obverse
+
+1845O|230000|9.00|20.00|80.00|185.00|475.00|1300.00|-1|Variety 2 - Stars on Obverse
+
+1845P|1755000|8.00|11.00|14.00|20.00|50.00|135.00|300.00|-1|Variety 2 - Stars on Obverse
+
+1846P|31300|32.00|90.00|160.00|475.00|1000.00|1900.00|7500.00|-1|Variety 2 - Stars on Obverse
+
+1847P|245000|9.00|16.00|27.00|55.00|120.00|400.00|1000.00|-1|Variety 2 - Stars on Obverse
+
+1848P|451500|8.00|11.00|16.00|35.00|60.00|210.00|400.00|-1|Variety 2 - Stars on Obverse
+
+1849O|300000|8.00|17.00|50.00|110.00|300.00|1100.00|2500.00|-1|Variety 2 - Stars on Obverse
+
+1849P|839000|8.00|11.00|14.00|20.00|50.00|150.00|425.00|-1|Variety 2 - Stars on Obverse
+
+1850O|510000|9.00|13.00|33.00|65.00|150.00|425.00|975.00|-1|Variety 2 - Stars on Obverse
+
+1850P|1931500|8.00|11.00|14.00|20.00|50.00|125.00|300.00|-1|Variety 2 - Stars on Obverse
+
+1851O|400000|9.00|17.00|35.00|100.00|175.00|1000.00|1600.00|-1|Variety 2 - Stars on Obverse
+
+1851P|1026500|8.00|11.00|14.00|20.00|50.00|160.00|325.00|-1|Variety 2 - Stars on Obverse
+
+1852O|430000|10.00|20.00|50.00|100.00|175.00|800.00|1300.00|-1|Variety 2 - Stars on Obverse
+
+1852P|1535500|8.00|11.00|14.00|20.00|50.00|150.00|300.00|-1|Variety 2 - Stars on Obverse
+
+1853O|1100000|7.00|8.00|17.00|45.00|120.00|475.00|1400.00|-1|Variety 3 - Arrows at Date
+
+1853P,:No:Arrows|95000|22.00|55.00|90.00|150.00|225.00|375.00|450.00|-1|Variety 2 - Stars on Obverse
+
+1853P,:With:Arrows|12078010|7.00|8.00|12.00|22.00|60.00|150.00|300.00|12000.00|-1|Variety 3 - Arrows at Date
+
+1854O|1770000|7.00|8.00|13.00|35.00|75.00|285.00|500.00|-1|Variety 3 - Arrows at Date
+
+1854P|4470000|7.00|8.00|12.00|22.00|60.00|150.00|300.00|6000.00|-1|Variety 3 - Arrows at Date
+
+1855P|2075000|7.00|8.00|12.00|22.00|60.00|175.00|400.00|6000.00|-1|Variety 3 - Arrows at Date
+
+1856O|1180000|7.00|8.00|11.00|24.00|90.00|300.00|650.00|-1|Variety 2 Resumed, With Weight Standard of Variety 3
+
+1856P,:All:Kinds|5780000|-1|Variety 2 Resumed, With Weight Standard of Variety 3
+
+1856P,:Large:Date|-1|7.00|8.00|11.00|18.00|40.00|140.00|275.00|-1|Variety 2 Resumed, With Weight Standard of Variety 3
+
+1856P,:Small:Date|-1|7.00|8.00|11.00|18.00|40.00|140.00|275.00|1800.00|-1|Variety 2 Resumed, With Weight Standard of Variety 3
+
+1856S|70000|40.00|130.00|225.00|425.00|675.00|1500.00|7000.00|-1|Variety 2 Resumed, With Weight Standard of Variety 3
+
+1857O|1540000|7.00|8.00|11.00|18.00|70.00|190.00|275.00|-1|Variety 2 Resumed, With Weight Standard of Variety 3
+
+1857P|5580000|7.00|8.00|10.00|18.00|40.00|135.00|275.00|1800.00|-1|Variety 2 Resumed, With Weight Standard of Variety 3
+
+1858O|290000|8.00|15.00|35.00|75.00|125.00|300.00|450.00|-1|Variety 2 Resumed, With Weight Standard of Variety 3
+
+1858P|1540000|7.00|8.00|10.00|18.00|40.00|135.00|275.00|900.00|300|Variety 2 Resumed, With Weight Standard of Variety 3
+
+1858S|60000|35.00|90.00|160.00|350.00|675.00|1500.00|7000.00|-1|Variety 2 Resumed, With Weight Standard of Variety 3
+
+1859O|480000|7.00|9.00|18.00|37.00|100.00|180.00|375.00|-1|Variety 2 Resumed, With Weight Standard of Variety 3
+
+1859P|429200|7.00|8.00|11.00|25.00|50.00|135.00|275.00|700.00|800|Variety 2 Resumed, With Weight Standard of Variety 3
+
+1859S|60000|35.00|110.00|200.00|500.00|1750.00|4500.00|10000.00|-1|Variety 2 Resumed, With Weight Standard of Variety 3
+
+1860O|40000|155.00|350.00|700.00|1650.00|3000.00|6500.00|-1|Variety 4 - Legend on Obverse
+
+1860P|606000|7.00|8.00|10.00|18.00|40.00|135.00|250.00|400.00|1000|Variety 4 - Legend on Obverse
+
+1860S|140000|12.00|20.00|50.00|125.00|350.00|950.00|2000.00|-1|Variety 2 Resumed, With Weight Standard of Variety 3
+
+1861P|1883000|7.00|8.00|10.00|18.00|40.00|100.00|180.00|400.00|1000|Variety 4 - Legend on Obverse
+
+1861S|172500|13.00|40.00|80.00|160.00|250.00|675.00|1900.00|-1|Variety 4 - Legend on Obverse
+
+1862P|847000|7.00|8.00|10.00|16.00|25.00|100.00|120.00|350.00|550|Variety 4 - Legend on Obverse
+
+1862S|180750|11.00|21.00|50.00|100.00|125.00|650.00|1500.00|-1|Variety 4 - Legend on Obverse
+
+1863P|14000|100.00|200.00|300.00|350.00|400.00|550.00|600.00|400.00|460|Variety 4 - Legend on Obverse
+
+1863S|157500|11.00|20.00|40.00|70.00|125.00|450.00|1200.00|-1|Variety 4 - Legend on Obverse
+
+1864P|11000|80.00|170.00|210.00|350.00|425.00|550.00|600.00|400.00|470|Variety 4 - Legend on Obverse
+
+1864S|230000|8.00|17.00|32.00|60.00|110.00|500.00|550.00|-1|Variety 4 - Legend on Obverse
+
+1865P|10000|75.00|200.00|250.00|310.00|375.00|525.00|600.00|400.00|500|Variety 4 - Legend on Obverse
+
+1865S|175000|8.00|17.00|32.00|100.00|250.00|800.00|1900.00|-1|Variety 4 - Legend on Obverse
+
+1866P|8000|120.00|235.00|375.00|400.00|600.00|700.00|800.00|400.00|725|Variety 4 - Legend on Obverse
+
+1866S|135000|11.00|20.00|40.00|100.00|135.00|550.00|1100.00|-1|Variety 4 - Legend on Obverse
+
+1867P|6000|175.00|275.00|400.00|475.00|550.00|675.00|800.00|450.00|625|Variety 4 - Legend on Obverse
+
+1867S|140000|9.00|20.00|40.00|100.00|220.00|600.00|900.00|-1|Variety 4 - Legend on Obverse
+
+1868P|464000|7.00|8.00|16.00|31.00|60.00|175.00|375.00|300.00|600|Variety 4 - Legend on Obverse
+
+1868S|260000|7.00|13.00|30.00|50.00|75.00|185.00|450.00|-1|Variety 4 - Legend on Obverse
+
+1869P|256000|7.00|13.00|25.00|40.00|70.00|185.00|400.00|300.00|600|Variety 4 - Legend on Obverse
+
+1869S|450000|7.00|11.00|17.00|35.00|65.00|185.00|375.00|-1|Variety 4 - Legend on Obverse
+
+1870P|470500|7.00|8.00|11.00|18.00|40.00|110.00|200.00|300.00|1000|Variety 4 - Legend on Obverse
+
+1870S|50000|100.00|150.00|200.00|280.00|350.00|800.00|1100.00|-1|Variety 4 - Legend on Obverse
+
+1871CC|20100|450.00|1250.00|2000.00|4000.00|8500.00|-1|Variety 4 - Legend on Obverse
+
+1871P|906750|7.00|8.00|11.00|15.00|65.00|140.00|180.00|300.00|960|Variety 4 - Legend on Obverse
+
+1871S|320000|7.00|8.00|11.00|15.00|65.00|110.00|200.00|-1|Variety 4 - Legend on Obverse
+
+1872CC|35480|200.00|600.00|1400.00|2800.00|7000.00|-1|Variety 4 - Legend on Obverse
+
+1872P|2395500|7.00|8.00|11.00|13.00|35.00|75.00|110.00|300.00|950|Variety 4 - Legend on Obverse
+
+1872S|190000|10.00|35.00|50.00|95.00|175.00|500.00|1000.00|-1|Variety 4 - Legend on Obverse
+
+1873CC|12400|-1|Variety 4 - Legend on Obverse
+
+1873CC|18791|400.00|1400.00|3200.00|7500.00|14000.00|-1|Variety 5 - Arrows at Date
+
+1873P,:Close:3|1506900|7.00|8.00|11.00|13.00|30.00|100.00|125.00|300.00|1100|Variety 4 - Legend on Obverse
+
+1873P,:Open:3|60000|9.00|20.00|30.00|60.00|90.00|195.00|550.00|-1|Variety 4 - Legend on Obverse
+
+1873P|2377700|7.00|11.00|22.00|55.00|120.00|275.00|450.00|700.00|800|Variety 5 - Arrows at Date
+
+1873S|455000|8.00|16.00|28.00|65.00|175.00|450.00|900.00|-1|Variety 5 - Arrows at Date
+
+1874CC|10817|1250.00|3000.00|7000.00|11000.00|21000.00|-1|Variety 5 - Arrows at Date
+
+1874P|2939300|7.00|11.00|22.00|55.00|125.00|285.00|450.00|700.00|700|Variety 5 - Arrows at Date
+
+1874S|240000|11.00|27.00|45.00|90.00|220.00|400.00|900.00|-1|Variety 5 - Arrows at Date
+
+1875CC|4645000|6.00|7.00|10.00|15.00|32.00|125.00|185.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1875P|10350000|6.00|7.00|9.00|13.00|30.00|75.00|110.00|300.00|700|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1875S|9070000|6.00|7.00|9.00|13.00|30.00|75.00|110.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1876CC|8720000|6.00|7.00|9.00|15.00|32.00|100.00|175.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1876P|11450000|6.00|7.00|9.00|13.00|30.00|75.00|110.00|300.00|1150|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1876S|10420000|6.00|7.00|9.00|13.00|30.00|75.00|110.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1877CC|7700000|6.00|7.00|9.00|13.00|30.00|100.00|160.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1877P|7310000|6.00|7.00|9.00|13.00|30.00|75.00|110.00|300.00|510|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1877S|2340000|6.00|7.00|9.00|13.00|30.00|75.00|110.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1878CC|200000|20.00|50.00|75.00|150.00|200.00|450.00|700.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1878P|1677200|6.00|7.00|9.00|13.00|30.00|75.00|110.00|300.00|800|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1879P|14000|70.00|120.00|180.00|210.00|275.00|325.00|350.00|300.00|1100|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1880P|36000|50.00|100.00|125.00|175.00|225.00|275.00|350.00|300.00|1355|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1881P|24000|50.00|100.00|125.00|175.00|225.00|300.00|350.00|300.00|975|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1882P|3910000|6.00|7.00|9.00|13.00|30.00|75.00|110.00|300.00|1100|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1883P|7674673|6.00|7.00|9.00|13.00|30.00|75.00|110.00|300.00|1039|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1884P|3365505|6.00|7.00|9.00|13.00|30.00|75.00|110.00|300.00|875|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1884S|564969|9.00|13.00|20.00|35.00|110.00|325.00|575.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1885P|2532497|6.00|7.00|9.00|13.00|30.00|75.00|110.00|300.00|930|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1885S|43690|150.00|335.00|600.00|1000.00|2000.00|2600.00|4200.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1886P|6376684|6.00|7.00|9.00|13.00|30.00|75.00|110.00|300.00|886|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1886S|206524|10.00|20.00|30.00|50.00|90.00|275.00|500.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1887P|11283229|6.00|7.00|9.00|13.00|30.00|75.00|110.00|300.00|710|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1887S|4454450|6.00|7.00|9.00|13.00|30.00|75.00|110.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1888P|5495655|6.00|7.00|9.00|13.00|30.00|75.00|110.00|300.00|832|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1888S|1720000|6.00|7.00|9.00|15.00|40.00|120.00|300.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1889P|7380000|6.00|7.00|9.00|13.00|30.00|75.00|110.00|300.00|711|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1889S|972678|7.00|10.00|20.00|35.00|60.00|200.00|400.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1890P|9910951|6.00|7.00|9.00|13.00|30.00|75.00|110.00|300.00|590|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1890S|1423076|7.00|9.00|17.00|30.00|60.00|135.00|275.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1891O|4540000|6.00|7.00|9.00|15.00|40.00|110.00|150.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1891P|15310000|6.00|7.00|9.00|13.00|30.00|75.00|110.00|300.00|600|Variety 4 Resumed, With Weight Standard of Variety 5
+
+1891S|3196116|6.00|7.00|9.00|13.00|35.00|100.00|125.00|-1|Variety 4 Resumed, With Weight Standard of Variety 5

@@ -1,0 +1,4051 @@
+NAME|DENOMINATION|YEAR|ADDITIONAL_INFO|COIN_TYPE_INFO|WEIGHT_IN_GRAMS|SILVER|COPPER|NICKEL|MANGANESE|GOLD|ZINC
+
+Liberty Cap|Half Cent|1793|Variety 1 - Head Facing Left||6.74000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Cap|Half Cent|1794|Variety 2 - Head Facing Right||6.74000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Cap|Half Cent|1795|Variety 2 - Head Facing Right|All Kinds|6.74000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Cap|Half Cent|1795|Variety 2 - Head Facing Right|Lettered Edge - With Pole|6.74000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Cap|Half Cent|1795|Variety 2 - Head Facing Right|Lettered Edge - Punctuated Date|6.74000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Cap|Half Cent|1795|Variety 2 - Head Facing Right|Plain Edge - Punctuated Date|6.74000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Cap|Half Cent|1795|Variety 2 - Head Facing Right|Plain Edge - No Pole|6.74000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Cap|Half Cent|1796|Variety 2 - Head Facing Right|With Pole|6.74000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Cap|Half Cent|1796|Variety 2 - Head Facing Right|No Pole|6.74000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Cap|Half Cent|1797|Variety 2 - Head Facing Right|All Kinds|6.74000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Cap|Half Cent|1797|Variety 2 - Head Facing Right|1 Above 1 - Plain Edge|6.74000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Cap|Half Cent|1797|Variety 2 - Head Facing Right|Plain Edge|6.74000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Cap|Half Cent|1797|Variety 2 - Head Facing Right|Lettered Edge|6.74000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Cap|Half Cent|1797|Variety 2 - Head Facing Right|Gripped Edge|6.74000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Cap|Large Cent|1793|||13.48000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Cap|Large Cent|1794||All Kinds|13.48000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Cap|Large Cent|1794||Head of 1793|13.48000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Cap|Large Cent|1794||Head of 1794|13.48000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Cap|Large Cent|1794||Head of 1795|13.48000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Cap|Large Cent|1795||Lettered Edge|13.48000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Cap|Large Cent|1795||Plain Edge|13.48000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Cap|Large Cent|1796|||13.48000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Half Cent|1800|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Half Cent|1802||2 Over 0|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Half Cent|1803|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Half Cent|1804||All Kinds|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Half Cent|1804||Plain 4 - Stems to Wreath|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Half Cent|1804||Plain 4 - Stemless Wreath|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Half Cent|1804||Crosslet 4 - Stemless Wreath|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Half Cent|1804||Crosslet 4 - Stems to Wreath|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Half Cent|1804||Spiked Chain|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Half Cent|1805||All Kinds|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Half Cent|1805||Medium 5 - Stemless Wreath|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Half Cent|1805||Small 5 - Stemless Wreath|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Half Cent|1805||Large 5 - Stemless Wreath|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Half Cent|1806||All Kinds|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Half Cent|1806||Small 6 - Stems to Wreath|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Half Cent|1806||Small 6 - Stemless Wreath|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Half Cent|1806||Large 6 - Stems to Wreath|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Half Cent|1808||Normal Date|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1796|||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1796||LIHERTY Error|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1797||All Kinds|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1797||Gripped Edge - 1796 Reverse|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1797||Plain Edge - 1796 Reverse|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1797||1797 Reverse - With Stems|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1798||All Kinds|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1798||8 Over 7|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1798|||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1799||9 Over 8|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1799||Normal Date|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1800||All Kinds|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1800||1800 Over 1798|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1800||80 Over 79|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1800||Normal Date|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1801||All Kinds|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1801||Normal Reverse|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1801||3 Errors - 1/000 - One Stem - and IINITED|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1801||Fraction 1/000|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1801||1/100 Over 1/000|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1802||All Kinds|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1802||Normal Reverse|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1802||Fraction 1/000|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1802||Stemless Wreath|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1803||All Kinds|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1803||Small Date - Small Fraction|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1803||Small Date - Large Fraction|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1803||Large Date - Small Fraction|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1803||Large Date - Large Fraction|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1803||1/100 Over 1/000|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1803||Stemless Wreath|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1804|||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1805|||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1806|||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1807||All Kinds|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1807||Small 7 Over 6 - Blunt 1|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1807||Large 7 Over 6|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1807||Small Fraction|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Large Cent|1807||Large Fraction|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dime|1796|Small Eagle Reverse|6 Over 5|1.35000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dime|1796|Small Eagle Reverse||1.35000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dime|1796|Small Eagle Reverse|LIKERTY|1.35000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dime|1797|Small Eagle Reverse|15 Stars|1.35000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dime|1797|Small Eagle Reverse|16 Stars|1.35000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dime|1797|Small Eagle Reverse|13 Stars|1.35000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dime|1800|Heraldic Eagle Reverse||1.35000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dime|1801|Heraldic Eagle Reverse||1.35000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dime|1802|Heraldic Eagle Reverse||1.35000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dime|1803|Heraldic Eagle Reverse||1.35000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dime|1805|Heraldic Eagle Reverse||1.35000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Dime|1796|Small Eagle Reverse||2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Dime|1797|Small Eagle Reverse|All Kinds|2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Dime|1797|Small Eagle Reverse|16 Stars|2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Dime|1797|Small Eagle Reverse|13 Stars|2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Dime|1798|Heraldic Eagle Reverse||2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Dime|1798|Heraldic Eagle Reverse|All Kinds|2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Dime|1798|Heraldic Eagle Reverse|8 Over 7 - 16 Stars on Reverse|2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Dime|1798|Heraldic Eagle Reverse|8 Over 7 - 13 Stars on Reverse|2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Dime|1800|Heraldic Eagle Reverse||2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Dime|1801|Heraldic Eagle Reverse||2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Dime|1802|Heraldic Eagle Reverse||2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Dime|1803|Heraldic Eagle Reverse||2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Dime|1804|Heraldic Eagle Reverse||2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Dime|1805|Heraldic Eagle Reverse||2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Dime|1807|Heraldic Eagle Reverse||2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Quarter|1796|Small Eagle Reverse||6.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Quarter|1804|Heraldic Eagle Reverse||6.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Quarter|1805|Heraldic Eagle Reverse||6.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Quarter|1806|Heraldic Eagle Reverse||6.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Quarter|1806|Heraldic Eagle Reverse|6 Over 5|6.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Quarter|1807|Heraldic Eagle Reverse||6.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dollar|1796|Small Eagle Reverse|All Kinds|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dollar|1796|Small Eagle Reverse|15 Stars|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dollar|1796|Small Eagle Reverse|16 Stars|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dollar|1797|Small Eagle Reverse|15 Stars|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dollar|1801|Heraldic Eagle Reverse||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dollar|1802|Heraldic Eagle Reverse||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dollar|1803|Heraldic Eagle Reverse||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dollar|1805|Heraldic Eagle Reverse|All Kinds|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dollar|1805|Heraldic Eagle Reverse|5 Over 4|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dollar|1805|Heraldic Eagle Reverse|Normal Date|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dollar|1806|Heraldic Eagle Reverse|All Kinds|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dollar|1806|Heraldic Eagle Reverse|Normal Date|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dollar|1806|Heraldic Eagle Reverse|6 Over 5|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dollar|1806|Heraldic Eagle Reverse|6 Over Inverted 5|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Half Dollar|1807|Heraldic Eagle Reverse||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Silver and Related Dollar|1795|Small Eagle Reverse|Bust Type|26.96000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Silver and Related Dollar|1796|Small Eagle Reverse||26.96000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Silver and Related Dollar|1797|Small Eagle Reverse||26.96000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Silver and Related Dollar|1798|Small Eagle Reverse||26.96000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Silver and Related Dollar|1798|Heraldic Eagle Reverse|Heraldic Eagle|26.96000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Silver and Related Dollar|1799|Heraldic Eagle Reverse||26.96000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Silver and Related Dollar|1800|Heraldic Eagle Reverse||26.96000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Silver and Related Dollar|1801|Heraldic Eagle Reverse||26.96000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Silver and Related Dollar|1802|Heraldic Eagle Reverse||26.96000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Silver and Related Dollar|1803|Heraldic Eagle Reverse||26.96000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Silver and Related Dollar|1804|Heraldic Eagle Reverse|Variety 1 - 0 Above Cloud|26.96000|89.00000|11.00000|-1|-1|-1|-1
+
+Draped Bust|Silver and Related Dollar|1804|Heraldic Eagle Reverse|Variety 2 - 0 Above Space Between Clouds|26.96000|89.00000|11.00000|-1|-1|-1|-1
+
+Classic Head|Half Cent|1809|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Classic Head|Half Cent|1810|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Classic Head|Half Cent|1811|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Classic Head|Half Cent|1825|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Classic Head|Half Cent|1826|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Classic Head|Half Cent|1828||13 Stars|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Classic Head|Half Cent|1828||12 Stars|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Classic Head|Half Cent|1829|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Classic Head|Half Cent|1831|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Classic Head|Half Cent|1832|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Classic Head|Half Cent|1833|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Classic Head|Half Cent|1834|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Classic Head|Half Cent|1835|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Classic Head|Half Cent|1836|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Classic Head|Large Cent|1808|||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Classic Head|Large Cent|1809|||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Classic Head|Large Cent|1810||All Kinds|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Classic Head|Large Cent|1810||10 Over 09|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Classic Head|Large Cent|1810||Normal Date|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Classic Head|Large Cent|1811||All Kinds|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Classic Head|Large Cent|1811||Last 1 Over 0|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Classic Head|Large Cent|1811||Normal Date|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Classic Head|Large Cent|1812|||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Classic Head|Large Cent|1813|||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Classic Head|Large Cent|1814|||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Classic Head|Half Eagle|1834|||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Classic Head|Half Eagle|1835|||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Classic Head|Half Eagle|1836|||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Classic Head|Half Eagle|1837|||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Classic Head|Half Eagle|1838|||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Braided Hair|Half Cent|1840|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1840||Restrike|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1841|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1841||Restrike|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1842|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1842||Restrike|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1843|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1843||Restrike|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1844|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1844||Restrike|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1845|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1845||Restrike|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1846|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1846||Restrike|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1847|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1847||Restrike|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1848|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1848||Restrike|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1849||Small Date|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1849||Restrike - Small Date|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1849||Large Date|5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1850|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1851|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1852|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1853|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1854|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1855|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1856|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Braided Hair|Half Cent|1857|||5.44000|-1|100.00000|-1|-1|-1|-1
+
+Flowing Hair|Large Cent|1793|Chain Reverse|Chain - All Kinds|13.48000|-1|100.00000|-1|-1|-1|-1
+
+Flowing Hair|Large Cent|1793|Chain Reverse|AMERI. in Legend|13.48000|-1|100.00000|-1|-1|-1|-1
+
+Flowing Hair|Large Cent|1793|Chain Reverse|AMERICA|13.48000|-1|100.00000|-1|-1|-1|-1
+
+Flowing Hair|Large Cent|1793|Wreath Reverse|Wreath - All Kinds|13.48000|-1|100.00000|-1|-1|-1|-1
+
+Flowing Hair|Large Cent|1793|Wreath Reverse|Vine and Bars Edge|13.48000|-1|100.00000|-1|-1|-1|-1
+
+Flowing Hair|Large Cent|1793|Wreath Reverse|Lettered Edge|13.48000|-1|100.00000|-1|-1|-1|-1
+
+Flowing Hair|Large Cent|1793|Wreath Reverse|Strawberry Leaf|13.48000|-1|100.00000|-1|-1|-1|-1
+
+Flowing Hair|Half Dime|1794|||1.34000|89.00000|11.00000|-1|-1|-1|-1
+
+Flowing Hair|Half Dime|1795|||1.34000|89.00000|11.00000|-1|-1|-1|-1
+
+Flowing Hair|Half Dollar|1794|||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Flowing Hair|Half Dollar|1795|||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Flowing Hair|Half Dollar|1795||Recut Date|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Flowing Hair|Half Dollar|1795||3 Leaves Under Each Wing|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Flowing Hair|Silver and Related Dollar|1794|||26.96000|89.00000|11.00000|-1|-1|-1|-1
+
+Flowing Hair|Silver and Related Dollar|1795|||26.96000|89.00000|11.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1816|Matron Head||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1817|Matron Head|13 Stars|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1817|Matron Head|15 Stars|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1818|Matron Head||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1819|Matron Head||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1819|Matron Head|9 Over 8|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1820|Matron Head||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1820|Matron Head|20 Over 19|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1821|Matron Head||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1822|Matron Head||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1823|Matron Head|3 Over 2|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1823|Matron Head|Normal Date|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1824|Matron Head|4 Over 2|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1824|Matron Head|Normal Date|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1825|Matron Head||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1826|Matron Head|6 Over 5|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1826|Matron Head|Normal Date|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1827|Matron Head||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1828|Matron Head|Large Narrow Date|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1828|Matron Head|Small Wide Date|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1829|Matron Head||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1830|Matron Head||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1831|Matron Head||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1832|Matron Head||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1833|Matron Head||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1834|Matron Head||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1835|Matron Head||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1836|Braided Hair||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1837|Braided Hair||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1838|Braided Hair||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1839|Braided Hair||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1839|Braided Hair|1839 Over 1836 - Plain Cords|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1840|Braided Hair||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1841|Braided Hair||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1842|Braided Hair||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1843|Braided Hair|Petite - Small Letters|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1843|Braided Hair|Petite - Large Letters|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1843|Braided Hair|Mature - Large Letters|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1844|Braided Hair|Normal Date|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1844|Braided Hair|44 Over 81|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1845|Braided Hair||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1846|Braided Hair||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1847|Braided Hair||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1847|Braided Hair|7 Over Small 7|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1848|Braided Hair||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1849|Braided Hair||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1850|Braided Hair||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1851|Braided Hair|Normal Date|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1851|Braided Hair|51 Over 81|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1852|Braided Hair||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1853|Braided Hair||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1854|Braided Hair||10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1855|Braided Hair|All Kinds|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1855|Braided Hair|Upright 5's|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1855|Braided Hair|Slanting 5's|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1855|Braided Hair|Slanting 5's - Knob on Ear|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1856|Braided Hair|Upright 5|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1856|Braided Hair|Slanting 5|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1857|Braided Hair|Large Date|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Large Cent|1857|Braided Hair|Small Date|10.89000|-1|100.00000|-1|-1|-1|-1
+
+Liberty Head|Nickel|1883||Without CENTS|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1883||CENTS|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1884|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1885|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1886|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1887|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1888|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1889|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1890|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1891|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1892|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1893|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1894|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1895|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1896|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1897|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1898|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1899|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1900|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1901|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1902|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1903|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1904|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1905|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1906|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1907|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1908|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1909|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1910|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1911|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1912|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Nickel|1913|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Liberty Head|Gold Dollar|1849|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Gold Dollar|1850|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Gold Dollar|1851|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Gold Dollar|1852|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Gold Dollar|1853|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Gold Dollar|1854|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1840|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1841|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1842|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1843|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1844|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1845|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1846|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1847|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1848|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1849|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1850|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1851|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1852|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1853|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1854|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1855|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1856|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1857|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1858|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1859|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1860|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1861|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1862|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1862||2 Over 1|4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1863|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1864|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1865|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1866|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1867|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1868|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1869|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1870|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1871|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1872|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1873|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1874|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1875|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1876|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1877|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1878|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1879|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1880|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1881|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1882|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1883|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1884|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1885|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1886|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1887|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1888|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1889|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1890|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1891|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1892|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1893|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1894|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1895|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1896|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1897|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1898|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1899|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1900|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1901|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1902|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1903|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1904|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1905|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1906|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Quarter Eagle|1907|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1839|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1840|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1841|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1842|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1842|Variety 1 - No Motto Above Eagle|Small Letters|8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1842|Variety 1 - No Motto Above Eagle|Large Letters|8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1842|Variety 1 - No Motto Above Eagle|Small Date|8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1842|Variety 1 - No Motto Above Eagle|Large Date|8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1843|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1843|Variety 1 - No Motto Above Eagle|Small Letters|8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1843|Variety 1 - No Motto Above Eagle|Large Letters|8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1844|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1845|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1846|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1846|Variety 1 - No Motto Above Eagle|Large Date|8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1846|Variety 1 - No Motto Above Eagle|Small Date|8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1847|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1848|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1849|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1850|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1851|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1852|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1853|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1854|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1855|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1856|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1857|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1858|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1859|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1860|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1861|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1862|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1863|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1864|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1865|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1866|Variety 1 - No Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1866|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1867|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1868|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1869|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1870|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1871|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1872|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1873|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1874|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1875|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1876|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1877|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1878|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1879|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1880|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1881|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1882|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1883|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1884|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1885|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1886|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1887|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1888|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1889|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1890|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1891|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1892|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1893|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1894|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1895|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1896|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1897|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1898|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1899|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1900|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1901|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1901|Variety 2 - Motto Above Eagle|1 Over 0|8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1902|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1903|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1904|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1905|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1906|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1907|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Half Eagle|1908|Variety 2 - Motto Above Eagle||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Double Eagle|1850|Without Motto on Reverse||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Double Eagle|1851|Without Motto on Reverse||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Double Eagle|1852|Without Motto on Reverse||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Double Eagle|1853|Without Motto on Reverse||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Double Eagle|1854|Without Motto on Reverse||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Double Eagle|1855|Without Motto on Reverse||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Double Eagle|1856|Without Motto on Reverse||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Double Eagle|1857|Without Motto on Reverse||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Double Eagle|1858|Without Motto on Reverse||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Double Eagle|1859|Without Motto on Reverse||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Double Eagle|1860|Without Motto on Reverse||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Double Eagle|1861|Without Motto on Reverse||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Double Eagle|1862|Without Motto on Reverse||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Double Eagle|1863|Without Motto on Reverse||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Double Eagle|1864|Without Motto on Reverse||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Double Eagle|1865|Without Motto on Reverse||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head|Double Eagle|1866|Without Motto on Reverse||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Flying Eagle|Small Cent|1856|||4.67000|-1|88.00000|12.00000|-1|-1|-1
+
+Flying Eagle|Small Cent|1857|||4.67000|-1|88.00000|12.00000|-1|-1|-1
+
+Flying Eagle|Small Cent|1858||Large Letters|4.67000|-1|88.00000|12.00000|-1|-1|-1
+
+Flying Eagle|Small Cent|1858||8 Over 7|4.67000|-1|88.00000|12.00000|-1|-1|-1
+
+Flying Eagle|Small Cent|1858||Small Letters|4.67000|-1|88.00000|12.00000|-1|-1|-1
+
+Indian Head|Small Cent|1859|Variety 1 - Copper-Nickel, Laurel Wreath Reverse||4.67000|-1|88.00000|12.00000|-1|-1|-1
+
+Indian Head|Small Cent|1860|Variety 2 - Copper-Nickel, Oak Wreath with Shield||4.67000|-1|88.00000|12.00000|-1|-1|-1
+
+Indian Head|Small Cent|1861|Variety 2 - Copper-Nickel, Oak Wreath with Shield||4.67000|-1|88.00000|12.00000|-1|-1|-1
+
+Indian Head|Small Cent|1862|Variety 2 - Copper-Nickel, Oak Wreath with Shield||4.67000|-1|88.00000|12.00000|-1|-1|-1
+
+Indian Head|Small Cent|1863|Variety 2 - Copper-Nickel, Oak Wreath with Shield||4.67000|-1|88.00000|12.00000|-1|-1|-1
+
+Indian Head|Small Cent|1864|Variety 2 - Copper-Nickel, Oak Wreath with Shield||4.67000|-1|88.00000|12.00000|-1|-1|-1
+
+Indian Head|Small Cent|1864|Variety 3 - Bronze|All Kinds|3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1864|Variety 3 - Bronze|No L|3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1864|Variety 3 - Bronze|With L|3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1865|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1866|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1867|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1868|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1869|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1870|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1871|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1872|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1873|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1874|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1875|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1876|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1877|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1878|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1879|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1880|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1881|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1882|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1883|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1884|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1885|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1886|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1887|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1888|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1889|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1890|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1891|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1892|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1893|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1894|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1895|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1896|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1897|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1898|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1899|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1900|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1901|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1902|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1903|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1904|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1905|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1906|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1907|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1908|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Small Cent|1909|Variety 3 - Bronze||3.11000|-1|95.00000|-1|-1|-1|5.00000
+
+Indian Head|Quarter Eagle|1908|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Quarter Eagle|1909|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Quarter Eagle|1910|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Quarter Eagle|1911|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Quarter Eagle|1912|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Quarter Eagle|1913|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Quarter Eagle|1914|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Quarter Eagle|1915|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Quarter Eagle|1925|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Quarter Eagle|1926|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Quarter Eagle|1927|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Quarter Eagle|1928|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Quarter Eagle|1929|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Half Eagle|1908|||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Half Eagle|1909|||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Half Eagle|1910|||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Half Eagle|1911|||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Half Eagle|1912|||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Half Eagle|1913|||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Half Eagle|1914|||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Half Eagle|1915|||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Half Eagle|1916|||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Half Eagle|1929|||8.36000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Eagle|1907|Variety 1 - No Motto|Wire Rim - Periods|16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Eagle|1907|Variety 1 - No Motto|Rounded Rim - Periods Before and After *E*PLURIBUS*UNUM*|16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Eagle|1907|Variety 1 - No Motto|No Periods|16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Eagle|1908|Variety 1 - No Motto||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Eagle|1908|Variety 2 - Motto on Reverse||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Eagle|1909|Variety 2 - Motto on Reverse||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Eagle|1910|Variety 2 - Motto on Reverse||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Eagle|1911|Variety 2 - Motto on Reverse||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Eagle|1912|Variety 2 - Motto on Reverse||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Eagle|1913|Variety 2 - Motto on Reverse||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Eagle|1914|Variety 2 - Motto on Reverse||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Eagle|1915|Variety 2 - Motto on Reverse||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Eagle|1916|Variety 2 - Motto on Reverse||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Eagle|1920|Variety 2 - Motto on Reverse||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Eagle|1926|Variety 2 - Motto on Reverse||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Eagle|1930|Variety 2 - Motto on Reverse||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Eagle|1932|Variety 2 - Motto on Reverse||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Head|Eagle|1933|Variety 2 - Motto on Reverse||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Two-Cent Piece|Two-Cent Piece|1864||Small Motto|6.22000|-1|95.00000|-1|-1|-1|5.00000
+
+Two-Cent Piece|Two-Cent Piece|1864||Large Motto|6.22000|-1|95.00000|-1|-1|-1|5.00000
+
+Two-Cent Piece|Two-Cent Piece|1865|||6.22000|-1|95.00000|-1|-1|-1|5.00000
+
+Two-Cent Piece|Two-Cent Piece|1866|||6.22000|-1|95.00000|-1|-1|-1|5.00000
+
+Two-Cent Piece|Two-Cent Piece|1867|||6.22000|-1|95.00000|-1|-1|-1|5.00000
+
+Two-Cent Piece|Two-Cent Piece|1868|||6.22000|-1|95.00000|-1|-1|-1|5.00000
+
+Two-Cent Piece|Two-Cent Piece|1869|||6.22000|-1|95.00000|-1|-1|-1|5.00000
+
+Two-Cent Piece|Two-Cent Piece|1870|||6.22000|-1|95.00000|-1|-1|-1|5.00000
+
+Two-Cent Piece|Two-Cent Piece|1871|||6.22000|-1|95.00000|-1|-1|-1|5.00000
+
+Two-Cent Piece|Two-Cent Piece|1872|||6.22000|-1|95.00000|-1|-1|-1|5.00000
+
+Two-Cent Piece|Two-Cent Piece|1873|||6.22000|-1|95.00000|-1|-1|-1|5.00000
+
+Silver - Trime|Three-Cent Piece|1851|||0.80000|75.00000|25.00000|-1|-1|-1|-1
+
+Silver - Trime|Three-Cent Piece|1852|||0.80000|75.00000|25.00000|-1|-1|-1|-1
+
+Silver - Trime|Three-Cent Piece|1853|||0.80000|75.00000|25.00000|-1|-1|-1|-1
+
+Silver - Trime|Three-Cent Piece|1854|||0.75000|90.00000|10.00000|-1|-1|-1|-1
+
+Silver - Trime|Three-Cent Piece|1855|||0.75000|90.00000|10.00000|-1|-1|-1|-1
+
+Silver - Trime|Three-Cent Piece|1856|||0.75000|90.00000|10.00000|-1|-1|-1|-1
+
+Silver - Trime|Three-Cent Piece|1857|||0.75000|90.00000|10.00000|-1|-1|-1|-1
+
+Silver - Trime|Three-Cent Piece|1858|||0.75000|90.00000|10.00000|-1|-1|-1|-1
+
+Silver - Trime|Three-Cent Piece|1859|||0.75000|90.00000|10.00000|-1|-1|-1|-1
+
+Silver - Trime|Three-Cent Piece|1860|||0.75000|90.00000|10.00000|-1|-1|-1|-1
+
+Silver - Trime|Three-Cent Piece|1861|||0.75000|90.00000|10.00000|-1|-1|-1|-1
+
+Silver - Trime|Three-Cent Piece|1862|||0.75000|90.00000|10.00000|-1|-1|-1|-1
+
+Silver - Trime|Three-Cent Piece|1862||2/1|0.75000|90.00000|10.00000|-1|-1|-1|-1
+
+Silver - Trime|Three-Cent Piece|1863|||0.75000|90.00000|10.00000|-1|-1|-1|-1
+
+Silver - Trime|Three-Cent Piece|1864|||0.75000|90.00000|10.00000|-1|-1|-1|-1
+
+Silver - Trime|Three-Cent Piece|1865|||0.75000|90.00000|10.00000|-1|-1|-1|-1
+
+Silver - Trime|Three-Cent Piece|1866|||0.75000|90.00000|10.00000|-1|-1|-1|-1
+
+Silver - Trime|Three-Cent Piece|1867|||0.75000|90.00000|10.00000|-1|-1|-1|-1
+
+Silver - Trime|Three-Cent Piece|1868|||0.75000|90.00000|10.00000|-1|-1|-1|-1
+
+Silver - Trime|Three-Cent Piece|1869|||0.75000|90.00000|10.00000|-1|-1|-1|-1
+
+Silver - Trime|Three-Cent Piece|1870|||0.75000|90.00000|10.00000|-1|-1|-1|-1
+
+Silver - Trime|Three-Cent Piece|1871|||0.75000|90.00000|10.00000|-1|-1|-1|-1
+
+Silver - Trime|Three-Cent Piece|1872|||0.75000|90.00000|10.00000|-1|-1|-1|-1
+
+Silver - Trime|Three-Cent Piece|1873|||0.75000|90.00000|10.00000|-1|-1|-1|-1
+
+Nickel|Three-Cent Piece|1865|||1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Nickel|Three-Cent Piece|1866|||1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Nickel|Three-Cent Piece|1867|||1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Nickel|Three-Cent Piece|1868|||1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Nickel|Three-Cent Piece|1869|||1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Nickel|Three-Cent Piece|1870|||1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Nickel|Three-Cent Piece|1871|||1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Nickel|Three-Cent Piece|1872|||1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Nickel|Three-Cent Piece|1873|||1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Nickel|Three-Cent Piece|1874|||1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Nickel|Three-Cent Piece|1875|||1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Nickel|Three-Cent Piece|1876|||1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Nickel|Three-Cent Piece|1877|||1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Nickel|Three-Cent Piece|1878|||1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Nickel|Three-Cent Piece|1879|||1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Nickel|Three-Cent Piece|1880|||1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Nickel|Three-Cent Piece|1881|||1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Nickel|Three-Cent Piece|1882|||1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Nickel|Three-Cent Piece|1883|||1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Nickel|Three-Cent Piece|1884|||1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Nickel|Three-Cent Piece|1885|||1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Nickel|Three-Cent Piece|1886|||1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Nickel|Three-Cent Piece|1887|||1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Nickel|Three-Cent Piece|1887||7/6|1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Nickel|Three-Cent Piece|1888|||1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Nickel|Three-Cent Piece|1889|||1.94000|-1|75.00000|25.00000|-1|-1|-1
+
+Shield|Nickel|1866||Rays|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Shield|Nickel|1867||Rays|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Shield|Nickel|1867||Without Rays|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Shield|Nickel|1868|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Shield|Nickel|1869|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Shield|Nickel|1870|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Shield|Nickel|1871|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Shield|Nickel|1872|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Shield|Nickel|1873||Open 3|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Shield|Nickel|1873||Close 3|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Shield|Nickel|1874|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Shield|Nickel|1875|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Shield|Nickel|1876|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Shield|Nickel|1877|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Shield|Nickel|1878|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Shield|Nickel|1879|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Shield|Nickel|1880|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Shield|Nickel|1881|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Shield|Nickel|1882|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Shield|Nickel|1883|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Shield|Nickel|1883||3 Over 2|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1913|Variety 1 - FIVE CENTS on Raised Ground|Variety 1|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1913|Variety 2 - FIVE CENTS in Recess|Variety 2|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1914|Variety 2 - FIVE CENTS in Recess||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1915|Variety 2 - FIVE CENTS in Recess||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1916|Variety 2 - FIVE CENTS in Recess||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1916|Variety 2 - FIVE CENTS in Recess|DblDie Obv|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1917|Variety 2 - FIVE CENTS in Recess||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1918|Variety 2 - FIVE CENTS in Recess||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1918|Variety 2 - FIVE CENTS in Recess|8 Over 7|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1919|Variety 2 - FIVE CENTS in Recess||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1920|Variety 2 - FIVE CENTS in Recess||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1921|Variety 2 - FIVE CENTS in Recess||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1923|Variety 2 - FIVE CENTS in Recess||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1924|Variety 2 - FIVE CENTS in Recess||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1925|Variety 2 - FIVE CENTS in Recess||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1926|Variety 2 - FIVE CENTS in Recess||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1927|Variety 2 - FIVE CENTS in Recess||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1928|Variety 2 - FIVE CENTS in Recess||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1929|Variety 2 - FIVE CENTS in Recess||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1930|Variety 2 - FIVE CENTS in Recess||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1931|Variety 2 - FIVE CENTS in Recess||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1934|Variety 2 - FIVE CENTS in Recess||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1935|Variety 2 - FIVE CENTS in Recess||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1936|Variety 2 - FIVE CENTS in Recess||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1937|Variety 2 - FIVE CENTS in Recess||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1937|Variety 2 - FIVE CENTS in Recess|3-Legged|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1938|Variety 2 - FIVE CENTS in Recess||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Indian Head or Buffalo|Nickel|1938|Variety 2 - FIVE CENTS in Recess|D Over S|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1938|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1939|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1940|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1941|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1942|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1942|Wartime Silver Alloy||5.00000|35.00000|56.00000|-1|9.00000|-1|-1
+
+Jefferson|Nickel|1943|Wartime Silver Alloy||5.00000|35.00000|56.00000|-1|9.00000|-1|-1
+
+Jefferson|Nickel|1944|Wartime Silver Alloy||5.00000|35.00000|56.00000|-1|9.00000|-1|-1
+
+Jefferson|Nickel|1945|Wartime Silver Alloy||5.00000|35.00000|56.00000|-1|9.00000|-1|-1
+
+Jefferson|Nickel|1946|Prewar Composition, Mintmark Style Resumed||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1947|Prewar Composition, Mintmark Style Resumed||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1948|Prewar Composition, Mintmark Style Resumed||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1949|Prewar Composition, Mintmark Style Resumed||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1949|Prewar Composition, Mintmark Style Resumed|D Over S|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1950|Prewar Composition, Mintmark Style Resumed||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1951|Prewar Composition, Mintmark Style Resumed||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1952|Prewar Composition, Mintmark Style Resumed||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1953|Prewar Composition, Mintmark Style Resumed||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1954|Prewar Composition, Mintmark Style Resumed||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1954|Prewar Composition, Mintmark Style Resumed|S Over D|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1955|Prewar Composition, Mintmark Style Resumed||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1955|Prewar Composition, Mintmark Style Resumed|D Over S|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1956|Prewar Composition, Mintmark Style Resumed||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1957|Prewar Composition, Mintmark Style Resumed||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1958|Prewar Composition, Mintmark Style Resumed||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1959|Prewar Composition, Mintmark Style Resumed||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1960|Prewar Composition, Mintmark Style Resumed||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1961|Prewar Composition, Mintmark Style Resumed||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1962|Prewar Composition, Mintmark Style Resumed||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1963|Prewar Composition, Mintmark Style Resumed||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1964|Prewar Composition, Mintmark Style Resumed||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1965|Prewar Composition, Mintmark Style Resumed||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1966|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1967|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1968|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1969|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1970|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1971|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1972|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1973|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1974|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1975|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1976|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1977|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1978|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1979|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1979||Type 1|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1979||Type 2|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1980|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1981|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1981||Type 1|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1981||Type 2|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1982|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1983|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1984|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1985|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1986|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1987|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1988|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1989|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1990|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1991|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1992|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1993|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1994|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1995|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1996|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1997|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1998|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|1999|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|2000|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|2001|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|2002|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|2003|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|2004|Westward Journey Nickels|Peace Medal|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|2004|Westward Journey Nickels|Keelboat|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|2005|Westward Journey Nickels|American Bison|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|2005|Westward Journey Nickels|Ocean in View|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|2006|Westward Journey Nickels|Monticello|5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|2007|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|2008|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|2009|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|2010|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|2011|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Jefferson|Nickel|2012|||5.00000|-1|75.00000|25.00000|-1|-1|-1
+
+Capped Bust|Half Dime|1829|||1.35000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Half Dime|1830|||1.35000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Half Dime|1831|||1.35000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Half Dime|1832|||1.35000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Half Dime|1833|||1.35000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Half Dime|1834|||1.35000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Half Dime|1835|||1.35000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Half Dime|1836|||1.35000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Half Dime|1837||Small 5c|1.35000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Half Dime|1837||Large 5c|1.35000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1809|Variety 1 - Wide Border||2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1811|Variety 1 - Wide Border|11 Over 09|2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1814|Variety 1 - Wide Border||2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1820|Variety 1 - Wide Border||2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1821|Variety 1 - Wide Border||2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1822|Variety 1 - Wide Border||2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1823|Variety 1 - Wide Border|3 Over 2 - Small E's|2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1823|Variety 1 - Wide Border|3 Over 2 - Large E's|2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1824|Variety 1 - Wide Border|4 Over 2|2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1825|Variety 1 - Wide Border||2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1827|Variety 1 - Wide Border||2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1828|Variety 1 - Wide Border|Large Date - Curl Base 2|2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1828|Variety 2 - Modified Design|Small Date - Square Base 2|2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1829|Variety 2 - Modified Design|Small 10c|2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1829|Variety 2 - Modified Design|Medium 10c|2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1829|Variety 2 - Modified Design|Large 10c|2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1830|Variety 2 - Modified Design|30 Over 29|2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1830|Variety 2 - Modified Design|Large 10c|2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1830|Variety 2 - Modified Design|Small 10c|2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1831|Variety 2 - Modified Design||2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1832|Variety 2 - Modified Design||2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1833|Variety 2 - Modified Design||2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1834|Variety 2 - Modified Design||2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1835|Variety 2 - Modified Design||2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1836|Variety 2 - Modified Design||2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Dime|1837|Variety 2 - Modified Design||2.70000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Quarter|1815|Variety 1 - Large Diameter||7.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Quarter|1818|Variety 1 - Large Diameter|8 Over 5|7.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Quarter|1818|Variety 1 - Large Diameter|Normal Date|7.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Quarter|1819|Variety 1 - Large Diameter||7.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Quarter|1820|Variety 1 - Large Diameter||7.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Quarter|1821|Variety 1 - Large Diameter||7.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Quarter|1822|Variety 1 - Large Diameter||7.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Quarter|1822|Variety 1 - Large Diameter|25 Over 50c|7.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Quarter|1823|Variety 1 - Large Diameter|3 Over 2|7.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Quarter|1824|Variety 1 - Large Diameter|4 Over 2|7.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Quarter|1825|Variety 1 - Large Diameter||7.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Quarter|1827|Variety 1 - Large Diameter|Original - Curl Base 2 in 25c|7.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Quarter|1827|Variety 1 - Large Diameter|Restrike - Square Base 2 in 25c|7.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Quarter|1828|Variety 1 - Large Diameter||7.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Quarter|1828|Variety 1 - Large Diameter|25 Over 50c|7.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Quarter|1831|Variety 2 - Reduced Diameter - Motto Removed||7.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Quarter|1832|Variety 2 - Reduced Diameter - Motto Removed||7.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Quarter|1833|Variety 2 - Reduced Diameter - Motto Removed||7.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Quarter|1834|Variety 2 - Reduced Diameter - Motto Removed||7.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Quarter|1835|Variety 2 - Reduced Diameter - Motto Removed||7.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Quarter|1836|Variety 2 - Reduced Diameter - Motto Removed||7.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Quarter|1837|Variety 2 - Reduced Diameter - Motto Removed||7.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust|Quarter|1838|Variety 2 - Reduced Diameter - Motto Removed||7.74000|89.00000|11.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1837|Variety 1 - No Stars on Obverse||1.34000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1838|Variety 1 - No Stars on Obverse|No Stars|1.34000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1838|Variety 2 - Stars on Obverse||1.34000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1839|Variety 2 - Stars on Obverse||1.34000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1840|Variety 2 - Stars on Obverse||1.34000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1841|Variety 2 - Stars on Obverse||1.34000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1842|Variety 2 - Stars on Obverse||1.34000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1843|Variety 2 - Stars on Obverse||1.34000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1844|Variety 2 - Stars on Obverse||1.34000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1845|Variety 2 - Stars on Obverse||1.34000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1846|Variety 2 - Stars on Obverse||1.34000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1847|Variety 2 - Stars on Obverse||1.34000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1848|Variety 2 - Stars on Obverse||1.34000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1849|Variety 2 - Stars on Obverse|9 Over 6|1.34000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1849|Variety 2 - Stars on Obverse|9 Over 8|1.34000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1849|Variety 2 - Stars on Obverse|Normal Date|1.34000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1849|Variety 2 - Stars on Obverse||1.34000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1850|Variety 2 - Stars on Obverse||1.34000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1851|Variety 2 - Stars on Obverse||1.34000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1852|Variety 2 - Stars on Obverse||1.34000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1853|Variety 2 - Stars on Obverse|No Arrows|1.34000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1853|Variety 3 - Arrows at Date||1.24000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1854|Variety 3 - Arrows at Date||1.24000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1855|Variety 3 - Arrows at Date||1.24000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1860|Variety 4 - Legend on Obverse||1.24000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1861|Variety 4 - Legend on Obverse||1.24000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1862|Variety 4 - Legend on Obverse||1.24000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1863|Variety 4 - Legend on Obverse||1.24000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1864|Variety 4 - Legend on Obverse||1.24000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1865|Variety 4 - Legend on Obverse||1.24000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1866|Variety 4 - Legend on Obverse||1.24000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1867|Variety 4 - Legend on Obverse||1.24000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1868|Variety 4 - Legend on Obverse||1.24000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1869|Variety 4 - Legend on Obverse||1.24000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1870|Variety 4 - Legend on Obverse||1.24000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1871|Variety 4 - Legend on Obverse||1.24000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1872|Variety 4 - Legend on Obverse||1.24000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dime|1873|Variety 4 - Legend on Obverse||1.24000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1837|Variety 1 - No Stars on Obverse||2.67000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1838|Variety 1 - No Stars on Obverse||2.67000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1838|Variety 2 - Stars on Obverse|All Kinds|2.67000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1838|Variety 2 - Stars on Obverse|Small Stars|2.67000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1838|Variety 2 - Stars on Obverse|Large Stars|2.67000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1838|Variety 2 - Stars on Obverse|Partial Drapery|2.67000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1839|Variety 2 - Stars on Obverse||2.67000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1840|Variety 2 - Stars on Obverse|No Drapery|2.67000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1840|Variety 2 - Stars on Obverse|Drapery|2.67000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1841|Variety 2 - Stars on Obverse||2.67000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1842|Variety 2 - Stars on Obverse||2.67000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1843|Variety 2 - Stars on Obverse||2.67000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1844|Variety 2 - Stars on Obverse||2.67000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1845|Variety 2 - Stars on Obverse||2.67000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1846|Variety 2 - Stars on Obverse||2.67000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1847|Variety 2 - Stars on Obverse||2.67000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1848|Variety 2 - Stars on Obverse||2.67000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1849|Variety 2 - Stars on Obverse||2.67000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1850|Variety 2 - Stars on Obverse||2.67000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1851|Variety 2 - Stars on Obverse||2.67000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1852|Variety 2 - Stars on Obverse||2.67000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1853|Variety 2 - Stars on Obverse|No Arrows|2.67000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1853|Variety 3 - Arrows at Date|With Arrows|2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1853|Variety 3 - Arrows at Date||2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1854|Variety 3 - Arrows at Date||2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1855|Variety 3 - Arrows at Date||2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1856|Variety 2 Resumed, With Weight Standard of Variety 3|All Kinds|2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1856|Variety 2 Resumed, With Weight Standard of Variety 3|Large Date|2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1856|Variety 2 Resumed, With Weight Standard of Variety 3|Small Date|2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1857|Variety 2 Resumed, With Weight Standard of Variety 3||2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1858|Variety 2 Resumed, With Weight Standard of Variety 3||2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1859|Variety 2 Resumed, With Weight Standard of Variety 3||2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1860|Variety 2 Resumed, With Weight Standard of Variety 3||2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1860|Variety 4 - Legend on Obverse||2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1861|Variety 4 - Legend on Obverse||2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1862|Variety 4 - Legend on Obverse||2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1863|Variety 4 - Legend on Obverse||2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1864|Variety 4 - Legend on Obverse||2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1865|Variety 4 - Legend on Obverse||2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1866|Variety 4 - Legend on Obverse||2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1867|Variety 4 - Legend on Obverse||2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1868|Variety 4 - Legend on Obverse||2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1869|Variety 4 - Legend on Obverse||2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1870|Variety 4 - Legend on Obverse||2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1871|Variety 4 - Legend on Obverse||2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1872|Variety 4 - Legend on Obverse||2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1873|Variety 4 - Legend on Obverse||2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1873|Variety 4 - Legend on Obverse|Close 3|2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1873|Variety 4 - Legend on Obverse|Open 3|2.49000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1873|Variety 5 - Arrows at Date||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1874|Variety 5 - Arrows at Date||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1875|Variety 4 Resumed, With Weight Standard of Variety 5||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1876|Variety 4 Resumed, With Weight Standard of Variety 5||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1877|Variety 4 Resumed, With Weight Standard of Variety 5||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1878|Variety 4 Resumed, With Weight Standard of Variety 5||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1879|Variety 4 Resumed, With Weight Standard of Variety 5||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1880|Variety 4 Resumed, With Weight Standard of Variety 5||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1881|Variety 4 Resumed, With Weight Standard of Variety 5||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1882|Variety 4 Resumed, With Weight Standard of Variety 5||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1883|Variety 4 Resumed, With Weight Standard of Variety 5||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1884|Variety 4 Resumed, With Weight Standard of Variety 5||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1885|Variety 4 Resumed, With Weight Standard of Variety 5||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1886|Variety 4 Resumed, With Weight Standard of Variety 5||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1887|Variety 4 Resumed, With Weight Standard of Variety 5||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1888|Variety 4 Resumed, With Weight Standard of Variety 5||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1889|Variety 4 Resumed, With Weight Standard of Variety 5||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1890|Variety 4 Resumed, With Weight Standard of Variety 5||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Dime|1891|Variety 4 Resumed, With Weight Standard of Variety 5||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Twenty-Cent Piece|1875|||5.00000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Twenty-Cent Piece|1876|||5.00000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Twenty-Cent Piece|1877|||5.00000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Twenty-Cent Piece|1878|||5.00000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1838|Variety 1 - No Motto Above Eagle||6.68000|9.00000|6.68000|90.00000|100.00000|-1|-1
+
+Liberty Seated|Quarter|1839|Variety 1 - No Motto Above Eagle||6.68000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1840|Variety 1 - No Motto Above Eagle||6.68000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1841|Variety 1 - No Motto Above Eagle||6.68000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1842|Variety 1 - No Motto Above Eagle|Small Date|6.68000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1842|Variety 1 - No Motto Above Eagle|Large Date|6.68000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1843|Variety 1 - No Motto Above Eagle||6.68000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1844|Variety 1 - No Motto Above Eagle||6.68000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1845|Variety 1 - No Motto Above Eagle||6.68000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1846|Variety 1 - No Motto Above Eagle||6.68000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1847|Variety 1 - No Motto Above Eagle||6.68000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1848|Variety 1 - No Motto Above Eagle||6.68000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1849|Variety 1 - No Motto Above Eagle||6.68000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1850|Variety 1 - No Motto Above Eagle||6.68000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1851|Variety 1 - No Motto Above Eagle||6.68000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1852|Variety 1 - No Motto Above Eagle||6.68000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1853|Variety 2 - Arrows at Date, Rays Around Eagle||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1853|Variety 2 - Arrows at Date, Rays Around Eagle|3 Over 4|6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1854|Variety 3 - Arrows at Date, No Rays||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1855|Variety 3 - Arrows at Date, No Rays||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1856|Variety 1 Resumed, With Weight Standard of Variety 2||6.68000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1857|Variety 1 Resumed, With Weight Standard of Variety 2||6.68000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1858|Variety 1 Resumed, With Weight Standard of Variety 2||6.68000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1859|Variety 1 Resumed, With Weight Standard of Variety 2||6.68000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1860|Variety 1 Resumed, With Weight Standard of Variety 2||6.68000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1861|Variety 1 Resumed, With Weight Standard of Variety 2||6.68000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1862|Variety 1 Resumed, With Weight Standard of Variety 2||6.68000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1863|Variety 1 Resumed, With Weight Standard of Variety 2||6.68000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1864|Variety 1 Resumed, With Weight Standard of Variety 2||6.68000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1865|Variety 1 Resumed, With Weight Standard of Variety 2||6.68000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1866|Variety 4 - Motto Above Eagle||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1867|Variety 4 - Motto Above Eagle||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1868|Variety 4 - Motto Above Eagle||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1869|Variety 4 - Motto Above Eagle||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1870|Variety 4 - Motto Above Eagle||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1871|Variety 4 - Motto Above Eagle||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1872|Variety 4 - Motto Above Eagle||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1873|Variety 4 - Motto Above Eagle||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1873|Variety 5 - Arrows at Date||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1874|Variety 5 - Arrows at Date||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1875|Variety 4 Resumed, With Weight Standard of Variety 5||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1876|Variety 4 Resumed, With Weight Standard of Variety 5||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1877|Variety 4 Resumed, With Weight Standard of Variety 5||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1877|Variety 4 Resumed, With Weight Standard of Variety 5|S Over Horizontal S|6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1878|Variety 4 Resumed, With Weight Standard of Variety 5||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1879|Variety 4 Resumed, With Weight Standard of Variety 5||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1880|Variety 4 Resumed, With Weight Standard of Variety 5||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1881|Variety 4 Resumed, With Weight Standard of Variety 5||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1882|Variety 4 Resumed, With Weight Standard of Variety 5||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1883|Variety 4 Resumed, With Weight Standard of Variety 5||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1884|Variety 4 Resumed, With Weight Standard of Variety 5||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1885|Variety 4 Resumed, With Weight Standard of Variety 5||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1886|Variety 4 Resumed, With Weight Standard of Variety 5||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1887|Variety 4 Resumed, With Weight Standard of Variety 5||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1888|Variety 4 Resumed, With Weight Standard of Variety 5||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1889|Variety 4 Resumed, With Weight Standard of Variety 5||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1890|Variety 4 Resumed, With Weight Standard of Variety 5||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Quarter|1891|Variety 4 Resumed, With Weight Standard of Variety 5||6.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1839|Variety 1 - No Motto Above Eagle|No Drapery From Elbow|13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1839|Variety 1 - No Motto Above Eagle|Drapery|13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1840|Variety 1 - No Motto Above Eagle||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1841|Variety 1 - No Motto Above Eagle||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1842|Variety 1 - No Motto Above Eagle|Small Date|13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1842|Variety 1 - No Motto Above Eagle|Medium Date|13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1843|Variety 1 - No Motto Above Eagle||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1844|Variety 1 - No Motto Above Eagle||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1845|Variety 1 - No Motto Above Eagle||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1846|Variety 1 - No Motto Above Eagle||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1846|Variety 1 - No Motto Above Eagle|6 Over Horizontal 6|13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1847|Variety 1 - No Motto Above Eagle||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1848|Variety 1 - No Motto Above Eagle||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1849|Variety 1 - No Motto Above Eagle||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1850|Variety 1 - No Motto Above Eagle||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1851|Variety 1 - No Motto Above Eagle||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1852|Variety 1 - No Motto Above Eagle||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1853|Variety 1 - No Motto Above Eagle||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1853|Variety 2 - Arrows at Date, Rays Around Eagle||12.44000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1854|Variety 3 - Arrows at Date, No Rays||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1854|Variety 3 - Arrows at Date, No Rays|Over 1854|13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1855|Variety 3 - Arrows at Date, No Rays||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1856|Variety 1 Resumed, With Weight Standard of Variety 2||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1857|Variety 1 Resumed, With Weight Standard of Variety 2||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1858|Variety 1 Resumed, With Weight Standard of Variety 2||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1859|Variety 1 Resumed, With Weight Standard of Variety 2||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1860|Variety 1 Resumed, With Weight Standard of Variety 2||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1861|Variety 1 Resumed, With Weight Standard of Variety 2||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1862|Variety 1 Resumed, With Weight Standard of Variety 2||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1863|Variety 1 Resumed, With Weight Standard of Variety 2||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1864|Variety 1 Resumed, With Weight Standard of Variety 2||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1865|Variety 1 Resumed, With Weight Standard of Variety 2||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1866|Variety 1 Resumed, With Weight Standard of Variety 2|No Motto|13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1866|Variety 4 - Motto Above Eagle||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1867|Variety 4 - Motto Above Eagle||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1868|Variety 4 - Motto Above Eagle||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1869|Variety 4 - Motto Above Eagle||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1870|Variety 4 - Motto Above Eagle||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1871|Variety 4 - Motto Above Eagle||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1872|Variety 4 - Motto Above Eagle||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1873|Variety 4 - Motto Above Eagle||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1873|Variety 5 - Arrows at Date||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1874|Variety 5 - Arrows at Date||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1875|Variety 4 Resumed, With Weight Standard of Variety 5||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1876|Variety 4 Resumed, With Weight Standard of Variety 5||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1877|Variety 4 Resumed, With Weight Standard of Variety 5||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1878|Variety 4 Resumed, With Weight Standard of Variety 5||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1879|Variety 4 Resumed, With Weight Standard of Variety 5||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1880|Variety 4 Resumed, With Weight Standard of Variety 5||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1881|Variety 4 Resumed, With Weight Standard of Variety 5||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1882|Variety 4 Resumed, With Weight Standard of Variety 5||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1883|Variety 4 Resumed, With Weight Standard of Variety 5||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1884|Variety 4 Resumed, With Weight Standard of Variety 5||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1885|Variety 4 Resumed, With Weight Standard of Variety 5||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1886|Variety 4 Resumed, With Weight Standard of Variety 5||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1887|Variety 4 Resumed, With Weight Standard of Variety 5||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1888|Variety 4 Resumed, With Weight Standard of Variety 5||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1889|Variety 4 Resumed, With Weight Standard of Variety 5||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1890|Variety 4 Resumed, With Weight Standard of Variety 5||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Half Dollar|1891|Variety 4 Resumed, With Weight Standard of Variety 5||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1840|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1841|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1842|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1843|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1844|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1845|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1846|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1847|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1848|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1849|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1850|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1851|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1852|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1853|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1854|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1855|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1856|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1857|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1858|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1859|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1860|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1861|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1862|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1863|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1864|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1865|Variety 1 - No Motto||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1866|Variety 2 - With Motto IN GOD WE TRUST||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1867|Variety 2 - With Motto IN GOD WE TRUST||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1868|Variety 2 - With Motto IN GOD WE TRUST||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1869|Variety 2 - With Motto IN GOD WE TRUST||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1870|Variety 2 - With Motto IN GOD WE TRUST||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1871|Variety 2 - With Motto IN GOD WE TRUST||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1872|Variety 2 - With Motto IN GOD WE TRUST||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Seated|Silver and Related Dollar|1873|Variety 2 - With Motto IN GOD WE TRUST||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1892|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1893|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1893||3/2|2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1894|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1895|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1896|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1897|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1898|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1899|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1900|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1901|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1902|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1903|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1904|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1905|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1906|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1907|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1908|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1909|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1910|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1911|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1912|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1913|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1914|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1915|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Dime|1916|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Quarter|1892|||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Quarter|1893|||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Quarter|1894|||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Quarter|1895|||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Quarter|1896|||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Quarter|1897|||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Quarter|1898|||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Quarter|1899|||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Quarter|1900|||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Quarter|1901|||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Quarter|1902|||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Quarter|1903|||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Quarter|1904|||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Quarter|1905|||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Quarter|1906|||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Quarter|1907|||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Quarter|1908|||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Quarter|1909|||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Quarter|1910|||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Quarter|1911|||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Quarter|1912|||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Quarter|1913|||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Quarter|1914|||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Quarter|1915|||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Quarter|1916|||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Half Dollar|1892|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Half Dollar|1893|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Half Dollar|1894|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Half Dollar|1895|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Half Dollar|1896|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Half Dollar|1897|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Half Dollar|1898|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Half Dollar|1899|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Half Dollar|1900|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Half Dollar|1901|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Half Dollar|1902|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Half Dollar|1903|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Half Dollar|1904|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Half Dollar|1905|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Half Dollar|1906|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Half Dollar|1907|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Half Dollar|1908|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Half Dollar|1909|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Half Dollar|1910|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Half Dollar|1911|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Half Dollar|1912|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Half Dollar|1913|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Half Dollar|1914|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Barber or Liberty Head|Half Dollar|1915|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1916|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1917|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1918|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1919|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1920|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1921|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1923|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1924|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1925|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1926|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1927|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1928|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1929|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1930|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1931|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1934|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1935|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1936|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1937|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1938|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1939|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1940|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1941|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1942|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1942||42 Over 41|2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1943|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1944|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1945|||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Winged Liberty Head or Mercury|Dime|1945||Micro S|2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1946|Silver Coinage||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1947|Silver Coinage||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1948|Silver Coinage||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1949|Silver Coinage||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1950|Silver Coinage||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1951|Silver Coinage||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1952|Silver Coinage||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1953|Silver Coinage||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1954|Silver Coinage||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1955|Silver Coinage||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1956|Silver Coinage||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1957|Silver Coinage||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1958|Silver Coinage||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1959|Silver Coinage||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1960|Silver Coinage||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1961|Silver Coinage||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1962|Silver Coinage||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1963|Silver Coinage||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1964|Silver Coinage||2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1965|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1966|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1967|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1968|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1969|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1970|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1971|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1972|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1973|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1974|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1975|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1976|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1977|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1978|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1979|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1979|Clad Coinage and Silver Proofs|Type 1|2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1979|Clad Coinage and Silver Proofs|Type 2|2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1980|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1981|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1981|Clad Coinage and Silver Proofs|Type 1|2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1981|Clad Coinage and Silver Proofs|Type 2|2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1982|Clad Coinage and Silver Proofs|No Mmk|2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1982|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1983|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1984|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1985|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1986|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1987|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1988|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1989|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1990|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1991|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1992|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1992|Clad Coinage and Silver Proofs|Silver|2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1993|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1993|Clad Coinage and Silver Proofs|Silver|2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1994|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1994|Clad Coinage and Silver Proofs|Silver|2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1995|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1995|Clad Coinage and Silver Proofs|Silver|2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1996|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1996|Clad Coinage and Silver Proofs|Silver|2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1997|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1997|Clad Coinage and Silver Proofs|Silver|2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1998|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1998|Clad Coinage and Silver Proofs|Silver|2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|1999|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|1999|Clad Coinage and Silver Proofs|Silver|2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|2000|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|2000|Clad Coinage and Silver Proofs|Silver|2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|2001|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|2001|Clad Coinage and Silver Proofs|Silver|2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|2002|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|2002|Clad Coinage and Silver Proofs|Silver|2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|2003|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|2003|Clad Coinage and Silver Proofs|Silver|2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|2004|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|2004|Clad Coinage and Silver Proofs|Silver|2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|2005|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|2005|Clad Coinage and Silver Proofs|Silver|2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|2006|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|2006|Clad Coinage and Silver Proofs|Silver|2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|2007|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|2007|Clad Coinage and Silver Proofs|Silver|2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|2008|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|2008|Clad Coinage and Silver Proofs|Silver|2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|2009|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|2009|Clad Coinage and Silver Proofs|Silver|2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|2010|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|2010|Clad Coinage and Silver Proofs|Silver|2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|2011|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|2011|Clad Coinage and Silver Proofs|Silver|2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Roosevelt|Dime|2012|Clad Coinage and Silver Proofs||2.27000|-1|91.67000|8.33000|-1|-1|-1
+
+Roosevelt|Dime|2012|Clad Coinage and Silver Proofs|Silver|2.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Standing Liberty|Quarter|1916|Variety 1 - No Stars Below Eagle||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Standing Liberty|Quarter|1917|Variety 1 - No Stars Below Eagle||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Standing Liberty|Quarter|1918|Variety 2 - Stars Below Eagle - Pedestal Date||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Standing Liberty|Quarter|1918|Variety 2 - Stars Below Eagle - Pedestal Date|Normal Date|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Standing Liberty|Quarter|1918|Variety 2 - Stars Below Eagle - Pedestal Date|8 Over 7|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Standing Liberty|Quarter|1919|Variety 2 - Stars Below Eagle - Pedestal Date||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Standing Liberty|Quarter|1920|Variety 2 - Stars Below Eagle - Pedestal Date||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Standing Liberty|Quarter|1921|Variety 2 - Stars Below Eagle - Pedestal Date||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Standing Liberty|Quarter|1923|Variety 2 - Stars Below Eagle - Pedestal Date||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Standing Liberty|Quarter|1924|Variety 2 - Stars Below Eagle - Pedestal Date||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Standing Liberty|Quarter|1925|Variety 2 - Stars Below Eagle - Recessed Date||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Standing Liberty|Quarter|1926|Variety 2 - Stars Below Eagle - Recessed Date||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Standing Liberty|Quarter|1927|Variety 2 - Stars Below Eagle - Recessed Date||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Standing Liberty|Quarter|1928|Variety 2 - Stars Below Eagle - Recessed Date||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Standing Liberty|Quarter|1929|Variety 2 - Stars Below Eagle - Recessed Date||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Standing Liberty|Quarter|1930|Variety 2 - Stars Below Eagle - Recessed Date||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1932|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1934|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1935|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1936|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1937|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1938|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1939|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1940|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1941|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1942|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1943|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1944|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1945|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1946|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1947|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1948|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1949|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1950|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1950|Silver Coinage|D Over S|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1950|Silver Coinage|S Over D|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1951|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1952|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1953|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1954|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1955|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1956|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1957|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1958|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1959|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1960|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1961|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1962|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1963|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1964|Silver Coinage||6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1965|Clad Coinage and Silver Proofs||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1966|Clad Coinage and Silver Proofs||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1967|Clad Coinage and Silver Proofs||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1968|Clad Coinage and Silver Proofs||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1969|Clad Coinage and Silver Proofs||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1970|Clad Coinage and Silver Proofs||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1971|Clad Coinage and Silver Proofs||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1972|Clad Coinage and Silver Proofs||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1973|Clad Coinage and Silver Proofs||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1974|Clad Coinage and Silver Proofs||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1976|Bicentennial|Copper-Nickel Clad|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1976|Bicentennial|Silver Clad|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1977|Eagle Reverse Resumed||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1978|Eagle Reverse Resumed||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1979|Eagle Reverse Resumed||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1979|Eagle Reverse Resumed|Type 1|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1979|Eagle Reverse Resumed|Type 2|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1980|Eagle Reverse Resumed||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1981|Eagle Reverse Resumed||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1981|Eagle Reverse Resumed|Type 1|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1981|Eagle Reverse Resumed|Type 2|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1982|Eagle Reverse Resumed||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1983|Eagle Reverse Resumed||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1984|Eagle Reverse Resumed||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1985|Eagle Reverse Resumed||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1986|Eagle Reverse Resumed||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1987|Eagle Reverse Resumed||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1988|Eagle Reverse Resumed||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1989|Eagle Reverse Resumed||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1990|Eagle Reverse Resumed||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1991|Eagle Reverse Resumed||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1992|Eagle Reverse Resumed||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1992|Eagle Reverse Resumed|Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1993|Eagle Reverse Resumed||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1993|Eagle Reverse Resumed|Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1994|Eagle Reverse Resumed||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1994|Eagle Reverse Resumed|Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1995|Eagle Reverse Resumed||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1995|Eagle Reverse Resumed|Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1996|Eagle Reverse Resumed||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1996|Eagle Reverse Resumed|Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1997|Eagle Reverse Resumed||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1997|Eagle Reverse Resumed|Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1998|Eagle Reverse Resumed||5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1998|Eagle Reverse Resumed|Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1999|State Quarters|Delaware|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1999|State Quarters|Delaware - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1999|State Quarters|Pennsylvania|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1999|State Quarters|Pennsylvania - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1999|State Quarters|New Jersey|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1999|State Quarters|New Jersey - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1999|State Quarters|Georgia|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1999|State Quarters|Georgia - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|1999|State Quarters|Connecticut|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|1999|State Quarters|Connecticut - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2000|State Quarters|Massachusetts|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2000|State Quarters|Massachusetts - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2000|State Quarters|Maryland|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2000|State Quarters|Maryland - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2000|State Quarters|South Carolina|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2000|State Quarters|South Carolina - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2000|State Quarters|New Hampshire|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2000|State Quarters|New Hampshire - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2000|State Quarters|Virginia|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2000|State Quarters|Virginia - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2001|State Quarters|New York|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2001|State Quarters|New York - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2001|State Quarters|North Carolina|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2001|State Quarters|North Carolina - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2001|State Quarters|Rhode Island|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2001|State Quarters|Rhode Island - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2001|State Quarters|Vermont|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2001|State Quarters|Vermont - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2001|State Quarters|Kentucky|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2001|State Quarters|Kentucky - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2002|State Quarters|Tennessee|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2002|State Quarters|Tennessee - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2002|State Quarters|Ohio|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2002|State Quarters|Ohio - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2002|State Quarters|Louisiana|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2002|State Quarters|Louisiana - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2002|State Quarters|Indiana|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2002|State Quarters|Indiana - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2002|State Quarters|Mississippi|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2002|State Quarters|Mississippi - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2003|State Quarters|Illinois|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2003|State Quarters|Illinois - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2003|State Quarters|Alabama|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2003|State Quarters|Alabama - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2003|State Quarters|Maine|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2003|State Quarters|Maine - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2003|State Quarters|Missouri|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2003|State Quarters|Missouri - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2003|State Quarters|Arkansas|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2003|State Quarters|Arkansas - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2004|State Quarters|Michigan|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2004|State Quarters|Michigan - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2004|State Quarters|Florida|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2004|State Quarters|Florida - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2004|State Quarters|Texas|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2004|State Quarters|Texas - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2004|State Quarters|Iowa|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2004|State Quarters|Iowa - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2004|State Quarters|Wisconsin|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2004|State Quarters|Wisconsin - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2005|State Quarters|California|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2005|State Quarters|California - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2005|State Quarters|Minnesota|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2005|State Quarters|Minnesota - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2005|State Quarters|Oregon|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2005|State Quarters|Oregon - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2005|State Quarters|Kansas|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2005|State Quarters|Kansas - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2005|State Quarters|West Virginia|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2005|State Quarters|West Virginia - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2006|State Quarters|Nevada|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2006|State Quarters|Nevada - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2006|State Quarters|Nebraska|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2006|State Quarters|Nebraska - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2006|State Quarters|Colorado|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2006|State Quarters|Colorado - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2006|State Quarters|North Dakota|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2006|State Quarters|North Dakota - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2006|State Quarters|South Dakota|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2006|State Quarters|South Dakota - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2007|State Quarters|Montana|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2007|State Quarters|Montana - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2007|State Quarters|Washington|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2007|State Quarters|Washington - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2007|State Quarters|Idaho|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2007|State Quarters|Idaho - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2007|State Quarters|Wyoming|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2007|State Quarters|Wyoming - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2007|State Quarters|Utah|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2007|State Quarters|Utah - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2008|State Quarters|Oklahoma|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2008|State Quarters|Oklahoma - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2008|State Quarters|New Mexico|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2008|State Quarters|New Mexico - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2008|State Quarters|Arizona|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2008|State Quarters|Arizona - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2008|State Quarters|Alaska|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2008|State Quarters|Alaska - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2008|State Quarters|Hawaii|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2008|State Quarters|Hawaii - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2009|District of Columbia and US Territories Quarters|District of Columbia|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2009|District of Columbia and US Territories Quarters|District of Columbia - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2009|District of Columbia and US Territories Quarters|Puerto Rico|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2009|District of Columbia and US Territories Quarters|Puerto Rico - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2009|District of Columbia and US Territories Quarters|Guam|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2009|District of Columbia and US Territories Quarters|Guam - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2009|District of Columbia and US Territories Quarters|American Samoa|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2009|District of Columbia and US Territories Quarters|American Samoa - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2009|District of Columbia and US Territories Quarters|US Virgin Islands|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2009|District of Columbia and US Territories Quarters|US Virgin Islands - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2009|District of Columbia and US Territories Quarters|Northern Mariana Islands|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2009|District of Columbia and US Territories Quarters|Northern Mariana Islands - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2010|America the Beautiful Quarters Program|Hot Springs National Park|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2010|America the Beautiful Quarters Program|Hot Springs National Park - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2010|America the Beautiful Quarters Program|Yellowstone National Park|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2010|America the Beautiful Quarters Program|Yellowstone National Park - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2010|America the Beautiful Quarters Program|Yosemite National Park|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2010|America the Beautiful Quarters Program|Yosemite National Park - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2010|America the Beautiful Quarters Program|Grand Canyon National Park|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2010|America the Beautiful Quarters Program|Grand Canyon National Park - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2010|America the Beautiful Quarters Program|Mt Hood National Forest|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2010|America the Beautiful Quarters Program|Mt Hood National Forest - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2011|America the Beautiful Quarters Program|Gettysburg National Military Park|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2011|America the Beautiful Quarters Program|Gettysburg National Military Park - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2011|America the Beautiful Quarters Program|Glacier National Park|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2011|America the Beautiful Quarters Program|Glacier National Park - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2011|America the Beautiful Quarters Program|Olympic National Park|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2011|America the Beautiful Quarters Program|Olympic National Park - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2011|America the Beautiful Quarters Program|Vicksburg National Military Park|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2011|America the Beautiful Quarters Program|Vicksburg National Military Park - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2011|America the Beautiful Quarters Program|Chickasaw National Recreation Area|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2011|America the Beautiful Quarters Program|Chickasaw National Recreation Area - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2012|America the Beautiful Quarters Program|El Yunque National Forest|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2012|America the Beautiful Quarters Program|El Yunque National Forest - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2012|America the Beautiful Quarters Program|Chaco Culture National Historical Park|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2012|America the Beautiful Quarters Program|Chaco Culture National Historical Park - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2012|America the Beautiful Quarters Program|Acadia National Park|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2012|America the Beautiful Quarters Program|Acadia National Park - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2012|America the Beautiful Quarters Program|Hawaii Volcanoes National Park|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2012|America the Beautiful Quarters Program|Hawaii Volcanoes National Park - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Washington|Quarter|2012|America the Beautiful Quarters Program|Denali National Park and Preserve|5.67000|-1|91.67000|8.33000|-1|-1|-1
+
+Washington|Quarter|2012|America the Beautiful Quarters Program|Denali National Park and Preserve - Silver|6.25000|90.00000|10.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1807|First Style||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1808|First Style||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1808|First Style|8 Over 7|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1809|Remodeled Portrait and Eagle||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1810|Remodeled Portrait and Eagle||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1811|Remodeled Portrait and Eagle||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1812|Remodeled Portrait and Eagle||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1812|Remodeled Portrait and Eagle|All Kinds|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1812|Remodeled Portrait and Eagle|2 Over 1|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1813|Remodeled Portrait and Eagle||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1813|Remodeled Portrait and Eagle|50 C. Over UNI|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1814|Remodeled Portrait and Eagle||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1814|Remodeled Portrait and Eagle|All Kinds|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1814|Remodeled Portrait and Eagle|4 Over 3|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1815|Remodeled Portrait and Eagle|5 Over 2|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1817|Remodeled Portrait and Eagle||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1817|Remodeled Portrait and Eagle|All Kinds|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1817|Remodeled Portrait and Eagle|7 Over 3|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1817|Remodeled Portrait and Eagle|7 Over 4|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1817|Remodeled Portrait and Eagle|Dated 181.7|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1818|Remodeled Portrait and Eagle||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1818|Remodeled Portrait and Eagle|2nd 8 Over 7|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1819|Remodeled Portrait and Eagle||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1819|Remodeled Portrait and Eagle|9 Over 8|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1820|Remodeled Portrait and Eagle||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1820|Remodeled Portrait and Eagle|20 Over 19|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1821|Remodeled Portrait and Eagle||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1822|Remodeled Portrait and Eagle||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1823|Remodeled Portrait and Eagle||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1824|Remodeled Portrait and Eagle||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1824|Remodeled Portrait and Eagle|All Kinds|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1824|Remodeled Portrait and Eagle|4 Over Various Dates|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1824|Remodeled Portrait and Eagle|4 Over 1|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1825|Remodeled Portrait and Eagle||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1826|Remodeled Portrait and Eagle||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1827|Remodeled Portrait and Eagle||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1827|Remodeled Portrait and Eagle|All Kinds|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1827|Remodeled Portrait and Eagle|7 Over 6|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1828|Remodeled Portrait and Eagle|All Kinds|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1828|Remodeled Portrait and Eagle|Curl Base No Knob 2|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1828|Remodeled Portrait and Eagle|Curl Base Knob 2|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1828|Remodeled Portrait and Eagle|Square Base 2|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1829|Remodeled Portrait and Eagle||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1829|Remodeled Portrait and Eagle|9 Over 7|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1830|Remodeled Portrait and Eagle||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1831|Remodeled Portrait and Eagle||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1832|Remodeled Portrait and Eagle||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1833|Remodeled Portrait and Eagle||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1834|Remodeled Portrait and Eagle||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1835|Remodeled Portrait and Eagle||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1836|Remodeled Portrait and Eagle||13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Lettered Edge|Half Dollar|1836|Remodeled Portrait and Eagle|50 Over 00|13.48000|89.00000|11.00000|-1|-1|-1|-1
+
+Capped Bust, Reeded Edge|Half Dollar|1836|Reverse 50 CENTS||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Capped Bust, Reeded Edge|Half Dollar|1837|Reverse 50 CENTS||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Capped Bust, Reeded Edge|Half Dollar|1838|Reverse HALF DOL.||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Capped Bust, Reeded Edge|Half Dollar|1839|Reverse HALF DOL.||13.36000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1916|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1916||Obverse Mintmark|12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1917|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1917||Obverse Mintmark|12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1917||Reverse Mintmark|12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1918|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1919|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1920|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1921|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1923|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1927|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1928|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1929|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1933|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1934|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1935|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1936|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1937|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1938|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1939|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1940|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1941|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1942|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1943|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1944|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1945|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1946|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Liberty Walking|Half Dollar|1947|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Franklin|Half Dollar|1948|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Franklin|Half Dollar|1949|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Franklin|Half Dollar|1950|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Franklin|Half Dollar|1951|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Franklin|Half Dollar|1952|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Franklin|Half Dollar|1953|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Franklin|Half Dollar|1954|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Franklin|Half Dollar|1955|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Franklin|Half Dollar|1956|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Franklin|Half Dollar|1957|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Franklin|Half Dollar|1958|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Franklin|Half Dollar|1959|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Franklin|Half Dollar|1960|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Franklin|Half Dollar|1961|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Franklin|Half Dollar|1962|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Franklin|Half Dollar|1963|||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Kennedy|Half Dollar|1964|Silver Coinage||12.50000|90.00000|10.00000|-1|-1|-1|-1
+
+Kennedy|Half Dollar|1965|Silver Clad Coinage||11.50000|40.00000|60.00000|-1|-1|-1|-1
+
+Kennedy|Half Dollar|1967|Silver Clad Coinage||11.50000|40.00000|60.00000|-1|-1|-1|-1
+
+Kennedy|Half Dollar|1968|Silver Clad Coinage||11.50000|40.00000|60.00000|-1|-1|-1|-1
+
+Kennedy|Half Dollar|1969|Silver Clad Coinage||11.50000|40.00000|60.00000|-1|-1|-1|-1
+
+Kennedy|Half Dollar|1970|Silver Clad Coinage||11.50000|40.00000|60.00000|-1|-1|-1|-1
+
+Kennedy|Half Dollar|1971|Clad Coinage and Silver Proofs||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1972|Clad Coinage and Silver Proofs||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1973|Clad Coinage and Silver Proofs||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1974|Clad Coinage and Silver Proofs||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1976|Bicentennial|Clad|11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1977|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1978|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1979|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1979|Eagle Reverse Resumed|Type 1|11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1979|Eagle Reverse Resumed|Type 2|11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1980|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1981|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1981|Eagle Reverse Resumed|Type 1|11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1981|Eagle Reverse Resumed|Type 2|11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1982|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1983|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1984|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1985|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1986|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1987|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1988|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1989|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1990|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1991|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1992|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1993|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1994|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1995|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1996|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1997|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1998|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|1999|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|2000|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|2001|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|2002|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|2003|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|2004|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|2005|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|2006|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|2007|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|2008|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|2009|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|2010|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|2011|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Kennedy|Half Dollar|2012|Eagle Reverse Resumed||11.34000|-1|91.67000|8.33000|-1|-1|-1
+
+Gobrecht|Silver and Related Dollar|1836|C. GOBRECHT F. on base. Reverse eagle flying upward amid stars. Plain edge. Although scarce, this is the most common variety and was issued for circulation as regular coinage.||26.80000|89.00000|11.00000|-1|-1|-1|-1
+
+Gobrecht|Silver and Related Dollar|1838|Similar obverse, designer's name omitted, stars added around border. Reverse eagle flying left in plain field. Reeded edge.||26.80000|89.00000|11.00000|-1|-1|-1|-1
+
+Gobrecht|Silver and Related Dollar|1839|Obverse as above. Reverse eagle in plain field. Reeded edge. Issued for circulation as regular coinage.||26.80000|89.00000|11.00000|-1|-1|-1|-1
+
+Trade Dollars|Silver and Related Dollar|1873|||27.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Trade Dollars|Silver and Related Dollar|1874|||27.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Trade Dollars|Silver and Related Dollar|1875|||27.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Trade Dollars|Silver and Related Dollar|1875||S Over CC|27.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Trade Dollars|Silver and Related Dollar|1876|||27.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Trade Dollars|Silver and Related Dollar|1877|||27.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Trade Dollars|Silver and Related Dollar|1878|||27.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Trade Dollars|Silver and Related Dollar|1879|||27.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Trade Dollars|Silver and Related Dollar|1880|||27.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Trade Dollars|Silver and Related Dollar|1881|||27.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Trade Dollars|Silver and Related Dollar|1882|||27.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Trade Dollars|Silver and Related Dollar|1883|||27.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Trade Dollars|Silver and Related Dollar|1884|||27.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Trade Dollars|Silver and Related Dollar|1885|||27.22000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1878|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1878||8 Feathers|26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1878||7 Feathers|26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1878||7/8 Clear Double Feathers|26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1879|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1879||CC over CC|26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1880|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1881|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1882|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1883|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1884|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1885|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1886|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1887|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1888|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1889|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1890|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1891|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1892|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1893|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1894|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1895|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1896|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1897|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1898|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1899|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1900|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1901|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1902|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1903|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1904|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Morgan|Silver and Related Dollar|1921|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Peace|Silver and Related Dollar|1921|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Peace|Silver and Related Dollar|1922|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Peace|Silver and Related Dollar|1923|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Peace|Silver and Related Dollar|1924|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Peace|Silver and Related Dollar|1925|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Peace|Silver and Related Dollar|1926|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Peace|Silver and Related Dollar|1927|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Peace|Silver and Related Dollar|1928|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Peace|Silver and Related Dollar|1934|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Peace|Silver and Related Dollar|1935|||26.73000|90.00000|10.00000|-1|-1|-1|-1
+
+Eisenhower|Silver and Related Dollar|1971|Eagle Reverse|Copper-Nickel Clad|22.68000|-1|91.67000|8.33000|-1|-1|-1
+
+Eisenhower|Silver and Related Dollar|1971|Eagle Reverse|Silver Clad|24.59000|40.00000|60.00000|-1|-1|-1|-1
+
+Eisenhower|Silver and Related Dollar|1972|Eagle Reverse|Copper-Nickel Clad|22.68000|-1|91.67000|8.33000|-1|-1|-1
+
+Eisenhower|Silver and Related Dollar|1972|Eagle Reverse|Silver Clad|24.59000|40.00000|60.00000|-1|-1|-1|-1
+
+Eisenhower|Silver and Related Dollar|1973|Eagle Reverse|Copper-Nickel Clad|22.68000|-1|91.67000|8.33000|-1|-1|-1
+
+Eisenhower|Silver and Related Dollar|1973|Eagle Reverse|Silver Clad|24.59000|40.00000|60.00000|-1|-1|-1|-1
+
+Eisenhower|Silver and Related Dollar|1974|Eagle Reverse|Copper-Nickel Clad|22.68000|-1|91.67000|8.33000|-1|-1|-1
+
+Eisenhower|Silver and Related Dollar|1974|Eagle Reverse|Silver Clad|24.59000|40.00000|60.00000|-1|-1|-1|-1
+
+Eisenhower|Silver and Related Dollar|1976|Bicentennial|Copper-Nickel Clad - Variety 1|22.68000|-1|91.67000|8.33000|-1|-1|-1
+
+Eisenhower|Silver and Related Dollar|1976|Bicentennial|Copper-Nickel Clad - Variety 2|22.68000|-1|91.67000|8.33000|-1|-1|-1
+
+Eisenhower|Silver and Related Dollar|1976|Bicentennial|Silver Clad - Variety 1|24.59000|40.00000|60.00000|-1|-1|-1|-1
+
+Eisenhower|Silver and Related Dollar|1976|Bicentennial|Silver Clad - Variety 2|24.59000|40.00000|60.00000|-1|-1|-1|-1
+
+Eisenhower|Silver and Related Dollar|1977|Eagle Reverse Resumed|Copper-Nickel Clad|22.68000|-1|91.67000|8.33000|-1|-1|-1
+
+Eisenhower|Silver and Related Dollar|1978|Eagle Reverse Resumed|Copper-Nickel Clad|22.68000|-1|91.67000|8.33000|-1|-1|-1
+
+Susan B. Anthony|Silver and Related Dollar|1979|||8.10000|-1|91.67000|8.33000|-1|-1|-1
+
+Susan B. Anthony|Silver and Related Dollar|1979||Narrow Rim|8.10000|-1|91.67000|8.33000|-1|-1|-1
+
+Susan B. Anthony|Silver and Related Dollar|1979||Wide Rim|8.10000|-1|91.67000|8.33000|-1|-1|-1
+
+Susan B. Anthony|Silver and Related Dollar|1979||Proof - Type 1|8.10000|-1|91.67000|8.33000|-1|-1|-1
+
+Susan B. Anthony|Silver and Related Dollar|1979||Proof - Type 2|8.10000|-1|91.67000|8.33000|-1|-1|-1
+
+Susan B. Anthony|Silver and Related Dollar|1980|||8.10000|-1|91.67000|8.33000|-1|-1|-1
+
+Susan B. Anthony|Silver and Related Dollar|1980||Proof|8.10000|-1|91.67000|8.33000|-1|-1|-1
+
+Susan B. Anthony|Silver and Related Dollar|1981|||8.10000|-1|91.67000|8.33000|-1|-1|-1
+
+Susan B. Anthony|Silver and Related Dollar|1981||Proof - Type 1|8.10000|-1|91.67000|8.33000|-1|-1|-1
+
+Susan B. Anthony|Silver and Related Dollar|1981||Proof - Type 2|8.10000|-1|91.67000|8.33000|-1|-1|-1
+
+Susan B. Anthony|Silver and Related Dollar|1999|||8.10000|-1|91.67000|8.33000|-1|-1|-1
+
+Susan B. Anthony|Silver and Related Dollar|1999||Proof|8.10000|-1|91.67000|8.33000|-1|-1|-1
+
+Sacagawea|Silver and Related Dollar|2000|||8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Sacagawea|Silver and Related Dollar|2001|||8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Sacagawea|Silver and Related Dollar|2002|||8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Sacagawea|Silver and Related Dollar|2003|||8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Sacagawea|Silver and Related Dollar|2004|||8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Sacagawea|Silver and Related Dollar|2005|||8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Sacagawea|Silver and Related Dollar|2006|||8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Sacagawea|Silver and Related Dollar|2007|||8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Sacagawea|Silver and Related Dollar|2008|||8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Sacagawea|Silver and Related Dollar|2009|Native American Series|Agriculture|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Sacagawea|Silver and Related Dollar|2010|Native American Series|Great Law|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Sacagawea|Silver and Related Dollar|2011|Native American Series|Wampanoag|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Sacagawea|Silver and Related Dollar|2012|Native American Series|Trade Routes|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Presidential|Silver and Related Dollar|2007||Washington|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Presidential|Silver and Related Dollar|2007||J. Adams|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Presidential|Silver and Related Dollar|2007||Jefferson|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Presidential|Silver and Related Dollar|2007||Madison|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Presidential|Silver and Related Dollar|2008||Monroe|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Presidential|Silver and Related Dollar|2008||J.Q. Adams|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Presidential|Silver and Related Dollar|2008||Jackson|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Presidential|Silver and Related Dollar|2008||Van Buren|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Presidential|Silver and Related Dollar|2009||Harrison|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Presidential|Silver and Related Dollar|2009||Tyler|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Presidential|Silver and Related Dollar|2009||Polk|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Presidential|Silver and Related Dollar|2009||Taylor|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Presidential|Silver and Related Dollar|2010||Fillmore|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Presidential|Silver and Related Dollar|2010||Pierce|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Presidential|Silver and Related Dollar|2010||Buchanan|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Presidential|Silver and Related Dollar|2010||Lincoln|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Presidential|Silver and Related Dollar|2011||Johnson|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Presidential|Silver and Related Dollar|2011||Grant|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Presidential|Silver and Related Dollar|2011||Hayes|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Presidential|Silver and Related Dollar|2011||Garfield|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Presidential|Silver and Related Dollar|2012||Arthur|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Presidential|Silver and Related Dollar|2012||Cleveland - Variety 1|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Presidential|Silver and Related Dollar|2012||Harrison|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Presidential|Silver and Related Dollar|2012||Cleveland - Variety 2|8.10000|-1|88.50000|2.00000|3.50000|-1|6.00000
+
+Indian Princess Head, Small Head|Gold Dollar|1854|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Small Head|Gold Dollar|1855|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Small Head|Gold Dollar|1856|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1856|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1857|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1858|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1859|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1860|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1861|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1862|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1863|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1864|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1865|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1866|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1867|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1868|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1869|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1870|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1871|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1872|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1873||Close 3|1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1873||Open 3|1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1874|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1875|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1876|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1877|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1878|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1879|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1880|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1881|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1882|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1883|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1884|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1885|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1886|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1887|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1888|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Indian Princess Head, Large Head|Gold Dollar|1889|||1.67200|-1|10.00000|-1|-1|90.00000|-1
+
+Capped Bust To Right|Quarter Eagle|1796||No Stars on Obverse|4.37000|-1|10.00000|-1|-1|90.00000|-1
+
+Capped Bust To Right|Quarter Eagle|1796||Stars on Obverse|4.37000|-1|10.00000|-1|-1|90.00000|-1
+
+Capped Bust To Right|Quarter Eagle|1797|||4.37000|-1|10.00000|-1|-1|90.00000|-1
+
+Capped Bust To Right|Quarter Eagle|1798|||4.37000|-1|10.00000|-1|-1|90.00000|-1
+
+Capped Bust To Right|Quarter Eagle|1802||2 Over 1|4.37000|-1|10.00000|-1|-1|90.00000|-1
+
+Capped Bust To Right|Quarter Eagle|1804||13-Star Reverse|4.37000|-1|10.00000|-1|-1|90.00000|-1
+
+Capped Bust To Right|Quarter Eagle|1804||14-Star Reverse|4.37000|-1|10.00000|-1|-1|90.00000|-1
+
+Capped Bust To Right|Quarter Eagle|1805|||4.37000|-1|10.00000|-1|-1|90.00000|-1
+
+Capped Bust To Right|Quarter Eagle|1806||6/4 - 8 Stars Left - 5 Right|4.37000|-1|10.00000|-1|-1|90.00000|-1
+
+Capped Bust To Right|Quarter Eagle|1806||6/5 - 7 Stars Left - 6 Right|4.37000|-1|10.00000|-1|-1|90.00000|-1
+
+Capped Bust To Right|Quarter Eagle|1807|||4.37000|-1|10.00000|-1|-1|90.00000|-1
+
+Capped Bust To Right|Half Eagle|1795|Small Eagle Reverse||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Right|Half Eagle|1795|Heraldic Eagle Reverse||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Right|Half Eagle|1796|Small Eagle Reverse|6 Over 5|8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Right|Half Eagle|1797|Small Eagle Reverse|15 Stars|8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Right|Half Eagle|1797|Small Eagle Reverse|16 Stars|8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Right|Half Eagle|1797|Heraldic Eagle Reverse|7 Over 5|8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Right|Half Eagle|1798|Small Eagle Reverse||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Right|Half Eagle|1798|Heraldic Eagle Reverse|Large 8 - 13-Star Reverse|8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Right|Half Eagle|1798|Heraldic Eagle Reverse|Large 8 - 14-Star Reverse|8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Right|Half Eagle|1799|Heraldic Eagle Reverse||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Right|Half Eagle|1800|Heraldic Eagle Reverse||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Right|Half Eagle|1802|Heraldic Eagle Reverse|2 Over 1|8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Right|Half Eagle|1803|Heraldic Eagle Reverse|3 Over 2|8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Right|Half Eagle|1804|Heraldic Eagle Reverse|All Kinds|8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Right|Half Eagle|1805|Heraldic Eagle Reverse||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Right|Half Eagle|1806|Heraldic Eagle Reverse||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Right|Half Eagle|1807|Heraldic Eagle Reverse||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Right|Eagle|1795|Small Eagle Reverse||17.50000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Right|Eagle|1796|Small Eagle Reverse||17.50000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Right|Eagle|1797|Small Eagle Reverse|Small Eagle|17.50000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Right|Eagle|1797|Heraldic Eagle Reverse|Large Eagle|17.50000|-1|10.00000|-1|-1|90.00000|-1
+
+Capped Bust To Right|Eagle|1798|Heraldic Eagle Reverse|8 Over 7 - 9 Stars Left - 4 Rt|17.50000|-1|10.00000|-1|-1|90.00000|-1
+
+Capped Bust To Right|Eagle|1798|Heraldic Eagle Reverse|8 Over 7 - 7 Stars Left - 6 Rt|17.50000|-1|10.00000|-1|-1|90.00000|-1
+
+Capped Bust To Right|Eagle|1799|Heraldic Eagle Reverse||17.50000|-1|10.00000|-1|-1|90.00000|-1
+
+Capped Bust To Right|Eagle|1800|Heraldic Eagle Reverse||17.50000|-1|10.00000|-1|-1|90.00000|-1
+
+Capped Bust To Right|Eagle|1801|Heraldic Eagle Reverse||17.50000|-1|10.00000|-1|-1|90.00000|-1
+
+Capped Bust To Right|Eagle|1803|Heraldic Eagle Reverse||17.50000|-1|10.00000|-1|-1|90.00000|-1
+
+Capped Bust To Right|Eagle|1804|Heraldic Eagle Reverse||17.50000|-1|10.00000|-1|-1|90.00000|-1
+
+Capped Bust To Left - Large Size|Quarter Eagle|1808|||4.37000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Left|Quarter Eagle|1821|||4.37000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Left|Quarter Eagle|1824||4 Over 1|4.37000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Left|Quarter Eagle|1825|||4.37000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Left|Quarter Eagle|1826||6 Over 6|4.37000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Left|Quarter Eagle|1827|||4.37000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Left|Quarter Eagle|1829|||4.37000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Left|Quarter Eagle|1830|||4.37000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Left|Quarter Eagle|1831|||4.37000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Left|Quarter Eagle|1832|||4.37000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Left|Quarter Eagle|1833|||4.37000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Left|Quarter Eagle|1834||With Motto|4.37000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Left|Half Eagle|1807|||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Left|Half Eagle|1808||All Kinds|8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Left|Half Eagle|1808||8 Over 7|8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Left|Half Eagle|1808|||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Left|Half Eagle|1809||9 Over 8|8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Left|Half Eagle|1810|||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Left|Half Eagle|1811|||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Bust To Left|Half Eagle|1812|||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Classic Head - No Motto On Reverse|Quarter Eagle|1834||No Motto|4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Classic Head - No Motto On Reverse|Quarter Eagle|1835|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Classic Head - No Motto On Reverse|Quarter Eagle|1836|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Classic Head - No Motto On Reverse|Quarter Eagle|1837|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Classic Head - No Motto On Reverse|Quarter Eagle|1838|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Classic Head - No Motto On Reverse|Quarter Eagle|1839|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+CAL. Gold Quarter Eagle|Quarter Eagle|1848|||4.18000|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1854|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1855|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1856|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1857|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1858|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1859|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1860|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1861|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1862|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1863|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1864|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1865|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1866|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1867|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1868|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1869|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1870|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1871|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1872|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1873||Open 3|5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1873||Close 3|5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1874|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1875|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1876|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1877|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1878|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1879|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1880|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1881|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1882|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1883|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1884|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1885|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1886|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1887|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1888|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1889|||5.01500|-1|10.00000|-1|-1|90.00000|-1
+
+Stella|Four-Dollar Gold Piece|1879||Flowing Hair|7.00000|7.50000|7.50000|-1|-1|85.00000|-1
+
+Stella|Four-Dollar Gold Piece|1879||Coiled Hair|7.00000|7.50000|7.50000|-1|-1|85.00000|-1
+
+Stella|Four-Dollar Gold Piece|1880||Flowing Hair|7.00000|7.50000|7.50000|-1|-1|85.00000|-1
+
+Stella|Four-Dollar Gold Piece|1880||Coiled Hair|7.00000|7.50000|7.50000|-1|-1|85.00000|-1
+
+Capped Head To Left|Half Eagle|1813|Large Diameter||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Head To Left|Half Eagle|1814|Large Diameter|4 Over 3|8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Head To Left|Half Eagle|1815|Large Diameter||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Head To Left|Half Eagle|1818|Large Diameter||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Head To Left|Half Eagle|1819|Large Diameter||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Head To Left|Half Eagle|1820|Large Diameter||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Head To Left|Half Eagle|1821|Large Diameter||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Head To Left|Half Eagle|1822|Large Diameter||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Head To Left|Half Eagle|1823|Large Diameter||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Head To Left|Half Eagle|1824|Large Diameter||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Head To Left|Half Eagle|1825|Large Diameter|5 Over Partial 4|8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Head To Left|Half Eagle|1825|Large Diameter|5 Over 4|8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Head To Left|Half Eagle|1826|Large Diameter||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Head To Left|Half Eagle|1827|Large Diameter||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Head To Left|Half Eagle|1828|Large Diameter|8 Over 7|8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Head To Left|Half Eagle|1828|Large Diameter||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Head To Left|Half Eagle|1829|Large Diameter|Large Date|8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Head To Left|Half Eagle|1829|Reduced Diameter|Small Date|8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Head To Left|Half Eagle|1830|Reduced Diameter||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Head To Left|Half Eagle|1831|Reduced Diameter||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Head To Left|Half Eagle|1832|Reduced Diameter|Curved-Base 2 - 12 Stars|8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Head To Left|Half Eagle|1832|Reduced Diameter|Square-Base 2 - 13 Stars|8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Head To Left|Half Eagle|1833|Reduced Diameter||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Capped Head To Left|Half Eagle|1834|Reduced Diameter||8.75000|-1|8.00000|-1|-1|92.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1838|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1839||Large Letters|16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1839||Small Letters|16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1840|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1841|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1842|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1843|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1844|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1845|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1846|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1847|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1848|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1849|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1850|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1851|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1852|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1853||3 Over 2|16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1853|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1854|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1855|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1856|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1857|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1858|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1859|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1860|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1861|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1862|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1863|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1864|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1865|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Liberty Head, No Motto Above Eagle|Eagle|1866|||16.72000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1907|Arabic Numerals, No Motto||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1908|Arabic Numerals, No Motto||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1908|Arabic Numerals, No Motto|With Motto|33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1909|Arabic Numerals, No Motto||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1909|Arabic Numerals, No Motto|9 Over 8|33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1910|Arabic Numerals, No Motto||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1911|Arabic Numerals, No Motto||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1912|Arabic Numerals, No Motto||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1913|Arabic Numerals, No Motto||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1914|Arabic Numerals, No Motto||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1915|Arabic Numerals, No Motto||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1916|Arabic Numerals, No Motto||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1920|Arabic Numerals, No Motto||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1921|Arabic Numerals, No Motto||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1922|Arabic Numerals, No Motto||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1923|Arabic Numerals, No Motto||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1924|Arabic Numerals, No Motto||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1925|Arabic Numerals, No Motto||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1926|Arabic Numerals, No Motto||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1927|Arabic Numerals, No Motto||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1928|Arabic Numerals, No Motto||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1929|Arabic Numerals, No Motto||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1930|Arabic Numerals, No Motto||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1931|Arabic Numerals, No Motto||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1932|Arabic Numerals, No Motto||33.44000|-1|10.00000|-1|-1|90.00000|-1
+
+Saint-Gaudens|Double Eagle|1933|Arabic Numerals, No Motto||33.44000|-1|10.00000|-1|-1|90.00000|-1

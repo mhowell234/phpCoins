@@ -1,0 +1,15 @@
+<?php
+
+header('Content-type: application/json');
+
+include_once('../include/init.php');
+include_once("$DOCUMENT_ROOT/include/db/db.php");
+include_once("$DOCUMENT_ROOT/include/utils.php");
+
+mysql_set_charset("UTF-8");
+
+$values = map(getCoinOrigins(), ['id','name']);
+
+print json_encode_pretty($values);
+
+?>

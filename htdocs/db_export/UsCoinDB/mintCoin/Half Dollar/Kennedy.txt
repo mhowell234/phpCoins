@@ -1,0 +1,321 @@
+YEAR|MINTAGE|MS-63|PF-63|PF-65|Paren|ADDITIONAL_INFO
+
+1964D|156205446|12.00|-1|Silver Coinage
+
+1964P|273304004|12.00|12.00|13.00|3950762|Silver Coinage
+
+1965P|65879366|5.00|-1|Silver Clad Coinage
+
+1966P|108984932|5.00|-1|Silver Clad Coinage
+
+1967P|295046978|5.00|-1|Silver Clad Coinage
+
+1968D|246951930|5.00|-1|Silver Clad Coinage
+
+1968S|-1|5.00|6.00|3041506|Silver Clad Coinage
+
+1969D|129881800|5.00|-1|Silver Clad Coinage
+
+1969S|-1|5.00|6.00|2934631|Silver Clad Coinage
+
+1970D|2150000|10.00|-1|Silver Clad Coinage
+
+1970S|-1|5.00|9.00|2632810|Silver Clad Coinage
+
+1971D|302097424|0.55|-1|Clad Coinage and Silver Proofs
+
+1971P|155164000|0.55|-1|Clad Coinage and Silver Proofs
+
+1971S|-1|1.50|3.00|3220733|Clad Coinage and Silver Proofs
+
+1972D|141890000|0.60|-1|Clad Coinage and Silver Proofs
+
+1972P|153180000|0.60|-1|Clad Coinage and Silver Proofs
+
+1972S|-1|1.50|3.00|3260996|Clad Coinage and Silver Proofs
+
+1973D|83171400|0.55|-1|Clad Coinage and Silver Proofs
+
+1973P|64964000|0.55|-1|Clad Coinage and Silver Proofs
+
+1973S|-1|1.50|2.50|2760339|Clad Coinage and Silver Proofs
+
+1974D|79066300|0.55|-1|Clad Coinage and Silver Proofs
+
+1974P|201596000|0.55|-1|Clad Coinage and Silver Proofs
+
+1974S|-1|1.50|3.00|2612568|Clad Coinage and Silver Proofs
+
+1976D,:Clad|287565248|0.55|-1|Bicentennial
+
+1976D,:Silver|11000000|5.00|-1|Bicentennial
+
+1976P,:Clad|234308000|0.55|-1|Bicentennial
+
+1976S,:Silver|-1|5.00|6.00|4000000|Bicentennial
+
+1976S,:Clad|-1|0.75|1.25|7059099|Bicentennial
+
+1977D|31449106|0.60|-1|Eagle Reverse Resumed
+
+1977P|43598000|0.60|-1|Eagle Reverse Resumed
+
+1977S|-1|1.00|1.25|3251152|Eagle Reverse Resumed
+
+1978D|13765799|1.00|-1|Eagle Reverse Resumed
+
+1978P|1435000|0.60|-1|Eagle Reverse Resumed
+
+1978S|-1|1.00|1.50|3127781|Eagle Reverse Resumed
+
+1979D|15815422|0.55|-1|Eagle Reverse Resumed
+
+1979P|68312000|0.55|-1|Eagle Reverse Resumed
+
+1979S,:Type:1|-1|1.00|2.00|3677175|Eagle Reverse Resumed
+
+1979S,:Type:2|-1|3.00|5.00|3677175|Eagle Reverse Resumed
+
+1980D|33456449|0.55|-1|Eagle Reverse Resumed
+
+1980P|44134000|0.55|-1|Eagle Reverse Resumed
+
+1980S|-1|1.00|1.50|3554806|Eagle Reverse Resumed
+
+1981D|27839533|0.55|-1|Eagle Reverse Resumed
+
+1981P|29544000|0.75|-1|Eagle Reverse Resumed
+
+1981S,:Type:1|-1|1.00|2.00|4063083|Eagle Reverse Resumed
+
+1981S,:Type:2|-1|5.00|10.00|4063083|Eagle Reverse Resumed
+
+1982D|13140102|2.25|-1|Eagle Reverse Resumed
+
+1982P|10819000|2.00|-1|Eagle Reverse Resumed
+
+1982S|-1|1.00|1.50|3857479|Eagle Reverse Resumed
+
+1983D|32472244|3.00|-1|Eagle Reverse Resumed
+
+1983P|34139000|2.50|-1|Eagle Reverse Resumed
+
+1983S|-1|1.00|1.75|3279126|Eagle Reverse Resumed
+
+1984D|26262158|0.75|-1|Eagle Reverse Resumed
+
+1984P|26029000|0.75|-1|Eagle Reverse Resumed
+
+1984S|-1|1.00|2.00|3065110|Eagle Reverse Resumed
+
+1985D|19814034|1.50|-1|Eagle Reverse Resumed
+
+1985P|18706962|2.00|-1|Eagle Reverse Resumed
+
+1985S|-1|1.00|1.75|3362821|Eagle Reverse Resumed
+
+1986D|15336145|2.50|-1|Eagle Reverse Resumed
+
+1986P|13107633|3.00|-1|Eagle Reverse Resumed
+
+1986S|-1|3.00|4.50|3010497|Eagle Reverse Resumed
+
+1987D|2890758|2.50|-1|Eagle Reverse Resumed
+
+1987P|2890758|2.50|-1|Eagle Reverse Resumed
+
+1987S|-1|1.00|1.75|4227728|Eagle Reverse Resumed
+
+1988D|12000096|1.35|-1|Eagle Reverse Resumed
+
+1988P|13626000|1.50|-1|Eagle Reverse Resumed
+
+1988S|-1|2.00|2.50|3262948|Eagle Reverse Resumed
+
+1989D|23000216|1.10|-1|Eagle Reverse Resumed
+
+1989P|24542000|1.00|-1|Eagle Reverse Resumed
+
+1989S|-1|1.50|3.00|3220194|Eagle Reverse Resumed
+
+1990D|20096242|1.10|-1|Eagle Reverse Resumed
+
+1990P|22278000|1.00|-1|Eagle Reverse Resumed
+
+1990S|-1|1.50|2.00|3299559|Eagle Reverse Resumed
+
+1991D|15054678|1.25|-1|Eagle Reverse Resumed
+
+1991P|14874000|0.70|-1|Eagle Reverse Resumed
+
+1991S|-1|4.00|4.00|2867787|Eagle Reverse Resumed
+
+1992D|17000106|1.10|-1|Eagle Reverse Resumed
+
+1992P|17628000|0.50|-1|Eagle Reverse Resumed
+
+1992S|-1|2.00|3.00|2858981|Eagle Reverse Resumed
+
+1992S|-1|12.00|13.00|1317579|Eagle Reverse Resumed, Silver
+
+1993D|15000006|0.50|-1|Eagle Reverse Resumed
+
+1993P|15510000|0.50|-1|Eagle Reverse Resumed
+
+1993S|-1|3.00|5.00|2633439|Eagle Reverse Resumed
+
+1993S|-1|12.00|17.00|761353|Eagle Reverse Resumed, Silver
+
+1994D|23828110|0.50|-1|Eagle Reverse Resumed
+
+1994P|23718000|0.50|-1|Eagle Reverse Resumed
+
+1994S|-1|3.00|4.00|2484594|Eagle Reverse Resumed
+
+1994S|-1|14.00|18.00|785329|Eagle Reverse Resumed, Silver
+
+1995D|26288000|0.50|-1|Eagle Reverse Resumed
+
+1995P|26496000|0.50|-1|Eagle Reverse Resumed
+
+1995S|-1|6.00|8.00|2117496|Eagle Reverse Resumed
+
+1995S|-1|30.00|40.00|679985|Eagle Reverse Resumed, Silver
+
+1996D|24744000|0.50|-1|Eagle Reverse Resumed
+
+1996P|24442000|0.50|-1|Eagle Reverse Resumed
+
+1996S|-1|3.00|5.00|1750244|Eagle Reverse Resumed
+
+1996S|-1|15.00|20.00|775021|Eagle Reverse Resumed, Silver
+
+1997D|19876000|0.50|-1|Eagle Reverse Resumed
+
+1997P|20882000|0.50|-1|Eagle Reverse Resumed
+
+1997S|-1|3.00|6.00|2055000|Eagle Reverse Resumed
+
+1997S|-1|20.00|32.00|741678|Eagle Reverse Resumed, Silver
+
+1998D|15064000|0.50|-1|Eagle Reverse Resumed
+
+1998P|15646000|0.50|-1|Eagle Reverse Resumed
+
+1998S|-1|3.00|6.00|2086507|Eagle Reverse Resumed
+
+1998S|-1|12.00|14.00|878792|Eagle Reverse Resumed, Silver
+
+1998S|-1|100.00|125.00|-1|Eagle Reverse Resumed, Silver, Matte Finish
+
+1999D|10682000|0.55|-1|Eagle Reverse Resumed
+
+1999P|8900000|0.55|-1|Eagle Reverse Resumed
+
+1999S|-1|3.00|5.00|2543401|Eagle Reverse Resumed
+
+1999S|-1|12.00|16.00|804565|Eagle Reverse Resumed, Silver
+
+2000D|19466000|0.60|-1|Eagle Reverse Resumed
+
+2000P|22600000|0.60|-1|Eagle Reverse Resumed
+
+2000S|-1|2.00|3.00|3082483|Eagle Reverse Resumed
+
+2000S|-1|12.00|14.00|965421|Eagle Reverse Resumed, Silver
+
+2001D|19504000|0.55|-1|Eagle Reverse Resumed
+
+2001P|21200000|0.55|-1|Eagle Reverse Resumed
+
+2001S|-1|3.25|4.00|2294909|Eagle Reverse Resumed
+
+2001S|-1|12.00|14.00|889697|Eagle Reverse Resumed, Silver
+
+2002D|2500000|0.65|-1|Eagle Reverse Resumed
+
+2002P|3100000|0.65|-1|Eagle Reverse Resumed
+
+2002S|-1|2.00|3.00|2319766|Eagle Reverse Resumed
+
+2002S|-1|12.00|13.00|892229|Eagle Reverse Resumed, Silver
+
+2003D|2500000|0.65|-1|Eagle Reverse Resumed
+
+2003P|2500000|0.65|-1|Eagle Reverse Resumed
+
+2003S|-1|2.00|3.00|2172684|Eagle Reverse Resumed
+
+2003S|-1|12.00|14.00|1125755|Eagle Reverse Resumed, Silver
+
+2004D|2900000|0.65|-1|Eagle Reverse Resumed
+
+2004P|2900000|0.65|-1|Eagle Reverse Resumed
+
+2004S|-1|3.00|7.00|1789488|Eagle Reverse Resumed
+
+2004S|-1|12.00|14.00|1175934|Eagle Reverse Resumed, Silver
+
+2005D|3500000|0.65|-1|Eagle Reverse Resumed
+
+2005P|3800000|0.65|-1|Eagle Reverse Resumed
+
+2005S|-1|2.00|3.00|2275000|Eagle Reverse Resumed
+
+2005S|-1|12.00|13.00|1069679|Eagle Reverse Resumed, Silver
+
+2006D|2400000|0.65|-1|Eagle Reverse Resumed
+
+2006P|2400000|0.65|-1|Eagle Reverse Resumed
+
+2006S|-1|2.00|3.00|2004428|Eagle Reverse Resumed
+
+2006S|-1|12.00|13.00|1054008|Eagle Reverse Resumed, Silver
+
+2007D|2400000|0.65|-1|Eagle Reverse Resumed
+
+2007P|2400000|0.65|-1|Eagle Reverse Resumed
+
+2007S|-1|2.00|3.00|1702116|Eagle Reverse Resumed
+
+2007S|-1|12.00|13.00|875050|Eagle Reverse Resumed, Silver
+
+2008D|1700000|0.65|-1|Eagle Reverse Resumed
+
+2008P|1700000|0.65|-1|Eagle Reverse Resumed
+
+2008S|-1|2.00|3.00|1415674|Eagle Reverse Resumed
+
+2008S|-1|12.00|13.00|763887|Eagle Reverse Resumed, Silver
+
+2009D|1900000|0.65|-1|Eagle Reverse Resumed
+
+2009P|1900000|0.65|-1|Eagle Reverse Resumed
+
+2009S|-1|2.00|3.00|1482502|Eagle Reverse Resumed
+
+2009S|-1|12.00|13.00|697365|Eagle Reverse Resumed, Silver
+
+2010D|1700000|0.65|-1|Eagle Reverse Resumed
+
+2010P|1800000|0.65|-1|Eagle Reverse Resumed
+
+2010S|-1|2.00|3.00|1103950|Eagle Reverse Resumed
+
+2010S|-1|12.00|13.00|585414|Eagle Reverse Resumed, Silver
+
+2011D|1700000|0.65|-1|Eagle Reverse Resumed
+
+2011P|1750000|0.65|-1|Eagle Reverse Resumed
+
+2011S|-1|2.00|3.00|952881|Eagle Reverse Resumed
+
+2011S|-1|12.00|13.00|500395|Eagle Reverse Resumed, Silver
+
+2012D|-1|0.65|-1|Eagle Reverse Resumed
+
+2012P|-1|0.65|-1|Eagle Reverse Resumed
+
+2012S|-1|2.00|3.00|-1|Eagle Reverse Resumed
+
+2012S|-1|12.00|13.00|-1|Eagle Reverse Resumed, Silver

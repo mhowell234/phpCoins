@@ -1,0 +1,23 @@
+NAME|VALUE|DESCRIPTION
+
+Five Pounds|500.0000|
+
+Two Pounds|200.0000|
+
+Pound|100.0000|
+
+Fifty Pence|50.0000|
+
+Twenty-five Pence|25.0000|
+
+Twenty Pence|20.0000|
+
+Ten Pence|10.0000|
+
+Five Pence|5.0000|
+
+Two Pence|2.0000|
+
+Penny|1.0000|
+
+Half Penny|0.5000|

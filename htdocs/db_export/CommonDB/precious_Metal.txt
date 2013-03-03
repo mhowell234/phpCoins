@@ -1,0 +1,17 @@
+NAME|SYMBOL|UNIT|CONVERSION_FACTOR
+
+Gold|Au|ounce|0.0321510000
+
+Silver|Ag|ounce|0.0321510000
+
+Copper|Cu|pound|0.0022050000
+
+Manganese|Mn|ton|0.0000010000
+
+Nickel|Ni|pound|0.0022050000
+
+Zinc|Zn|pound|0.0022050000
+
+Tin|Sn||
+
+Platinum|Pt|ounce|0.0321510000

@@ -1,0 +1,33 @@
+COIN|DENOMINATION|YEAR|ADDITIONAL_INFO|KM_NUMBER|IS_GOLD|IS_SILVER
+
+Margrethe II|5 Kroner|1973|Vagn Sorensen Obverse|863.1|0|0
+
+Margrethe II|5 Kroner|1974|Vagn Sorensen Obverse|863.1|0|0
+
+Margrethe II|5 Kroner|1975|Vagn Sorensen Obverse|863.1|0|0
+
+Margrethe II|5 Kroner|1976|Vagn Sorensen Obverse|863.1|0|0
+
+Margrethe II|5 Kroner|1977|Vagn Sorensen Obverse|863.1|0|0
+
+Margrethe II|5 Kroner|1978|Vagn Sorensen Obverse|863.1|0|0
+
+Margrethe II|5 Kroner|1979|Peter M. Bjarno Obverse|863.2|0|0
+
+Margrethe II|5 Kroner|1980|Peter M. Bjarno Obverse|863.2|0|0
+
+Margrethe II|5 Kroner|1981|Peter M. Bjarno Obverse|863.2|0|0
+
+Margrethe II|5 Kroner|1982|N. Norregaard Rasmussen Obverse|863.3|0|0
+
+Margrethe II|5 Kroner|1983|N. Norregaard Rasmussen Obverse|863.3|0|0
+
+Margrethe II|5 Kroner|1984|N. Norregaard Rasmussen Obverse|863.3|0|0
+
+Margrethe II|5 Kroner|1985|N. Norregaard Rasmussen Obverse|863.3|0|0
+
+Margrethe II|5 Kroner|1986|N. Norregaard Rasmussen Obverse|863.3|0|0
+
+Margrethe II|5 Kroner|1987|N. Norregaard Rasmussen Obverse|863.3|0|0
+
+Margrethe II|5 Kroner|1988|N. Norregaard Rasmussen Obverse|863.3|0|0

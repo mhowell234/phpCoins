@@ -1,0 +1,19 @@
+MINT|START_YEAR|END_YEAR
+
+Philadelphia|1793|0
+
+New Orleans|1838|1861
+
+New Orleans|1879|1909
+
+Dahlonega|1838|1861
+
+Charlotte|1838|1861
+
+San Francisco|1854|0
+
+Carson City|1870|1893
+
+Denver|1906|0
+
+West Point|1984|0

@@ -1,0 +1,9 @@
+NAME|DESCRIPTION|VALUE|COIN|YEAR|YEAR_INFO|START_YEAR|END_YEAR|MINT|COIN_INFO|MIN_PRICE|MAX_PRICE|DISCOUNT_PERCENTAGE|PREMIUM_PERCENTAGE|AUCTION_END_TIME|SELLER_RATING|RATING_AGENCY|GRADE_CATEGORY|GRADE|IS_BUY_IT_NOW|PHRASE_TO_ADD|PHRASE_TO_REMOVE|EMAILS
+
+Morgan AU NGC Rated Dollars|Morgan Silver Dollars, Rated by NGC and of AU Quality|Silver and Related Dollar|Morgan||||||||||50|1440||NGC|AU|||||mhowell234@gmail.com##mlross9@gmail.com
+
+Morgan AU-58 Dollars|Morgan Silver Dollars, AU-58 and ending in less than 4 hours|Silver and Related Dollar|Morgan|||||||||||240|||AU|AU-58||||mhowell234@gmail.com
+
+Morgan AU NGC Rated Dollars for CC|Morgan Silver Dollars, Rated by NGC and of AU Quality|Silver and Related Dollar|Morgan|1878||||Carson City|||||50|1440||NGC|AU|||||mhowell234@gmail.com##mlross9@gmail.com
+
+Morgan AU NGC Rated Dollars for CC|Morgan Silver Dollars, Rated by NGC and of AU Quality|Silver and Related Dollar|Morgan|||||Carson City|||||50|1440||NGC|AU|||||mhowell234@gmail.com##mlross9@gmail.com

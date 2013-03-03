@@ -1,0 +1,93 @@
+NAME|DESCRIPTION|POSSESSIVE_NAME|ABBREVIATION
+
+Australia||Australian|AU
+
+Austria||Austrian|AT
+
+Bahamas||Bahamas|BS
+
+Belgium||Belgian|BE
+
+Brazil||Brazilian|BR
+
+Canada||Canadian|CA
+
+Cayman Islands||Cayman Islands|KY
+
+Chile||Chilean|CL
+
+Colombia||Colombian|CO
+
+Croatia||Croatian|HR
+
+Czechoslovakia||Czechoslovakian|CS
+
+Denmark||Danish|DK
+
+El Salvador||El Salvador|SV
+
+France||French|FR
+
+Germany||German|DE
+
+Great Britain||British|GB
+
+Great Britain - £sd||British - £sd|GB-Lsd
+
+Guatemala||Guatemalan|GT
+
+Hong Kong||Hong Kong|HK
+
+Hungary||Hungarian|HU
+
+India||Indian|IN
+
+Ireland||Irish|IE
+
+Israel||Israeli|IL
+
+Italy||Italian|IT
+
+Japan||Japanese|JP
+
+Luxembourg||Luxembourg|LU
+
+Malaysia||Malaysian|MY
+
+Mexico||Mexican|MX
+
+Netherlands||Netherlands|NL
+
+New Zealand||New Zealand|NZ
+
+Nicaragua||Nicaraguan|NI
+
+Norway||Norwegian|NO
+
+Panama||Panamanian|PA
+
+Philippines||Philippine|PH
+
+Poland||Polish|PL
+
+Portugal||Portugese|PT
+
+Rhodesia||Rhodesian|RD
+
+Saudi Arabia||Saudi Arabian|SI
+
+Sierra Leone||Sierra Leone|SL
+
+Singapore||Singapore|SG
+
+Slovenia||Slovenian|SI
+
+South Korea||South Korean|KR
+
+Spain||Spanish|ES
+
+Sweden||Swedish|SE
+
+Turkey||Turkish|TR
+
+Yugoslavia||Yugoslavian|YU

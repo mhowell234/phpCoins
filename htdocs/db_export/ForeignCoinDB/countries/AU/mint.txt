@@ -1,0 +1,7 @@
+MINT|SYMBOL|ALWAYS_PRESENT|COMMENTS|COUNTRY
+
+Melbourne Victoria|M|0||AU
+
+Sydney New South Wales|S|0||AU
+
+Perth Western Australia|P|0||AU

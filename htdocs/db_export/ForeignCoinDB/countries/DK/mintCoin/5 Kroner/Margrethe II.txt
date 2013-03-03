@@ -1,0 +1,35 @@
+YEAR|MINTAGE|EF-40|MS-60|Paren|ADDITIONAL_INFO|KM
+
+1973H,:Narrow:Rim|3774000|2.00|4.00|-1|Vagn Sorensen Obverse|863.1
+
+1973H,:Wide:Rim|-1|2.00|4.00|-1|Vagn Sorensen Obverse|863.1
+
+1974H|5239000|2.00|4.00|-1|Vagn Sorensen Obverse|863.1
+
+1975H|5810000|3.50|8.00|-1|Vagn Sorensen Obverse|863.1
+
+1976H|7651000|2.00|5.00|-1|Vagn Sorensen Obverse|863.1
+
+1977H|6885000|2.00|5.00|-1|Vagn Sorensen Obverse|863.1
+
+1978H|2984000|2.00|5.00|-1|Vagn Sorensen Obverse|863.1
+
+1979H|2861000|2.00|4.00|-1|Peter M. Bjarno Obverse|863.2
+
+1980H|3622000|2.50|6.50|-1|Peter M. Bjarno Obverse|863.2
+
+1981H|1057000|2.00|4.00|-1|Peter M. Bjarno Obverse|863.2
+
+1982H|1002000|2.50|6.50|-1|N. Norregaard Rasmussen Obverse|863.3
+
+1983H|1044000|2.00|3.50|-1|N. Norregaard Rasmussen Obverse|863.3
+
+1984H|713000|2.00|4.00|-1|N. Norregaard Rasmussen Obverse|863.3
+
+1985H|621000|2.00|4.00|-1|N. Norregaard Rasmussen Obverse|863.3
+
+1986H|1042000|2.00|3.50|-1|N. Norregaard Rasmussen Obverse|863.3
+
+1987H|611000|2.00|3.50|-1|N. Norregaard Rasmussen Obverse|863.3
+
+1988H|648000|2.00|3.50|-1|N. Norregaard Rasmussen Obverse|863.3

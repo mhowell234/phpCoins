@@ -1,0 +1,13 @@
+NAME|VALUE|DESCRIPTION
+
+20 Kroner|2000.0000|
+
+10 Kroner|1000.0000|
+
+5 Kroner|500.0000|
+
+2 Kroner|200.0000|
+
+1 Kroner|100.0000|
+
+50-øre|50.0000|

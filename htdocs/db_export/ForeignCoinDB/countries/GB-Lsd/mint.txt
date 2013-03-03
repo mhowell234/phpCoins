@@ -1,0 +1,9 @@
+MINT|SYMBOL|ALWAYS_PRESENT|COMMENTS|COUNTRY
+
+||0||GB-Lsd
+
+Heaton/Birmingham|H|0||GB-Lsd
+
+Kings Norton|KN|0||GB-Lsd
+
+Royal Mint|L|0||GB-Lsd

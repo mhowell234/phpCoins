@@ -1,0 +1,945 @@
+YEAR|MINTAGE|VG-8|F-12|VF-20|EF-40|AU-50|MS-60|MS-63|MS-65|PF-65|Paren|ADDITIONAL_INFO
+
+1932D|436800|75.00|90.00|120.00|175.00|550.00|1000.00|7500.00|-1|Silver Coinage
+
+1932P|5404000|5.50|5.50|6.00|7.00|13.00|23.00|200.00|-1|Silver Coinage
+
+1932S|408000|75.00|90.00|100.00|130.00|275.00|500.00|2300.00|-1|Silver Coinage
+
+1934D|3527200|6.00|6.00|7.00|12.00|100.00|175.00|625.00|-1|Silver Coinage
+
+1934P|31912052|6.00|6.00|6.00|6.50|9.00|17.00|45.00|-1|Silver Coinage
+
+1935D|5780000|6.00|6.00|6.50|8.00|100.00|140.00|400.00|-1|Silver Coinage
+
+1935P|32484000|6.00|6.00|6.00|6.50|8.00|15.00|45.00|-1|Silver Coinage
+
+1935S|5660000|6.00|6.00|6.00|6.50|40.00|60.00|140.00|-1|Silver Coinage
+
+1936D|5374000|6.00|6.00|6.00|20.00|180.00|350.00|625.00|-1|Silver Coinage
+
+1936P|41300000|6.00|6.00|6.00|6.50|9.00|16.00|40.00|850.00|3837|Silver Coinage
+
+1936S|3828000|6.00|6.00|6.00|7.00|40.00|75.00|200.00|-1|Silver Coinage
+
+1937D|7189600|6.00|6.00|6.00|7.00|25.00|45.00|70.00|-1|Silver Coinage
+
+1937P|19696000|6.00|6.00|6.00|6.50|8.00|15.00|48.00|300.00|5542|Silver Coinage
+
+1937S|1652000|6.00|6.00|7.50|15.00|70.00|100.00|150.00|-1|Silver Coinage
+
+1938P|94720000|6.00|6.00|6.00|6.50|30.00|50.00|120.00|160.00|8045|Silver Coinage
+
+1938S|2832000|6.00|6.00|6.00|7.00|35.00|60.00|125.00|-1|Silver Coinage
+
+1939D|7092000|6.00|6.00|6.00|6.50|14.00|20.00|50.00|-1|Silver Coinage
+
+1939P|33540000|6.00|6.00|6.00|6.50|7.00|12.00|25.00|140.00|8795|Silver Coinage
+
+1939S|2628000|6.00|6.00|6.00|8.00|45.00|65.00|150.00|-1|Silver Coinage
+
+1940D|2797600|6.00|6.00|9.00|50.00|80.00|140.00|-1|Silver Coinage
+
+1940P|35704000|6.00|6.00|6.00|7.00|12.00|30.00|100.00|11246|Silver Coinage
+
+1940S|8244000|6.00|6.00|6.00|10.00|13.00|25.00|-1|Silver Coinage
+
+1941D|16714800|6.00|6.00|7.00|12.00|22.00|25.00|-1|Silver Coinage
+
+1941P|79032000|6.00|6.00|6.00|6.50|7.00|20.00|65.00|15287|Silver Coinage
+
+1941S|16080000|6.00|6.00|6.00|8.00|18.00|24.00|-1|Silver Coinage
+
+1942D|17487200|6.00|6.00|6.00|7.00|12.00|20.00|-1|Silver Coinage
+
+1942P|102096000|6.00|6.00|6.00|6.50|7.00|10.00|60.00|21123|Silver Coinage
+
+1942S|19384000|6.00|6.00|7.00|27.00|45.00|80.00|-1|Silver Coinage
+
+1943D|16095600|6.00|6.00|6.00|9.00|16.00|20.00|-1|Silver Coinage
+
+1943P|99700000|6.00|6.00|6.00|6.50|7.00|18.00|-1|Silver Coinage
+
+1943S|21700000|6.00|6.00|6.00|9.50|19.00|22.00|-1|Silver Coinage
+
+1944D|14600800|6.00|6.00|6.00|7.00|10.00|18.00|-1|Silver Coinage
+
+1944P|104956000|6.00|6.00|6.00|6.50|7.00|16.00|-1|Silver Coinage
+
+1944S|12560000|6.00|6.00|6.00|7.50|12.00|16.00|-1|Silver Coinage
+
+1945D|12341600|6.00|6.00|6.00|7.50|12.00|20.00|-1|Silver Coinage
+
+1945P|74372000|6.00|6.00|6.00|6.50|7.00|18.00|-1|Silver Coinage
+
+1945S|17004001|6.00|6.00|6.00|6.75|7.00|15.00|-1|Silver Coinage
+
+1946D|9072800|6.00|6.00|6.00|6.50|7.00|15.00|-1|Silver Coinage
+
+1946P|53436000|6.00|6.00|6.00|6.50|7.00|16.00|-1|Silver Coinage
+
+1946S|4204000|6.00|6.00|6.00|6.50|7.00|16.00|-1|Silver Coinage
+
+1947D|15338400|6.00|6.00|6.00|6.50|8.00|15.00|-1|Silver Coinage
+
+1947P|22556000|6.00|6.00|6.00|6.50|7.00|15.00|-1|Silver Coinage
+
+1947S|5532000|6.00|6.00|6.00|6.50|8.00|15.00|-1|Silver Coinage
+
+1948D|16766800|6.00|6.00|6.00|6.50|7.00|30.00|-1|Silver Coinage
+
+1948P|35196000|6.00|6.00|6.00|6.50|7.00|15.00|-1|Silver Coinage
+
+1948S|15960000|6.00|6.00|6.00|6.50|7.00|18.00|-1|Silver Coinage
+
+1949D|10068400|6.00|6.00|6.00|8.00|11.00|22.00|-1|Silver Coinage
+
+1949P|9312000|6.00|6.00|6.50|10.00|18.00|30.00|-1|Silver Coinage
+
+1950D|21075600|6.00|6.00|6.00|6.25|7.00|13.00|-1|Silver Coinage
+
+1950D,:D:Over:S|-1|9.00|25.00|75.00|125.00|185.00|750.00|-1|Silver Coinage
+
+1950P|24920126|6.00|6.00|6.00|6.25|7.00|13.00|30.00|51386|Silver Coinage
+
+1950S|10284004|6.00|6.00|7.00|7.50|8.00|25.00|-1|Silver Coinage
+
+1950S,:S:Over:D|-1|9.00|25.00|80.00|140.00|200.00|400.00|-1|Silver Coinage
+
+1951D|35354800|6.00|6.00|6.00|6.25|6.50|14.00|-1|Silver Coinage
+
+1951P|43448102|6.00|6.00|6.00|6.25|6.50|14.00|27.50|57500|Silver Coinage
+
+1951S|9048000|6.00|6.00|6.50|6.75|12.00|18.00|-1|Silver Coinage
+
+1952D|49795200|6.00|6.00|6.00|6.25|6.50|16.00|-1|Silver Coinage
+
+1952P|38780093|6.00|6.00|6.00|6.25|6.50|11.00|25.00|81980|Silver Coinage
+
+1952S|13707800|6.00|6.00|6.50|6.75|10.00|16.00|-1|Silver Coinage
+
+1953D|56112400|6.00|6.00|6.00|6.25|6.50|15.00|-1|Silver Coinage
+
+1953P|18536120|6.00|6.00|6.00|6.25|6.50|16.00|22.00|128800|Silver Coinage
+
+1953S|14016000|6.00|6.00|6.00|6.25|6.50|12.00|-1|Silver Coinage
+
+1954D|42305500|6.00|6.00|6.00|6.25|6.50|17.00|-1|Silver Coinage
+
+1954P|54412203|6.00|6.00|6.00|6.25|6.50|13.00|12.00|233300|Silver Coinage
+
+1954S|11834722|6.00|6.00|6.00|6.25|6.50|15.00|-1|Silver Coinage
+
+1955D|3182400|6.00|6.00|6.00|6.25|6.50|22.00|-1|Silver Coinage
+
+1955P|18180181|6.00|6.00|6.00|6.25|6.50|12.00|12.00|378200|Silver Coinage
+
+1956D|32334500|6.00|6.00|6.00|6.25|6.50|11.00|-1|Silver Coinage
+
+1956P|44144000|6.00|6.00|6.00|6.25|6.50|8.00|8.00|669384|Silver Coinage
+
+1957D|77924160|6.00|6.00|6.00|6.25|6.50|10.00|-1|Silver Coinage
+
+1957P|46532000|6.00|6.00|6.00|6.25|6.50|11.00|7.50|1247952|Silver Coinage
+
+1958D|78124900|6.00|6.00|6.00|6.25|6.50|9.00|-1|Silver Coinage
+
+1958P|6360000|6.00|6.00|6.00|6.25|6.50|9.00|7.50|875652|Silver Coinage
+
+1959D|62054232|6.00|6.00|6.00|6.25|6.50|12.00|-1|Silver Coinage
+
+1959P|24384000|6.00|6.00|6.00|6.25|6.50|9.00|7.00|1149291|Silver Coinage
+
+1960D|63000324|6.00|6.00|6.00|6.00|6.25|7.00|-1|Silver Coinage
+
+1960P|29164000|6.00|6.00|6.00|6.00|6.25|7.00|7.00|1691602|Silver Coinage
+
+1961D|83656928|6.00|6.00|6.00|6.00|6.25|7.00|-1|Silver Coinage
+
+1961P|37036000|6.00|6.00|6.00|6.00|6.25|7.00|7.00|3028244|Silver Coinage
+
+1962D|127554756|6.00|6.00|6.00|6.00|6.25|7.00|-1|Silver Coinage
+
+1962P|36156000|6.00|6.00|6.00|6.00|6.25|7.00|7.00|3218019|Silver Coinage
+
+1963D|135288184|6.00|6.00|6.00|6.00|6.25|7.00|-1|Silver Coinage
+
+1963P|74316000|6.00|6.00|6.00|6.00|6.25|7.00|7.00|3075642|Silver Coinage
+
+1964D|704135528|6.00|6.00|6.00|6.00|6.25|7.00|-1|Silver Coinage
+
+1964P|560390585|6.00|6.00|6.00|6.00|6.25|7.00|7.00|3950762|Silver Coinage
+
+1965P|1819717540|0.30|1.50|-1|Clad Coinage and Silver Proofs
+
+1966P|821101500|0.30|1.00|-1|Clad Coinage and Silver Proofs
+
+1967P|1524031848|0.30|1.00|-1|Clad Coinage and Silver Proofs
+
+1968D|101534000|0.30|1.00|-1|Clad Coinage and Silver Proofs
+
+1968P|220731500|0.50|1.50|-1|Clad Coinage and Silver Proofs
+
+1968S|-1|1.00|3041506|Clad Coinage and Silver Proofs
+
+1969D|114372000|0.50|2.50|-1|Clad Coinage and Silver Proofs
+
+1969P|176212000|0.75|1.50|-1|Clad Coinage and Silver Proofs
+
+1969S|-1|1.00|2934631|Clad Coinage and Silver Proofs
+
+1970D|417341364|0.25|1.00|-1|Clad Coinage and Silver Proofs
+
+1970P|136420000|0.25|1.75|-1|Clad Coinage and Silver Proofs
+
+1970S|-1|1.00|2632810|Clad Coinage and Silver Proofs
+
+1971D|258634428|0.30|0.50|-1|Clad Coinage and Silver Proofs
+
+1971P|109284000|0.30|1.00|-1|Clad Coinage and Silver Proofs
+
+1971S|-1|1.00|3220733|Clad Coinage and Silver Proofs
+
+1972D|311067732|0.30|1.50|-1|Clad Coinage and Silver Proofs
+
+1972P|215048000|0.30|1.00|-1|Clad Coinage and Silver Proofs
+
+1972S|-1|1.00|3260996|Clad Coinage and Silver Proofs
+
+1973D|232977000|0.30|1.50|-1|Clad Coinage and Silver Proofs
+
+1973P|346924000|0.30|1.50|-1|Clad Coinage and Silver Proofs
+
+1973S|-1|1.00|2760339|Clad Coinage and Silver Proofs
+
+1974D|353160300|0.30|1.50|-1|Clad Coinage and Silver Proofs
+
+1974P|801456000|0.30|1.00|-1|Clad Coinage and Silver Proofs
+
+1974S|-1|1.00|2612568|Clad Coinage and Silver Proofs
+
+1976D,:Copper-Nickel:Clad|860118839|0.30|1.00|-1|Bicentennial
+
+1976P,:Copper-Nickel:Clad|809784016|0.30|1.00|-1|Bicentennial
+
+1976S,:Copper-Nickel:Clad|-1|1.00|7059099|Bicentennial
+
+1976S,:Silver:Clad|11000000|2.50|3.00|3.00|4000000|Bicentennial
+
+1977D|256524978|0.27|1.00|-1|Eagle Reverse Resumed
+
+1977P|468556000|0.27|-1|Eagle Reverse Resumed
+
+1977S|-1|1.00|3251152|Eagle Reverse Resumed
+
+1978D|287373152|0.27|1.50|-1|Eagle Reverse Resumed
+
+1978P|521452000|0.27|1.50|-1|Eagle Reverse Resumed
+
+1978S|-1|1.00|3127781|Eagle Reverse Resumed
+
+1979D|489789780|0.27|1.25|-1|Eagle Reverse Resumed
+
+1979P|515708000|0.28|1.50|-1|Eagle Reverse Resumed
+
+1979S,:Type:1|-1|1.00|3677175|Eagle Reverse Resumed
+
+1979S,:Type:2|-1|2.00|-1|Eagle Reverse Resumed
+
+1980D|518327487|0.27|1.25|-1|Eagle Reverse Resumed
+
+1980P|635832000|0.27|1.50|-1|Eagle Reverse Resumed
+
+1980S|-1|1.00|3554806|Eagle Reverse Resumed
+
+1981D|575722833|0.27|1.00|-1|Eagle Reverse Resumed
+
+1981P|601716000|0.27|1.50|-1|Eagle Reverse Resumed
+
+1981S,:Type:1|-1|2.00|4063083|Eagle Reverse Resumed
+
+1981S,:Type:2|-1|5.00|-1|Eagle Reverse Resumed
+
+1982D|480042788|0.70|7.00|-1|Eagle Reverse Resumed
+
+1982P|500931000|1.00|9.00|-1|Eagle Reverse Resumed
+
+1982S|-1|1.00|3857479|Eagle Reverse Resumed
+
+1983D|617806446|3.00|19.00|-1|Eagle Reverse Resumed
+
+1983P|673535000|4.00|21.00|-1|Eagle Reverse Resumed
+
+1983S|-1|1.00|3279126|Eagle Reverse Resumed
+
+1984D|546843064|0.30|2.00|-1|Eagle Reverse Resumed
+
+1984P|676545000|0.30|2.00|-1|Eagle Reverse Resumed
+
+1984S|-1|1.00|3065110|Eagle Reverse Resumed
+
+1985D|519962888|0.35|2.50|-1|Eagle Reverse Resumed
+
+1985P|775818962|0.50|5.00|-1|Eagle Reverse Resumed
+
+1985S|-1|1.00|3362821|Eagle Reverse Resumed
+
+1986D|504298660|3.00|9.00|-1|Eagle Reverse Resumed
+
+1986P|551199333|1.00|4.00|-1|Eagle Reverse Resumed
+
+1986S|-1|1.00|3010497|Eagle Reverse Resumed
+
+1987D|655594696|0.27|1.00|-1|Eagle Reverse Resumed
+
+1987P|582499481|0.27|2.50|-1|Eagle Reverse Resumed
+
+1987S|-1|1.00|4227728|Eagle Reverse Resumed
+
+1988D|596810688|0.50|4.00|-1|Eagle Reverse Resumed
+
+1988P|562052000|0.50|4.00|-1|Eagle Reverse Resumed
+
+1988S|-1|1.00|3262948|Eagle Reverse Resumed
+
+1989D|896535597|0.27|1.00|-1|Eagle Reverse Resumed
+
+1989P|512868000|0.30|5.00|-1|Eagle Reverse Resumed
+
+1989S|-1|1.00|3220194|Eagle Reverse Resumed
+
+1990D|927638181|0.28|4.00|-1|Eagle Reverse Resumed
+
+1990P|613792000|0.27|4.00|-1|Eagle Reverse Resumed
+
+1990S|-1|1.75|3299559|Eagle Reverse Resumed
+
+1991D|630966693|0.30|4.00|-1|Eagle Reverse Resumed
+
+1991P|570968000|0.30|4.00|-1|Eagle Reverse Resumed
+
+1991S|-1|1.25|2867787|Eagle Reverse Resumed
+
+1992D|389777107|0.35|5.00|-1|Eagle Reverse Resumed
+
+1992P|384764000|0.35|5.00|-1|Eagle Reverse Resumed
+
+1992S|-1|1.25|2858981|Eagle Reverse Resumed
+
+1992S,:Silver|-1|7.00|1317579|Eagle Reverse Resumed
+
+1993D|645476128|0.30|2.00|-1|Eagle Reverse Resumed
+
+1993P|639276000|0.30|2.00|-1|Eagle Reverse Resumed
+
+1993S|-1|1.25|2633439|Eagle Reverse Resumed
+
+1993S,:Silver|-1|7.00|761353|Eagle Reverse Resumed
+
+1994D|880034110|0.30|4.00|-1|Eagle Reverse Resumed
+
+1994P|825600000|0.30|4.00|-1|Eagle Reverse Resumed
+
+1994S|-1|1.00|2484594|Eagle Reverse Resumed
+
+1994S,:Silver|-1|7.00|785329|Eagle Reverse Resumed
+
+1995D|1103216000|0.30|3.00|-1|Eagle Reverse Resumed
+
+1995P|1004336000|0.30|4.00|-1|Eagle Reverse Resumed
+
+1995S|-1|4.00|2117496|Eagle Reverse Resumed
+
+1995S,:Silver|-1|7.00|679985|Eagle Reverse Resumed
+
+1996D|906868000|0.25|3.00|-1|Eagle Reverse Resumed
+
+1996P|925040000|0.25|3.00|-1|Eagle Reverse Resumed
+
+1996S|-1|1.75|1750244|Eagle Reverse Resumed
+
+1996S,:Silver|-1|7.00|775021|Eagle Reverse Resumed
+
+1997D|599680000|0.25|3.00|-1|Eagle Reverse Resumed
+
+1997P|595740000|0.25|3.00|-1|Eagle Reverse Resumed
+
+1997S|-1|3.00|2055000|Eagle Reverse Resumed
+
+1997S,:Silver|-1|7.00|741678|Eagle Reverse Resumed
+
+1998D|821000000|0.25|1.00|-1|Eagle Reverse Resumed
+
+1998P|896268000|0.25|1.00|-1|Eagle Reverse Resumed
+
+1998S|-1|2.50|2086507|Eagle Reverse Resumed
+
+1998S,:Silver|-1|7.00|878782|Eagle Reverse Resumed
+
+1999D,:Delaware|401424000|0.25|0.50|-1|State Quarters
+
+1999D,:New:Jersey|299028000|0.25|0.35|-1|State Quarters
+
+1999D,:Connecticut|657880000|0.25|0.30|-1|State Quarters
+
+1999D,:Pennsylvania|358332000|0.25|0.50|-1|State Quarters
+
+1999D,:Georgia|488744000|0.25|0.30|-1|State Quarters
+
+1999P,:Pennsylvania|349000000|0.25|0.50|-1|State Quarters
+
+1999P,:Georgia|451188000|0.25|0.30|-1|State Quarters
+
+1999P,:Delaware|373400000|0.25|0.50|-1|State Quarters
+
+1999P,:New:Jersey|363200000|0.25|0.30|-1|State Quarters
+
+1999P,:Connecticut|688744000|0.25|0.30|-1|State Quarters
+
+1999S,:Delaware|-1|1.75|3713359|State Quarters
+
+1999S,:New:Jersey|-1|1.75|3713359|State Quarters
+
+1999S,:Connecticut|-1|1.75|3713359|State Quarters
+
+1999S,:Delaware:-:Silver|-1|14.00|804565|State Quarters
+
+1999S,:New:Jersey:-:Silver|-1|14.00|804565|State Quarters
+
+1999S,:Connecticut:-:Silver|-1|14.00|804565|State Quarters
+
+1999S,:Pennsylvania|-1|1.75|3713359|State Quarters
+
+1999S,:Georgia|-1|1.75|3713359|State Quarters
+
+1999S,:Pennsylvania:-:Silver|-1|14.00|804565|State Quarters
+
+1999S,:Georgia:-:Silver|-1|14.00|804565|State Quarters
+
+2000D,:New:Hampshire|495976000|0.25|0.30|-1|State Quarters
+
+2000D,:Maryland|556532000|0.25|0.30|-1|State Quarters
+
+2000D,:Virginia|651616000|0.25|0.30|-1|State Quarters
+
+2000D,:Massachusetts|535184000|0.25|0.30|-1|State Quarters
+
+2000D,:South:Carolina|566208000|0.25|0.32|-1|State Quarters
+
+2000P,:Virginia|943000000|0.25|0.30|-1|State Quarters
+
+2000P,:Massachusetts|628600000|0.25|0.30|-1|State Quarters
+
+2000P,:South:Carolina|742576000|0.25|0.32|-1|State Quarters
+
+2000P,:New:Hampshire|673040000|0.25|0.30|-1|State Quarters
+
+2000P,:Maryland|678200000|0.25|0.30|-1|State Quarters
+
+2000S,:New:Hampshire|-1|1.50|4020172|State Quarters
+
+2000S,:Maryland|-1|1.50|4020172|State Quarters
+
+2000S,:New:Hampshire:-:Silver|-1|6.00|965421|State Quarters
+
+2000S,:Maryland:-:Silver|-1|6.00|965421|State Quarters
+
+2000S,:South:Carolina|-1|1.50|4020172|State Quarters
+
+2000S,:Virginia|-1|1.50|4020172|State Quarters
+
+2000S,:Massachusetts|-1|1.50|4020172|State Quarters
+
+2000S,:South:Carolina:-:Silver|-1|6.00|965421|State Quarters
+
+2000S,:Virginia:-:Silver|-1|6.00|965421|State Quarters
+
+2000S,:Massachusetts:-:Silver|-1|6.00|965421|State Quarters
+
+2001D,:New:York|619640000|0.25|0.30|-1|State Quarters
+
+2001D,:Rhode:Island|447100000|0.25|0.30|-1|State Quarters
+
+2001D,:Kentucky|370564000|0.25|0.30|-1|State Quarters
+
+2001D,:North:Carolina|427876000|0.25|0.30|-1|State Quarters
+
+2001D,:Vermont|459404000|0.25|0.30|-1|State Quarters
+
+2001P,:North:Carolina|627600000|0.25|0.30|-1|State Quarters
+
+2001P,:Vermont|423400000|0.25|0.30|-1|State Quarters
+
+2001P,:New:York|655400000|0.25|0.30|-1|State Quarters
+
+2001P,:Rhode:Island|423000000|0.25|0.30|-1|State Quarters
+
+2001P,:Kentucky|353000000|0.25|0.30|-1|State Quarters
+
+2001S,:New:York|-1|1.50|3094140|State Quarters
+
+2001S,:Rhode:Island|-1|1.50|3094140|State Quarters
+
+2001S,:Kentucky|-1|1.50|3094140|State Quarters
+
+2001S,:New:York:-:Silver|-1|8.00|889697|State Quarters
+
+2001S,:Rhode:Island:-:Silver|-1|8.00|889697|State Quarters
+
+2001S,:Kentucky:-:Silver|-1|8.00|889697|State Quarters
+
+2001S,:North:Carolina|-1|1.50|3094140|State Quarters
+
+2001S,:Vermont|-1|1.50|3094140|State Quarters
+
+2001S,:North:Carolina:-:Silver|-1|8.00|889697|State Quarters
+
+2001S,:Vermont:-:Silver|-1|8.00|889697|State Quarters
+
+2002D,:Ohio|414832000|0.25|0.30|-1|State Quarters
+
+2002D,:Indiana|327200000|0.25|0.30|-1|State Quarters
+
+2002D,:Tennessee|286468000|0.30|0.40|-1|State Quarters
+
+2002D,:Louisiana|402204000|0.25|0.30|-1|State Quarters
+
+2002D,:Mississippi|289600000|0.25|0.30|-1|State Quarters
+
+2002P,:Tennessee|361600000|0.30|0.40|-1|State Quarters
+
+2002P,:Louisiana|362000000|0.25|0.30|-1|State Quarters
+
+2002P,:Mississippi|290000000|0.25|0.30|-1|State Quarters
+
+2002P,:Ohio|217200000|0.25|0.30|-1|State Quarters
+
+2002P,:Indiana|362600000|0.25|0.30|-1|State Quarters
+
+2002S,:Ohio|-1|1.50|3084245|State Quarters
+
+2002S,:Indiana|-1|1.50|3084245|State Quarters
+
+2002S,:Ohio:-:Silver|-1|6.00|892229|State Quarters
+
+2002S,:Indiana:-:Silver|-1|6.00|892229|State Quarters
+
+2002S,:Tennessee|-1|1.50|3084245|State Quarters
+
+2002S,:Louisiana|-1|1.50|3084245|State Quarters
+
+2002S,:Mississippi|-1|1.50|3084245|State Quarters
+
+2002S,:Tennessee:-:Silver|-1|6.00|892229|State Quarters
+
+2002S,:Louisiana:-:Silver|-1|6.00|892229|State Quarters
+
+2002S,:Mississippi:-:Silver|-1|6.00|892229|State Quarters
+
+2003D,:Illinois|237400000|0.25|0.30|-1|State Quarters
+
+2003D,:Maine|231400000|0.25|0.30|-1|State Quarters
+
+2003D,:Missouri|228200000|0.25|0.30|-1|State Quarters
+
+2003D,:Alabama|232400000|0.25|0.30|-1|State Quarters
+
+2003D,:Arkansas|229800000|0.25|0.30|-1|State Quarters
+
+2003P,:Missouri|225000000|0.25|0.30|-1|State Quarters
+
+2003P,:Alabama|225000000|0.25|0.30|-1|State Quarters
+
+2003P,:Arkansas|228000000|0.25|0.30|-1|State Quarters
+
+2003P,:Illinois|225800000|0.25|0.30|-1|State Quarters
+
+2003P,:Maine|217400000|0.25|0.30|-1|State Quarters
+
+2003S,:Maine|-1|1.50|3408516|State Quarters
+
+2003S,:Arkansas|-1|1.50|3408516|State Quarters
+
+2003S,:Illinois|-1|1.50|3408516|State Quarters
+
+2003S,:Maine:-:Silver|-1|6.00|1125755|State Quarters
+
+2003S,:Arkansas:-:Silver|-1|6.00|1125755|State Quarters
+
+2003S,:Illinois:-:Silver|-1|6.00|1125755|State Quarters
+
+2003S,:Missouri|-1|1.50|3408516|State Quarters
+
+2003S,:Alabama|-1|1.50|3408516|State Quarters
+
+2003S,:Missouri:-:Silver|-1|6.00|1125755|State Quarters
+
+2003S,:Alabama:-:Silver|-1|6.00|1125755|State Quarters
+
+2004D,:Michigan|225800000|0.25|0.30|-1|State Quarters
+
+2004D,:Texas|263000000|0.25|0.30|-1|State Quarters
+
+2004D,:Wisconsin|226800000|0.25|0.30|-1|State Quarters
+
+2004D,:Florida|241600000|0.25|0.30|-1|State Quarters
+
+2004D,:Iowa|251400000|0.25|0.30|-1|State Quarters
+
+2004P,:Michigan|233800000|0.25|0.30|-1|State Quarters
+
+2004P,:Texas|278800000|0.25|0.30|-1|State Quarters
+
+2004P,:Wisconsin|226400000|0.25|0.30|-1|State Quarters
+
+2004P,:Florida|240200000|0.25|0.30|-1|State Quarters
+
+2004P,:Iowa|213800000|0.25|0.30|-1|State Quarters
+
+2004S,:Florida|-1|1.50|2740684|State Quarters
+
+2004S,:Iowa|-1|1.50|2740684|State Quarters
+
+2004S,:Florida:-:Silver|-1|6.00|1769786|State Quarters
+
+2004S,:Iowa:-:Silver|-1|6.00|1769786|State Quarters
+
+2004S,:Michigan|-1|1.50|2740684|State Quarters
+
+2004S,:Texas|-1|1.50|2740684|State Quarters
+
+2004S,:Wisconsin|-1|1.50|2740684|State Quarters
+
+2004S,:Michigan:-:Silver|-1|6.00|1769786|State Quarters
+
+2004S,:Texas:-:Silver|-1|6.00|1769786|State Quarters
+
+2004S,:Wisconsin:-:Silver|-1|6.00|1769786|State Quarters
+
+2005D,:Kansas|300000000|0.25|0.30|-1|State Quarters
+
+2005D,:Minnesota|248400000|0.25|0.30|-1|State Quarters
+
+2005D,:Oregon|404000000|0.25|0.30|-1|State Quarters
+
+2005D,:West:Virginia|356200000|0.25|0.30|-1|State Quarters
+
+2005D,:California|263200000|0.25|0.30|-1|State Quarters
+
+2005P,:Kansas|263400000|0.25|0.30|-1|State Quarters
+
+2005P,:Minnesota|239600000|0.25|0.30|-1|State Quarters
+
+2005P,:West:Virginia|365400000|0.25|0.30|-1|State Quarters
+
+2005P,:California|257200000|0.25|0.30|-1|State Quarters
+
+2005P,:Oregon|316200000|0.25|0.30|-1|State Quarters
+
+2005S,:Oregon|-1|1.50|3262960|State Quarters
+
+2005S,:West:Virginia|-1|1.50|3262960|State Quarters
+
+2005S,:California|-1|1.50|3262960|State Quarters
+
+2005S,:Oregon:-:Silver|-1|6.00|1678649|State Quarters
+
+2005S,:West:Virginia:-:Silver|-1|6.00|1678649|State Quarters
+
+2005S,:California:-:Silver|-1|6.00|1678649|State Quarters
+
+2005S,:Kansas|-1|1.50|3262960|State Quarters
+
+2005S,:Minnesota|-1|1.50|3262960|State Quarters
+
+2005S,:Kansas:-:Silver|-1|6.00|1678649|State Quarters
+
+2005S,:Minnesota:-:Silver|-1|6.00|1678649|State Quarters
+
+2006D,:Nevada|312800000|0.25|0.30|-1|State Quarters
+
+2006D,:Colorado|294200000|0.25|0.30|-1|State Quarters
+
+2006D,:South:Dakota|265800000|0.25|0.30|-1|State Quarters
+
+2006D,:Nebraska|273000000|0.25|0.30|-1|State Quarters
+
+2006D,:North:Dakota|359000000|0.25|0.30|-1|State Quarters
+
+2006P,:Nevada|277000000|0.25|0.30|-1|State Quarters
+
+2006P,:Colorado|274800000|0.25|0.30|-1|State Quarters
+
+2006P,:South:Dakota|245000000|0.25|0.30|-1|State Quarters
+
+2006P,:Nebraska|318000000|0.25|0.30|-1|State Quarters
+
+2006P,:North:Dakota|305800000|0.25|0.30|-1|State Quarters
+
+2006S,:Nebraska|-1|1.50|2882428|State Quarters
+
+2006S,:North:Dakota|-1|1.50|2882428|State Quarters
+
+2006S,:Nebraska:-:Silver|-1|6.00|1585008|State Quarters
+
+2006S,:North:Dakota:-:Silver|-1|6.00|1585008|State Quarters
+
+2006S,:Nevada|-1|1.50|2882428|State Quarters
+
+2006S,:Colorado|-1|1.50|2882428|State Quarters
+
+2006S,:South:Dakota|-1|1.50|2882428|State Quarters
+
+2006S,:Nevada:-:Silver|-1|6.00|1585008|State Quarters
+
+2006S,:Colorado:-:Silver|-1|6.00|1585008|State Quarters
+
+2006S,:South:Dakota:-:Silver|-1|6.00|1585008|State Quarters
+
+2007D,:Washington|280000000|0.25|0.30|-1|State Quarters
+
+2007D,:Wyoming|320800000|0.25|0.30|-1|State Quarters
+
+2007D,:Montana|256240000|0.25|0.30|-1|State Quarters
+
+2007D,:Idaho|286800000|0.25|0.30|-1|State Quarters
+
+2007D,:Utah|253200000|0.25|0.30|-1|State Quarters
+
+2007P,:Washington|265200000|0.25|0.30|-1|State Quarters
+
+2007P,:Wyoming|243600000|0.25|0.30|-1|State Quarters
+
+2007P,:Montana|257000000|0.25|0.30|-1|State Quarters
+
+2007P,:Idaho|294600000|0.25|0.30|-1|State Quarters
+
+2007P,:Utah|255000000|0.25|0.30|-1|State Quarters
+
+2007S,:Montana|-1|1.50|2374778|State Quarters
+
+2007S,:Idaho|-1|1.50|2374778|State Quarters
+
+2007S,:Utah|-1|1.50|2374778|State Quarters
+
+2007S,:Utah:-:Silver|-1|6.00|1313481|State Quarters
+
+2007S,:Montana:-:Silver|-1|6.00|1313481|State Quarters
+
+2007S,:Idaho:-:Silver|-1|6.00|1313481|State Quarters
+
+2007S,:Washington|-1|1.50|2374778|State Quarters
+
+2007S,:Wyoming|-1|1.50|2374778|State Quarters
+
+2007S,:Washington:-:Silver|-1|6.00|1313481|State Quarters
+
+2007S,:Wyoming:-:Silver|-1|6.00|1313481|State Quarters
+
+2008D,:Arizona|265000000|0.25|0.30|-1|State Quarters
+
+2008D,:Hawaii|263600000|0.25|0.30|-1|State Quarters
+
+2008D,:Oklahoma|194600000|0.25|0.30|-1|State Quarters
+
+2008D,:Alaska|254000000|0.25|0.30|-1|State Quarters
+
+2008D,:New:Mexico|244400000|0.25|0.30|-1|State Quarters
+
+2008P,:Arizona|244600000|0.25|0.30|-1|State Quarters
+
+2008P,:Hawaii|254000000|0.25|0.30|-1|State Quarters
+
+2008P,:Oklahoma|222000000|0.25|0.30|-1|State Quarters
+
+2008P,:Alaska|251800000|0.25|0.30|-1|State Quarters
+
+2008P,:New:Mexico|244200000|0.25|0.30|-1|State Quarters
+
+2008S,:New:Mexico|-1|1.50|2078112|State Quarters
+
+2008S,:New:Mexico:-:Silver|-1|6.00|1192908|State Quarters
+
+2008S,:Alaska:-:Silver|-1|6.00|1192908|State Quarters
+
+2008S,:Arizona|-1|1.50|2078112|State Quarters
+
+2008S,:Hawaii|-1|1.50|2078112|State Quarters
+
+2008S,:Oklahoma|-1|1.50|2078112|State Quarters
+
+2008S,:Arizona:-:Silver|-1|6.00|1192908|State Quarters
+
+2008S,:Hawaii:-:Silver|-1|6.00|1192908|State Quarters
+
+2008S,:Oklahoma:-:Silver|-1|6.00|1192908|State Quarters
+
+2008S,:Alaska|-1|1.50|2078112|State Quarters
+
+2009D,:Puerto:Rico|86000000|0.25|0.30|-1|District of Columbia and US Territories Quarters
+
+2009D,:American:Samoa|39600000|0.25|0.30|-1|District of Columbia and US Territories Quarters
+
+2009D,:Northern:Mariana:Islands|37600000|0.25|0.30|-1|District of Columbia and US Territories Quarters
+
+2009D,:District:of:Columbia|88800000|0.25|0.30|-1|District of Columbia and US Territories Quarters
+
+2009D,:Guam|42600000|0.25|0.30|-1|District of Columbia and US Territories Quarters
+
+2009D,:US:Virgin:Islands|41000000|0.25|0.30|-1|District of Columbia and US Territories Quarters
+
+2009P,:Puerto:Rico|53200000|0.25|0.30|-1|District of Columbia and US Territories Quarters
+
+2009P,:American:Samoa|42600000|0.25|0.30|-1|District of Columbia and US Territories Quarters
+
+2009P,:Northern:Mariana:Islands|35200000|0.25|0.30|-1|District of Columbia and US Territories Quarters
+
+2009P,:District:of:Columbia|83600000|0.25|0.30|-1|District of Columbia and US Territories Quarters
+
+2009P,:Guam|45000000|0.25|0.30|-1|District of Columbia and US Territories Quarters
+
+2009P,:US:Virgin:Islands|41000000|0.25|0.30|-1|District of Columbia and US Territories Quarters
+
+2009S,:District:of:Columbia:-:Silver|-1|6.00|996548|District of Columbia and US Territories Quarters
+
+2009S,:Guam:-:Silver|-1|6.00|996548|District of Columbia and US Territories Quarters
+
+2009S,:US:Virgin:Islands:-:Silver|-1|6.00|996548|District of Columbia and US Territories Quarters
+
+2009S,:Puerto:Rico|-1|1.50|2113478|District of Columbia and US Territories Quarters
+
+2009S,:American:Samoa|-1|1.50|2113478|District of Columbia and US Territories Quarters
+
+2009S,:Northern:Mariana:Islands|-1|1.50|2113478|District of Columbia and US Territories Quarters
+
+2009S,:Puerto:Rico:-:Silver|-1|6.00|996548|District of Columbia and US Territories Quarters
+
+2009S,:American:Samoa:-:Silver|-1|6.00|996548|District of Columbia and US Territories Quarters
+
+2009S,:Northern:Mariana:Islands:-:Silver|-1|6.00|996548|District of Columbia and US Territories Quarters
+
+2009S,:District:of:Columbia|-1|1.50|2113478|District of Columbia and US Territories Quarters
+
+2009S,:Guam|-1|1.50|2113478|District of Columbia and US Territories Quarters
+
+2009S,:US:Virgin:Islands|-1|1.50|2113478|District of Columbia and US Territories Quarters
+
+2010D,:Yellowstone:National:Park|34800000|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2010D,:Grand:Canyon:National:Park|35400000|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2010D,:Yosemite:National:Park|34800000|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2010D,:Mt:Hood:National:Forest|34400000|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2010D,:Hot:Springs:National:Park|34000000|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2010P,:Yellowstone:National:Park|33600000|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2010P,:Grand:Canyon:National:Park|34800000|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2010P,:Yosemite:National:Park|35200000|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2010P,:Mt:Hood:National:Forest|34400000|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2010P,:Hot:Springs:National:Park|35600000|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2010S,:Yosemite:National:Park:-:Silver|-1|6.00|1162842|America the Beautiful Quarters Program
+
+2010S,:Mt:Hood:National:Forest:-:Silver|-1|6.00|1162842|America the Beautiful Quarters Program
+
+2010S,:Hot:Springs:National:Park:-:Silver|-1|6.00|1162842|America the Beautiful Quarters Program
+
+2010S,:Yellowstone:National:Park|-1|1.50|1376671|America the Beautiful Quarters Program
+
+2010S,:Grand:Canyon:National:Park|-1|1.50|1376671|America the Beautiful Quarters Program
+
+2010S,:Yellowstone:National:Park:-:Silver|-1|6.00|1162842|America the Beautiful Quarters Program
+
+2010S,:Grand:Canyon:National:Park:-:Silver|-1|6.00|1162842|America the Beautiful Quarters Program
+
+2010S,:Yosemite:National:Park|-1|1.50|1376671|America the Beautiful Quarters Program
+
+2010S,:Mt:Hood:National:Forest|-1|1.50|1376671|America the Beautiful Quarters Program
+
+2010S,:Hot:Springs:National:Park|-1|1.50|1376671|America the Beautiful Quarters Program
+
+2011D,:Gettysburg:National:Military:Park|168000000|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2011D,:Olympic:National:Park|168000000|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2011D,:Chickasaw:National:Recreation:Area|168000000|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2011D,:Glacier:National:Park|168000000|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2011D,:Vicksburg:National:Military:Park|33400000|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2011P,:Gettysburg:National:Military:Park|180600000|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2011P,:Olympic:National:Park|180600000|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2011P,:Chickasaw:National:Recreation:Area|180600000|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2011P,:Glacier:National:Park|180600000|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2011P,:Vicksburg:National:Military:Park|180600000|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2011S,:Glacier:National:Park:-:Silver|-1|6.00|626002|America the Beautiful Quarters Program
+
+2011S,:Vicksburg:National:Military:Park:-:Silver|-1|6.00|626002|America the Beautiful Quarters Program
+
+2011S,:Gettysburg:National:Military:Park|-1|1.50|1077451|America the Beautiful Quarters Program
+
+2011S,:Olympic:National:Park|-1|1.50|1077451|America the Beautiful Quarters Program
+
+2011S,:Chickasaw:National:Recreation:Area|-1|1.50|1077451|America the Beautiful Quarters Program
+
+2011S,:Gettysburg:National:Military:Park:-:Silver|-1|6.00|626002|America the Beautiful Quarters Program
+
+2011S,:Olympic:National:Park:-:Silver|-1|6.00|626002|America the Beautiful Quarters Program
+
+2011S,:Chickasaw:National:Recreation:Area:-:Silver|-1|6.00|626002|America the Beautiful Quarters Program
+
+2011S,:Glacier:National:Park|-1|1.50|1077451|America the Beautiful Quarters Program
+
+2011S,:Vicksburg:National:Military:Park|-1|1.50|1077451|America the Beautiful Quarters Program
+
+2012D,:Chaco:Culture:National:Historical:Park|-1|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2012D,:Hawaii:Volcanoes:National:Park|-1|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2012D,:Denali:National:Park:and:Preserve|-1|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2012D,:El:Yunque:National:Forest|-1|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2012D,:Acadia:National:Park|-1|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2012P,:Chaco:Culture:National:Historical:Park|-1|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2012P,:Hawaii:Volcanoes:National:Park|-1|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2012P,:Denali:National:Park:and:Preserve|-1|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2012P,:El:Yunque:National:Forest|-1|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2012P,:Acadia:National:Park|-1|0.25|0.30|-1|America the Beautiful Quarters Program
+
+2012S,:Denali:National:Park:and:Preserve:-:Silver|-1|6.00|-1|America the Beautiful Quarters Program
+
+2012S,:El:Yunque:National:Forest:-:Silver|-1|6.00|-1|America the Beautiful Quarters Program
+
+2012S,:Acadia:National:Park:-:Silver|-1|6.00|-1|America the Beautiful Quarters Program
+
+2012S,:Hawaii:Volcanoes:National:Park|-1|1.50|-1|America the Beautiful Quarters Program
+
+2012S,:Chaco:Culture:National:Historical:Park|-1|1.50|-1|America the Beautiful Quarters Program
+
+2012S,:Hawaii:Volcanoes:National:Park:-:Silver|-1|6.00|-1|America the Beautiful Quarters Program
+
+2012S,:Chaco:Culture:National:Historical:Park:-:Silver|-1|6.00|-1|America the Beautiful Quarters Program
+
+2012S,:Denali:National:Park:and:Preserve|-1|1.50|-1|America the Beautiful Quarters Program
+
+2012S,:El:Yunque:National:Forest|-1|1.50|-1|America the Beautiful Quarters Program
+
+2012S,:Acadia:National:Park|-1|1.50|-1|America the Beautiful Quarters Program

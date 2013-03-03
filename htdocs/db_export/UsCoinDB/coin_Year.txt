@@ -1,0 +1,3639 @@
+COIN|DENOMINATION|YEAR|ADDITIONAL_INFO|IS_GOLD|IS_SILVER
+
+Liberty Cap|Half Cent|1793|Variety 1 - Head Facing Left|0|0
+
+Liberty Cap|Half Cent|1794|Variety 2 - Head Facing Right|0|0
+
+Liberty Cap|Half Cent|1795|Variety 2 - Head Facing Right|0|0
+
+Liberty Cap|Half Cent|1796|Variety 2 - Head Facing Right|0|0
+
+Liberty Cap|Half Cent|1797|Variety 2 - Head Facing Right|0|0
+
+Draped Bust|Half Cent|1800||0|0
+
+Draped Bust|Half Cent|1802||0|0
+
+Draped Bust|Half Cent|1803||0|0
+
+Draped Bust|Half Cent|1804||0|0
+
+Draped Bust|Half Cent|1805||0|0
+
+Draped Bust|Half Cent|1806||0|0
+
+Draped Bust|Half Cent|1807||0|0
+
+Draped Bust|Half Cent|1808||0|0
+
+Classic Head|Half Cent|1809||0|0
+
+Classic Head|Half Cent|1810||0|0
+
+Classic Head|Half Cent|1811||0|0
+
+Classic Head|Half Cent|1825||0|0
+
+Classic Head|Half Cent|1826||0|0
+
+Classic Head|Half Cent|1828||0|0
+
+Classic Head|Half Cent|1829||0|0
+
+Classic Head|Half Cent|1831||0|0
+
+Classic Head|Half Cent|1832||0|0
+
+Classic Head|Half Cent|1833||0|0
+
+Classic Head|Half Cent|1834||0|0
+
+Classic Head|Half Cent|1835||0|0
+
+Classic Head|Half Cent|1836||0|0
+
+Braided Hair|Half Cent|1840||0|0
+
+Braided Hair|Half Cent|1841||0|0
+
+Braided Hair|Half Cent|1842||0|0
+
+Braided Hair|Half Cent|1843||0|0
+
+Braided Hair|Half Cent|1844||0|0
+
+Braided Hair|Half Cent|1845||0|0
+
+Braided Hair|Half Cent|1846||0|0
+
+Braided Hair|Half Cent|1847||0|0
+
+Braided Hair|Half Cent|1848||0|0
+
+Braided Hair|Half Cent|1849||0|0
+
+Braided Hair|Half Cent|1850||0|0
+
+Braided Hair|Half Cent|1851||0|0
+
+Braided Hair|Half Cent|1852||0|0
+
+Braided Hair|Half Cent|1853||0|0
+
+Braided Hair|Half Cent|1854||0|0
+
+Braided Hair|Half Cent|1855||0|0
+
+Braided Hair|Half Cent|1856||0|0
+
+Braided Hair|Half Cent|1857||0|0
+
+Flowing Hair|Large Cent|1793|Chain Reverse|0|0
+
+Flowing Hair|Large Cent|1793|Wreath Reverse|0|0
+
+Liberty Cap|Large Cent|1793||0|0
+
+Liberty Cap|Large Cent|1794||0|0
+
+Liberty Cap|Large Cent|1795||0|0
+
+Liberty Cap|Large Cent|1796||0|0
+
+Draped Bust|Large Cent|1796||0|0
+
+Draped Bust|Large Cent|1797||0|0
+
+Draped Bust|Large Cent|1798||0|0
+
+Draped Bust|Large Cent|1799||0|0
+
+Draped Bust|Large Cent|1800||0|0
+
+Draped Bust|Large Cent|1801||0|0
+
+Draped Bust|Large Cent|1802||0|0
+
+Draped Bust|Large Cent|1803||0|0
+
+Draped Bust|Large Cent|1804||0|0
+
+Draped Bust|Large Cent|1805||0|0
+
+Draped Bust|Large Cent|1806||0|0
+
+Draped Bust|Large Cent|1807||0|0
+
+Classic Head|Large Cent|1808||0|0
+
+Classic Head|Large Cent|1809||0|0
+
+Classic Head|Large Cent|1810||0|0
+
+Classic Head|Large Cent|1811||0|0
+
+Classic Head|Large Cent|1812||0|0
+
+Classic Head|Large Cent|1813||0|0
+
+Classic Head|Large Cent|1814||0|0
+
+Liberty Head|Large Cent|1816|Matron Head|0|0
+
+Liberty Head|Large Cent|1817|Matron Head|0|0
+
+Liberty Head|Large Cent|1818|Matron Head|0|0
+
+Liberty Head|Large Cent|1819|Matron Head|0|0
+
+Liberty Head|Large Cent|1820|Matron Head|0|0
+
+Liberty Head|Large Cent|1821|Matron Head|0|0
+
+Liberty Head|Large Cent|1822|Matron Head|0|0
+
+Liberty Head|Large Cent|1823|Matron Head|0|0
+
+Liberty Head|Large Cent|1824|Matron Head|0|0
+
+Liberty Head|Large Cent|1825|Matron Head|0|0
+
+Liberty Head|Large Cent|1826|Matron Head|0|0
+
+Liberty Head|Large Cent|1827|Matron Head|0|0
+
+Liberty Head|Large Cent|1828|Matron Head|0|0
+
+Liberty Head|Large Cent|1829|Matron Head|0|0
+
+Liberty Head|Large Cent|1830|Matron Head|0|0
+
+Liberty Head|Large Cent|1831|Matron Head|0|0
+
+Liberty Head|Large Cent|1832|Matron Head|0|0
+
+Liberty Head|Large Cent|1833|Matron Head|0|0
+
+Liberty Head|Large Cent|1834|Matron Head|0|0
+
+Liberty Head|Large Cent|1835|Matron Head|0|0
+
+Liberty Head|Large Cent|1836|Braided Hair|0|0
+
+Liberty Head|Large Cent|1837|Braided Hair|0|0
+
+Liberty Head|Large Cent|1838|Braided Hair|0|0
+
+Liberty Head|Large Cent|1839|Braided Hair|0|0
+
+Liberty Head|Large Cent|1840|Braided Hair|0|0
+
+Liberty Head|Large Cent|1841|Braided Hair|0|0
+
+Liberty Head|Large Cent|1842|Braided Hair|0|0
+
+Liberty Head|Large Cent|1843|Braided Hair|0|0
+
+Liberty Head|Large Cent|1844|Braided Hair|0|0
+
+Liberty Head|Large Cent|1845|Braided Hair|0|0
+
+Liberty Head|Large Cent|1846|Braided Hair|0|0
+
+Liberty Head|Large Cent|1847|Braided Hair|0|0
+
+Liberty Head|Large Cent|1848|Braided Hair|0|0
+
+Liberty Head|Large Cent|1849|Braided Hair|0|0
+
+Liberty Head|Large Cent|1850|Braided Hair|0|0
+
+Liberty Head|Large Cent|1851|Braided Hair|0|0
+
+Liberty Head|Large Cent|1852|Braided Hair|0|0
+
+Liberty Head|Large Cent|1853|Braided Hair|0|0
+
+Liberty Head|Large Cent|1854|Braided Hair|0|0
+
+Liberty Head|Large Cent|1855|Braided Hair|0|0
+
+Liberty Head|Large Cent|1856|Braided Hair|0|0
+
+Liberty Head|Large Cent|1857|Braided Hair|0|0
+
+Flying Eagle|Small Cent|1856||0|0
+
+Flying Eagle|Small Cent|1857||0|0
+
+Flying Eagle|Small Cent|1858||0|0
+
+Indian Head|Small Cent|1859|Variety 1 - Copper-Nickel, Laurel Wreath Reverse|0|0
+
+Indian Head|Small Cent|1860|Variety 2 - Copper-Nickel, Oak Wreath with Shield|0|0
+
+Indian Head|Small Cent|1861|Variety 2 - Copper-Nickel, Oak Wreath with Shield|0|0
+
+Indian Head|Small Cent|1862|Variety 2 - Copper-Nickel, Oak Wreath with Shield|0|0
+
+Indian Head|Small Cent|1863|Variety 2 - Copper-Nickel, Oak Wreath with Shield|0|0
+
+Indian Head|Small Cent|1864|Variety 2 - Copper-Nickel, Oak Wreath with Shield|0|0
+
+Indian Head|Small Cent|1864|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1865|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1866|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1867|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1868|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1869|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1870|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1871|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1872|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1873|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1874|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1875|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1876|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1877|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1878|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1879|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1880|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1881|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1882|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1883|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1884|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1885|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1886|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1887|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1888|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1889|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1890|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1891|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1892|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1893|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1894|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1895|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1896|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1897|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1898|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1899|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1900|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1901|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1902|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1903|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1904|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1905|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1906|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1907|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1908|Variety 3 - Bronze|0|0
+
+Indian Head|Small Cent|1909|Variety 3 - Bronze|0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1909||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1910||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1911||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1912||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1913||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1914||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1915||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1916||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1917||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1918||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1919||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1920||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1921||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1922||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1923||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1924||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1925||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1926||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1927||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1928||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1929||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1930||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1931||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1932||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1933||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1934||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1935||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1936||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1937||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1938||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1939||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1940||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1941||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1942||0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1943|Variety 2 - Zinc-Coated Steel|0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1944|Variety 1 Resumed - Bronze|0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1945|Variety 1 Resumed - Bronze|0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1946|Variety 1 Resumed - Bronze|0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1947|Variety 1 Resumed - Bronze|0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1948|Variety 1 Resumed - Bronze|0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1949|Variety 1 Resumed - Bronze|0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1950|Variety 1 Resumed - Bronze|0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1951|Variety 1 Resumed - Bronze|0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1952|Variety 1 Resumed - Bronze|0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1953|Variety 1 Resumed - Bronze|0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1954|Variety 1 Resumed - Bronze|0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1955|Variety 1 Resumed - Bronze|0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1956|Variety 1 Resumed - Bronze|0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1957|Variety 1 Resumed - Bronze|0|0
+
+Lincoln, Wheat Ears Reverse|Small Cent|1958|Variety 1 Resumed - Bronze|0|0
+
+Lincoln, Memorial Reverse|Small Cent|1959||0|0
+
+Lincoln, Memorial Reverse|Small Cent|1960||0|0
+
+Lincoln, Memorial Reverse|Small Cent|1961||0|0
+
+Lincoln, Memorial Reverse|Small Cent|1962||0|0
+
+Lincoln, Memorial Reverse|Small Cent|1963||0|0
+
+Lincoln, Memorial Reverse|Small Cent|1964||0|0
+
+Lincoln, Memorial Reverse|Small Cent|1965||0|0
+
+Lincoln, Memorial Reverse|Small Cent|1966||0|0
+
+Lincoln, Memorial Reverse|Small Cent|1967||0|0
+
+Lincoln, Memorial Reverse|Small Cent|1968||0|0
+
+Lincoln, Memorial Reverse|Small Cent|1969||0|0
+
+Lincoln, Memorial Reverse|Small Cent|1970||0|0
+
+Lincoln, Memorial Reverse|Small Cent|1971||0|0
+
+Lincoln, Memorial Reverse|Small Cent|1972||0|0
+
+Lincoln, Memorial Reverse|Small Cent|1973||0|0
+
+Lincoln, Memorial Reverse|Small Cent|1974||0|0
+
+Lincoln, Memorial Reverse|Small Cent|1975||0|0
+
+Lincoln, Memorial Reverse|Small Cent|1976||0|0
+
+Lincoln, Memorial Reverse|Small Cent|1977||0|0
+
+Lincoln, Memorial Reverse|Small Cent|1978||0|0
+
+Lincoln, Memorial Reverse|Small Cent|1979||0|0
+
+Lincoln, Memorial Reverse|Small Cent|1980||0|0
+
+Lincoln, Memorial Reverse|Small Cent|1981||0|0
+
+Lincoln, Memorial Reverse|Small Cent|1982||0|0
+
+Lincoln, Memorial Reverse|Small Cent|1982|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|1983|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|1984|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|1985|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|1986|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|1987|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|1988|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|1989|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|1990|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|1991|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|1992|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|1993|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|1994|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|1995|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|1996|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|1997|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|1998|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|1999|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|2000|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|2001|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|2002|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|2003|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|2004|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|2005|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|2006|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|2007|Copper-Plated Zinc|0|0
+
+Lincoln, Memorial Reverse|Small Cent|2008|Copper-Plated Zinc|0|0
+
+Lincoln, Bicentennial|Small Cent|2009||0|0
+
+Lincoln, Shield Reverse|Small Cent|2010||0|0
+
+Lincoln, Shield Reverse|Small Cent|2011||0|0
+
+Lincoln, Shield Reverse|Small Cent|2012||0|0
+
+Two-Cent Piece|Two-Cent Piece|1864||0|0
+
+Two-Cent Piece|Two-Cent Piece|1865||0|0
+
+Two-Cent Piece|Two-Cent Piece|1866||0|0
+
+Two-Cent Piece|Two-Cent Piece|1867||0|0
+
+Two-Cent Piece|Two-Cent Piece|1868||0|0
+
+Two-Cent Piece|Two-Cent Piece|1869||0|0
+
+Two-Cent Piece|Two-Cent Piece|1870||0|0
+
+Two-Cent Piece|Two-Cent Piece|1871||0|0
+
+Two-Cent Piece|Two-Cent Piece|1872||0|0
+
+Two-Cent Piece|Two-Cent Piece|1873||0|0
+
+Silver - Trime|Three-Cent Piece|1851||0|1
+
+Silver - Trime|Three-Cent Piece|1852||0|1
+
+Silver - Trime|Three-Cent Piece|1853||0|1
+
+Silver - Trime|Three-Cent Piece|1854||0|1
+
+Silver - Trime|Three-Cent Piece|1855||0|1
+
+Silver - Trime|Three-Cent Piece|1856||0|1
+
+Silver - Trime|Three-Cent Piece|1857||0|1
+
+Silver - Trime|Three-Cent Piece|1858||0|1
+
+Silver - Trime|Three-Cent Piece|1859||0|1
+
+Silver - Trime|Three-Cent Piece|1860||0|1
+
+Silver - Trime|Three-Cent Piece|1861||0|1
+
+Silver - Trime|Three-Cent Piece|1862||0|1
+
+Silver - Trime|Three-Cent Piece|1863||0|1
+
+Silver - Trime|Three-Cent Piece|1864||0|1
+
+Silver - Trime|Three-Cent Piece|1865||0|1
+
+Silver - Trime|Three-Cent Piece|1866||0|1
+
+Silver - Trime|Three-Cent Piece|1867||0|1
+
+Silver - Trime|Three-Cent Piece|1868||0|1
+
+Silver - Trime|Three-Cent Piece|1869||0|1
+
+Silver - Trime|Three-Cent Piece|1870||0|1
+
+Silver - Trime|Three-Cent Piece|1871||0|1
+
+Silver - Trime|Three-Cent Piece|1872||0|1
+
+Silver - Trime|Three-Cent Piece|1873||0|1
+
+Nickel|Three-Cent Piece|1865||0|0
+
+Nickel|Three-Cent Piece|1866||0|0
+
+Nickel|Three-Cent Piece|1867||0|0
+
+Nickel|Three-Cent Piece|1868||0|0
+
+Nickel|Three-Cent Piece|1869||0|0
+
+Nickel|Three-Cent Piece|1870||0|0
+
+Nickel|Three-Cent Piece|1871||0|0
+
+Nickel|Three-Cent Piece|1872||0|0
+
+Nickel|Three-Cent Piece|1873||0|0
+
+Nickel|Three-Cent Piece|1874||0|0
+
+Nickel|Three-Cent Piece|1875||0|0
+
+Nickel|Three-Cent Piece|1876||0|0
+
+Nickel|Three-Cent Piece|1877||0|0
+
+Nickel|Three-Cent Piece|1878||0|0
+
+Nickel|Three-Cent Piece|1879||0|0
+
+Nickel|Three-Cent Piece|1880||0|0
+
+Nickel|Three-Cent Piece|1881||0|0
+
+Nickel|Three-Cent Piece|1882||0|0
+
+Nickel|Three-Cent Piece|1883||0|0
+
+Nickel|Three-Cent Piece|1884||0|0
+
+Nickel|Three-Cent Piece|1885||0|0
+
+Nickel|Three-Cent Piece|1886||0|0
+
+Nickel|Three-Cent Piece|1887||0|0
+
+Nickel|Three-Cent Piece|1888||0|0
+
+Nickel|Three-Cent Piece|1889||0|0
+
+Shield|Nickel|1866||0|0
+
+Shield|Nickel|1867||0|0
+
+Shield|Nickel|1868||0|0
+
+Shield|Nickel|1869||0|0
+
+Shield|Nickel|1870||0|0
+
+Shield|Nickel|1871||0|0
+
+Shield|Nickel|1872||0|0
+
+Shield|Nickel|1873||0|0
+
+Shield|Nickel|1874||0|0
+
+Shield|Nickel|1875||0|0
+
+Shield|Nickel|1876||0|0
+
+Shield|Nickel|1877||0|0
+
+Shield|Nickel|1878||0|0
+
+Shield|Nickel|1879||0|0
+
+Shield|Nickel|1880||0|0
+
+Shield|Nickel|1881||0|0
+
+Shield|Nickel|1882||0|0
+
+Shield|Nickel|1883||0|0
+
+Liberty Head|Nickel|1883||0|0
+
+Liberty Head|Nickel|1884||0|0
+
+Liberty Head|Nickel|1885||0|0
+
+Liberty Head|Nickel|1886||0|0
+
+Liberty Head|Nickel|1887||0|0
+
+Liberty Head|Nickel|1888||0|0
+
+Liberty Head|Nickel|1889||0|0
+
+Liberty Head|Nickel|1890||0|0
+
+Liberty Head|Nickel|1891||0|0
+
+Liberty Head|Nickel|1892||0|0
+
+Liberty Head|Nickel|1893||0|0
+
+Liberty Head|Nickel|1894||0|0
+
+Liberty Head|Nickel|1895||0|0
+
+Liberty Head|Nickel|1896||0|0
+
+Liberty Head|Nickel|1897||0|0
+
+Liberty Head|Nickel|1898||0|0
+
+Liberty Head|Nickel|1899||0|0
+
+Liberty Head|Nickel|1900||0|0
+
+Liberty Head|Nickel|1901||0|0
+
+Liberty Head|Nickel|1902||0|0
+
+Liberty Head|Nickel|1903||0|0
+
+Liberty Head|Nickel|1904||0|0
+
+Liberty Head|Nickel|1905||0|0
+
+Liberty Head|Nickel|1906||0|0
+
+Liberty Head|Nickel|1907||0|0
+
+Liberty Head|Nickel|1908||0|0
+
+Liberty Head|Nickel|1909||0|0
+
+Liberty Head|Nickel|1910||0|0
+
+Liberty Head|Nickel|1911||0|0
+
+Liberty Head|Nickel|1912||0|0
+
+Liberty Head|Nickel|1913||0|0
+
+Indian Head or Buffalo|Nickel|1913|Variety 1 - FIVE CENTS on Raised Ground|0|0
+
+Indian Head or Buffalo|Nickel|1913|Variety 2 - FIVE CENTS in Recess|0|0
+
+Indian Head or Buffalo|Nickel|1914|Variety 2 - FIVE CENTS in Recess|0|0
+
+Indian Head or Buffalo|Nickel|1915|Variety 2 - FIVE CENTS in Recess|0|0
+
+Indian Head or Buffalo|Nickel|1916|Variety 2 - FIVE CENTS in Recess|0|0
+
+Indian Head or Buffalo|Nickel|1917|Variety 2 - FIVE CENTS in Recess|0|0
+
+Indian Head or Buffalo|Nickel|1918|Variety 2 - FIVE CENTS in Recess|0|0
+
+Indian Head or Buffalo|Nickel|1919|Variety 2 - FIVE CENTS in Recess|0|0
+
+Indian Head or Buffalo|Nickel|1920|Variety 2 - FIVE CENTS in Recess|0|0
+
+Indian Head or Buffalo|Nickel|1921|Variety 2 - FIVE CENTS in Recess|0|0
+
+Indian Head or Buffalo|Nickel|1923|Variety 2 - FIVE CENTS in Recess|0|0
+
+Indian Head or Buffalo|Nickel|1924|Variety 2 - FIVE CENTS in Recess|0|0
+
+Indian Head or Buffalo|Nickel|1925|Variety 2 - FIVE CENTS in Recess|0|0
+
+Indian Head or Buffalo|Nickel|1926|Variety 2 - FIVE CENTS in Recess|0|0
+
+Indian Head or Buffalo|Nickel|1927|Variety 2 - FIVE CENTS in Recess|0|0
+
+Indian Head or Buffalo|Nickel|1928|Variety 2 - FIVE CENTS in Recess|0|0
+
+Indian Head or Buffalo|Nickel|1929|Variety 2 - FIVE CENTS in Recess|0|0
+
+Indian Head or Buffalo|Nickel|1930|Variety 2 - FIVE CENTS in Recess|0|0
+
+Indian Head or Buffalo|Nickel|1931|Variety 2 - FIVE CENTS in Recess|0|0
+
+Indian Head or Buffalo|Nickel|1934|Variety 2 - FIVE CENTS in Recess|0|0
+
+Indian Head or Buffalo|Nickel|1935|Variety 2 - FIVE CENTS in Recess|0|0
+
+Indian Head or Buffalo|Nickel|1936|Variety 2 - FIVE CENTS in Recess|0|0
+
+Indian Head or Buffalo|Nickel|1937|Variety 2 - FIVE CENTS in Recess|0|0
+
+Indian Head or Buffalo|Nickel|1938|Variety 2 - FIVE CENTS in Recess|0|0
+
+Jefferson|Nickel|1938||0|0
+
+Jefferson|Nickel|1939||0|0
+
+Jefferson|Nickel|1940||0|0
+
+Jefferson|Nickel|1941||0|0
+
+Jefferson|Nickel|1942||0|0
+
+Jefferson|Nickel|1942|Wartime Silver Alloy|0|1
+
+Jefferson|Nickel|1943|Wartime Silver Alloy|0|1
+
+Jefferson|Nickel|1944|Wartime Silver Alloy|0|1
+
+Jefferson|Nickel|1945|Wartime Silver Alloy|0|1
+
+Jefferson|Nickel|1946|Prewar Composition, Mintmark Style Resumed|0|0
+
+Jefferson|Nickel|1947|Prewar Composition, Mintmark Style Resumed|0|0
+
+Jefferson|Nickel|1948|Prewar Composition, Mintmark Style Resumed|0|0
+
+Jefferson|Nickel|1949|Prewar Composition, Mintmark Style Resumed|0|0
+
+Jefferson|Nickel|1950|Prewar Composition, Mintmark Style Resumed|0|0
+
+Jefferson|Nickel|1951|Prewar Composition, Mintmark Style Resumed|0|0
+
+Jefferson|Nickel|1952|Prewar Composition, Mintmark Style Resumed|0|0
+
+Jefferson|Nickel|1953|Prewar Composition, Mintmark Style Resumed|0|0
+
+Jefferson|Nickel|1954|Prewar Composition, Mintmark Style Resumed|0|0
+
+Jefferson|Nickel|1955|Prewar Composition, Mintmark Style Resumed|0|0
+
+Jefferson|Nickel|1956|Prewar Composition, Mintmark Style Resumed|0|0
+
+Jefferson|Nickel|1957|Prewar Composition, Mintmark Style Resumed|0|0
+
+Jefferson|Nickel|1958|Prewar Composition, Mintmark Style Resumed|0|0
+
+Jefferson|Nickel|1959|Prewar Composition, Mintmark Style Resumed|0|0
+
+Jefferson|Nickel|1960|Prewar Composition, Mintmark Style Resumed|0|0
+
+Jefferson|Nickel|1961|Prewar Composition, Mintmark Style Resumed|0|0
+
+Jefferson|Nickel|1962|Prewar Composition, Mintmark Style Resumed|0|0
+
+Jefferson|Nickel|1963|Prewar Composition, Mintmark Style Resumed|0|0
+
+Jefferson|Nickel|1964|Prewar Composition, Mintmark Style Resumed|0|0
+
+Jefferson|Nickel|1965|Prewar Composition, Mintmark Style Resumed|0|0
+
+Jefferson|Nickel|1966||0|0
+
+Jefferson|Nickel|1967||0|0
+
+Jefferson|Nickel|1968||0|0
+
+Jefferson|Nickel|1969||0|0
+
+Jefferson|Nickel|1970||0|0
+
+Jefferson|Nickel|1971||0|0
+
+Jefferson|Nickel|1972||0|0
+
+Jefferson|Nickel|1973||0|0
+
+Jefferson|Nickel|1974||0|0
+
+Jefferson|Nickel|1975||0|0
+
+Jefferson|Nickel|1976||0|0
+
+Jefferson|Nickel|1977||0|0
+
+Jefferson|Nickel|1978||0|0
+
+Jefferson|Nickel|1979||0|0
+
+Jefferson|Nickel|1980||0|0
+
+Jefferson|Nickel|1981||0|0
+
+Jefferson|Nickel|1982||0|0
+
+Jefferson|Nickel|1983||0|0
+
+Jefferson|Nickel|1984||0|0
+
+Jefferson|Nickel|1985||0|0
+
+Jefferson|Nickel|1986||0|0
+
+Jefferson|Nickel|1987||0|0
+
+Jefferson|Nickel|1988||0|0
+
+Jefferson|Nickel|1989||0|0
+
+Jefferson|Nickel|1990||0|0
+
+Jefferson|Nickel|1991||0|0
+
+Jefferson|Nickel|1992||0|0
+
+Jefferson|Nickel|1993||0|0
+
+Jefferson|Nickel|1994||0|0
+
+Jefferson|Nickel|1995||0|0
+
+Jefferson|Nickel|1996||0|0
+
+Jefferson|Nickel|1997||0|0
+
+Jefferson|Nickel|1998||0|0
+
+Jefferson|Nickel|1999||0|0
+
+Jefferson|Nickel|2000||0|0
+
+Jefferson|Nickel|2001||0|0
+
+Jefferson|Nickel|2002||0|0
+
+Jefferson|Nickel|2003||0|0
+
+Jefferson|Nickel|2004|Westward Journey Nickels|0|0
+
+Jefferson|Nickel|2005|Westward Journey Nickels|0|0
+
+Jefferson|Nickel|2006|Westward Journey Nickels|0|0
+
+Jefferson|Nickel|2007||0|0
+
+Jefferson|Nickel|2008||0|0
+
+Jefferson|Nickel|2009||0|0
+
+Jefferson|Nickel|2010||0|0
+
+Jefferson|Nickel|2011||0|0
+
+Jefferson|Nickel|2012||0|0
+
+Flowing Hair|Half Dime|1794||0|1
+
+Flowing Hair|Half Dime|1795||0|1
+
+Draped Bust|Half Dime|1796|Small Eagle Reverse|0|1
+
+Draped Bust|Half Dime|1797|Small Eagle Reverse|0|1
+
+Draped Bust|Half Dime|1800|Heraldic Eagle Reverse|0|1
+
+Draped Bust|Half Dime|1801|Heraldic Eagle Reverse|0|1
+
+Draped Bust|Half Dime|1802|Heraldic Eagle Reverse|0|1
+
+Draped Bust|Half Dime|1803|Heraldic Eagle Reverse|0|1
+
+Draped Bust|Half Dime|1805|Heraldic Eagle Reverse|0|1
+
+Capped Bust|Half Dime|1829||0|1
+
+Capped Bust|Half Dime|1830||0|1
+
+Capped Bust|Half Dime|1831||0|1
+
+Capped Bust|Half Dime|1832||0|1
+
+Capped Bust|Half Dime|1833||0|1
+
+Capped Bust|Half Dime|1834||0|1
+
+Capped Bust|Half Dime|1835||0|1
+
+Capped Bust|Half Dime|1836||0|1
+
+Capped Bust|Half Dime|1837||0|1
+
+Liberty Seated|Half Dime|1837|Variety 1 - No Stars on Obverse|0|1
+
+Liberty Seated|Half Dime|1838|Variety 1 - No Stars on Obverse|0|1
+
+Liberty Seated|Half Dime|1838|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Half Dime|1839|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Half Dime|1840|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Half Dime|1841|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Half Dime|1842|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Half Dime|1843|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Half Dime|1844|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Half Dime|1845|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Half Dime|1846|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Half Dime|1847|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Half Dime|1848|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Half Dime|1849|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Half Dime|1850|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Half Dime|1851|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Half Dime|1852|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Half Dime|1853|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Half Dime|1853|Variety 3 - Arrows at Date|0|1
+
+Liberty Seated|Half Dime|1854|Variety 3 - Arrows at Date|0|1
+
+Liberty Seated|Half Dime|1855|Variety 3 - Arrows at Date|0|1
+
+Liberty Seated|Half Dime|1856|Variety 2 Resumed, with Weight Standard of 1853|0|1
+
+Liberty Seated|Half Dime|1857|Variety 2 Resumed, with Weight Standard of 1853|0|1
+
+Liberty Seated|Half Dime|1858|Variety 2 Resumed, with Weight Standard of 1853|0|1
+
+Liberty Seated|Half Dime|1859|Variety 2 Resumed, with Weight Standard of 1853|0|1
+
+Liberty Seated|Half Dime|1860|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Half Dime|1861|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Half Dime|1862|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Half Dime|1863|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Half Dime|1864|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Half Dime|1865|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Half Dime|1866|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Half Dime|1867|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Half Dime|1868|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Half Dime|1869|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Half Dime|1870|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Half Dime|1871|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Half Dime|1872|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Half Dime|1873|Variety 4 - Legend on Obverse|0|1
+
+Draped Bust|Dime|1796|Small Eagle Reverse|0|1
+
+Draped Bust|Dime|1797|Small Eagle Reverse|0|1
+
+Draped Bust|Dime|1798|Heraldic Eagle Reverse|0|1
+
+Draped Bust|Dime|1800|Heraldic Eagle Reverse|0|1
+
+Draped Bust|Dime|1801|Heraldic Eagle Reverse|0|1
+
+Draped Bust|Dime|1802|Heraldic Eagle Reverse|0|1
+
+Draped Bust|Dime|1803|Heraldic Eagle Reverse|0|1
+
+Draped Bust|Dime|1804|Heraldic Eagle Reverse|0|1
+
+Draped Bust|Dime|1805|Heraldic Eagle Reverse|0|1
+
+Draped Bust|Dime|1807|Heraldic Eagle Reverse|0|1
+
+Capped Bust|Dime|1809|Variety 1 - Wide Border|0|1
+
+Capped Bust|Dime|1811|Variety 1 - Wide Border|0|1
+
+Capped Bust|Dime|1814|Variety 1 - Wide Border|0|1
+
+Capped Bust|Dime|1820|Variety 1 - Wide Border|0|1
+
+Capped Bust|Dime|1821|Variety 1 - Wide Border|0|1
+
+Capped Bust|Dime|1822|Variety 1 - Wide Border|0|1
+
+Capped Bust|Dime|1823|Variety 1 - Wide Border|0|1
+
+Capped Bust|Dime|1824|Variety 1 - Wide Border|0|1
+
+Capped Bust|Dime|1825|Variety 1 - Wide Border|0|1
+
+Capped Bust|Dime|1827|Variety 1 - Wide Border|0|1
+
+Capped Bust|Dime|1828|Variety 1 - Wide Border|0|1
+
+Capped Bust|Dime|1828|Variety 2 - Modified Design|0|1
+
+Capped Bust|Dime|1829|Variety 2 - Modified Design|0|1
+
+Capped Bust|Dime|1830|Variety 2 - Modified Design|0|1
+
+Capped Bust|Dime|1831|Variety 2 - Modified Design|0|1
+
+Capped Bust|Dime|1832|Variety 2 - Modified Design|0|1
+
+Capped Bust|Dime|1833|Variety 2 - Modified Design|0|1
+
+Capped Bust|Dime|1834|Variety 2 - Modified Design|0|1
+
+Capped Bust|Dime|1835|Variety 2 - Modified Design|0|1
+
+Capped Bust|Dime|1836|Variety 2 - Modified Design|0|1
+
+Capped Bust|Dime|1837|Variety 2 - Modified Design|0|1
+
+Liberty Seated|Dime|1837|Variety 1 - No Stars on Obverse|0|1
+
+Liberty Seated|Dime|1838|Variety 1 - No Stars on Obverse|0|1
+
+Liberty Seated|Dime|1838|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Dime|1839|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Dime|1840|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Dime|1841|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Dime|1842|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Dime|1843|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Dime|1844|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Dime|1845|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Dime|1846|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Dime|1847|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Dime|1848|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Dime|1849|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Dime|1850|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Dime|1851|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Dime|1852|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Dime|1853|Variety 2 - Stars on Obverse|0|1
+
+Liberty Seated|Dime|1853|Variety 3 - Arrows at Date|0|1
+
+Liberty Seated|Dime|1854|Variety 3 - Arrows at Date|0|1
+
+Liberty Seated|Dime|1855|Variety 3 - Arrows at Date|0|1
+
+Liberty Seated|Dime|1856|Variety 2 Resumed, With Weight Standard of Variety 3|0|1
+
+Liberty Seated|Dime|1857|Variety 2 Resumed, With Weight Standard of Variety 3|0|1
+
+Liberty Seated|Dime|1858|Variety 2 Resumed, With Weight Standard of Variety 3|0|1
+
+Liberty Seated|Dime|1859|Variety 2 Resumed, With Weight Standard of Variety 3|0|1
+
+Liberty Seated|Dime|1860|Variety 2 Resumed, With Weight Standard of Variety 3|0|1
+
+Liberty Seated|Dime|1860|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Dime|1861|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Dime|1862|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Dime|1863|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Dime|1864|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Dime|1865|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Dime|1866|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Dime|1867|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Dime|1868|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Dime|1869|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Dime|1870|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Dime|1871|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Dime|1872|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Dime|1873|Variety 4 - Legend on Obverse|0|1
+
+Liberty Seated|Dime|1873|Variety 5 - Arrows at Date|0|1
+
+Liberty Seated|Dime|1874|Variety 5 - Arrows at Date|0|1
+
+Liberty Seated|Dime|1875|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Dime|1876|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Dime|1877|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Dime|1878|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Dime|1879|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Dime|1880|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Dime|1881|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Dime|1882|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Dime|1883|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Dime|1884|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Dime|1885|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Dime|1886|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Dime|1887|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Dime|1888|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Dime|1889|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Dime|1890|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Dime|1891|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Barber or Liberty Head|Dime|1892||0|1
+
+Barber or Liberty Head|Dime|1893||0|1
+
+Barber or Liberty Head|Dime|1894||0|1
+
+Barber or Liberty Head|Dime|1895||0|1
+
+Barber or Liberty Head|Dime|1896||0|1
+
+Barber or Liberty Head|Dime|1897||0|1
+
+Barber or Liberty Head|Dime|1898||0|1
+
+Barber or Liberty Head|Dime|1899||0|1
+
+Barber or Liberty Head|Dime|1900||0|1
+
+Barber or Liberty Head|Dime|1901||0|1
+
+Barber or Liberty Head|Dime|1902||0|1
+
+Barber or Liberty Head|Dime|1903||0|1
+
+Barber or Liberty Head|Dime|1904||0|1
+
+Barber or Liberty Head|Dime|1905||0|1
+
+Barber or Liberty Head|Dime|1906||0|1
+
+Barber or Liberty Head|Dime|1907||0|1
+
+Barber or Liberty Head|Dime|1908||0|1
+
+Barber or Liberty Head|Dime|1909||0|1
+
+Barber or Liberty Head|Dime|1910||0|1
+
+Barber or Liberty Head|Dime|1911||0|1
+
+Barber or Liberty Head|Dime|1912||0|1
+
+Barber or Liberty Head|Dime|1913||0|1
+
+Barber or Liberty Head|Dime|1914||0|1
+
+Barber or Liberty Head|Dime|1915||0|1
+
+Barber or Liberty Head|Dime|1916||0|1
+
+Winged Liberty Head or Mercury|Dime|1916||0|1
+
+Winged Liberty Head or Mercury|Dime|1917||0|1
+
+Winged Liberty Head or Mercury|Dime|1918||0|1
+
+Winged Liberty Head or Mercury|Dime|1919||0|1
+
+Winged Liberty Head or Mercury|Dime|1920||0|1
+
+Winged Liberty Head or Mercury|Dime|1921||0|1
+
+Winged Liberty Head or Mercury|Dime|1923||0|1
+
+Winged Liberty Head or Mercury|Dime|1924||0|1
+
+Winged Liberty Head or Mercury|Dime|1925||0|1
+
+Winged Liberty Head or Mercury|Dime|1926||0|1
+
+Winged Liberty Head or Mercury|Dime|1927||0|1
+
+Winged Liberty Head or Mercury|Dime|1928||0|1
+
+Winged Liberty Head or Mercury|Dime|1929||0|1
+
+Winged Liberty Head or Mercury|Dime|1930||0|1
+
+Winged Liberty Head or Mercury|Dime|1931||0|1
+
+Winged Liberty Head or Mercury|Dime|1934||0|1
+
+Winged Liberty Head or Mercury|Dime|1935||0|1
+
+Winged Liberty Head or Mercury|Dime|1936||0|1
+
+Winged Liberty Head or Mercury|Dime|1937||0|1
+
+Winged Liberty Head or Mercury|Dime|1938||0|1
+
+Winged Liberty Head or Mercury|Dime|1939||0|1
+
+Winged Liberty Head or Mercury|Dime|1940||0|1
+
+Winged Liberty Head or Mercury|Dime|1941||0|1
+
+Winged Liberty Head or Mercury|Dime|1942||0|1
+
+Winged Liberty Head or Mercury|Dime|1943||0|1
+
+Winged Liberty Head or Mercury|Dime|1944||0|1
+
+Winged Liberty Head or Mercury|Dime|1945||0|1
+
+Roosevelt|Dime|1946|Silver Coinage|0|1
+
+Roosevelt|Dime|1947|Silver Coinage|0|1
+
+Roosevelt|Dime|1948|Silver Coinage|0|1
+
+Roosevelt|Dime|1949|Silver Coinage|0|1
+
+Roosevelt|Dime|1950|Silver Coinage|0|1
+
+Roosevelt|Dime|1951|Silver Coinage|0|1
+
+Roosevelt|Dime|1952|Silver Coinage|0|1
+
+Roosevelt|Dime|1953|Silver Coinage|0|1
+
+Roosevelt|Dime|1954|Silver Coinage|0|1
+
+Roosevelt|Dime|1955|Silver Coinage|0|1
+
+Roosevelt|Dime|1956|Silver Coinage|0|1
+
+Roosevelt|Dime|1957|Silver Coinage|0|1
+
+Roosevelt|Dime|1958|Silver Coinage|0|1
+
+Roosevelt|Dime|1959|Silver Coinage|0|1
+
+Roosevelt|Dime|1960|Silver Coinage|0|1
+
+Roosevelt|Dime|1961|Silver Coinage|0|1
+
+Roosevelt|Dime|1962|Silver Coinage|0|1
+
+Roosevelt|Dime|1963|Silver Coinage|0|1
+
+Roosevelt|Dime|1964|Silver Coinage|0|1
+
+Roosevelt|Dime|1965|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1966|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1967|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1968|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1969|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1970|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1971|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1972|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1973|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1974|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1975|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1976|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1977|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1978|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1979|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1980|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1981|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1982|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1983|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1984|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1985|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1986|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1987|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1988|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1989|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1990|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1991|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1992|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1993|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1994|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1995|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1996|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1997|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1998|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|1999|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|2000|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|2001|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|2002|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|2003|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|2004|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|2005|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|2006|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|2007|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|2008|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|2009|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|2010|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|2011|Clad Coinage and Silver Proofs|0|0
+
+Roosevelt|Dime|2012|Clad Coinage and Silver Proofs|0|0
+
+Liberty Seated|Twenty-Cent Piece|1875||0|1
+
+Liberty Seated|Twenty-Cent Piece|1876||0|1
+
+Liberty Seated|Twenty-Cent Piece|1877||0|1
+
+Liberty Seated|Twenty-Cent Piece|1878||0|1
+
+Draped Bust|Quarter|1796|Small Eagle Reverse|0|1
+
+Draped Bust|Quarter|1804|Heraldic Eagle Reverse|0|1
+
+Draped Bust|Quarter|1805|Heraldic Eagle Reverse|0|1
+
+Draped Bust|Quarter|1806|Heraldic Eagle Reverse|0|1
+
+Draped Bust|Quarter|1807|Heraldic Eagle Reverse|0|1
+
+Capped Bust|Quarter|1815|Variety 1 - Large Diameter|0|1
+
+Capped Bust|Quarter|1818|Variety 1 - Large Diameter|0|1
+
+Capped Bust|Quarter|1819|Variety 1 - Large Diameter|0|1
+
+Capped Bust|Quarter|1820|Variety 1 - Large Diameter|0|1
+
+Capped Bust|Quarter|1821|Variety 1 - Large Diameter|0|1
+
+Capped Bust|Quarter|1822|Variety 1 - Large Diameter|0|1
+
+Capped Bust|Quarter|1823|Variety 1 - Large Diameter|0|1
+
+Capped Bust|Quarter|1824|Variety 1 - Large Diameter|0|1
+
+Capped Bust|Quarter|1825|Variety 1 - Large Diameter|0|1
+
+Capped Bust|Quarter|1827|Variety 1 - Large Diameter|0|1
+
+Capped Bust|Quarter|1828|Variety 1 - Large Diameter|0|1
+
+Capped Bust|Quarter|1831|Variety 2 - Reduced Diameter - Motto Removed|0|1
+
+Capped Bust|Quarter|1832|Variety 2 - Reduced Diameter - Motto Removed|0|1
+
+Capped Bust|Quarter|1833|Variety 2 - Reduced Diameter - Motto Removed|0|1
+
+Capped Bust|Quarter|1834|Variety 2 - Reduced Diameter - Motto Removed|0|1
+
+Capped Bust|Quarter|1835|Variety 2 - Reduced Diameter - Motto Removed|0|1
+
+Capped Bust|Quarter|1836|Variety 2 - Reduced Diameter - Motto Removed|0|1
+
+Capped Bust|Quarter|1837|Variety 2 - Reduced Diameter - Motto Removed|0|1
+
+Capped Bust|Quarter|1838|Variety 2 - Reduced Diameter - Motto Removed|0|1
+
+Liberty Seated|Quarter|1838|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Quarter|1839|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Quarter|1840|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Quarter|1841|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Quarter|1842|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Quarter|1843|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Quarter|1844|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Quarter|1845|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Quarter|1846|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Quarter|1847|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Quarter|1848|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Quarter|1849|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Quarter|1850|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Quarter|1851|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Quarter|1852|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Quarter|1853|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Quarter|1853|Variety 2 - Arrows at Date, Rays Around Eagle|0|1
+
+Liberty Seated|Quarter|1854|Variety 3 - Arrows at Date, No Rays|0|1
+
+Liberty Seated|Quarter|1855|Variety 3 - Arrows at Date, No Rays|0|1
+
+Liberty Seated|Quarter|1856|Variety 1 Resumed, With Weight Standard of Variety 2|0|1
+
+Liberty Seated|Quarter|1857|Variety 1 Resumed, With Weight Standard of Variety 2|0|1
+
+Liberty Seated|Quarter|1858|Variety 1 Resumed, With Weight Standard of Variety 2|0|1
+
+Liberty Seated|Quarter|1859|Variety 1 Resumed, With Weight Standard of Variety 2|0|1
+
+Liberty Seated|Quarter|1860|Variety 1 Resumed, With Weight Standard of Variety 2|0|1
+
+Liberty Seated|Quarter|1861|Variety 1 Resumed, With Weight Standard of Variety 2|0|1
+
+Liberty Seated|Quarter|1862|Variety 1 Resumed, With Weight Standard of Variety 2|0|1
+
+Liberty Seated|Quarter|1863|Variety 1 Resumed, With Weight Standard of Variety 2|0|1
+
+Liberty Seated|Quarter|1864|Variety 1 Resumed, With Weight Standard of Variety 2|0|1
+
+Liberty Seated|Quarter|1865|Variety 1 Resumed, With Weight Standard of Variety 2|0|1
+
+Liberty Seated|Quarter|1866|Variety 4 - Motto Above Eagle|0|1
+
+Liberty Seated|Quarter|1867|Variety 4 - Motto Above Eagle|0|1
+
+Liberty Seated|Quarter|1868|Variety 4 - Motto Above Eagle|0|1
+
+Liberty Seated|Quarter|1869|Variety 4 - Motto Above Eagle|0|1
+
+Liberty Seated|Quarter|1870|Variety 4 - Motto Above Eagle|0|1
+
+Liberty Seated|Quarter|1871|Variety 4 - Motto Above Eagle|0|1
+
+Liberty Seated|Quarter|1872|Variety 4 - Motto Above Eagle|0|1
+
+Liberty Seated|Quarter|1873|Variety 4 - Motto Above Eagle|0|1
+
+Liberty Seated|Quarter|1873|Variety 5 - Arrows at Date|0|1
+
+Liberty Seated|Quarter|1874|Variety 5 - Arrows at Date|0|1
+
+Liberty Seated|Quarter|1875|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Quarter|1876|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Quarter|1877|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Quarter|1878|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Quarter|1879|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Quarter|1880|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Quarter|1881|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Quarter|1882|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Quarter|1883|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Quarter|1884|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Quarter|1885|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Quarter|1886|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Quarter|1887|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Quarter|1888|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Quarter|1889|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Quarter|1890|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Quarter|1891|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Barber or Liberty Head|Quarter|1892||0|1
+
+Barber or Liberty Head|Quarter|1893||0|1
+
+Barber or Liberty Head|Quarter|1894||0|1
+
+Barber or Liberty Head|Quarter|1895||0|1
+
+Barber or Liberty Head|Quarter|1896||0|1
+
+Barber or Liberty Head|Quarter|1897||0|1
+
+Barber or Liberty Head|Quarter|1898||0|1
+
+Barber or Liberty Head|Quarter|1899||0|1
+
+Barber or Liberty Head|Quarter|1900||0|1
+
+Barber or Liberty Head|Quarter|1901||0|1
+
+Barber or Liberty Head|Quarter|1902||0|1
+
+Barber or Liberty Head|Quarter|1903||0|1
+
+Barber or Liberty Head|Quarter|1904||0|1
+
+Barber or Liberty Head|Quarter|1905||0|1
+
+Barber or Liberty Head|Quarter|1906||0|1
+
+Barber or Liberty Head|Quarter|1907||0|1
+
+Barber or Liberty Head|Quarter|1908||0|1
+
+Barber or Liberty Head|Quarter|1909||0|1
+
+Barber or Liberty Head|Quarter|1910||0|1
+
+Barber or Liberty Head|Quarter|1911||0|1
+
+Barber or Liberty Head|Quarter|1912||0|1
+
+Barber or Liberty Head|Quarter|1913||0|1
+
+Barber or Liberty Head|Quarter|1914||0|1
+
+Barber or Liberty Head|Quarter|1915||0|1
+
+Barber or Liberty Head|Quarter|1916||0|1
+
+Standing Liberty|Quarter|1916|Variety 1 - No Stars Below Eagle|0|1
+
+Standing Liberty|Quarter|1917|Variety 1 - No Stars Below Eagle|0|1
+
+Standing Liberty|Quarter|1917|Variety 2 - Stars Below Eagle - Pedestal Date|0|1
+
+Standing Liberty|Quarter|1918|Variety 2 - Stars Below Eagle - Pedestal Date|0|1
+
+Standing Liberty|Quarter|1919|Variety 2 - Stars Below Eagle - Pedestal Date|0|1
+
+Standing Liberty|Quarter|1920|Variety 2 - Stars Below Eagle - Pedestal Date|0|1
+
+Standing Liberty|Quarter|1921|Variety 2 - Stars Below Eagle - Pedestal Date|0|1
+
+Standing Liberty|Quarter|1922|Variety 2 - Stars Below Eagle - Pedestal Date|0|1
+
+Standing Liberty|Quarter|1923|Variety 2 - Stars Below Eagle - Pedestal Date|0|1
+
+Standing Liberty|Quarter|1924|Variety 2 - Stars Below Eagle - Pedestal Date|0|1
+
+Standing Liberty|Quarter|1925|Variety 2 - Stars Below Eagle - Recessed Date|0|1
+
+Standing Liberty|Quarter|1926|Variety 2 - Stars Below Eagle - Recessed Date|0|1
+
+Standing Liberty|Quarter|1927|Variety 2 - Stars Below Eagle - Recessed Date|0|1
+
+Standing Liberty|Quarter|1928|Variety 2 - Stars Below Eagle - Recessed Date|0|1
+
+Standing Liberty|Quarter|1929|Variety 2 - Stars Below Eagle - Recessed Date|0|1
+
+Standing Liberty|Quarter|1930|Variety 2 - Stars Below Eagle - Recessed Date|0|1
+
+Washington|Quarter|1932|Silver Coinage|0|1
+
+Washington|Quarter|1933|Silver Coinage|0|1
+
+Washington|Quarter|1934|Silver Coinage|0|1
+
+Washington|Quarter|1935|Silver Coinage|0|1
+
+Washington|Quarter|1936|Silver Coinage|0|1
+
+Washington|Quarter|1937|Silver Coinage|0|1
+
+Washington|Quarter|1938|Silver Coinage|0|1
+
+Washington|Quarter|1939|Silver Coinage|0|1
+
+Washington|Quarter|1940|Silver Coinage|0|1
+
+Washington|Quarter|1941|Silver Coinage|0|1
+
+Washington|Quarter|1942|Silver Coinage|0|1
+
+Washington|Quarter|1943|Silver Coinage|0|1
+
+Washington|Quarter|1944|Silver Coinage|0|1
+
+Washington|Quarter|1945|Silver Coinage|0|1
+
+Washington|Quarter|1946|Silver Coinage|0|1
+
+Washington|Quarter|1947|Silver Coinage|0|1
+
+Washington|Quarter|1948|Silver Coinage|0|1
+
+Washington|Quarter|1949|Silver Coinage|0|1
+
+Washington|Quarter|1950|Silver Coinage|0|1
+
+Washington|Quarter|1951|Silver Coinage|0|1
+
+Washington|Quarter|1952|Silver Coinage|0|1
+
+Washington|Quarter|1953|Silver Coinage|0|1
+
+Washington|Quarter|1954|Silver Coinage|0|1
+
+Washington|Quarter|1955|Silver Coinage|0|1
+
+Washington|Quarter|1956|Silver Coinage|0|1
+
+Washington|Quarter|1957|Silver Coinage|0|1
+
+Washington|Quarter|1958|Silver Coinage|0|1
+
+Washington|Quarter|1959|Silver Coinage|0|1
+
+Washington|Quarter|1960|Silver Coinage|0|1
+
+Washington|Quarter|1961|Silver Coinage|0|1
+
+Washington|Quarter|1962|Silver Coinage|0|1
+
+Washington|Quarter|1963|Silver Coinage|0|1
+
+Washington|Quarter|1964|Silver Coinage|0|1
+
+Washington|Quarter|1965|Clad Coinage and Silver Proofs|0|0
+
+Washington|Quarter|1966|Clad Coinage and Silver Proofs|0|0
+
+Washington|Quarter|1967|Clad Coinage and Silver Proofs|0|0
+
+Washington|Quarter|1968|Clad Coinage and Silver Proofs|0|0
+
+Washington|Quarter|1969|Clad Coinage and Silver Proofs|0|0
+
+Washington|Quarter|1970|Clad Coinage and Silver Proofs|0|0
+
+Washington|Quarter|1971|Clad Coinage and Silver Proofs|0|0
+
+Washington|Quarter|1972|Clad Coinage and Silver Proofs|0|0
+
+Washington|Quarter|1973|Clad Coinage and Silver Proofs|0|0
+
+Washington|Quarter|1974|Clad Coinage and Silver Proofs|0|0
+
+Washington|Quarter|1976|Bicentennial|0|0
+
+Washington|Quarter|1977|Eagle Reverse Resumed|0|0
+
+Washington|Quarter|1978|Eagle Reverse Resumed|0|0
+
+Washington|Quarter|1979|Eagle Reverse Resumed|0|0
+
+Washington|Quarter|1980|Eagle Reverse Resumed|0|0
+
+Washington|Quarter|1981|Eagle Reverse Resumed|0|0
+
+Washington|Quarter|1982|Eagle Reverse Resumed|0|0
+
+Washington|Quarter|1983|Eagle Reverse Resumed|0|0
+
+Washington|Quarter|1984|Eagle Reverse Resumed|0|0
+
+Washington|Quarter|1985|Eagle Reverse Resumed|0|0
+
+Washington|Quarter|1986|Eagle Reverse Resumed|0|0
+
+Washington|Quarter|1987|Eagle Reverse Resumed|0|0
+
+Washington|Quarter|1988|Eagle Reverse Resumed|0|0
+
+Washington|Quarter|1989|Eagle Reverse Resumed|0|0
+
+Washington|Quarter|1990|Eagle Reverse Resumed|0|0
+
+Washington|Quarter|1991|Eagle Reverse Resumed|0|0
+
+Washington|Quarter|1992|Eagle Reverse Resumed|0|0
+
+Washington|Quarter|1993|Eagle Reverse Resumed|0|0
+
+Washington|Quarter|1994|Eagle Reverse Resumed|0|0
+
+Washington|Quarter|1995|Eagle Reverse Resumed|0|0
+
+Washington|Quarter|1996|Eagle Reverse Resumed|0|0
+
+Washington|Quarter|1997|Eagle Reverse Resumed|0|0
+
+Washington|Quarter|1998|Eagle Reverse Resumed|0|0
+
+Washington|Quarter|1999|State Quarters|0|0
+
+Washington|Quarter|2000|State Quarters|0|0
+
+Washington|Quarter|2001|State Quarters|0|0
+
+Washington|Quarter|2002|State Quarters|0|0
+
+Washington|Quarter|2003|State Quarters|0|0
+
+Washington|Quarter|2004|State Quarters|0|0
+
+Washington|Quarter|2005|State Quarters|0|0
+
+Washington|Quarter|2006|State Quarters|0|0
+
+Washington|Quarter|2007|State Quarters|0|0
+
+Washington|Quarter|2008|State Quarters|0|0
+
+Washington|Quarter|2009|District of Columbia and US Territories Quarters|0|0
+
+Washington|Quarter|2010|America the Beautiful Quarters Program|0|0
+
+Washington|Quarter|2011|America the Beautiful Quarters Program|0|0
+
+Washington|Quarter|2012|America the Beautiful Quarters Program|0|0
+
+Flowing Hair|Half Dollar|1794||0|1
+
+Flowing Hair|Half Dollar|1795||0|1
+
+Draped Bust|Half Dollar|1796|Small Eagle Reverse|0|1
+
+Draped Bust|Half Dollar|1797|Small Eagle Reverse|0|1
+
+Draped Bust|Half Dollar|1801|Heraldic Eagle Reverse|0|1
+
+Draped Bust|Half Dollar|1802|Heraldic Eagle Reverse|0|1
+
+Draped Bust|Half Dollar|1803|Heraldic Eagle Reverse|0|1
+
+Draped Bust|Half Dollar|1805|Heraldic Eagle Reverse|0|1
+
+Draped Bust|Half Dollar|1806|Heraldic Eagle Reverse|0|1
+
+Draped Bust|Half Dollar|1807|Heraldic Eagle Reverse|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1807|First Style|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1808|First Style|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1809|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1810|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1811|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1812|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1813|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1814|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1815|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1817|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1818|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1819|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1820|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1821|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1822|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1823|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1824|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1825|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1826|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1827|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1828|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1829|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1830|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1831|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1832|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1833|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1834|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1835|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Lettered Edge|Half Dollar|1836|Remodeled Portrait and Eagle|0|1
+
+Capped Bust, Reeded Edge|Half Dollar|1836|Reverse 50 CENTS|0|1
+
+Capped Bust, Reeded Edge|Half Dollar|1837|Reverse 50 CENTS|0|1
+
+Capped Bust, Reeded Edge|Half Dollar|1838|Reverse HALF DOL.|0|1
+
+Capped Bust, Reeded Edge|Half Dollar|1839|Reverse HALF DOL.|0|1
+
+Liberty Seated|Half Dollar|1839|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Half Dollar|1840|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Half Dollar|1841|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Half Dollar|1842|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Half Dollar|1843|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Half Dollar|1844|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Half Dollar|1845|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Half Dollar|1846|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Half Dollar|1847|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Half Dollar|1848|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Half Dollar|1849|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Half Dollar|1850|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Half Dollar|1851|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Half Dollar|1852|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Half Dollar|1853|Variety 1 - No Motto Above Eagle|0|1
+
+Liberty Seated|Half Dollar|1853|Variety 2 - Arrows at Date, Rays Around Eagle|0|1
+
+Liberty Seated|Half Dollar|1854|Variety 3 - Arrows at Date, No Rays|0|1
+
+Liberty Seated|Half Dollar|1855|Variety 3 - Arrows at Date, No Rays|0|1
+
+Liberty Seated|Half Dollar|1856|Variety 1 Resumed, With Weight Standard of Variety 2|0|1
+
+Liberty Seated|Half Dollar|1857|Variety 1 Resumed, With Weight Standard of Variety 2|0|1
+
+Liberty Seated|Half Dollar|1858|Variety 1 Resumed, With Weight Standard of Variety 2|0|1
+
+Liberty Seated|Half Dollar|1859|Variety 1 Resumed, With Weight Standard of Variety 2|0|1
+
+Liberty Seated|Half Dollar|1860|Variety 1 Resumed, With Weight Standard of Variety 2|0|1
+
+Liberty Seated|Half Dollar|1861|Variety 1 Resumed, With Weight Standard of Variety 2|0|1
+
+Liberty Seated|Half Dollar|1862|Variety 1 Resumed, With Weight Standard of Variety 2|0|1
+
+Liberty Seated|Half Dollar|1863|Variety 1 Resumed, With Weight Standard of Variety 2|0|1
+
+Liberty Seated|Half Dollar|1864|Variety 1 Resumed, With Weight Standard of Variety 2|0|1
+
+Liberty Seated|Half Dollar|1865|Variety 1 Resumed, With Weight Standard of Variety 2|0|1
+
+Liberty Seated|Half Dollar|1866|Variety 1 Resumed, With Weight Standard of Variety 2|0|1
+
+Liberty Seated|Half Dollar|1866|Variety 4 - Motto Above Eagle|0|1
+
+Liberty Seated|Half Dollar|1867|Variety 4 - Motto Above Eagle|0|1
+
+Liberty Seated|Half Dollar|1867|Variety 4 - Motto Above Eagle|0|1
+
+Liberty Seated|Half Dollar|1868|Variety 4 - Motto Above Eagle|0|1
+
+Liberty Seated|Half Dollar|1869|Variety 4 - Motto Above Eagle|0|1
+
+Liberty Seated|Half Dollar|1870|Variety 4 - Motto Above Eagle|0|1
+
+Liberty Seated|Half Dollar|1871|Variety 4 - Motto Above Eagle|0|1
+
+Liberty Seated|Half Dollar|1872|Variety 4 - Motto Above Eagle|0|1
+
+Liberty Seated|Half Dollar|1873|Variety 4 - Motto Above Eagle|0|1
+
+Liberty Seated|Half Dollar|1873|Variety 5 - Arrows at Date|0|1
+
+Liberty Seated|Half Dollar|1874|Variety 5 - Arrows at Date|0|1
+
+Liberty Seated|Half Dollar|1875|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Half Dollar|1876|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Half Dollar|1877|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Half Dollar|1878|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Half Dollar|1879|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Half Dollar|1880|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Half Dollar|1881|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Half Dollar|1882|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Half Dollar|1883|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Half Dollar|1884|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Half Dollar|1885|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Half Dollar|1886|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Half Dollar|1887|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Half Dollar|1888|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Half Dollar|1889|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Half Dollar|1890|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Liberty Seated|Half Dollar|1891|Variety 4 Resumed, With Weight Standard of Variety 5|0|1
+
+Barber or Liberty Head|Half Dollar|1892||0|1
+
+Barber or Liberty Head|Half Dollar|1893||0|1
+
+Barber or Liberty Head|Half Dollar|1894||0|1
+
+Barber or Liberty Head|Half Dollar|1895||0|1
+
+Barber or Liberty Head|Half Dollar|1896||0|1
+
+Barber or Liberty Head|Half Dollar|1897||0|1
+
+Barber or Liberty Head|Half Dollar|1898||0|1
+
+Barber or Liberty Head|Half Dollar|1899||0|1
+
+Barber or Liberty Head|Half Dollar|1900||0|1
+
+Barber or Liberty Head|Half Dollar|1901||0|1
+
+Barber or Liberty Head|Half Dollar|1902||0|1
+
+Barber or Liberty Head|Half Dollar|1903||0|1
+
+Barber or Liberty Head|Half Dollar|1904||0|1
+
+Barber or Liberty Head|Half Dollar|1905||0|1
+
+Barber or Liberty Head|Half Dollar|1906||0|1
+
+Barber or Liberty Head|Half Dollar|1907||0|1
+
+Barber or Liberty Head|Half Dollar|1908||0|1
+
+Barber or Liberty Head|Half Dollar|1909||0|1
+
+Barber or Liberty Head|Half Dollar|1910||0|1
+
+Barber or Liberty Head|Half Dollar|1911||0|1
+
+Barber or Liberty Head|Half Dollar|1912||0|1
+
+Barber or Liberty Head|Half Dollar|1913||0|1
+
+Barber or Liberty Head|Half Dollar|1914||0|1
+
+Barber or Liberty Head|Half Dollar|1915||0|1
+
+Liberty Walking|Half Dollar|1916||0|1
+
+Liberty Walking|Half Dollar|1917||0|1
+
+Liberty Walking|Half Dollar|1918||0|1
+
+Liberty Walking|Half Dollar|1919||0|1
+
+Liberty Walking|Half Dollar|1920||0|1
+
+Liberty Walking|Half Dollar|1921||0|1
+
+Liberty Walking|Half Dollar|1923||0|1
+
+Liberty Walking|Half Dollar|1927||0|1
+
+Liberty Walking|Half Dollar|1928||0|1
+
+Liberty Walking|Half Dollar|1929||0|1
+
+Liberty Walking|Half Dollar|1933||0|1
+
+Liberty Walking|Half Dollar|1934||0|1
+
+Liberty Walking|Half Dollar|1935||0|1
+
+Liberty Walking|Half Dollar|1936||0|1
+
+Liberty Walking|Half Dollar|1937||0|1
+
+Liberty Walking|Half Dollar|1938||0|1
+
+Liberty Walking|Half Dollar|1939||0|1
+
+Liberty Walking|Half Dollar|1940||0|1
+
+Liberty Walking|Half Dollar|1941||0|1
+
+Liberty Walking|Half Dollar|1942||0|1
+
+Liberty Walking|Half Dollar|1943||0|1
+
+Liberty Walking|Half Dollar|1944||0|1
+
+Liberty Walking|Half Dollar|1945||0|1
+
+Liberty Walking|Half Dollar|1946||0|1
+
+Liberty Walking|Half Dollar|1947||0|1
+
+Franklin|Half Dollar|1948||0|1
+
+Franklin|Half Dollar|1949||0|1
+
+Franklin|Half Dollar|1950||0|1
+
+Franklin|Half Dollar|1951||0|1
+
+Franklin|Half Dollar|1952||0|1
+
+Franklin|Half Dollar|1953||0|1
+
+Franklin|Half Dollar|1954||0|1
+
+Franklin|Half Dollar|1955||0|1
+
+Franklin|Half Dollar|1956||0|1
+
+Franklin|Half Dollar|1957||0|1
+
+Franklin|Half Dollar|1958||0|1
+
+Franklin|Half Dollar|1959||0|1
+
+Franklin|Half Dollar|1960||0|1
+
+Franklin|Half Dollar|1961||0|1
+
+Franklin|Half Dollar|1962||0|1
+
+Franklin|Half Dollar|1963||0|1
+
+Kennedy|Half Dollar|1964|Silver Coinage|0|1
+
+Kennedy|Half Dollar|1965|Silver Clad Coinage|0|1
+
+Kennedy|Half Dollar|1966|Silver Clad Coinage|0|1
+
+Kennedy|Half Dollar|1967|Silver Clad Coinage|0|1
+
+Kennedy|Half Dollar|1968|Silver Clad Coinage|0|1
+
+Kennedy|Half Dollar|1969|Silver Clad Coinage|0|1
+
+Kennedy|Half Dollar|1970|Silver Clad Coinage|0|1
+
+Kennedy|Half Dollar|1971|Clad Coinage and Silver Proofs|0|0
+
+Kennedy|Half Dollar|1972|Clad Coinage and Silver Proofs|0|0
+
+Kennedy|Half Dollar|1973|Clad Coinage and Silver Proofs|0|0
+
+Kennedy|Half Dollar|1974|Clad Coinage and Silver Proofs|0|0
+
+Kennedy|Half Dollar|1976|Bicentennial|0|0
+
+Kennedy|Half Dollar|1977|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|1978|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|1979|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|1980|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|1981|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|1982|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|1983|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|1984|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|1985|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|1986|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|1987|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|1988|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|1989|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|1990|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|1991|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|1992|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|1992|Eagle Reverse Resumed, Silver|0|1
+
+Kennedy|Half Dollar|1993|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|1993|Eagle Reverse Resumed, Silver|0|1
+
+Kennedy|Half Dollar|1994|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|1994|Eagle Reverse Resumed, Silver|0|1
+
+Kennedy|Half Dollar|1995|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|1995|Eagle Reverse Resumed, Silver|0|1
+
+Kennedy|Half Dollar|1996|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|1996|Eagle Reverse Resumed, Silver|0|1
+
+Kennedy|Half Dollar|1997|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|1997|Eagle Reverse Resumed, Silver|0|1
+
+Kennedy|Half Dollar|1998|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|1998|Eagle Reverse Resumed, Silver|0|1
+
+Kennedy|Half Dollar|1998|Eagle Reverse Resumed, Silver, Matte Finish|0|1
+
+Kennedy|Half Dollar|1999|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|1999|Eagle Reverse Resumed, Silver|0|1
+
+Kennedy|Half Dollar|2000|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|2000|Eagle Reverse Resumed, Silver|0|1
+
+Kennedy|Half Dollar|2001|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|2001|Eagle Reverse Resumed, Silver|0|1
+
+Kennedy|Half Dollar|2002|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|2002|Eagle Reverse Resumed, Silver|0|1
+
+Kennedy|Half Dollar|2003|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|2003|Eagle Reverse Resumed, Silver|0|1
+
+Kennedy|Half Dollar|2004|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|2004|Eagle Reverse Resumed, Silver|0|1
+
+Kennedy|Half Dollar|2005|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|2005|Eagle Reverse Resumed, Silver|0|1
+
+Kennedy|Half Dollar|2006|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|2006|Eagle Reverse Resumed, Silver|0|1
+
+Kennedy|Half Dollar|2007|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|2007|Eagle Reverse Resumed, Silver|0|1
+
+Kennedy|Half Dollar|2008|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|2008|Eagle Reverse Resumed, Silver|0|1
+
+Kennedy|Half Dollar|2009|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|2009|Eagle Reverse Resumed, Silver|0|1
+
+Kennedy|Half Dollar|2010|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|2010|Eagle Reverse Resumed, Silver|0|1
+
+Kennedy|Half Dollar|2011|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|2011|Eagle Reverse Resumed, Silver|0|1
+
+Kennedy|Half Dollar|2012|Eagle Reverse Resumed|0|0
+
+Kennedy|Half Dollar|2012|Eagle Reverse Resumed, Silver|0|1
+
+Flowing Hair|Silver and Related Dollar|1794||0|1
+
+Flowing Hair|Silver and Related Dollar|1795||0|1
+
+Draped Bust|Silver and Related Dollar|1795|Small Eagle Reverse|0|1
+
+Draped Bust|Silver and Related Dollar|1796|Small Eagle Reverse|0|1
+
+Draped Bust|Silver and Related Dollar|1797|Small Eagle Reverse|0|1
+
+Draped Bust|Silver and Related Dollar|1798|Small Eagle Reverse|0|1
+
+Draped Bust|Silver and Related Dollar|1798|Heraldic Eagle Reverse|0|1
+
+Draped Bust|Silver and Related Dollar|1799|Heraldic Eagle Reverse|0|1
+
+Draped Bust|Silver and Related Dollar|1800|Heraldic Eagle Reverse|0|1
+
+Draped Bust|Silver and Related Dollar|1801|Heraldic Eagle Reverse|0|1
+
+Draped Bust|Silver and Related Dollar|1802|Heraldic Eagle Reverse|0|1
+
+Draped Bust|Silver and Related Dollar|1803|Heraldic Eagle Reverse|0|1
+
+Draped Bust|Silver and Related Dollar|1804|Heraldic Eagle Reverse|0|1
+
+Gobrecht|Silver and Related Dollar|1836|C. GOBRECHT F. on base. Reverse eagle flying upward amid stars. Plain edge. Although scarce, this is the most common variety and was issued for circulation as regular coinage.|0|1
+
+Gobrecht|Silver and Related Dollar|1838|Similar obverse, designer's name omitted, stars added around border. Reverse eagle flying left in plain field. Reeded edge.|0|1
+
+Gobrecht|Silver and Related Dollar|1839|Obverse as above. Reverse eagle in plain field. Reeded edge. Issued for circulation as regular coinage.|0|1
+
+Liberty Seated|Silver and Related Dollar|1840|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1841|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1842|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1843|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1844|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1845|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1846|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1847|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1848|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1849|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1850|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1851|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1852|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1853|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1854|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1855|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1856|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1857|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1858|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1859|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1860|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1861|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1862|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1863|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1864|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1865|Variety 1 - No Motto|0|1
+
+Liberty Seated|Silver and Related Dollar|1866|Variety 2 - With Motto IN GOD WE TRUST|0|1
+
+Liberty Seated|Silver and Related Dollar|1867|Variety 2 - With Motto IN GOD WE TRUST|0|1
+
+Liberty Seated|Silver and Related Dollar|1868|Variety 2 - With Motto IN GOD WE TRUST|0|1
+
+Liberty Seated|Silver and Related Dollar|1869|Variety 2 - With Motto IN GOD WE TRUST|0|1
+
+Liberty Seated|Silver and Related Dollar|1870|Variety 2 - With Motto IN GOD WE TRUST|0|1
+
+Liberty Seated|Silver and Related Dollar|1871|Variety 2 - With Motto IN GOD WE TRUST|0|1
+
+Liberty Seated|Silver and Related Dollar|1872|Variety 2 - With Motto IN GOD WE TRUST|0|1
+
+Liberty Seated|Silver and Related Dollar|1873|Variety 2 - With Motto IN GOD WE TRUST|0|1
+
+Trade Dollars|Silver and Related Dollar|1873||0|1
+
+Trade Dollars|Silver and Related Dollar|1874||0|1
+
+Trade Dollars|Silver and Related Dollar|1875||0|1
+
+Trade Dollars|Silver and Related Dollar|1876||0|1
+
+Trade Dollars|Silver and Related Dollar|1877||0|1
+
+Trade Dollars|Silver and Related Dollar|1878||0|1
+
+Trade Dollars|Silver and Related Dollar|1879||0|1
+
+Trade Dollars|Silver and Related Dollar|1880||0|1
+
+Trade Dollars|Silver and Related Dollar|1881||0|1
+
+Trade Dollars|Silver and Related Dollar|1882||0|1
+
+Trade Dollars|Silver and Related Dollar|1883||0|1
+
+Trade Dollars|Silver and Related Dollar|1884||0|1
+
+Trade Dollars|Silver and Related Dollar|1885||0|1
+
+Morgan|Silver and Related Dollar|1878||0|1
+
+Morgan|Silver and Related Dollar|1879||0|1
+
+Morgan|Silver and Related Dollar|1880||0|1
+
+Morgan|Silver and Related Dollar|1881||0|1
+
+Morgan|Silver and Related Dollar|1882||0|1
+
+Morgan|Silver and Related Dollar|1883||0|1
+
+Morgan|Silver and Related Dollar|1884||0|1
+
+Morgan|Silver and Related Dollar|1885||0|1
+
+Morgan|Silver and Related Dollar|1886||0|1
+
+Morgan|Silver and Related Dollar|1887||0|1
+
+Morgan|Silver and Related Dollar|1888||0|1
+
+Morgan|Silver and Related Dollar|1889||0|1
+
+Morgan|Silver and Related Dollar|1890||0|1
+
+Morgan|Silver and Related Dollar|1891||0|1
+
+Morgan|Silver and Related Dollar|1892||0|1
+
+Morgan|Silver and Related Dollar|1893||0|1
+
+Morgan|Silver and Related Dollar|1894||0|1
+
+Morgan|Silver and Related Dollar|1895||0|1
+
+Morgan|Silver and Related Dollar|1896||0|1
+
+Morgan|Silver and Related Dollar|1897||0|1
+
+Morgan|Silver and Related Dollar|1898||0|1
+
+Morgan|Silver and Related Dollar|1899||0|1
+
+Morgan|Silver and Related Dollar|1900||0|1
+
+Morgan|Silver and Related Dollar|1901||0|1
+
+Morgan|Silver and Related Dollar|1902||0|1
+
+Morgan|Silver and Related Dollar|1903||0|1
+
+Morgan|Silver and Related Dollar|1904||0|1
+
+Morgan|Silver and Related Dollar|1921||0|1
+
+Peace|Silver and Related Dollar|1921||0|1
+
+Peace|Silver and Related Dollar|1922||0|1
+
+Peace|Silver and Related Dollar|1923||0|1
+
+Peace|Silver and Related Dollar|1924||0|1
+
+Peace|Silver and Related Dollar|1925||0|1
+
+Peace|Silver and Related Dollar|1926||0|1
+
+Peace|Silver and Related Dollar|1927||0|1
+
+Peace|Silver and Related Dollar|1928||0|1
+
+Peace|Silver and Related Dollar|1934||0|1
+
+Peace|Silver and Related Dollar|1935||0|1
+
+Eisenhower|Silver and Related Dollar|1971|Eagle Reverse|0|0
+
+Eisenhower|Silver and Related Dollar|1972|Eagle Reverse|0|0
+
+Eisenhower|Silver and Related Dollar|1973|Eagle Reverse|0|0
+
+Eisenhower|Silver and Related Dollar|1974|Eagle Reverse|0|0
+
+Eisenhower|Silver and Related Dollar|1976|Bicentennial|0|0
+
+Eisenhower|Silver and Related Dollar|1977|Eagle Reverse Resumed|0|0
+
+Eisenhower|Silver and Related Dollar|1978|Eagle Reverse Resumed|0|0
+
+Susan B. Anthony|Silver and Related Dollar|1979||0|0
+
+Susan B. Anthony|Silver and Related Dollar|1980||0|0
+
+Susan B. Anthony|Silver and Related Dollar|1981||0|0
+
+Susan B. Anthony|Silver and Related Dollar|1999||0|0
+
+Sacagawea|Silver and Related Dollar|2000||0|0
+
+Sacagawea|Silver and Related Dollar|2001||0|0
+
+Sacagawea|Silver and Related Dollar|2002||0|0
+
+Sacagawea|Silver and Related Dollar|2003||0|0
+
+Sacagawea|Silver and Related Dollar|2004||0|0
+
+Sacagawea|Silver and Related Dollar|2005||0|0
+
+Sacagawea|Silver and Related Dollar|2006||0|0
+
+Sacagawea|Silver and Related Dollar|2007||0|0
+
+Sacagawea|Silver and Related Dollar|2008||0|0
+
+Sacagawea|Silver and Related Dollar|2009|Native American Series|0|0
+
+Sacagawea|Silver and Related Dollar|2010|Native American Series|0|0
+
+Sacagawea|Silver and Related Dollar|2011|Native American Series|0|0
+
+Sacagawea|Silver and Related Dollar|2012|Native American Series|0|0
+
+Presidential|Silver and Related Dollar|2007||0|0
+
+Presidential|Silver and Related Dollar|2008||0|0
+
+Presidential|Silver and Related Dollar|2009||0|0
+
+Presidential|Silver and Related Dollar|2010||0|0
+
+Presidential|Silver and Related Dollar|2011||0|0
+
+Presidential|Silver and Related Dollar|2012||0|0
+
+Liberty Head|Gold Dollar|1849||1|0
+
+Liberty Head|Gold Dollar|1850||1|0
+
+Liberty Head|Gold Dollar|1851||1|0
+
+Liberty Head|Gold Dollar|1852||1|0
+
+Liberty Head|Gold Dollar|1853||1|0
+
+Liberty Head|Gold Dollar|1854||1|0
+
+Indian Princess Head, Small Head|Gold Dollar|1854||1|0
+
+Indian Princess Head, Small Head|Gold Dollar|1855||1|0
+
+Indian Princess Head, Small Head|Gold Dollar|1856||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1856||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1857||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1858||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1859||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1860||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1861||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1862||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1863||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1864||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1865||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1866||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1867||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1868||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1869||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1870||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1871||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1872||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1873||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1874||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1875||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1876||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1877||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1878||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1879||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1880||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1881||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1882||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1883||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1884||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1885||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1886||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1887||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1888||1|0
+
+Indian Princess Head, Large Head|Gold Dollar|1889||1|0
+
+Capped Bust To Right|Quarter Eagle|1796||1|0
+
+Capped Bust To Right|Quarter Eagle|1797||1|0
+
+Capped Bust To Right|Quarter Eagle|1798||1|0
+
+Capped Bust To Right|Quarter Eagle|1802||1|0
+
+Capped Bust To Right|Quarter Eagle|1804||1|0
+
+Capped Bust To Right|Quarter Eagle|1805||1|0
+
+Capped Bust To Right|Quarter Eagle|1806||1|0
+
+Capped Bust To Right|Quarter Eagle|1807||1|0
+
+Capped Bust To Left - Large Size|Quarter Eagle|1808||1|0
+
+Capped Bust To Left|Quarter Eagle|1821||1|0
+
+Capped Bust To Left|Quarter Eagle|1824||1|0
+
+Capped Bust To Left|Quarter Eagle|1825||1|0
+
+Capped Bust To Left|Quarter Eagle|1826||1|0
+
+Capped Bust To Left|Quarter Eagle|1827||1|0
+
+Capped Bust To Left|Quarter Eagle|1829||1|0
+
+Capped Bust To Left|Quarter Eagle|1830||1|0
+
+Capped Bust To Left|Quarter Eagle|1831||1|0
+
+Capped Bust To Left|Quarter Eagle|1832||1|0
+
+Capped Bust To Left|Quarter Eagle|1833||1|0
+
+Capped Bust To Left|Quarter Eagle|1834||1|0
+
+Classic Head - No Motto On Reverse|Quarter Eagle|1834||1|0
+
+Classic Head - No Motto On Reverse|Quarter Eagle|1835||1|0
+
+Classic Head - No Motto On Reverse|Quarter Eagle|1836||1|0
+
+Classic Head - No Motto On Reverse|Quarter Eagle|1837||1|0
+
+Classic Head - No Motto On Reverse|Quarter Eagle|1838||1|0
+
+Classic Head - No Motto On Reverse|Quarter Eagle|1839||1|0
+
+Liberty Head|Quarter Eagle|1840||1|0
+
+Liberty Head|Quarter Eagle|1841||1|0
+
+Liberty Head|Quarter Eagle|1842||1|0
+
+Liberty Head|Quarter Eagle|1843||1|0
+
+Liberty Head|Quarter Eagle|1844||1|0
+
+Liberty Head|Quarter Eagle|1845||1|0
+
+Liberty Head|Quarter Eagle|1846||1|0
+
+Liberty Head|Quarter Eagle|1847||1|0
+
+Liberty Head|Quarter Eagle|1848||1|0
+
+Liberty Head|Quarter Eagle|1849||1|0
+
+Liberty Head|Quarter Eagle|1850||1|0
+
+Liberty Head|Quarter Eagle|1851||1|0
+
+Liberty Head|Quarter Eagle|1852||1|0
+
+Liberty Head|Quarter Eagle|1853||1|0
+
+Liberty Head|Quarter Eagle|1854||1|0
+
+Liberty Head|Quarter Eagle|1855||1|0
+
+Liberty Head|Quarter Eagle|1856||1|0
+
+Liberty Head|Quarter Eagle|1857||1|0
+
+Liberty Head|Quarter Eagle|1858||1|0
+
+Liberty Head|Quarter Eagle|1859||1|0
+
+Liberty Head|Quarter Eagle|1860||1|0
+
+Liberty Head|Quarter Eagle|1861||1|0
+
+Liberty Head|Quarter Eagle|1862||1|0
+
+Liberty Head|Quarter Eagle|1863||1|0
+
+Liberty Head|Quarter Eagle|1864||1|0
+
+Liberty Head|Quarter Eagle|1865||1|0
+
+Liberty Head|Quarter Eagle|1866||1|0
+
+Liberty Head|Quarter Eagle|1867||1|0
+
+Liberty Head|Quarter Eagle|1868||1|0
+
+Liberty Head|Quarter Eagle|1869||1|0
+
+Liberty Head|Quarter Eagle|1870||1|0
+
+Liberty Head|Quarter Eagle|1871||1|0
+
+Liberty Head|Quarter Eagle|1872||1|0
+
+Liberty Head|Quarter Eagle|1873||1|0
+
+Liberty Head|Quarter Eagle|1874||1|0
+
+Liberty Head|Quarter Eagle|1875||1|0
+
+Liberty Head|Quarter Eagle|1876||1|0
+
+Liberty Head|Quarter Eagle|1877||1|0
+
+Liberty Head|Quarter Eagle|1878||1|0
+
+Liberty Head|Quarter Eagle|1879||1|0
+
+Liberty Head|Quarter Eagle|1880||1|0
+
+Liberty Head|Quarter Eagle|1881||1|0
+
+Liberty Head|Quarter Eagle|1882||1|0
+
+Liberty Head|Quarter Eagle|1883||1|0
+
+Liberty Head|Quarter Eagle|1884||1|0
+
+Liberty Head|Quarter Eagle|1885||1|0
+
+Liberty Head|Quarter Eagle|1886||1|0
+
+Liberty Head|Quarter Eagle|1887||1|0
+
+Liberty Head|Quarter Eagle|1888||1|0
+
+Liberty Head|Quarter Eagle|1889||1|0
+
+Liberty Head|Quarter Eagle|1890||1|0
+
+Liberty Head|Quarter Eagle|1891||1|0
+
+Liberty Head|Quarter Eagle|1892||1|0
+
+Liberty Head|Quarter Eagle|1893||1|0
+
+Liberty Head|Quarter Eagle|1894||1|0
+
+Liberty Head|Quarter Eagle|1895||1|0
+
+Liberty Head|Quarter Eagle|1896||1|0
+
+Liberty Head|Quarter Eagle|1897||1|0
+
+Liberty Head|Quarter Eagle|1898||1|0
+
+Liberty Head|Quarter Eagle|1899||1|0
+
+Liberty Head|Quarter Eagle|1900||1|0
+
+Liberty Head|Quarter Eagle|1901||1|0
+
+Liberty Head|Quarter Eagle|1902||1|0
+
+Liberty Head|Quarter Eagle|1903||1|0
+
+Liberty Head|Quarter Eagle|1904||1|0
+
+Liberty Head|Quarter Eagle|1905||1|0
+
+Liberty Head|Quarter Eagle|1906||1|0
+
+Liberty Head|Quarter Eagle|1907||1|0
+
+CAL. Gold Quarter Eagle|Quarter Eagle|1848||1|0
+
+Indian Head|Quarter Eagle|1908||1|0
+
+Indian Head|Quarter Eagle|1909||1|0
+
+Indian Head|Quarter Eagle|1910||1|0
+
+Indian Head|Quarter Eagle|1911||1|0
+
+Indian Head|Quarter Eagle|1912||1|0
+
+Indian Head|Quarter Eagle|1913||1|0
+
+Indian Head|Quarter Eagle|1914||1|0
+
+Indian Head|Quarter Eagle|1915||1|0
+
+Indian Head|Quarter Eagle|1925||1|0
+
+Indian Head|Quarter Eagle|1926||1|0
+
+Indian Head|Quarter Eagle|1927||1|0
+
+Indian Head|Quarter Eagle|1928||1|0
+
+Indian Head|Quarter Eagle|1929||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1854||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1855||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1856||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1857||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1858||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1859||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1860||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1861||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1862||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1863||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1864||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1865||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1866||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1867||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1868||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1869||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1870||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1871||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1872||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1873||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1874||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1875||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1876||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1877||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1878||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1879||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1880||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1881||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1882||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1883||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1884||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1885||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1886||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1887||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1888||1|0
+
+Three-Dollar Gold Piece|Three-Dollar Gold Piece|1889||1|0
+
+Stella|Four-Dollar Gold Piece|1879||1|0
+
+Stella|Four-Dollar Gold Piece|1880||1|0
+
+Capped Bust To Right|Half Eagle|1795|Small Eagle Reverse|1|0
+
+Capped Bust To Right|Half Eagle|1796|Small Eagle Reverse|1|0
+
+Capped Bust To Right|Half Eagle|1797|Small Eagle Reverse|1|0
+
+Capped Bust To Right|Half Eagle|1798|Small Eagle Reverse|1|0
+
+Capped Bust To Right|Half Eagle|1795|Heraldic Eagle Reverse|1|0
+
+Capped Bust To Right|Half Eagle|1797|Heraldic Eagle Reverse|1|0
+
+Capped Bust To Right|Half Eagle|1798|Heraldic Eagle Reverse|1|0
+
+Capped Bust To Right|Half Eagle|1799|Heraldic Eagle Reverse|1|0
+
+Capped Bust To Right|Half Eagle|1800|Heraldic Eagle Reverse|1|0
+
+Capped Bust To Right|Half Eagle|1802|Heraldic Eagle Reverse|1|0
+
+Capped Bust To Right|Half Eagle|1803|Heraldic Eagle Reverse|1|0
+
+Capped Bust To Right|Half Eagle|1804|Heraldic Eagle Reverse|1|0
+
+Capped Bust To Right|Half Eagle|1805|Heraldic Eagle Reverse|1|0
+
+Capped Bust To Right|Half Eagle|1806|Heraldic Eagle Reverse|1|0
+
+Capped Bust To Right|Half Eagle|1807|Heraldic Eagle Reverse|1|0
+
+Capped Bust To Left|Half Eagle|1807||1|0
+
+Capped Bust To Left|Half Eagle|1808||1|0
+
+Capped Bust To Left|Half Eagle|1809||1|0
+
+Capped Bust To Left|Half Eagle|1810||1|0
+
+Capped Bust To Left|Half Eagle|1811||1|0
+
+Capped Bust To Left|Half Eagle|1812||1|0
+
+Capped Head To Left|Half Eagle|1813|Large Diameter|1|0
+
+Capped Head To Left|Half Eagle|1814|Large Diameter|1|0
+
+Capped Head To Left|Half Eagle|1815|Large Diameter|1|0
+
+Capped Head To Left|Half Eagle|1818|Large Diameter|1|0
+
+Capped Head To Left|Half Eagle|1819|Large Diameter|1|0
+
+Capped Head To Left|Half Eagle|1820|Large Diameter|1|0
+
+Capped Head To Left|Half Eagle|1821|Large Diameter|1|0
+
+Capped Head To Left|Half Eagle|1822|Large Diameter|1|0
+
+Capped Head To Left|Half Eagle|1823|Large Diameter|1|0
+
+Capped Head To Left|Half Eagle|1824|Large Diameter|1|0
+
+Capped Head To Left|Half Eagle|1825|Large Diameter|1|0
+
+Capped Head To Left|Half Eagle|1826|Large Diameter|1|0
+
+Capped Head To Left|Half Eagle|1827|Large Diameter|1|0
+
+Capped Head To Left|Half Eagle|1828|Large Diameter|1|0
+
+Capped Head To Left|Half Eagle|1829|Large Diameter|1|0
+
+Capped Head To Left|Half Eagle|1829|Reduced Diameter|1|0
+
+Capped Head To Left|Half Eagle|1830|Reduced Diameter|1|0
+
+Capped Head To Left|Half Eagle|1831|Reduced Diameter|1|0
+
+Capped Head To Left|Half Eagle|1832|Reduced Diameter|1|0
+
+Capped Head To Left|Half Eagle|1833|Reduced Diameter|1|0
+
+Capped Head To Left|Half Eagle|1834|Reduced Diameter|1|0
+
+Classic Head|Half Eagle|1834||1|0
+
+Classic Head|Half Eagle|1835||1|0
+
+Classic Head|Half Eagle|1836||1|0
+
+Classic Head|Half Eagle|1837||1|0
+
+Classic Head|Half Eagle|1838||1|0
+
+Liberty Head|Half Eagle|1839|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1840|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1841|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1842|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1843|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1844|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1845|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1846|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1847|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1848|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1849|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1850|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1851|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1852|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1853|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1854|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1855|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1856|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1857|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1858|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1859|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1860|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1861|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1862|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1863|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1864|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1865|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1866|Variety 1 - No Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1866|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1867|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1868|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1869|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1870|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1871|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1872|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1873|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1874|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1875|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1876|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1877|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1878|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1879|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1880|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1881|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1882|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1883|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1884|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1885|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1886|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1887|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1888|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1889|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1890|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1891|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1892|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1893|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1894|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1895|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1896|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1897|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1898|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1899|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1900|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1901|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1902|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1903|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1904|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1905|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1906|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1907|Variety 2 - Motto Above Eagle|1|0
+
+Liberty Head|Half Eagle|1908|Variety 2 - Motto Above Eagle|1|0
+
+Indian Head|Half Eagle|1908||1|0
+
+Indian Head|Half Eagle|1909||1|0
+
+Indian Head|Half Eagle|1910||1|0
+
+Indian Head|Half Eagle|1911||1|0
+
+Indian Head|Half Eagle|1912||1|0
+
+Indian Head|Half Eagle|1913||1|0
+
+Indian Head|Half Eagle|1914||1|0
+
+Indian Head|Half Eagle|1915||1|0
+
+Indian Head|Half Eagle|1916||1|0
+
+Indian Head|Half Eagle|1929||1|0
+
+Capped Bust To Right|Eagle|1795|Small Eagle Reverse|1|0
+
+Capped Bust To Right|Eagle|1796|Small Eagle Reverse|1|0
+
+Capped Bust To Right|Eagle|1797|Small Eagle Reverse|1|0
+
+Capped Bust To Right|Eagle|1797|Heraldic Eagle Reverse|1|0
+
+Capped Bust To Right|Eagle|1798|Heraldic Eagle Reverse|1|0
+
+Capped Bust To Right|Eagle|1799|Heraldic Eagle Reverse|1|0
+
+Capped Bust To Right|Eagle|1800|Heraldic Eagle Reverse|1|0
+
+Capped Bust To Right|Eagle|1801|Heraldic Eagle Reverse|1|0
+
+Capped Bust To Right|Eagle|1803|Heraldic Eagle Reverse|1|0
+
+Capped Bust To Right|Eagle|1804|Heraldic Eagle Reverse|1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1838||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1839||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1840||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1841||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1842||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1843||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1844||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1845||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1846||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1847||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1848||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1849||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1850||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1851||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1852||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1853||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1854||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1855||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1856||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1857||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1858||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1859||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1860||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1861||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1862||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1863||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1864||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1865||1|0
+
+Liberty Head, No Motto Above Eagle|Eagle|1866||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1866||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1867||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1868||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1869||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1870||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1871||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1872||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1873||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1874||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1875||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1876||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1877||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1878||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1879||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1880||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1881||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1882||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1883||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1884||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1885||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1886||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1887||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1888||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1889||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1890||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1891||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1892||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1893||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1894||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1895||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1896||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1897||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1898||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1899||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1900||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1901||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1902||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1903||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1904||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1905||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1906||1|0
+
+Liberty Head, Motto Above Eagle|Eagle|1907||1|0
+
+Indian Head|Eagle|1907|Variety 1 - No Motto|1|0
+
+Indian Head|Eagle|1908|Variety 1 - No Motto|1|0
+
+Indian Head|Eagle|1908|Variety 2 - Motto on Reverse|1|0
+
+Indian Head|Eagle|1909|Variety 2 - Motto on Reverse|1|0
+
+Indian Head|Eagle|1910|Variety 2 - Motto on Reverse|1|0
+
+Indian Head|Eagle|1911|Variety 2 - Motto on Reverse|1|0
+
+Indian Head|Eagle|1912|Variety 2 - Motto on Reverse|1|0
+
+Indian Head|Eagle|1913|Variety 2 - Motto on Reverse|1|0
+
+Indian Head|Eagle|1914|Variety 2 - Motto on Reverse|1|0
+
+Indian Head|Eagle|1915|Variety 2 - Motto on Reverse|1|0
+
+Indian Head|Eagle|1916|Variety 2 - Motto on Reverse|1|0
+
+Indian Head|Eagle|1920|Variety 2 - Motto on Reverse|1|0
+
+Indian Head|Eagle|1926|Variety 2 - Motto on Reverse|1|0
+
+Indian Head|Eagle|1930|Variety 2 - Motto on Reverse|1|0
+
+Indian Head|Eagle|1932|Variety 2 - Motto on Reverse|1|0
+
+Indian Head|Eagle|1933|Variety 2 - Motto on Reverse|1|0
+
+Liberty Head|Double Eagle|1849|Without Motto on Reverse|1|0
+
+Liberty Head|Double Eagle|1850|Without Motto on Reverse|1|0
+
+Liberty Head|Double Eagle|1851|Without Motto on Reverse|1|0
+
+Liberty Head|Double Eagle|1852|Without Motto on Reverse|1|0
+
+Liberty Head|Double Eagle|1853|Without Motto on Reverse|1|0
+
+Liberty Head|Double Eagle|1854|Without Motto on Reverse|1|0
+
+Liberty Head|Double Eagle|1855|Without Motto on Reverse|1|0
+
+Liberty Head|Double Eagle|1856|Without Motto on Reverse|1|0
+
+Liberty Head|Double Eagle|1857|Without Motto on Reverse|1|0
+
+Liberty Head|Double Eagle|1858|Without Motto on Reverse|1|0
+
+Liberty Head|Double Eagle|1859|Without Motto on Reverse|1|0
+
+Liberty Head|Double Eagle|1860|Without Motto on Reverse|1|0
+
+Liberty Head|Double Eagle|1861|Without Motto on Reverse|1|0
+
+Liberty Head|Double Eagle|1862|Without Motto on Reverse|1|0
+
+Liberty Head|Double Eagle|1863|Without Motto on Reverse|1|0
+
+Liberty Head|Double Eagle|1864|Without Motto on Reverse|1|0
+
+Liberty Head|Double Eagle|1865|Without Motto on Reverse|1|0
+
+Liberty Head|Double Eagle|1866|Without Motto on Reverse|1|0
+
+Liberty Head|Double Eagle|1866|Motto Above Eagle - Value TWENTY D|1|0
+
+Liberty Head|Double Eagle|1867|Motto Above Eagle - Value TWENTY D|1|0
+
+Liberty Head|Double Eagle|1868|Motto Above Eagle - Value TWENTY D|1|0
+
+Liberty Head|Double Eagle|1869|Motto Above Eagle - Value TWENTY D|1|0
+
+Liberty Head|Double Eagle|1870|Motto Above Eagle - Value TWENTY D|1|0
+
+Liberty Head|Double Eagle|1871|Motto Above Eagle - Value TWENTY D|1|0
+
+Liberty Head|Double Eagle|1872|Motto Above Eagle - Value TWENTY D|1|0
+
+Liberty Head|Double Eagle|1873|Motto Above Eagle - Value TWENTY D|1|0
+
+Liberty Head|Double Eagle|1874|Motto Above Eagle - Value TWENTY D|1|0
+
+Liberty Head|Double Eagle|1875|Motto Above Eagle - Value TWENTY D|1|0
+
+Liberty Head|Double Eagle|1876|Motto Above Eagle - Value TWENTY D|1|0
+
+Liberty Head|Double Eagle|1877|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1878|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1879|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1880|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1881|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1882|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1883|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1884|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1885|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1886|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1887|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1888|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1889|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1890|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1891|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1892|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1893|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1894|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1895|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1896|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1897|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1898|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1899|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1900|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1901|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1902|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1903|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1904|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1905|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1906|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Liberty Head|Double Eagle|1907|Motto Above Eagle - Value TWENTY DOLLARS|1|0
+
+Saint-Gaudens|Double Eagle|1907|Without Motto IN GOD WE TRUST|1|0
+
+Saint-Gaudens|Double Eagle|1907|Arabic Numerals, No Motto|1|0
+
+Saint-Gaudens|Double Eagle|1908|Arabic Numerals, No Motto|1|0
+
+Saint-Gaudens|Double Eagle|1909|Arabic Numerals, No Motto|1|0
+
+Saint-Gaudens|Double Eagle|1910|Arabic Numerals, No Motto|1|0
+
+Saint-Gaudens|Double Eagle|1911|Arabic Numerals, No Motto|1|0
+
+Saint-Gaudens|Double Eagle|1912|Arabic Numerals, No Motto|1|0
+
+Saint-Gaudens|Double Eagle|1913|Arabic Numerals, No Motto|1|0
+
+Saint-Gaudens|Double Eagle|1914|Arabic Numerals, No Motto|1|0
+
+Saint-Gaudens|Double Eagle|1915|Arabic Numerals, No Motto|1|0
+
+Saint-Gaudens|Double Eagle|1916|Arabic Numerals, No Motto|1|0
+
+Saint-Gaudens|Double Eagle|1920|Arabic Numerals, No Motto|1|0
+
+Saint-Gaudens|Double Eagle|1921|Arabic Numerals, No Motto|1|0
+
+Saint-Gaudens|Double Eagle|1922|Arabic Numerals, No Motto|1|0
+
+Saint-Gaudens|Double Eagle|1923|Arabic Numerals, No Motto|1|0
+
+Saint-Gaudens|Double Eagle|1924|Arabic Numerals, No Motto|1|0
+
+Saint-Gaudens|Double Eagle|1925|Arabic Numerals, No Motto|1|0
+
+Saint-Gaudens|Double Eagle|1926|Arabic Numerals, No Motto|1|0
+
+Saint-Gaudens|Double Eagle|1927|Arabic Numerals, No Motto|1|0
+
+Saint-Gaudens|Double Eagle|1928|Arabic Numerals, No Motto|1|0
+
+Saint-Gaudens|Double Eagle|1929|Arabic Numerals, No Motto|1|0
+
+Saint-Gaudens|Double Eagle|1930|Arabic Numerals, No Motto|1|0
+
+Saint-Gaudens|Double Eagle|1931|Arabic Numerals, No Motto|1|0
+
+Saint-Gaudens|Double Eagle|1932|Arabic Numerals, No Motto|1|0
+
+Saint-Gaudens|Double Eagle|1933|Arabic Numerals, No Motto|1|0
+
+World's Columbian Exposition Half Dollar|Classic Commemoratives|1892||0|1
+
+World's Columbian Exposition Half Dollar|Classic Commemoratives|1893||0|1
+
+World's Columbian Exposition - Isabella Quarter Dollar|Classic Commemoratives|1893||0|1
+
+Lafayette Dollar|Classic Commemoratives|1900||0|1
+
+Sommer Islands (Bermuda)|British New World Issues|1616||0|0

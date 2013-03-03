@@ -1,0 +1,5 @@
+COIN|DENOMINATION|YEAR|ADDITIONAL_INFO|KM_NUMBER|IS_GOLD|IS_SILVER
+
+Franz Joseph I Standing|100 Korona|1907||491|1|0
+
+Franz Joseph I Standing|100 Korona|1908||491|1|0
